@@ -1,0 +1,24 @@
+﻿protein_id,Gene,Position,Product,Functions
+CAM00053.1,,778214 - 778594 (+),putative erythromycin esterase,Other
+CAM00054.1,eryK,778654 - 779847 (+),cytochrome P450 Erythromycin B/D C-12 hydroxylase,Tailoring (Hydroxylation)
+CAM00055.1,eryBVII,779802 - 780404 (-),dTDP-4-deoxyglucose 3,Precursor biosynthesis
+CAM00056.1,eryCV,780412 - 781881 (-),"EryCV NDP-4,6-dideoxyhexose 3,4-enoyl reductase",Precursor biosynthesis
+CAM00057.1,eryCIV,781919 - 783124 (-),"	eryCIV NDP-6-deoxyhexose 3,4-dehydratase",Precursor biosynthesis
+CAM00058.1,eryBVI,783121 - 784584 (-),"NDP-4-keto-6-deoxy-glucose 2,3-dehydratase",Precursor biosynthesis
+CAM00059.1,eryCVI,784738 - 785451 (-),TDP-desosamine-N-dimethyltransferase,Precursor biosynthesis
+CAM00060.1,eryBV,785504 - 786751 (-),6-DEB TDP-mycarosyl glycosyltransferase,Tailoring (Glycosylation)
+CAM00061.1,eryBIV,786751 - 787719 (-),dTDP-4-keto-6-deoxy-L-hexose 4-reductase,Precursor biosynthesis
+CAM00062.1,eryAI,787944 - 798581 (+),EryAI Erythromycin polyketide synthase modules 1 and 2,Scaffold biosynthesis
+CAM00063.1,,798638 - 799849 (-),transposase,Other
+CAM00064.1,eryAII,800023 - 810726 (+),EryAII Erythromycin polyketide synthase modules 3 and 4,Scaffold biosynthesis
+CAM00065.1,eryAIII,810727 - 820242 (+),EryAIII Erythromycin polyketide synthase modules 5 and 6,Scaffold biosynthesis
+CAM00066.1,eryCII,820239 - 821324 (+),"TDP-4-keto-6-deoxy-glucose 3,4-isomerase",Precursor biosynthesis
+CAM00067.1,eryCIII,821335 - 822600 (+),"glycosyl transferase, NDP-D-desosamine : 3-L-mycarosyl erythronolide B",Tailoring (Glycosylation)
+CAM00068.1,eryBII,822597 - 823598 (+),"TDP-4-keto-6-deoxy-glucose 3,4-isomerase",Precursor biosynthesis
+CAM00069.1,eryG,823630 - 824550 (+),erythromycin C methlytransferase,Tailoring (Methylation)
+CAM00070.1,,824527 - 825270 (-),"thioesterase, erythromycin biosynthesis",Activation / Processing
+CAM00071.1,eryF,825267 - 826481 (-),6-deoxyerythronolide B hydroxylase (6-DEB hydroxylase),Tailoring (Hydroxylation)
+CAM00072.1,eryBIII,826478 - 827710 (-),"eryBIII NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase",Precursor biosynthesis
+CAM00073.1,eryBI,827912 - 830338 (+),beta-D-glucosidase,Other
+CAM00074.1,ermE,830393 - 831538 (-),N-6-aminoadenine-N-methyltransferase,Resistance/Immunity
+CAM00075.1,eryCI,831725 - 832825 (+),Erythromycin biosynthesis transaminase EryCI,Precursor biosynthesis
