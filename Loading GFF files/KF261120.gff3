@@ -1,0 +1,973 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region KF261120.1 1 374041
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1394979
+KF261120.1	Genbank	region	1	374041	.	+	.	ID=KF261120.1:1..374041;Dbxref=taxon:1394979;Is_circular=true;collection-date=Feb-2008;country=France: Cannes;gbkey=Src;isolate=Cannes8;isolation-source=water from a cooling tower;mol_type=genomic DNA;nat-host=Acanthamoeba castellanii
+KF261120.1	Genbank	gene	1	747	.	-	.	ID=gene-C8_1;Name=C8_1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_1
+KF261120.1	Genbank	CDS	1	747	.	-	0	ID=cds-AGV01350.1;Parent=gene-C8_1;Dbxref=NCBI_GP:AGV01350.1;Name=AGV01350.1;gbkey=CDS;locus_tag=C8_1;product=hypothetical protein;protein_id=AGV01350.1
+KF261120.1	Genbank	gene	854	1510	.	-	.	ID=gene-C8_2;Name=C8_2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_2
+KF261120.1	Genbank	CDS	854	1510	.	-	0	ID=cds-AGV01351.1;Parent=gene-C8_2;Dbxref=NCBI_GP:AGV01351.1;Name=AGV01351.1;gbkey=CDS;locus_tag=C8_2;product=hypothetical protein;protein_id=AGV01351.1
+KF261120.1	Genbank	gene	1658	2422	.	-	.	ID=gene-C8_3;Name=C8_3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_3
+KF261120.1	Genbank	CDS	1658	2422	.	-	0	ID=cds-AGV01352.1;Parent=gene-C8_3;Dbxref=NCBI_GP:AGV01352.1;Name=AGV01352.1;gbkey=CDS;locus_tag=C8_3;product=hypothetical protein;protein_id=AGV01352.1
+KF261120.1	Genbank	gene	2445	2918	.	-	.	ID=gene-C8_4;Name=C8_4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_4
+KF261120.1	Genbank	CDS	2445	2918	.	-	0	ID=cds-AGV01353.1;Parent=gene-C8_4;Dbxref=NCBI_GP:AGV01353.1;Name=AGV01353.1;gbkey=CDS;locus_tag=C8_4;product=hypothetical protein;protein_id=AGV01353.1
+KF261120.1	Genbank	gene	2950	3234	.	-	.	ID=gene-C8_5;Name=C8_5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_5
+KF261120.1	Genbank	CDS	2950	3234	.	-	0	ID=cds-AGV01354.1;Parent=gene-C8_5;Dbxref=NCBI_GP:AGV01354.1;Name=AGV01354.1;gbkey=CDS;locus_tag=C8_5;product=hypothetical protein;protein_id=AGV01354.1
+KF261120.1	Genbank	gene	3273	3749	.	-	.	ID=gene-C8_6;Name=C8_6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_6
+KF261120.1	Genbank	CDS	3273	3749	.	-	0	ID=cds-AGV01355.1;Parent=gene-C8_6;Dbxref=NCBI_GP:AGV01355.1;Name=AGV01355.1;gbkey=CDS;locus_tag=C8_6;product=hypothetical protein;protein_id=AGV01355.1
+KF261120.1	Genbank	gene	3783	4184	.	-	.	ID=gene-C8_7;Name=C8_7;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_7
+KF261120.1	Genbank	CDS	3783	4184	.	-	0	ID=cds-AGV01356.1;Parent=gene-C8_7;Dbxref=NCBI_GP:AGV01356.1;Name=AGV01356.1;gbkey=CDS;locus_tag=C8_7;product=hypothetical protein;protein_id=AGV01356.1
+KF261120.1	Genbank	gene	4218	4469	.	-	.	ID=gene-C8_8;Name=C8_8;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_8
+KF261120.1	Genbank	CDS	4218	4469	.	-	0	ID=cds-AGV01357.1;Parent=gene-C8_8;Dbxref=NCBI_GP:AGV01357.1;Name=AGV01357.1;gbkey=CDS;locus_tag=C8_8;product=hypothetical protein;protein_id=AGV01357.1
+KF261120.1	Genbank	gene	4486	4953	.	-	.	ID=gene-C8_9;Name=C8_9;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_9
+KF261120.1	Genbank	CDS	4486	4953	.	-	0	ID=cds-AGV01358.1;Parent=gene-C8_9;Dbxref=NCBI_GP:AGV01358.1;Name=AGV01358.1;gbkey=CDS;locus_tag=C8_9;product=hypothetical protein;protein_id=AGV01358.1
+KF261120.1	Genbank	gene	4984	5205	.	-	.	ID=gene-C8_10;Name=C8_10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_10
+KF261120.1	Genbank	CDS	4984	5205	.	-	0	ID=cds-AGV01359.1;Parent=gene-C8_10;Dbxref=NCBI_GP:AGV01359.1;Name=AGV01359.1;gbkey=CDS;locus_tag=C8_10;product=hypothetical protein;protein_id=AGV01359.1
+KF261120.1	Genbank	gene	5209	5502	.	-	.	ID=gene-C8_11;Name=C8_11;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_11
+KF261120.1	Genbank	CDS	5209	5502	.	-	0	ID=cds-AGV01360.1;Parent=gene-C8_11;Dbxref=NCBI_GP:AGV01360.1;Name=AGV01360.1;gbkey=CDS;locus_tag=C8_11;product=hypothetical protein;protein_id=AGV01360.1
+KF261120.1	Genbank	gene	5506	5949	.	-	.	ID=gene-C8_12;Name=C8_12;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_12
+KF261120.1	Genbank	CDS	5506	5949	.	-	0	ID=cds-AGV01361.1;Parent=gene-C8_12;Dbxref=NCBI_GP:AGV01361.1;Name=AGV01361.1;gbkey=CDS;locus_tag=C8_12;product=hypothetical protein;protein_id=AGV01361.1
+KF261120.1	Genbank	gene	6034	6429	.	+	.	ID=gene-C8_13;Name=C8_13;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_13
+KF261120.1	Genbank	CDS	6034	6429	.	+	0	ID=cds-AGV01362.1;Parent=gene-C8_13;Dbxref=NCBI_GP:AGV01362.1;Name=AGV01362.1;gbkey=CDS;locus_tag=C8_13;product=hypothetical protein;protein_id=AGV01362.1
+KF261120.1	Genbank	gene	6458	6661	.	+	.	ID=gene-C8_14;Name=C8_14;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_14
+KF261120.1	Genbank	CDS	6458	6661	.	+	0	ID=cds-AGV01363.1;Parent=gene-C8_14;Dbxref=NCBI_GP:AGV01363.1;Name=AGV01363.1;gbkey=CDS;locus_tag=C8_14;product=hypothetical protein;protein_id=AGV01363.1
+KF261120.1	Genbank	gene	6658	6891	.	-	.	ID=gene-C8_15;Name=C8_15;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_15
+KF261120.1	Genbank	CDS	6658	6891	.	-	0	ID=cds-AGV01364.1;Parent=gene-C8_15;Dbxref=NCBI_GP:AGV01364.1;Name=AGV01364.1;gbkey=CDS;locus_tag=C8_15;product=truncated dUTPase;protein_id=AGV01364.1
+KF261120.1	Genbank	gene	6930	7559	.	+	.	ID=gene-C8_16;Name=C8_16;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_16
+KF261120.1	Genbank	CDS	6930	7559	.	+	0	ID=cds-AGV01365.1;Parent=gene-C8_16;Dbxref=NCBI_GP:AGV01365.1;Name=AGV01365.1;gbkey=CDS;locus_tag=C8_16;product=hypothetical protein;protein_id=AGV01365.1
+KF261120.1	Genbank	gene	7601	8488	.	+	.	ID=gene-C8_17;Name=C8_17;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_17
+KF261120.1	Genbank	CDS	7601	8488	.	+	0	ID=cds-AGV01366.1;Parent=gene-C8_17;Dbxref=NCBI_GP:AGV01366.1;Name=AGV01366.1;gbkey=CDS;locus_tag=C8_17;product=Dam-like adenine-specific DNA methylase;protein_id=AGV01366.1
+KF261120.1	Genbank	gene	8520	9431	.	+	.	ID=gene-C8_18;Name=C8_18;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_18
+KF261120.1	Genbank	CDS	8520	9431	.	+	0	ID=cds-AGV01367.1;Parent=gene-C8_18;Dbxref=NCBI_GP:AGV01367.1;Name=AGV01367.1;gbkey=CDS;locus_tag=C8_18;product=hypothetical protein;protein_id=AGV01367.1
+KF261120.1	Genbank	gene	9464	10192	.	-	.	ID=gene-C8_19;Name=C8_19;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_19
+KF261120.1	Genbank	CDS	9464	10192	.	-	0	ID=cds-AGV01368.1;Parent=gene-C8_19;Dbxref=NCBI_GP:AGV01368.1;Name=AGV01368.1;gbkey=CDS;locus_tag=C8_19;product=F-box containing protein;protein_id=AGV01368.1
+KF261120.1	Genbank	gene	10261	10608	.	-	.	ID=gene-C8_20;Name=C8_20;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_20
+KF261120.1	Genbank	CDS	10261	10608	.	-	0	ID=cds-AGV01369.1;Parent=gene-C8_20;Dbxref=NCBI_GP:AGV01369.1;Name=AGV01369.1;gbkey=CDS;locus_tag=C8_20;product=hypothetical protein;protein_id=AGV01369.1
+KF261120.1	Genbank	gene	10638	10934	.	-	.	ID=gene-C8_21;Name=C8_21;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_21
+KF261120.1	Genbank	CDS	10638	10934	.	-	0	ID=cds-AGV01370.1;Parent=gene-C8_21;Dbxref=NCBI_GP:AGV01370.1;Name=AGV01370.1;gbkey=CDS;locus_tag=C8_21;product=putative bacterial protein;protein_id=AGV01370.1
+KF261120.1	Genbank	gene	10950	11375	.	-	.	ID=gene-C8_22;Name=C8_22;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_22
+KF261120.1	Genbank	CDS	10950	11375	.	-	0	ID=cds-AGV01371.1;Parent=gene-C8_22;Dbxref=NCBI_GP:AGV01371.1;Name=AGV01371.1;gbkey=CDS;locus_tag=C8_22;product=hypothetical protein;protein_id=AGV01371.1
+KF261120.1	Genbank	gene	11370	15290	.	+	.	ID=gene-C8_23;Name=C8_23;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_23
+KF261120.1	Genbank	CDS	11370	15290	.	+	0	ID=cds-AGV01372.1;Parent=gene-C8_23;Dbxref=NCBI_GP:AGV01372.1;Name=AGV01372.1;gbkey=CDS;locus_tag=C8_23;product=DNA-directed RNA polymerase subunit beta;protein_id=AGV01372.1
+KF261120.1	Genbank	gene	15420	16631	.	+	.	ID=gene-C8_24;Name=C8_24;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_24
+KF261120.1	Genbank	CDS	15420	16631	.	+	0	ID=cds-AGV01373.1;Parent=gene-C8_24;Dbxref=NCBI_GP:AGV01373.1;Name=AGV01373.1;gbkey=CDS;locus_tag=C8_24;product=hypothetical protein;protein_id=AGV01373.1
+KF261120.1	Genbank	gene	16628	17200	.	+	.	ID=gene-C8_25;Name=C8_25;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_25
+KF261120.1	Genbank	CDS	16628	17200	.	+	0	ID=cds-AGV01374.1;Parent=gene-C8_25;Dbxref=NCBI_GP:AGV01374.1;Name=AGV01374.1;gbkey=CDS;locus_tag=C8_25;product=hypothetical protein;protein_id=AGV01374.1
+KF261120.1	Genbank	gene	17326	18510	.	-	.	ID=gene-C8_26;Name=C8_26;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_26
+KF261120.1	Genbank	CDS	17326	18510	.	-	0	ID=cds-AGV01375.1;Parent=gene-C8_26;Dbxref=NCBI_GP:AGV01375.1;Name=AGV01375.1;gbkey=CDS;locus_tag=C8_26;product=hypothetical protein;protein_id=AGV01375.1
+KF261120.1	Genbank	gene	18537	19334	.	-	.	ID=gene-C8_27;Name=C8_27;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_27
+KF261120.1	Genbank	CDS	18537	19334	.	-	0	ID=cds-AGV01376.1;Parent=gene-C8_27;Dbxref=NCBI_GP:AGV01376.1;Name=AGV01376.1;Note=similar to hypothetical protein PBCV1 A540L;gbkey=CDS;locus_tag=C8_27;product=hypothetical protein;protein_id=AGV01376.1
+KF261120.1	Genbank	gene	19369	19803	.	+	.	ID=gene-C8_28;Name=C8_28;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_28
+KF261120.1	Genbank	CDS	19369	19803	.	+	0	ID=cds-AGV01377.1;Parent=gene-C8_28;Dbxref=NCBI_GP:AGV01377.1;Name=AGV01377.1;gbkey=CDS;locus_tag=C8_28;product=hypothetical protein;protein_id=AGV01377.1
+KF261120.1	Genbank	gene	19852	20580	.	+	.	ID=gene-C8_29;Name=C8_29;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_29
+KF261120.1	Genbank	CDS	19852	20580	.	+	0	ID=cds-AGV01378.1;Parent=gene-C8_29;Dbxref=NCBI_GP:AGV01378.1;Name=AGV01378.1;gbkey=CDS;locus_tag=C8_29;product=F-box containing protein;protein_id=AGV01378.1
+KF261120.1	Genbank	gene	20674	21972	.	+	.	ID=gene-C8_30;Name=C8_30;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_30
+KF261120.1	Genbank	CDS	20674	21972	.	+	0	ID=cds-AGV01379.1;Parent=gene-C8_30;Dbxref=NCBI_GP:AGV01379.1;Name=AGV01379.1;gbkey=CDS;locus_tag=C8_30;product=restriction endonuclease;protein_id=AGV01379.1
+KF261120.1	Genbank	gene	22058	22390	.	-	.	ID=gene-C8_31;Name=C8_31;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_31
+KF261120.1	Genbank	CDS	22058	22390	.	-	0	ID=cds-AGV01380.1;Parent=gene-C8_31;Dbxref=NCBI_GP:AGV01380.1;Name=AGV01380.1;gbkey=CDS;locus_tag=C8_31;product=hypothetical protein;protein_id=AGV01380.1
+KF261120.1	Genbank	gene	22449	22643	.	-	.	ID=gene-C8_32;Name=C8_32;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_32
+KF261120.1	Genbank	CDS	22449	22643	.	-	0	ID=cds-AGV01381.1;Parent=gene-C8_32;Dbxref=NCBI_GP:AGV01381.1;Name=AGV01381.1;gbkey=CDS;locus_tag=C8_32;product=hypothetical protein;protein_id=AGV01381.1
+KF261120.1	Genbank	gene	22770	23390	.	-	.	ID=gene-C8_33;Name=C8_33;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_33
+KF261120.1	Genbank	CDS	22770	23390	.	-	0	ID=cds-AGV01382.1;Parent=gene-C8_33;Dbxref=NCBI_GP:AGV01382.1;Name=AGV01382.1;gbkey=CDS;locus_tag=C8_33;product=hypothetical protein;protein_id=AGV01382.1
+KF261120.1	Genbank	gene	23455	24024	.	-	.	ID=gene-C8_34;Name=C8_34;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_34
+KF261120.1	Genbank	CDS	23455	24024	.	-	0	ID=cds-AGV01383.1;Parent=gene-C8_34;Dbxref=NCBI_GP:AGV01383.1;Name=AGV01383.1;gbkey=CDS;locus_tag=C8_34;product=hypothetical protein;protein_id=AGV01383.1
+KF261120.1	Genbank	gene	24054	24314	.	-	.	ID=gene-C8_35;Name=C8_35;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_35
+KF261120.1	Genbank	CDS	24054	24314	.	-	0	ID=cds-AGV01384.1;Parent=gene-C8_35;Dbxref=NCBI_GP:AGV01384.1;Name=AGV01384.1;gbkey=CDS;locus_tag=C8_35;product=MORN repeat-containing protein;protein_id=AGV01384.1
+KF261120.1	Genbank	gene	24332	25192	.	+	.	ID=gene-C8_36;Name=C8_36;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_36
+KF261120.1	Genbank	CDS	24332	25192	.	+	0	ID=cds-AGV01385.1;Parent=gene-C8_36;Dbxref=NCBI_GP:AGV01385.1;Name=AGV01385.1;gbkey=CDS;locus_tag=C8_36;product=hypothetical protein;protein_id=AGV01385.1
+KF261120.1	Genbank	gene	25422	25943	.	-	.	ID=gene-C8_37;Name=C8_37;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_37
+KF261120.1	Genbank	CDS	25422	25943	.	-	0	ID=cds-AGV01386.1;Parent=gene-C8_37;Dbxref=NCBI_GP:AGV01386.1;Name=AGV01386.1;gbkey=CDS;locus_tag=C8_37;product=hypothetical protein;protein_id=AGV01386.1
+KF261120.1	Genbank	gene	25970	27553	.	+	.	ID=gene-C8_38;Name=C8_38;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_38
+KF261120.1	Genbank	CDS	25970	27553	.	+	0	ID=cds-AGV01387.1;Parent=gene-C8_38;Dbxref=NCBI_GP:AGV01387.1;Name=AGV01387.1;gbkey=CDS;locus_tag=C8_38;product=hypothetical protein;protein_id=AGV01387.1
+KF261120.1	Genbank	gene	27884	28165	.	-	.	ID=gene-C8_39;Name=C8_39;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_39
+KF261120.1	Genbank	CDS	27884	28165	.	-	0	ID=cds-AGV01388.1;Parent=gene-C8_39;Dbxref=NCBI_GP:AGV01388.1;Name=AGV01388.1;gbkey=CDS;locus_tag=C8_39;product=hypothetical protein;protein_id=AGV01388.1
+KF261120.1	Genbank	gene	28252	30672	.	+	.	ID=gene-C8_40;Name=C8_40;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_40
+KF261120.1	Genbank	CDS	28252	30672	.	+	0	ID=cds-AGV01389.1;Parent=gene-C8_40;Dbxref=NCBI_GP:AGV01389.1;Name=AGV01389.1;gbkey=CDS;locus_tag=C8_40;product=D5-like helicase-primase;protein_id=AGV01389.1
+KF261120.1	Genbank	gene	30910	31449	.	-	.	ID=gene-C8_41;Name=C8_41;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_41
+KF261120.1	Genbank	CDS	30910	31449	.	-	0	ID=cds-AGV01390.1;Parent=gene-C8_41;Dbxref=NCBI_GP:AGV01390.1;Name=AGV01390.1;gbkey=CDS;locus_tag=C8_41;product=hypothetical protein;protein_id=AGV01390.1
+KF261120.1	Genbank	gene	31535	31789	.	+	.	ID=gene-C8_42;Name=C8_42;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_42
+KF261120.1	Genbank	CDS	31535	31789	.	+	0	ID=cds-AGV01391.1;Parent=gene-C8_42;Dbxref=NCBI_GP:AGV01391.1;Name=AGV01391.1;gbkey=CDS;locus_tag=C8_42;product=hypothetical protein;protein_id=AGV01391.1
+KF261120.1	Genbank	gene	31819	32121	.	-	.	ID=gene-C8_43;Name=C8_43;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_43
+KF261120.1	Genbank	CDS	31819	32121	.	-	0	ID=cds-AGV01392.1;Parent=gene-C8_43;Dbxref=NCBI_GP:AGV01392.1;Name=AGV01392.1;gbkey=CDS;locus_tag=C8_43;product=hypothetical protein;protein_id=AGV01392.1
+KF261120.1	Genbank	gene	32196	33257	.	+	.	ID=gene-C8_44;Name=C8_44;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_44
+KF261120.1	Genbank	CDS	32196	33257	.	+	0	ID=cds-AGV01393.1;Parent=gene-C8_44;Dbxref=NCBI_GP:AGV01393.1;Name=AGV01393.1;gbkey=CDS;locus_tag=C8_44;product=restriction endonuclease;protein_id=AGV01393.1
+KF261120.1	Genbank	gene	33527	34201	.	+	.	ID=gene-C8_45;Name=C8_45;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_45
+KF261120.1	Genbank	CDS	33527	34201	.	+	0	ID=cds-AGV01394.1;Parent=gene-C8_45;Dbxref=NCBI_GP:AGV01394.1;Name=AGV01394.1;gbkey=CDS;locus_tag=C8_45;product=F-box containing protein;protein_id=AGV01394.1
+KF261120.1	Genbank	gene	34222	34725	.	-	.	ID=gene-C8_46;Name=C8_46;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_46
+KF261120.1	Genbank	CDS	34222	34725	.	-	0	ID=cds-AGV01395.1;Parent=gene-C8_46;Dbxref=NCBI_GP:AGV01395.1;Name=AGV01395.1;gbkey=CDS;locus_tag=C8_46;product=hypothetical protein;protein_id=AGV01395.1
+KF261120.1	Genbank	gene	34706	35884	.	-	.	ID=gene-C8_47;Name=C8_47;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_47
+KF261120.1	Genbank	CDS	34706	35884	.	-	0	ID=cds-AGV01396.1;Parent=gene-C8_47;Dbxref=NCBI_GP:AGV01396.1;Name=AGV01396.1;gbkey=CDS;locus_tag=C8_47;product=hypothetical protein;protein_id=AGV01396.1
+KF261120.1	Genbank	gene	35911	37059	.	-	.	ID=gene-C8_48;Name=C8_48;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_48
+KF261120.1	Genbank	CDS	35911	37059	.	-	0	ID=cds-AGV01397.1;Parent=gene-C8_48;Dbxref=NCBI_GP:AGV01397.1;Name=AGV01397.1;gbkey=CDS;locus_tag=C8_48;product=low complexity HA-like repeat protein;protein_id=AGV01397.1
+KF261120.1	Genbank	gene	37192	37623	.	+	.	ID=gene-C8_49;Name=C8_49;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_49
+KF261120.1	Genbank	CDS	37192	37623	.	+	0	ID=cds-AGV01398.1;Parent=gene-C8_49;Dbxref=NCBI_GP:AGV01398.1;Name=AGV01398.1;gbkey=CDS;locus_tag=C8_49;product=hypothetical protein;protein_id=AGV01398.1
+KF261120.1	Genbank	gene	37988	38587	.	-	.	ID=gene-C8_50;Name=C8_50;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_50
+KF261120.1	Genbank	CDS	37988	38587	.	-	0	ID=cds-AGV01399.1;Parent=gene-C8_50;Dbxref=NCBI_GP:AGV01399.1;Name=AGV01399.1;gbkey=CDS;locus_tag=C8_50;product=hypothetical protein;protein_id=AGV01399.1
+KF261120.1	Genbank	gene	39102	39707	.	+	.	ID=gene-C8_51;Name=C8_51;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_51
+KF261120.1	Genbank	CDS	39102	39707	.	+	0	ID=cds-AGV01400.1;Parent=gene-C8_51;Dbxref=NCBI_GP:AGV01400.1;Name=AGV01400.1;gbkey=CDS;locus_tag=C8_51;product=hypothetical protein;protein_id=AGV01400.1
+KF261120.1	Genbank	gene	39685	40443	.	+	.	ID=gene-C8_52;Name=C8_52;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_52
+KF261120.1	Genbank	CDS	39685	40443	.	+	0	ID=cds-AGV01401.1;Parent=gene-C8_52;Dbxref=NCBI_GP:AGV01401.1;Name=AGV01401.1;gbkey=CDS;locus_tag=C8_52;product=hypothetical protein;protein_id=AGV01401.1
+KF261120.1	Genbank	gene	40835	41152	.	+	.	ID=gene-C8_53;Name=C8_53;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_53
+KF261120.1	Genbank	CDS	40835	41152	.	+	0	ID=cds-AGV01402.1;Parent=gene-C8_53;Dbxref=NCBI_GP:AGV01402.1;Name=AGV01402.1;gbkey=CDS;locus_tag=C8_53;product=hypothetical protein;protein_id=AGV01402.1
+KF261120.1	Genbank	gene	41236	44301	.	-	.	ID=gene-C8_54;Name=C8_54;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_54
+KF261120.1	Genbank	CDS	41236	44301	.	-	0	ID=cds-AGV01403.1;Parent=gene-C8_54;Dbxref=NCBI_GP:AGV01403.1;Name=AGV01403.1;gbkey=CDS;locus_tag=C8_54;product=DNA-directed RNA polymerase subunit alpha;protein_id=AGV01403.1
+KF261120.1	Genbank	gene	44674	46164	.	-	.	ID=gene-C8_55;Name=C8_55;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_55
+KF261120.1	Genbank	CDS	44674	46164	.	-	0	ID=cds-AGV01404.1;Parent=gene-C8_55;Dbxref=NCBI_GP:AGV01404.1;Name=AGV01404.1;gbkey=CDS;locus_tag=C8_55;product=DNA-directed RNA polymerase subunit alpha;protein_id=AGV01404.1
+KF261120.1	Genbank	gene	46296	46727	.	+	.	ID=gene-C8_56;Name=C8_56;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_56
+KF261120.1	Genbank	CDS	46296	46727	.	+	0	ID=cds-AGV01405.1;Parent=gene-C8_56;Dbxref=NCBI_GP:AGV01405.1;Name=AGV01405.1;gbkey=CDS;locus_tag=C8_56;product=putative methyltransferase;protein_id=AGV01405.1
+KF261120.1	Genbank	gene	46959	47531	.	-	.	ID=gene-C8_57;Name=C8_57;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_57
+KF261120.1	Genbank	CDS	46959	47531	.	-	0	ID=cds-AGV01406.1;Parent=gene-C8_57;Dbxref=NCBI_GP:AGV01406.1;Name=AGV01406.1;gbkey=CDS;locus_tag=C8_57;product=hypothetical protein;protein_id=AGV01406.1
+KF261120.1	Genbank	gene	47572	48057	.	-	.	ID=gene-C8_58;Name=C8_58;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_58
+KF261120.1	Genbank	CDS	47572	48057	.	-	0	ID=cds-AGV01407.1;Parent=gene-C8_58;Dbxref=NCBI_GP:AGV01407.1;Name=AGV01407.1;gbkey=CDS;locus_tag=C8_58;product=hypothetical protein;protein_id=AGV01407.1
+KF261120.1	Genbank	gene	48023	48331	.	-	.	ID=gene-C8_59;Name=C8_59;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_59
+KF261120.1	Genbank	CDS	48023	48331	.	-	0	ID=cds-AGV01408.1;Parent=gene-C8_59;Dbxref=NCBI_GP:AGV01408.1;Name=AGV01408.1;gbkey=CDS;locus_tag=C8_59;product=hypothetical protein;protein_id=AGV01408.1
+KF261120.1	Genbank	gene	48314	48784	.	+	.	ID=gene-C8_60;Name=C8_60;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_60
+KF261120.1	Genbank	CDS	48314	48784	.	+	0	ID=cds-AGV01409.1;Parent=gene-C8_60;Dbxref=NCBI_GP:AGV01409.1;Name=AGV01409.1;gbkey=CDS;locus_tag=C8_60;product=hypothetical protein;protein_id=AGV01409.1
+KF261120.1	Genbank	gene	49214	49681	.	+	.	ID=gene-C8_61;Name=C8_61;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_61
+KF261120.1	Genbank	CDS	49214	49681	.	+	0	ID=cds-AGV01410.1;Parent=gene-C8_61;Dbxref=NCBI_GP:AGV01410.1;Name=AGV01410.1;gbkey=CDS;locus_tag=C8_61;product=hypothetical protein;protein_id=AGV01410.1
+KF261120.1	Genbank	gene	49722	49952	.	+	.	ID=gene-C8_62;Name=C8_62;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_62
+KF261120.1	Genbank	CDS	49722	49952	.	+	0	ID=cds-AGV01411.1;Parent=gene-C8_62;Dbxref=NCBI_GP:AGV01411.1;Name=AGV01411.1;gbkey=CDS;locus_tag=C8_62;product=hypothetical protein;protein_id=AGV01411.1
+KF261120.1	Genbank	gene	49977	50495	.	-	.	ID=gene-C8_63;Name=C8_63;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_63
+KF261120.1	Genbank	CDS	49977	50495	.	-	0	ID=cds-AGV01412.1;Parent=gene-C8_63;Dbxref=NCBI_GP:AGV01412.1;Name=AGV01412.1;gbkey=CDS;locus_tag=C8_63;product=hypothetical protein;protein_id=AGV01412.1
+KF261120.1	Genbank	gene	50534	50806	.	+	.	ID=gene-C8_64;Name=C8_64;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_64
+KF261120.1	Genbank	CDS	50534	50806	.	+	0	ID=cds-AGV01413.1;Parent=gene-C8_64;Dbxref=NCBI_GP:AGV01413.1;Name=AGV01413.1;gbkey=CDS;locus_tag=C8_64;product=hypothetical protein;protein_id=AGV01413.1
+KF261120.1	Genbank	gene	50842	51033	.	+	.	ID=gene-C8_65;Name=C8_65;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_65
+KF261120.1	Genbank	CDS	50842	51033	.	+	0	ID=cds-AGV01414.1;Parent=gene-C8_65;Dbxref=NCBI_GP:AGV01414.1;Name=AGV01414.1;gbkey=CDS;locus_tag=C8_65;product=hypothetical protein;protein_id=AGV01414.1
+KF261120.1	Genbank	gene	51038	51340	.	+	.	ID=gene-C8_66;Name=C8_66;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_66
+KF261120.1	Genbank	CDS	51038	51340	.	+	0	ID=cds-AGV01415.1;Parent=gene-C8_66;Dbxref=NCBI_GP:AGV01415.1;Name=AGV01415.1;gbkey=CDS;locus_tag=C8_66;product=hypothetical protein;protein_id=AGV01415.1
+KF261120.1	Genbank	gene	51374	52561	.	-	.	ID=gene-C8_67;Name=C8_67;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_67
+KF261120.1	Genbank	CDS	51374	52561	.	-	0	ID=cds-AGV01416.1;Parent=gene-C8_67;Dbxref=NCBI_GP:AGV01416.1;Name=AGV01416.1;gbkey=CDS;locus_tag=C8_67;product=low complexity HA-like repeat protein;protein_id=AGV01416.1
+KF261120.1	Genbank	gene	52584	53735	.	-	.	ID=gene-C8_68;Name=C8_68;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_68
+KF261120.1	Genbank	CDS	52584	53735	.	-	0	ID=cds-AGV01417.1;Parent=gene-C8_68;Dbxref=NCBI_GP:AGV01417.1;Name=AGV01417.1;gbkey=CDS;locus_tag=C8_68;product=low complexity HA-like repeat protein;protein_id=AGV01417.1
+KF261120.1	Genbank	gene	53793	54635	.	-	.	ID=gene-C8_69;Name=C8_69;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_69
+KF261120.1	Genbank	CDS	53793	54635	.	-	0	ID=cds-AGV01418.1;Parent=gene-C8_69;Dbxref=NCBI_GP:AGV01418.1;Name=AGV01418.1;gbkey=CDS;locus_tag=C8_69;product=F-box containing protein;protein_id=AGV01418.1
+KF261120.1	Genbank	gene	55006	55374	.	-	.	ID=gene-C8_70;Name=C8_70;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_70
+KF261120.1	Genbank	CDS	55006	55374	.	-	0	ID=cds-AGV01419.1;Parent=gene-C8_70;Dbxref=NCBI_GP:AGV01419.1;Name=AGV01419.1;gbkey=CDS;locus_tag=C8_70;product=hypothetical protein;protein_id=AGV01419.1
+KF261120.1	Genbank	gene	55409	56647	.	-	.	ID=gene-C8_71;Name=C8_71;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_71
+KF261120.1	Genbank	CDS	55409	56647	.	-	0	ID=cds-AGV01420.1;Parent=gene-C8_71;Dbxref=NCBI_GP:AGV01420.1;Name=AGV01420.1;gbkey=CDS;locus_tag=C8_71;product=zinc finger protein;protein_id=AGV01420.1
+KF261120.1	Genbank	gene	57101	58360	.	-	.	ID=gene-C8_72;Name=C8_72;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_72
+KF261120.1	Genbank	CDS	57101	58360	.	-	0	ID=cds-AGV01421.1;Parent=gene-C8_72;Dbxref=NCBI_GP:AGV01421.1;Name=AGV01421.1;gbkey=CDS;locus_tag=C8_72;product=ATP-dependent DNA ligase;protein_id=AGV01421.1
+KF261120.1	Genbank	gene	58408	59295	.	-	.	ID=gene-C8_73;Name=C8_73;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_73
+KF261120.1	Genbank	CDS	58408	59295	.	-	0	ID=cds-AGV01422.1;Parent=gene-C8_73;Dbxref=NCBI_GP:AGV01422.1;Name=AGV01422.1;gbkey=CDS;locus_tag=C8_73;product=invasin-like repeat protein;protein_id=AGV01422.1
+KF261120.1	Genbank	gene	59335	59958	.	-	.	ID=gene-C8_74;Name=C8_74;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_74
+KF261120.1	Genbank	CDS	59335	59958	.	-	0	ID=cds-AGV01423.1;Parent=gene-C8_74;Dbxref=NCBI_GP:AGV01423.1;Name=AGV01423.1;gbkey=CDS;locus_tag=C8_74;product=metal dependent phosphohydrolase;protein_id=AGV01423.1
+KF261120.1	Genbank	gene	59989	60573	.	-	.	ID=gene-C8_75;Name=C8_75;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_75
+KF261120.1	Genbank	CDS	59989	60573	.	-	0	ID=cds-AGV01424.1;Parent=gene-C8_75;Dbxref=NCBI_GP:AGV01424.1;Name=AGV01424.1;gbkey=CDS;locus_tag=C8_75;product=hypothetical protein;protein_id=AGV01424.1
+KF261120.1	Genbank	gene	60646	60918	.	+	.	ID=gene-C8_76;Name=C8_76;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_76
+KF261120.1	Genbank	CDS	60646	60918	.	+	0	ID=cds-AGV01425.1;Parent=gene-C8_76;Dbxref=NCBI_GP:AGV01425.1;Name=AGV01425.1;gbkey=CDS;locus_tag=C8_76;product=hypothetical protein;protein_id=AGV01425.1
+KF261120.1	Genbank	gene	60943	61329	.	+	.	ID=gene-C8_77;Name=C8_77;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_77
+KF261120.1	Genbank	CDS	60943	61329	.	+	0	ID=cds-AGV01426.1;Parent=gene-C8_77;Dbxref=NCBI_GP:AGV01426.1;Name=AGV01426.1;gbkey=CDS;locus_tag=C8_77;product=hypothetical protein;protein_id=AGV01426.1
+KF261120.1	Genbank	gene	61355	61852	.	-	.	ID=gene-C8_78;Name=C8_78;end_range=61852,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_78;partial=true
+KF261120.1	Genbank	CDS	61355	61852	.	-	0	ID=cds-AGV01427.1;Parent=gene-C8_78;Dbxref=NCBI_GP:AGV01427.1;Name=AGV01427.1;Note=start codon not determined;end_range=61852,.;gbkey=CDS;locus_tag=C8_78;partial=true;product=hypothetical protein;protein_id=AGV01427.1
+KF261120.1	Genbank	gene	62167	62694	.	+	.	ID=gene-C8_79;Name=C8_79;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_79
+KF261120.1	Genbank	CDS	62167	62694	.	+	0	ID=cds-AGV01428.1;Parent=gene-C8_79;Dbxref=NCBI_GP:AGV01428.1;Name=AGV01428.1;gbkey=CDS;locus_tag=C8_79;product=hypothetical protein;protein_id=AGV01428.1
+KF261120.1	Genbank	gene	62713	63000	.	+	.	ID=gene-C8_80;Name=C8_80;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_80
+KF261120.1	Genbank	CDS	62713	63000	.	+	0	ID=cds-AGV01429.1;Parent=gene-C8_80;Dbxref=NCBI_GP:AGV01429.1;Name=AGV01429.1;gbkey=CDS;locus_tag=C8_80;product=translation initiation factor SUI1;protein_id=AGV01429.1
+KF261120.1	Genbank	gene	63006	63440	.	+	.	ID=gene-C8_81;Name=C8_81;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_81
+KF261120.1	Genbank	CDS	63006	63440	.	+	0	ID=cds-AGV01430.1;Parent=gene-C8_81;Dbxref=NCBI_GP:AGV01430.1;Name=AGV01430.1;gbkey=CDS;locus_tag=C8_81;product=hypothetical protein;protein_id=AGV01430.1
+KF261120.1	Genbank	gene	63674	63920	.	-	.	ID=gene-C8_82;Name=C8_82;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_82
+KF261120.1	Genbank	CDS	63675	63920	.	-	0	ID=cds-AGV01431.1;Parent=gene-C8_82;Dbxref=NCBI_GP:AGV01431.1;Name=AGV01431.1;gbkey=CDS;locus_tag=C8_82;product=hypothetical protein;protein_id=AGV01431.1
+KF261120.1	Genbank	gene	63996	64355	.	+	.	ID=gene-C8_83;Name=C8_83;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_83
+KF261120.1	Genbank	CDS	63996	64355	.	+	0	ID=cds-AGV01432.1;Parent=gene-C8_83;Dbxref=NCBI_GP:AGV01432.1;Name=AGV01432.1;gbkey=CDS;locus_tag=C8_83;product=hypothetical protein;protein_id=AGV01432.1
+KF261120.1	Genbank	gene	64388	64813	.	+	.	ID=gene-C8_84;Name=C8_84;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_84
+KF261120.1	Genbank	CDS	64388	64813	.	+	0	ID=cds-AGV01433.1;Parent=gene-C8_84;Dbxref=NCBI_GP:AGV01433.1;Name=AGV01433.1;gbkey=CDS;locus_tag=C8_84;product=hypothetical protein;protein_id=AGV01433.1
+KF261120.1	Genbank	gene	64836	65873	.	+	.	ID=gene-C8_85;Name=C8_85;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_85
+KF261120.1	Genbank	CDS	64836	65873	.	+	0	ID=cds-AGV01434.1;Parent=gene-C8_85;Dbxref=NCBI_GP:AGV01434.1;Name=AGV01434.1;gbkey=CDS;locus_tag=C8_85;product=serine/threonine protein kinase;protein_id=AGV01434.1
+KF261120.1	Genbank	gene	65895	66116	.	-	.	ID=gene-C8_86;Name=C8_86;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_86
+KF261120.1	Genbank	CDS	65895	66116	.	-	0	ID=cds-AGV01435.1;Parent=gene-C8_86;Dbxref=NCBI_GP:AGV01435.1;Name=AGV01435.1;gbkey=CDS;locus_tag=C8_86;product=RHH-domain DNA-binding protein;protein_id=AGV01435.1
+KF261120.1	Genbank	gene	66131	66622	.	+	.	ID=gene-C8_87;Name=C8_87;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_87
+KF261120.1	Genbank	CDS	66131	66622	.	+	0	ID=cds-AGV01436.1;Parent=gene-C8_87;Dbxref=NCBI_GP:AGV01436.1;Name=AGV01436.1;gbkey=CDS;locus_tag=C8_87;product=hypothetical protein;protein_id=AGV01436.1
+KF261120.1	Genbank	gene	66645	67067	.	-	.	ID=gene-C8_88;Name=C8_88;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_88
+KF261120.1	Genbank	CDS	66645	67067	.	-	0	ID=cds-AGV01437.1;Parent=gene-C8_88;Dbxref=NCBI_GP:AGV01437.1;Name=AGV01437.1;gbkey=CDS;locus_tag=C8_88;product=hypothetical protein;protein_id=AGV01437.1
+KF261120.1	Genbank	gene	67092	67538	.	-	.	ID=gene-C8_89;Name=C8_89;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_89
+KF261120.1	Genbank	CDS	67092	67538	.	-	0	ID=cds-AGV01438.1;Parent=gene-C8_89;Dbxref=NCBI_GP:AGV01438.1;Name=AGV01438.1;gbkey=CDS;locus_tag=C8_89;product=hypothetical protein;protein_id=AGV01438.1
+KF261120.1	Genbank	gene	67594	68202	.	+	.	ID=gene-C8_90;Name=C8_90;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_90
+KF261120.1	Genbank	CDS	67594	68202	.	+	0	ID=cds-AGV01439.1;Parent=gene-C8_90;Dbxref=NCBI_GP:AGV01439.1;Name=AGV01439.1;gbkey=CDS;locus_tag=C8_90;product=hypothetical protein;protein_id=AGV01439.1
+KF261120.1	Genbank	gene	68207	68653	.	-	.	ID=gene-C8_91;Name=C8_91;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_91
+KF261120.1	Genbank	CDS	68207	68653	.	-	0	ID=cds-AGV01440.1;Parent=gene-C8_91;Dbxref=NCBI_GP:AGV01440.1;Name=AGV01440.1;gbkey=CDS;locus_tag=C8_91;product=hypothetical protein;protein_id=AGV01440.1
+KF261120.1	Genbank	gene	68719	69135	.	-	.	ID=gene-C8_92;Name=C8_92;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_92
+KF261120.1	Genbank	CDS	68719	69135	.	-	0	ID=cds-AGV01441.1;Parent=gene-C8_92;Dbxref=NCBI_GP:AGV01441.1;Name=AGV01441.1;gbkey=CDS;locus_tag=C8_92;product=HTH-containing DNA-binding protein;protein_id=AGV01441.1
+KF261120.1	Genbank	gene	69161	69562	.	-	.	ID=gene-C8_93;Name=C8_93;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_93
+KF261120.1	Genbank	CDS	69161	69562	.	-	0	ID=cds-AGV01442.1;Parent=gene-C8_93;Dbxref=NCBI_GP:AGV01442.1;Name=AGV01442.1;gbkey=CDS;locus_tag=C8_93;product=hypothetical protein;protein_id=AGV01442.1
+KF261120.1	Genbank	gene	69585	69968	.	-	.	ID=gene-C8_94;Name=C8_94;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_94
+KF261120.1	Genbank	CDS	69585	69968	.	-	0	ID=cds-AGV01443.1;Parent=gene-C8_94;Dbxref=NCBI_GP:AGV01443.1;Name=AGV01443.1;gbkey=CDS;locus_tag=C8_94;product=hypothetical protein;protein_id=AGV01443.1
+KF261120.1	Genbank	gene	70013	70336	.	-	.	ID=gene-C8_95;Name=C8_95;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_95
+KF261120.1	Genbank	CDS	70013	70336	.	-	0	ID=cds-AGV01444.1;Parent=gene-C8_95;Dbxref=NCBI_GP:AGV01444.1;Name=AGV01444.1;gbkey=CDS;locus_tag=C8_95;product=hypothetical protein;protein_id=AGV01444.1
+KF261120.1	Genbank	gene	70336	70875	.	-	.	ID=gene-C8_96;Name=C8_96;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_96
+KF261120.1	Genbank	CDS	70336	70875	.	-	0	ID=cds-AGV01445.1;Parent=gene-C8_96;Dbxref=NCBI_GP:AGV01445.1;Name=AGV01445.1;gbkey=CDS;locus_tag=C8_96;product=hypothetical protein;protein_id=AGV01445.1
+KF261120.1	Genbank	gene	70897	71319	.	-	.	ID=gene-C8_97;Name=C8_97;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_97
+KF261120.1	Genbank	CDS	70897	71319	.	-	0	ID=cds-AGV01446.1;Parent=gene-C8_97;Dbxref=NCBI_GP:AGV01446.1;Name=AGV01446.1;gbkey=CDS;locus_tag=C8_97;product=hypothetical protein;protein_id=AGV01446.1
+KF261120.1	Genbank	gene	71373	71762	.	-	.	ID=gene-C8_98;Name=C8_98;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_98
+KF261120.1	Genbank	CDS	71373	71762	.	-	0	ID=cds-AGV01447.1;Parent=gene-C8_98;Dbxref=NCBI_GP:AGV01447.1;Name=AGV01447.1;gbkey=CDS;locus_tag=C8_98;product=putative antitoxin;protein_id=AGV01447.1
+KF261120.1	Genbank	gene	71771	72151	.	+	.	ID=gene-C8_99;Name=C8_99;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_99
+KF261120.1	Genbank	CDS	71771	72151	.	+	0	ID=cds-AGV01448.1;Parent=gene-C8_99;Dbxref=NCBI_GP:AGV01448.1;Name=AGV01448.1;gbkey=CDS;locus_tag=C8_99;product=RelE/StbE family toxin;protein_id=AGV01448.1
+KF261120.1	Genbank	gene	72275	73618	.	-	.	ID=gene-C8_100;Name=C8_100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_100
+KF261120.1	Genbank	CDS	72275	73618	.	-	0	ID=cds-AGV01449.1;Parent=gene-C8_100;Dbxref=NCBI_GP:AGV01449.1;Name=AGV01449.1;gbkey=CDS;locus_tag=C8_100;product=flavin-containing amine oxidoreductase;protein_id=AGV01449.1
+KF261120.1	Genbank	gene	73668	74003	.	+	.	ID=gene-C8_101;Name=C8_101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_101
+KF261120.1	Genbank	CDS	73668	74003	.	+	0	ID=cds-AGV01450.1;Parent=gene-C8_101;Dbxref=NCBI_GP:AGV01450.1;Name=AGV01450.1;gbkey=CDS;locus_tag=C8_101;product=hypothetical protein;protein_id=AGV01450.1
+KF261120.1	Genbank	gene	74305	74571	.	+	.	ID=gene-C8_102;Name=C8_102;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_102
+KF261120.1	Genbank	CDS	74305	74571	.	+	0	ID=cds-AGV01451.1;Parent=gene-C8_102;Dbxref=NCBI_GP:AGV01451.1;Name=AGV01451.1;gbkey=CDS;locus_tag=C8_102;product=hypothetical protein;protein_id=AGV01451.1
+KF261120.1	Genbank	gene	74574	74987	.	+	.	ID=gene-C8_103;Name=C8_103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_103
+KF261120.1	Genbank	CDS	74574	74987	.	+	0	ID=cds-AGV01452.1;Parent=gene-C8_103;Dbxref=NCBI_GP:AGV01452.1;Name=AGV01452.1;gbkey=CDS;locus_tag=C8_103;product=hypothetical protein;protein_id=AGV01452.1
+KF261120.1	Genbank	gene	75010	75297	.	+	.	ID=gene-C8_104;Name=C8_104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_104
+KF261120.1	Genbank	CDS	75010	75297	.	+	0	ID=cds-AGV01453.1;Parent=gene-C8_104;Dbxref=NCBI_GP:AGV01453.1;Name=AGV01453.1;gbkey=CDS;locus_tag=C8_104;product=hypothetical protein;protein_id=AGV01453.1
+KF261120.1	Genbank	gene	75300	75941	.	+	.	ID=gene-C8_105;Name=C8_105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_105
+KF261120.1	Genbank	CDS	75300	75941	.	+	0	ID=cds-AGV01454.1;Parent=gene-C8_105;Dbxref=NCBI_GP:AGV01454.1;Name=AGV01454.1;Note=conserved in bacteria EOS;gbkey=CDS;locus_tag=C8_105;product=uncharacterized protein;protein_id=AGV01454.1
+KF261120.1	Genbank	gene	76002	77204	.	+	.	ID=gene-C8_106;Name=C8_106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_106
+KF261120.1	Genbank	CDS	76002	77204	.	+	0	ID=cds-AGV01455.1;Parent=gene-C8_106;Dbxref=NCBI_GP:AGV01455.1;Name=AGV01455.1;Note=conserved in bacteria and mimivirus;gbkey=CDS;locus_tag=C8_106;product=uncharacterized protein;protein_id=AGV01455.1
+KF261120.1	Genbank	gene	77201	77674	.	+	.	ID=gene-C8_107;Name=C8_107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_107
+KF261120.1	Genbank	CDS	77201	77674	.	+	0	ID=cds-AGV01456.1;Parent=gene-C8_107;Dbxref=NCBI_GP:AGV01456.1;Name=AGV01456.1;gbkey=CDS;locus_tag=C8_107;product=hypothetical protein;protein_id=AGV01456.1
+KF261120.1	Genbank	gene	77702	78406	.	+	.	ID=gene-C8_108;Name=C8_108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_108
+KF261120.1	Genbank	CDS	77702	78406	.	+	0	ID=cds-AGV01457.1;Parent=gene-C8_108;Dbxref=NCBI_GP:AGV01457.1;Name=AGV01457.1;gbkey=CDS;locus_tag=C8_108;product=F-box containing protein;protein_id=AGV01457.1
+KF261120.1	Genbank	gene	78806	79252	.	+	.	ID=gene-C8_109;Name=C8_109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_109
+KF261120.1	Genbank	CDS	78806	79252	.	+	0	ID=cds-AGV01458.1;Parent=gene-C8_109;Dbxref=NCBI_GP:AGV01458.1;Name=AGV01458.1;gbkey=CDS;locus_tag=C8_109;product=hypothetical protein;protein_id=AGV01458.1
+KF261120.1	Genbank	gene	79432	79947	.	-	.	ID=gene-C8_110;Name=C8_110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_110
+KF261120.1	Genbank	CDS	79432	79947	.	-	0	ID=cds-AGV01459.1;Parent=gene-C8_110;Dbxref=NCBI_GP:AGV01459.1;Name=AGV01459.1;gbkey=CDS;locus_tag=C8_110;product=hypothetical protein;protein_id=AGV01459.1
+KF261120.1	Genbank	gene	80020	80577	.	-	.	ID=gene-C8_111;Name=C8_111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_111
+KF261120.1	Genbank	CDS	80020	80577	.	-	0	ID=cds-AGV01460.1;Parent=gene-C8_111;Dbxref=NCBI_GP:AGV01460.1;Name=AGV01460.1;gbkey=CDS;locus_tag=C8_111;product=hypothetical protein;protein_id=AGV01460.1
+KF261120.1	Genbank	gene	80565	81464	.	+	.	ID=gene-C8_112;Name=C8_112;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_112
+KF261120.1	Genbank	CDS	80565	81464	.	+	0	ID=cds-AGV01461.1;Parent=gene-C8_112;Dbxref=NCBI_GP:AGV01461.1;Name=AGV01461.1;Note=conserved in some bacteria;gbkey=CDS;locus_tag=C8_112;product=uncharacterized protein with homologs in some bacteria;protein_id=AGV01461.1
+KF261120.1	Genbank	gene	81528	81719	.	+	.	ID=gene-C8_113;Name=C8_113;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_113
+KF261120.1	Genbank	CDS	81528	81719	.	+	0	ID=cds-AGV01462.1;Parent=gene-C8_113;Dbxref=NCBI_GP:AGV01462.1;Name=AGV01462.1;gbkey=CDS;locus_tag=C8_113;product=hypothetical protein;protein_id=AGV01462.1
+KF261120.1	Genbank	gene	81739	82413	.	-	.	ID=gene-C8_114;Name=C8_114;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_114
+KF261120.1	Genbank	CDS	81739	82413	.	-	0	ID=cds-AGV01463.1;Parent=gene-C8_114;Dbxref=NCBI_GP:AGV01463.1;Name=AGV01463.1;gbkey=CDS;locus_tag=C8_114;product=hypothetical protein;protein_id=AGV01463.1
+KF261120.1	Genbank	gene	82455	82946	.	-	.	ID=gene-C8_115;Name=C8_115;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_115
+KF261120.1	Genbank	CDS	82455	82946	.	-	0	ID=cds-AGV01464.1;Parent=gene-C8_115;Dbxref=NCBI_GP:AGV01464.1;Name=AGV01464.1;gbkey=CDS;locus_tag=C8_115;product=hypothetical protein;protein_id=AGV01464.1
+KF261120.1	Genbank	gene	82975	83355	.	-	.	ID=gene-C8_116;Name=C8_116;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_116
+KF261120.1	Genbank	CDS	82975	83355	.	-	0	ID=cds-AGV01465.1;Parent=gene-C8_116;Dbxref=NCBI_GP:AGV01465.1;Name=AGV01465.1;gbkey=CDS;locus_tag=C8_116;product=hypothetical protein;protein_id=AGV01465.1
+KF261120.1	Genbank	gene	83406	84995	.	+	.	ID=gene-C8_117;Name=C8_117;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_117
+KF261120.1	Genbank	CDS	83406	84995	.	+	0	ID=cds-AGV01466.1;Parent=gene-C8_117;Dbxref=NCBI_GP:AGV01466.1;Name=AGV01466.1;gbkey=CDS;locus_tag=C8_117;product=HA-like repeat protein;protein_id=AGV01466.1
+KF261120.1	Genbank	gene	85038	85469	.	+	.	ID=gene-C8_118;Name=C8_118;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_118
+KF261120.1	Genbank	CDS	85038	85469	.	+	0	ID=cds-AGV01467.1;Parent=gene-C8_118;Dbxref=NCBI_GP:AGV01467.1;Name=AGV01467.1;gbkey=CDS;locus_tag=C8_118;product=hypothetical protein;protein_id=AGV01467.1
+KF261120.1	Genbank	gene	85506	86039	.	+	.	ID=gene-C8_119;Name=C8_119;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_119
+KF261120.1	Genbank	CDS	85506	86039	.	+	0	ID=cds-AGV01468.1;Parent=gene-C8_119;Dbxref=NCBI_GP:AGV01468.1;Name=AGV01468.1;gbkey=CDS;locus_tag=C8_119;product=hypothetical protein;protein_id=AGV01468.1
+KF261120.1	Genbank	gene	86062	86424	.	-	.	ID=gene-C8_120;Name=C8_120;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_120
+KF261120.1	Genbank	CDS	86062	86424	.	-	0	ID=cds-AGV01469.1;Parent=gene-C8_120;Dbxref=NCBI_GP:AGV01469.1;Name=AGV01469.1;gbkey=CDS;locus_tag=C8_120;product=hypothetical protein;protein_id=AGV01469.1
+KF261120.1	Genbank	gene	86462	88846	.	-	.	ID=gene-C8_121;Name=C8_121;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_121
+KF261120.1	Genbank	CDS	86462	88846	.	-	0	ID=cds-AGV01470.1;Parent=gene-C8_121;Dbxref=NCBI_GP:AGV01470.1;Name=AGV01470.1;gbkey=CDS;locus_tag=C8_121;product=SMC1 family ATPase;protein_id=AGV01470.1
+KF261120.1	Genbank	gene	88870	89580	.	-	.	ID=gene-C8_122;Name=C8_122;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_122
+KF261120.1	Genbank	CDS	88870	89580	.	-	0	ID=cds-AGV01471.1;Parent=gene-C8_122;Dbxref=NCBI_GP:AGV01471.1;Name=AGV01471.1;gbkey=CDS;locus_tag=C8_122;product=hypothetical protein;protein_id=AGV01471.1
+KF261120.1	Genbank	gene	89623	89943	.	+	.	ID=gene-C8_123;Name=C8_123;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_123
+KF261120.1	Genbank	CDS	89623	89943	.	+	0	ID=cds-AGV01472.1;Parent=gene-C8_123;Dbxref=NCBI_GP:AGV01472.1;Name=AGV01472.1;gbkey=CDS;locus_tag=C8_123;product=small membrane protein;protein_id=AGV01472.1
+KF261120.1	Genbank	gene	89951	90289	.	+	.	ID=gene-C8_124;Name=C8_124;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_124
+KF261120.1	Genbank	CDS	89951	90289	.	+	0	ID=cds-AGV01473.1;Parent=gene-C8_124;Dbxref=NCBI_GP:AGV01473.1;Name=AGV01473.1;gbkey=CDS;locus_tag=C8_124;product=small membrane protein;protein_id=AGV01473.1
+KF261120.1	Genbank	gene	90310	94692	.	-	.	ID=gene-C8_125;Name=C8_125;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_125
+KF261120.1	Genbank	CDS	90310	94692	.	-	0	ID=cds-AGV01474.1;Parent=gene-C8_125;Dbxref=NCBI_GP:AGV01474.1;Name=AGV01474.1;gbkey=CDS;locus_tag=C8_125;product=serine/threonine protein kinase;protein_id=AGV01474.1
+KF261120.1	Genbank	gene	94832	95161	.	-	.	ID=gene-C8_126;Name=C8_126;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_126
+KF261120.1	Genbank	CDS	94832	95161	.	-	0	ID=cds-AGV01475.1;Parent=gene-C8_126;Dbxref=NCBI_GP:AGV01475.1;Name=AGV01475.1;gbkey=CDS;locus_tag=C8_126;product=hypothetical protein;protein_id=AGV01475.1
+KF261120.1	Genbank	gene	95163	95639	.	-	.	ID=gene-C8_127;Name=C8_127;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_127
+KF261120.1	Genbank	CDS	95163	95639	.	-	0	ID=cds-AGV01476.1;Parent=gene-C8_127;Dbxref=NCBI_GP:AGV01476.1;Name=AGV01476.1;gbkey=CDS;locus_tag=C8_127;product=dual specificity protein phosphatase;protein_id=AGV01476.1
+KF261120.1	Genbank	gene	95666	96175	.	-	.	ID=gene-C8_128;Name=C8_128;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_128
+KF261120.1	Genbank	CDS	95666	96175	.	-	0	ID=cds-AGV01477.1;Parent=gene-C8_128;Dbxref=NCBI_GP:AGV01477.1;Name=AGV01477.1;gbkey=CDS;locus_tag=C8_128;product=MORN repeat-containing protein;protein_id=AGV01477.1
+KF261120.1	Genbank	gene	96579	97943	.	+	.	ID=gene-C8_129;Name=C8_129;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_129
+KF261120.1	Genbank	CDS	96579	97943	.	+	0	ID=cds-AGV01478.1;Parent=gene-C8_129;Dbxref=NCBI_GP:AGV01478.1;Name=AGV01478.1;gbkey=CDS;locus_tag=C8_129;product=restriction endonuclease;protein_id=AGV01478.1
+KF261120.1	Genbank	gene	97972	98628	.	-	.	ID=gene-C8_130;Name=C8_130;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_130
+KF261120.1	Genbank	CDS	97972	98628	.	-	0	ID=cds-AGV01479.1;Parent=gene-C8_130;Dbxref=NCBI_GP:AGV01479.1;Name=AGV01479.1;Note=conserved in several bacteria and eukaryotes and mimivirus;gbkey=CDS;locus_tag=C8_130;product=hypothetical protein;protein_id=AGV01479.1
+KF261120.1	Genbank	gene	98672	99226	.	-	.	ID=gene-C8_131;Name=C8_131;end_range=99226,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_131;partial=true
+KF261120.1	Genbank	CDS	98672	99226	.	-	0	ID=cds-AGV01480.1;Parent=gene-C8_131;Dbxref=NCBI_GP:AGV01480.1;Name=AGV01480.1;Note=start codon not determined;end_range=99226,.;gbkey=CDS;locus_tag=C8_131;partial=true;product=conserved putative membrane protein;protein_id=AGV01480.1
+KF261120.1	Genbank	gene	99210	99647	.	-	.	ID=gene-C8_132;Name=C8_132;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_132
+KF261120.1	Genbank	CDS	99210	99647	.	-	0	ID=cds-AGV01481.1;Parent=gene-C8_132;Dbxref=NCBI_GP:AGV01481.1;Name=AGV01481.1;gbkey=CDS;locus_tag=C8_132;product=hypothetical protein;protein_id=AGV01481.1
+KF261120.1	Genbank	gene	99700	100131	.	+	.	ID=gene-C8_133;Name=C8_133;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_133
+KF261120.1	Genbank	CDS	99700	100131	.	+	0	ID=cds-AGV01482.1;Parent=gene-C8_133;Dbxref=NCBI_GP:AGV01482.1;Name=AGV01482.1;gbkey=CDS;locus_tag=C8_133;product=ribonuclease H;protein_id=AGV01482.1
+KF261120.1	Genbank	gene	100254	101774	.	+	.	ID=gene-C8_134;Name=C8_134;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_134
+KF261120.1	Genbank	CDS	100254	101774	.	+	0	ID=cds-AGV01483.1;Parent=gene-C8_134;Dbxref=NCBI_GP:AGV01483.1;Name=AGV01483.1;gbkey=CDS;locus_tag=C8_134;product=restriction endonuclease;protein_id=AGV01483.1
+KF261120.1	Genbank	gene	101845	102996	.	-	.	ID=gene-C8_135;Name=C8_135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_135
+KF261120.1	Genbank	CDS	101845	102996	.	-	0	ID=cds-AGV01484.1;Parent=gene-C8_135;Dbxref=NCBI_GP:AGV01484.1;Name=AGV01484.1;gbkey=CDS;locus_tag=C8_135;product=eukaryotic peptide chain release translation termination factor 1;protein_id=AGV01484.1
+KF261120.1	Genbank	gene	103091	103906	.	+	.	ID=gene-C8_136;Name=C8_136;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_136
+KF261120.1	Genbank	CDS	103091	103906	.	+	0	ID=cds-AGV01485.1;Parent=gene-C8_136;Dbxref=NCBI_GP:AGV01485.1;Name=AGV01485.1;gbkey=CDS;locus_tag=C8_136;product=DHH family phosphohydrolase;protein_id=AGV01485.1
+KF261120.1	Genbank	gene	104113	105024	.	+	.	ID=gene-C8_137;Name=C8_137;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_137;partial=true;start_range=.,104113
+KF261120.1	Genbank	CDS	104113	105024	.	+	0	ID=cds-AGV01486.1;Parent=gene-C8_137;Dbxref=NCBI_GP:AGV01486.1;Name=AGV01486.1;Note=start codon not determined;gbkey=CDS;locus_tag=C8_137;partial=true;product=hypothetical protein;protein_id=AGV01486.1;start_range=.,104113
+KF261120.1	Genbank	gene	105040	105789	.	+	.	ID=gene-C8_138;Name=C8_138;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_138
+KF261120.1	Genbank	CDS	105040	105789	.	+	0	ID=cds-AGV01487.1;Parent=gene-C8_138;Dbxref=NCBI_GP:AGV01487.1;Name=AGV01487.1;gbkey=CDS;locus_tag=C8_138;product=hypothetical protein;protein_id=AGV01487.1
+KF261120.1	Genbank	gene	105822	106520	.	+	.	ID=gene-C8_139;Name=C8_139;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_139
+KF261120.1	Genbank	CDS	105822	106520	.	+	0	ID=cds-AGV01488.1;Parent=gene-C8_139;Dbxref=NCBI_GP:AGV01488.1;Name=AGV01488.1;gbkey=CDS;locus_tag=C8_139;product=hypothetical protein;protein_id=AGV01488.1
+KF261120.1	Genbank	gene	106542	107045	.	-	.	ID=gene-C8_140;Name=C8_140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_140
+KF261120.1	Genbank	CDS	106542	107045	.	-	0	ID=cds-AGV01489.1;Parent=gene-C8_140;Dbxref=NCBI_GP:AGV01489.1;Name=AGV01489.1;gbkey=CDS;locus_tag=C8_140;product=hypothetical protein;protein_id=AGV01489.1
+KF261120.1	Genbank	gene	107099	107791	.	+	.	ID=gene-C8_141;Name=C8_141;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_141
+KF261120.1	Genbank	CDS	107099	107791	.	+	0	ID=cds-AGV01490.1;Parent=gene-C8_141;Dbxref=NCBI_GP:AGV01490.1;Name=AGV01490.1;gbkey=CDS;locus_tag=C8_141;product=hypothetical protein;protein_id=AGV01490.1
+KF261120.1	Genbank	gene	107808	108503	.	+	.	ID=gene-C8_142;Name=C8_142;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_142
+KF261120.1	Genbank	CDS	107808	108503	.	+	0	ID=cds-AGV01491.1;Parent=gene-C8_142;Dbxref=NCBI_GP:AGV01491.1;Name=AGV01491.1;gbkey=CDS;locus_tag=C8_142;product=hypothetical protein;protein_id=AGV01491.1
+KF261120.1	Genbank	gene	108425	108778	.	-	.	ID=gene-C8_143;Name=C8_143;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_143
+KF261120.1	Genbank	CDS	108425	108778	.	-	0	ID=cds-AGV01492.1;Parent=gene-C8_143;Dbxref=NCBI_GP:AGV01492.1;Name=AGV01492.1;gbkey=CDS;locus_tag=C8_143;product=hypothetical protein;protein_id=AGV01492.1
+KF261120.1	Genbank	gene	109039	109884	.	-	.	ID=gene-C8_144;Name=C8_144;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_144
+KF261120.1	Genbank	CDS	109039	109884	.	-	0	ID=cds-AGV01493.1;Parent=gene-C8_144;Dbxref=NCBI_GP:AGV01493.1;Name=AGV01493.1;gbkey=CDS;locus_tag=C8_144;product=hypothetical protein;protein_id=AGV01493.1
+KF261120.1	Genbank	gene	109902	111488	.	+	.	ID=gene-C8_145;Name=C8_145;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_145
+KF261120.1	Genbank	CDS	109902	111488	.	+	0	ID=cds-AGV01494.1;Parent=gene-C8_145;Dbxref=NCBI_GP:AGV01494.1;Name=AGV01494.1;gbkey=CDS;locus_tag=C8_145;product=restriction endonuclease;protein_id=AGV01494.1
+KF261120.1	Genbank	gene	111537	112250	.	+	.	ID=gene-C8_146;Name=C8_146;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_146
+KF261120.1	Genbank	CDS	111537	112250	.	+	0	ID=cds-AGV01495.1;Parent=gene-C8_146;Dbxref=NCBI_GP:AGV01495.1;Name=AGV01495.1;gbkey=CDS;locus_tag=C8_146;product=hypothetical protein;protein_id=AGV01495.1
+KF261120.1	Genbank	gene	112279	112947	.	+	.	ID=gene-C8_147;Name=C8_147;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_147
+KF261120.1	Genbank	CDS	112279	112947	.	+	0	ID=cds-AGV01496.1;Parent=gene-C8_147;Dbxref=NCBI_GP:AGV01496.1;Name=AGV01496.1;gbkey=CDS;locus_tag=C8_147;product=hypothetical protein;protein_id=AGV01496.1
+KF261120.1	Genbank	gene	112944	113639	.	+	.	ID=gene-C8_148;Name=C8_148;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_148
+KF261120.1	Genbank	CDS	112944	113639	.	+	0	ID=cds-AGV01497.1;Parent=gene-C8_148;Dbxref=NCBI_GP:AGV01497.1;Name=AGV01497.1;gbkey=CDS;locus_tag=C8_148;product=hypothetical protein;protein_id=AGV01497.1
+KF261120.1	Genbank	gene	113676	114395	.	+	.	ID=gene-C8_149;Name=C8_149;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_149
+KF261120.1	Genbank	CDS	113676	114395	.	+	0	ID=cds-AGV01498.1;Parent=gene-C8_149;Dbxref=NCBI_GP:AGV01498.1;Name=AGV01498.1;gbkey=CDS;locus_tag=C8_149;product=hypothetical protein;protein_id=AGV01498.1
+KF261120.1	Genbank	gene	114432	114641	.	+	.	ID=gene-C8_150;Name=C8_150;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_150
+KF261120.1	Genbank	CDS	114432	114641	.	+	0	ID=cds-AGV01499.1;Parent=gene-C8_150;Dbxref=NCBI_GP:AGV01499.1;Name=AGV01499.1;gbkey=CDS;locus_tag=C8_150;product=hypothetical protein;protein_id=AGV01499.1
+KF261120.1	Genbank	gene	114698	115129	.	+	.	ID=gene-C8_151;Name=C8_151;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_151
+KF261120.1	Genbank	CDS	114698	115129	.	+	0	ID=cds-AGV01500.1;Parent=gene-C8_151;Dbxref=NCBI_GP:AGV01500.1;Name=AGV01500.1;gbkey=CDS;locus_tag=C8_151;product=F-box containing protein;protein_id=AGV01500.1
+KF261120.1	Genbank	gene	115178	115741	.	+	.	ID=gene-C8_152;Name=C8_152;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_152
+KF261120.1	Genbank	CDS	115178	115741	.	+	0	ID=cds-AGV01501.1;Parent=gene-C8_152;Dbxref=NCBI_GP:AGV01501.1;Name=AGV01501.1;gbkey=CDS;locus_tag=C8_152;product=hypothetical protein;protein_id=AGV01501.1
+KF261120.1	Genbank	gene	115776	116222	.	+	.	ID=gene-C8_153;Name=C8_153;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_153
+KF261120.1	Genbank	CDS	115776	116222	.	+	0	ID=cds-AGV01502.1;Parent=gene-C8_153;Dbxref=NCBI_GP:AGV01502.1;Name=AGV01502.1;gbkey=CDS;locus_tag=C8_153;product=hypothetical protein;protein_id=AGV01502.1
+KF261120.1	Genbank	gene	116290	117957	.	-	.	ID=gene-C8_154;Name=C8_154;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_154
+KF261120.1	Genbank	CDS	116290	117957	.	-	0	ID=cds-AGV01503.1;Parent=gene-C8_154;Dbxref=NCBI_GP:AGV01503.1;Name=AGV01503.1;gbkey=CDS;locus_tag=C8_154;product=low complexity protein;protein_id=AGV01503.1
+KF261120.1	Genbank	gene	117969	118307	.	+	.	ID=gene-C8_155;Name=C8_155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_155
+KF261120.1	Genbank	CDS	117969	118307	.	+	0	ID=cds-AGV01504.1;Parent=gene-C8_155;Dbxref=NCBI_GP:AGV01504.1;Name=AGV01504.1;gbkey=CDS;locus_tag=C8_155;product=hypothetical protein;protein_id=AGV01504.1
+KF261120.1	Genbank	gene	118344	118769	.	+	.	ID=gene-C8_156;Name=C8_156;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_156
+KF261120.1	Genbank	CDS	118344	118769	.	+	0	ID=cds-AGV01505.1;Parent=gene-C8_156;Dbxref=NCBI_GP:AGV01505.1;Name=AGV01505.1;gbkey=CDS;locus_tag=C8_156;product=F-box containing protein;protein_id=AGV01505.1
+KF261120.1	Genbank	gene	118796	121510	.	-	.	ID=gene-C8_157;Name=C8_157;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_157
+KF261120.1	Genbank	CDS	118796	121510	.	-	0	ID=cds-AGV01506.1;Parent=gene-C8_157;Dbxref=NCBI_GP:AGV01506.1;Name=AGV01506.1;gbkey=CDS;locus_tag=C8_157;product=D5 family helicase-primase;protein_id=AGV01506.1
+KF261120.1	Genbank	gene	121606	122409	.	+	.	ID=gene-C8_158;Name=C8_158;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_158
+KF261120.1	Genbank	CDS	121606	122409	.	+	0	ID=cds-AGV01507.1;Parent=gene-C8_158;Dbxref=NCBI_GP:AGV01507.1;Name=AGV01507.1;gbkey=CDS;locus_tag=C8_158;product=hypothetical protein;protein_id=AGV01507.1
+KF261120.1	Genbank	gene	122431	122733	.	-	.	ID=gene-C8_159;Name=C8_159;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_159
+KF261120.1	Genbank	CDS	122431	122733	.	-	0	ID=cds-AGV01508.1;Parent=gene-C8_159;Dbxref=NCBI_GP:AGV01508.1;Name=AGV01508.1;gbkey=CDS;locus_tag=C8_159;product=zinc ribbon-containing protein;protein_id=AGV01508.1
+KF261120.1	Genbank	gene	122954	123355	.	-	.	ID=gene-C8_160;Name=C8_160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_160
+KF261120.1	Genbank	CDS	122954	123355	.	-	0	ID=cds-AGV01509.1;Parent=gene-C8_160;Dbxref=NCBI_GP:AGV01509.1;Name=AGV01509.1;gbkey=CDS;locus_tag=C8_160;product=hypothetical protein;protein_id=AGV01509.1
+KF261120.1	Genbank	gene	123316	124887	.	-	.	ID=gene-C8_161;Name=C8_161;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_161
+KF261120.1	Genbank	CDS	123316	124887	.	-	0	ID=cds-AGV01510.1;Parent=gene-C8_161;Dbxref=NCBI_GP:AGV01510.1;Name=AGV01510.1;gbkey=CDS;locus_tag=C8_161;product=restriction endonuclease;protein_id=AGV01510.1
+KF261120.1	Genbank	gene	124912	125688	.	+	.	ID=gene-C8_162;Name=C8_162;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_162
+KF261120.1	Genbank	CDS	124912	125688	.	+	0	ID=cds-AGV01511.1;Parent=gene-C8_162;Dbxref=NCBI_GP:AGV01511.1;Name=AGV01511.1;gbkey=CDS;locus_tag=C8_162;product=A32-like packaging ATPase;protein_id=AGV01511.1
+KF261120.1	Genbank	gene	125715	126200	.	+	.	ID=gene-C8_163;Name=C8_163;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_163
+KF261120.1	Genbank	CDS	125715	126200	.	+	0	ID=cds-AGV01512.1;Parent=gene-C8_163;Dbxref=NCBI_GP:AGV01512.1;Name=AGV01512.1;gbkey=CDS;locus_tag=C8_163;product=hypothetical protein;protein_id=AGV01512.1
+KF261120.1	Genbank	gene	126229	126405	.	-	.	ID=gene-C8_164;Name=C8_164;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_164
+KF261120.1	Genbank	CDS	126229	126405	.	-	0	ID=cds-AGV01513.1;Parent=gene-C8_164;Dbxref=NCBI_GP:AGV01513.1;Name=AGV01513.1;gbkey=CDS;locus_tag=C8_164;product=hypothetical protein;protein_id=AGV01513.1
+KF261120.1	Genbank	gene	126374	127273	.	-	.	ID=gene-C8_165;Name=C8_165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_165
+KF261120.1	Genbank	CDS	126374	127273	.	-	0	ID=cds-AGV01514.1;Parent=gene-C8_165;Dbxref=NCBI_GP:AGV01514.1;Name=AGV01514.1;gbkey=CDS;locus_tag=C8_165;product=hypothetical protein;protein_id=AGV01514.1
+KF261120.1	Genbank	gene	127275	128000	.	-	.	ID=gene-C8_166;Name=C8_166;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_166
+KF261120.1	Genbank	CDS	127275	128000	.	-	0	ID=cds-AGV01515.1;Parent=gene-C8_166;Dbxref=NCBI_GP:AGV01515.1;Name=AGV01515.1;gbkey=CDS;locus_tag=C8_166;product=serine/threonine protein kinase;protein_id=AGV01515.1
+KF261120.1	Genbank	gene	128041	128412	.	+	.	ID=gene-C8_167;Name=C8_167;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_167
+KF261120.1	Genbank	CDS	128041	128412	.	+	0	ID=cds-AGV01516.1;Parent=gene-C8_167;Dbxref=NCBI_GP:AGV01516.1;Name=AGV01516.1;gbkey=CDS;locus_tag=C8_167;product=mannosyltransferase OCH1-like protein;protein_id=AGV01516.1
+KF261120.1	Genbank	gene	128435	129343	.	-	.	ID=gene-C8_168;Name=C8_168;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_168
+KF261120.1	Genbank	CDS	128435	129343	.	-	0	ID=cds-AGV01517.1;Parent=gene-C8_168;Dbxref=NCBI_GP:AGV01517.1;Name=AGV01517.1;gbkey=CDS;locus_tag=C8_168;product=mannosyltransferase OCH1-like protein;protein_id=AGV01517.1
+KF261120.1	Genbank	gene	129505	130764	.	-	.	ID=gene-C8_169;Name=C8_169;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_169
+KF261120.1	Genbank	CDS	129505	130764	.	-	0	ID=cds-AGV01518.1;Parent=gene-C8_169;Dbxref=NCBI_GP:AGV01518.1;Name=AGV01518.1;gbkey=CDS;locus_tag=C8_169;product=translation elongation factor EF-1alpha;protein_id=AGV01518.1
+KF261120.1	Genbank	gene	130790	131191	.	-	.	ID=gene-C8_170;Name=C8_170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_170
+KF261120.1	Genbank	CDS	130790	131191	.	-	0	ID=cds-AGV01519.1;Parent=gene-C8_170;Dbxref=NCBI_GP:AGV01519.1;Name=AGV01519.1;gbkey=CDS;locus_tag=C8_170;product=hypothetical protein;protein_id=AGV01519.1
+KF261120.1	Genbank	gene	131200	131409	.	-	.	ID=gene-C8_171;Name=C8_171;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_171
+KF261120.1	Genbank	CDS	131200	131409	.	-	0	ID=cds-AGV01520.1;Parent=gene-C8_171;Dbxref=NCBI_GP:AGV01520.1;Name=AGV01520.1;gbkey=CDS;locus_tag=C8_171;product=small membrane protein;protein_id=AGV01520.1
+KF261120.1	Genbank	gene	131433	131939	.	+	.	ID=gene-C8_172;Name=C8_172;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_172
+KF261120.1	Genbank	CDS	131433	131939	.	+	0	ID=cds-AGV01521.1;Parent=gene-C8_172;Dbxref=NCBI_GP:AGV01521.1;Name=AGV01521.1;gbkey=CDS;locus_tag=C8_172;product=histone 2A-domain-containing protein;protein_id=AGV01521.1
+KF261120.1	Genbank	gene	131967	132929	.	-	.	ID=gene-C8_173;Name=C8_173;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_173
+KF261120.1	Genbank	CDS	131967	132929	.	-	0	ID=cds-AGV01522.1;Parent=gene-C8_173;Dbxref=NCBI_GP:AGV01522.1;Name=AGV01522.1;gbkey=CDS;locus_tag=C8_173;product=hypothetical protein;protein_id=AGV01522.1
+KF261120.1	Genbank	gene	133002	133194	.	+	.	ID=gene-C8_174;Name=C8_174;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_174
+KF261120.1	Genbank	CDS	133003	133194	.	+	0	ID=cds-AGV01523.1;Parent=gene-C8_174;Dbxref=NCBI_GP:AGV01523.1;Name=AGV01523.1;gbkey=CDS;locus_tag=C8_174;product=hypothetical protein;protein_id=AGV01523.1
+KF261120.1	Genbank	gene	133234	133860	.	+	.	ID=gene-C8_175;Name=C8_175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_175
+KF261120.1	Genbank	CDS	133234	133860	.	+	0	ID=cds-AGV01524.1;Parent=gene-C8_175;Dbxref=NCBI_GP:AGV01524.1;Name=AGV01524.1;gbkey=CDS;locus_tag=C8_175;product=hypothetical protein;protein_id=AGV01524.1
+KF261120.1	Genbank	gene	133857	134045	.	-	.	ID=gene-C8_176;Name=C8_176;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_176
+KF261120.1	Genbank	CDS	133857	134045	.	-	0	ID=cds-AGV01525.1;Parent=gene-C8_176;Dbxref=NCBI_GP:AGV01525.1;Name=AGV01525.1;gbkey=CDS;locus_tag=C8_176;product=hypothetical protein;protein_id=AGV01525.1
+KF261120.1	Genbank	gene	134076	134813	.	-	.	ID=gene-C8_177;Name=C8_177;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_177
+KF261120.1	Genbank	CDS	134076	134813	.	-	0	ID=cds-AGV01526.1;Parent=gene-C8_177;Dbxref=NCBI_GP:AGV01526.1;Name=AGV01526.1;gbkey=CDS;locus_tag=C8_177;product=hypothetical protein;protein_id=AGV01526.1
+KF261120.1	Genbank	gene	134850	135398	.	-	.	ID=gene-C8_178;Name=C8_178;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_178
+KF261120.1	Genbank	CDS	134850	135398	.	-	0	ID=cds-AGV01527.1;Parent=gene-C8_178;Dbxref=NCBI_GP:AGV01527.1;Name=AGV01527.1;gbkey=CDS;locus_tag=C8_178;product=hypothetical protein;protein_id=AGV01527.1
+KF261120.1	Genbank	gene	135430	137742	.	-	.	ID=gene-C8_179;Name=C8_179;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_179
+KF261120.1	Genbank	CDS	135430	137742	.	-	0	ID=cds-AGV01528.1;Parent=gene-C8_179;Dbxref=NCBI_GP:AGV01528.1;Name=AGV01528.1;gbkey=CDS;locus_tag=C8_179;product=DNA topoisomerase II;protein_id=AGV01528.1
+KF261120.1	Genbank	gene	137639	138676	.	-	.	ID=gene-C8_180;Name=C8_180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_180
+KF261120.1	Genbank	CDS	137639	138676	.	-	0	ID=cds-AGV01529.1;Parent=gene-C8_180;Dbxref=NCBI_GP:AGV01529.1;Name=AGV01529.1;gbkey=CDS;locus_tag=C8_180;product=DNA topoismerase II;protein_id=AGV01529.1
+KF261120.1	Genbank	gene	138743	138937	.	-	.	ID=gene-C8_181;Name=C8_181;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_181
+KF261120.1	Genbank	CDS	138743	138937	.	-	0	ID=cds-AGV01530.1;Parent=gene-C8_181;Dbxref=NCBI_GP:AGV01530.1;Name=AGV01530.1;gbkey=CDS;locus_tag=C8_181;product=hypothetical protein;protein_id=AGV01530.1
+KF261120.1	Genbank	gene	138939	139490	.	+	.	ID=gene-C8_182;Name=C8_182;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_182
+KF261120.1	Genbank	CDS	138939	139490	.	+	0	ID=cds-AGV01531.1;Parent=gene-C8_182;Dbxref=NCBI_GP:AGV01531.1;Name=AGV01531.1;gbkey=CDS;locus_tag=C8_182;product=hypothetical protein;protein_id=AGV01531.1
+KF261120.1	Genbank	gene	139526	139891	.	+	.	ID=gene-C8_183;Name=C8_183;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_183
+KF261120.1	Genbank	CDS	139526	139891	.	+	0	ID=cds-AGV01532.1;Parent=gene-C8_183;Dbxref=NCBI_GP:AGV01532.1;Name=AGV01532.1;gbkey=CDS;locus_tag=C8_183;product=hypothetical protein;protein_id=AGV01532.1
+KF261120.1	Genbank	gene	139966	140280	.	+	.	ID=gene-C8_184;Name=C8_184;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_184
+KF261120.1	Genbank	CDS	139966	140280	.	+	0	ID=cds-AGV01533.1;Parent=gene-C8_184;Dbxref=NCBI_GP:AGV01533.1;Name=AGV01533.1;gbkey=CDS;locus_tag=C8_184;product=hypothetical protein;protein_id=AGV01533.1
+KF261120.1	Genbank	gene	140339	140881	.	-	.	ID=gene-C8_185;Name=C8_185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_185
+KF261120.1	Genbank	CDS	140339	140881	.	-	0	ID=cds-AGV01534.1;Parent=gene-C8_185;Dbxref=NCBI_GP:AGV01534.1;Name=AGV01534.1;gbkey=CDS;locus_tag=C8_185;product=hypothetical protein;protein_id=AGV01534.1
+KF261120.1	Genbank	gene	140905	141279	.	+	.	ID=gene-C8_186;Name=C8_186;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_186
+KF261120.1	Genbank	CDS	140905	141279	.	+	0	ID=cds-AGV01535.1;Parent=gene-C8_186;Dbxref=NCBI_GP:AGV01535.1;Name=AGV01535.1;gbkey=CDS;locus_tag=C8_186;product=hypothetical protein;protein_id=AGV01535.1
+KF261120.1	Genbank	gene	141310	141618	.	+	.	ID=gene-C8_187;Name=C8_187;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_187
+KF261120.1	Genbank	CDS	141310	141618	.	+	0	ID=cds-AGV01536.1;Parent=gene-C8_187;Dbxref=NCBI_GP:AGV01536.1;Name=AGV01536.1;gbkey=CDS;locus_tag=C8_187;product=hypothetical protein;protein_id=AGV01536.1
+KF261120.1	Genbank	gene	141587	142576	.	-	.	ID=gene-C8_188;Name=C8_188;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_188
+KF261120.1	Genbank	CDS	141587	142576	.	-	0	ID=cds-AGV01537.1;Parent=gene-C8_188;Dbxref=NCBI_GP:AGV01537.1;Name=AGV01537.1;gbkey=CDS;locus_tag=C8_188;product=putative nuclease;protein_id=AGV01537.1
+KF261120.1	Genbank	gene	142648	142995	.	+	.	ID=gene-C8_189;Name=C8_189;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_189
+KF261120.1	Genbank	CDS	142648	142995	.	+	0	ID=cds-AGV01538.1;Parent=gene-C8_189;Dbxref=NCBI_GP:AGV01538.1;Name=AGV01538.1;gbkey=CDS;locus_tag=C8_189;product=hypothetical protein;protein_id=AGV01538.1
+KF261120.1	Genbank	gene	143038	144579	.	-	.	ID=gene-C8_190;Name=C8_190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_190
+KF261120.1	Genbank	CDS	143038	144579	.	-	0	ID=cds-AGV01539.1;Parent=gene-C8_190;Dbxref=NCBI_GP:AGV01539.1;Name=AGV01539.1;Note=found in diverse bacterial and phage proteins;gbkey=CDS;locus_tag=C8_190;product=putative conserved domain protein;protein_id=AGV01539.1
+KF261120.1	Genbank	gene	145606	149118	.	-	.	ID=gene-C8_191;Name=C8_191;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_191
+KF261120.1	Genbank	CDS	145606	149118	.	-	0	ID=cds-AGV01540.1;Parent=gene-C8_191;Dbxref=NCBI_GP:AGV01540.1;Name=AGV01540.1;gbkey=CDS;locus_tag=C8_191;product=helicase origin-binding-protein;protein_id=AGV01540.1
+KF261120.1	Genbank	gene	149217	149486	.	+	.	ID=gene-C8_192;Name=C8_192;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_192
+KF261120.1	Genbank	CDS	149217	149486	.	+	0	ID=cds-AGV01541.1;Parent=gene-C8_192;Dbxref=NCBI_GP:AGV01541.1;Name=AGV01541.1;gbkey=CDS;locus_tag=C8_192;product=hypothetical protein;protein_id=AGV01541.1
+KF261120.1	Genbank	gene	149596	149802	.	-	.	ID=gene-C8_193;Name=C8_193;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_193
+KF261120.1	Genbank	CDS	149596	149802	.	-	0	ID=cds-AGV01542.1;Parent=gene-C8_193;Dbxref=NCBI_GP:AGV01542.1;Name=AGV01542.1;gbkey=CDS;locus_tag=C8_193;product=hypothetical protein;protein_id=AGV01542.1
+KF261120.1	Genbank	gene	149848	150381	.	-	.	ID=gene-C8_194;Name=C8_194;end_range=150381,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_194;partial=true
+KF261120.1	Genbank	CDS	149848	150381	.	-	0	ID=cds-AGV01543.1;Parent=gene-C8_194;Dbxref=NCBI_GP:AGV01543.1;Name=AGV01543.1;Note=start codon not determined;end_range=150381,.;gbkey=CDS;locus_tag=C8_194;partial=true;product=hypothetical protein;protein_id=AGV01543.1
+KF261120.1	Genbank	gene	150410	151066	.	+	.	ID=gene-C8_195;Name=C8_195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_195
+KF261120.1	Genbank	CDS	150410	151066	.	+	0	ID=cds-AGV01544.1;Parent=gene-C8_195;Dbxref=NCBI_GP:AGV01544.1;Name=AGV01544.1;gbkey=CDS;locus_tag=C8_195;product=hypothetical protein;protein_id=AGV01544.1
+KF261120.1	Genbank	gene	151073	152011	.	-	.	ID=gene-C8_196;Name=C8_196;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_196
+KF261120.1	Genbank	CDS	151073	152011	.	-	0	ID=cds-AGV01545.1;Parent=gene-C8_196;Dbxref=NCBI_GP:AGV01545.1;Name=AGV01545.1;gbkey=CDS;locus_tag=C8_196;product=class 3 lipase;protein_id=AGV01545.1
+KF261120.1	Genbank	gene	152023	152394	.	+	.	ID=gene-C8_197;Name=C8_197;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_197
+KF261120.1	Genbank	CDS	152023	152394	.	+	0	ID=cds-AGV01546.1;Parent=gene-C8_197;Dbxref=NCBI_GP:AGV01546.1;Name=AGV01546.1;gbkey=CDS;locus_tag=C8_197;product=hypothetical protein;protein_id=AGV01546.1
+KF261120.1	Genbank	gene	152466	153098	.	+	.	ID=gene-C8_198;Name=C8_198;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_198
+KF261120.1	Genbank	CDS	152466	153098	.	+	0	ID=cds-AGV01547.1;Parent=gene-C8_198;Dbxref=NCBI_GP:AGV01547.1;Name=AGV01547.1;gbkey=CDS;locus_tag=C8_198;product=serine/threonine protein kinase;protein_id=AGV01547.1
+KF261120.1	Genbank	gene	153095	153304	.	+	.	ID=gene-C8_199;Name=C8_199;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_199
+KF261120.1	Genbank	CDS	153095	153304	.	+	0	ID=cds-AGV01548.1;Parent=gene-C8_199;Dbxref=NCBI_GP:AGV01548.1;Name=AGV01548.1;gbkey=CDS;locus_tag=C8_199;product=serine/threonine protein kinase;protein_id=AGV01548.1
+KF261120.1	Genbank	gene	153329	153877	.	-	.	ID=gene-C8_200;Name=C8_200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_200
+KF261120.1	Genbank	CDS	153329	153877	.	-	0	ID=cds-AGV01549.1;Parent=gene-C8_200;Dbxref=NCBI_GP:AGV01549.1;Name=AGV01549.1;gbkey=CDS;locus_tag=C8_200;product=hypothetical protein;protein_id=AGV01549.1
+KF261120.1	Genbank	gene	153940	155286	.	-	.	ID=gene-C8_201;Name=C8_201;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_201
+KF261120.1	Genbank	CDS	153940	155286	.	-	0	ID=cds-AGV01550.1;Parent=gene-C8_201;Dbxref=NCBI_GP:AGV01550.1;Name=AGV01550.1;gbkey=CDS;locus_tag=C8_201;product=zinc finger protein;protein_id=AGV01550.1
+KF261120.1	Genbank	gene	155658	159551	.	-	.	ID=gene-C8_202;Name=C8_202;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_202
+KF261120.1	Genbank	CDS	155658	159551	.	-	0	ID=cds-AGV01551.1;Parent=gene-C8_202;Dbxref=NCBI_GP:AGV01551.1;Name=AGV01551.1;gbkey=CDS;locus_tag=C8_202;product=hypothetical protein;protein_id=AGV01551.1
+KF261120.1	Genbank	gene	159711	160442	.	-	.	ID=gene-C8_203;Name=C8_203;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_203
+KF261120.1	Genbank	CDS	159711	160442	.	-	0	ID=cds-AGV01552.1;Parent=gene-C8_203;Dbxref=NCBI_GP:AGV01552.1;Name=AGV01552.1;gbkey=CDS;locus_tag=C8_203;product=serine/threonine protein kinase;protein_id=AGV01552.1
+KF261120.1	Genbank	gene	160462	160731	.	+	.	ID=gene-C8_204;Name=C8_204;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_204
+KF261120.1	Genbank	CDS	160462	160731	.	+	0	ID=cds-AGV01553.1;Parent=gene-C8_204;Dbxref=NCBI_GP:AGV01553.1;Name=AGV01553.1;gbkey=CDS;locus_tag=C8_204;product=hypothetical protein;protein_id=AGV01553.1
+KF261120.1	Genbank	gene	160752	162002	.	-	.	ID=gene-C8_205;Name=C8_205;end_range=162002,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_205;partial=true
+KF261120.1	Genbank	CDS	160752	162002	.	-	0	ID=cds-AGV01554.1;Parent=gene-C8_205;Dbxref=NCBI_GP:AGV01554.1;Name=AGV01554.1;Note=start codon not determined;end_range=162002,.;gbkey=CDS;locus_tag=C8_205;partial=true;product=RNA ligase;protein_id=AGV01554.1
+KF261120.1	Genbank	gene	162027	162437	.	+	.	ID=gene-C8_206;Name=C8_206;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_206
+KF261120.1	Genbank	CDS	162027	162437	.	+	0	ID=cds-AGV01555.1;Parent=gene-C8_206;Dbxref=NCBI_GP:AGV01555.1;Name=AGV01555.1;gbkey=CDS;locus_tag=C8_206;product=hypothetical protein;protein_id=AGV01555.1
+KF261120.1	Genbank	gene	162463	163386	.	+	.	ID=gene-C8_207;Name=C8_207;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_207
+KF261120.1	Genbank	CDS	162463	163386	.	+	0	ID=cds-AGV01556.1;Parent=gene-C8_207;Dbxref=NCBI_GP:AGV01556.1;Name=AGV01556.1;gbkey=CDS;locus_tag=C8_207;product=serine/threonine protein kinase;protein_id=AGV01556.1
+KF261120.1	Genbank	gene	163409	164971	.	-	.	ID=gene-C8_208;Name=C8_208;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_208
+KF261120.1	Genbank	CDS	163409	164971	.	-	0	ID=cds-AGV01557.1;Parent=gene-C8_208;Dbxref=NCBI_GP:AGV01557.1;Name=AGV01557.1;gbkey=CDS;locus_tag=C8_208;product=hypothetical protein;protein_id=AGV01557.1
+KF261120.1	Genbank	gene	165008	165400	.	+	.	ID=gene-C8_209;Name=C8_209;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_209
+KF261120.1	Genbank	CDS	165008	165400	.	+	0	ID=cds-AGV01558.1;Parent=gene-C8_209;Dbxref=NCBI_GP:AGV01558.1;Name=AGV01558.1;gbkey=CDS;locus_tag=C8_209;product=hypothetical protein;protein_id=AGV01558.1
+KF261120.1	Genbank	gene	165397	165723	.	+	.	ID=gene-C8_210;Name=C8_210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_210
+KF261120.1	Genbank	CDS	165397	165723	.	+	0	ID=cds-AGV01559.1;Parent=gene-C8_210;Dbxref=NCBI_GP:AGV01559.1;Name=AGV01559.1;gbkey=CDS;locus_tag=C8_210;product=hypothetical protein;protein_id=AGV01559.1
+KF261120.1	Genbank	gene	165742	168069	.	-	.	ID=gene-C8_211;Name=C8_211;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_211
+KF261120.1	Genbank	CDS	165742	168069	.	-	0	ID=cds-AGV01560.1;Parent=gene-C8_211;Dbxref=NCBI_GP:AGV01560.1;Name=AGV01560.1;gbkey=CDS;locus_tag=C8_211;product=D6/D11-like helicase;protein_id=AGV01560.1
+KF261120.1	Genbank	gene	168059	168577	.	+	.	ID=gene-C8_212;Name=C8_212;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_212
+KF261120.1	Genbank	CDS	168059	168577	.	+	0	ID=cds-AGV01561.1;Parent=gene-C8_212;Dbxref=NCBI_GP:AGV01561.1;Name=AGV01561.1;gbkey=CDS;locus_tag=C8_212;product=hypothetical protein;protein_id=AGV01561.1
+KF261120.1	Genbank	gene	168599	169183	.	-	.	ID=gene-C8_213;Name=C8_213;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_213
+KF261120.1	Genbank	CDS	168599	169183	.	-	0	ID=cds-AGV01562.1;Parent=gene-C8_213;Dbxref=NCBI_GP:AGV01562.1;Name=AGV01562.1;gbkey=CDS;locus_tag=C8_213;product=hypothetical protein;protein_id=AGV01562.1
+KF261120.1	Genbank	gene	169183	169572	.	-	.	ID=gene-C8_214;Name=C8_214;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_214
+KF261120.1	Genbank	CDS	169183	169572	.	-	0	ID=cds-AGV01563.1;Parent=gene-C8_214;Dbxref=NCBI_GP:AGV01563.1;Name=AGV01563.1;gbkey=CDS;locus_tag=C8_214;product=RING finger E3 ubiquitin protein ligase;protein_id=AGV01563.1
+KF261120.1	Genbank	gene	169617	170162	.	+	.	ID=gene-C8_215;Name=C8_215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_215
+KF261120.1	Genbank	CDS	169617	170162	.	+	0	ID=cds-AGV01564.1;Parent=gene-C8_215;Dbxref=NCBI_GP:AGV01564.1;Name=AGV01564.1;gbkey=CDS;locus_tag=C8_215;product=hypothetical protein;protein_id=AGV01564.1
+KF261120.1	Genbank	gene	170181	170519	.	-	.	ID=gene-C8_216;Name=C8_216;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_216
+KF261120.1	Genbank	CDS	170181	170519	.	-	0	ID=cds-AGV01565.1;Parent=gene-C8_216;Dbxref=NCBI_GP:AGV01565.1;Name=AGV01565.1;gbkey=CDS;locus_tag=C8_216;product=hypothetical protein;protein_id=AGV01565.1
+KF261120.1	Genbank	gene	170531	170926	.	+	.	ID=gene-C8_217;Name=C8_217;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_217
+KF261120.1	Genbank	CDS	170531	170926	.	+	0	ID=cds-AGV01566.1;Parent=gene-C8_217;Dbxref=NCBI_GP:AGV01566.1;Name=AGV01566.1;Note=conserved in NCLDV;gbkey=CDS;locus_tag=C8_217;product=hypothetical protein;protein_id=AGV01566.1
+KF261120.1	Genbank	gene	170946	171608	.	-	.	ID=gene-C8_218;Name=C8_218;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_218
+KF261120.1	Genbank	CDS	170946	171608	.	-	0	ID=cds-AGV01567.1;Parent=gene-C8_218;Dbxref=NCBI_GP:AGV01567.1;Name=AGV01567.1;gbkey=CDS;locus_tag=C8_218;product=Rossmann-fold nucleotide-binding protein;protein_id=AGV01567.1
+KF261120.1	Genbank	gene	171649	174399	.	-	.	ID=gene-C8_219;Name=C8_219;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_219
+KF261120.1	Genbank	CDS	171649	174399	.	-	0	ID=cds-AGV01568.1;Parent=gene-C8_219;Dbxref=NCBI_GP:AGV01568.1;Name=AGV01568.1;gbkey=CDS;locus_tag=C8_219;product=ribonucleoside diphosphate reductase alpha subunit;protein_id=AGV01568.1
+KF261120.1	Genbank	gene	174432	175328	.	+	.	ID=gene-C8_220;Name=C8_220;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_220
+KF261120.1	Genbank	CDS	174432	175328	.	+	0	ID=cds-AGV01569.1;Parent=gene-C8_220;Dbxref=NCBI_GP:AGV01569.1;Name=AGV01569.1;gbkey=CDS;locus_tag=C8_220;product=proliferating cell nuclear antigen;protein_id=AGV01569.1
+KF261120.1	Genbank	gene	175391	176200	.	+	.	ID=gene-C8_221;Name=C8_221;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_221
+KF261120.1	Genbank	CDS	175391	176200	.	+	0	ID=cds-AGV01570.1;Parent=gene-C8_221;Dbxref=NCBI_GP:AGV01570.1;Name=AGV01570.1;gbkey=CDS;locus_tag=C8_221;product=transcription initiation factor TFIIB;protein_id=AGV01570.1
+KF261120.1	Genbank	gene	176222	176449	.	-	.	ID=gene-C8_222;Name=C8_222;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_222
+KF261120.1	Genbank	CDS	176222	176449	.	-	0	ID=cds-AGV01571.1;Parent=gene-C8_222;Dbxref=NCBI_GP:AGV01571.1;Name=AGV01571.1;gbkey=CDS;locus_tag=C8_222;product=hypothetical protein;protein_id=AGV01571.1
+KF261120.1	Genbank	gene	176473	176877	.	-	.	ID=gene-C8_223;Name=C8_223;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_223
+KF261120.1	Genbank	CDS	176473	176877	.	-	0	ID=cds-AGV01572.1;Parent=gene-C8_223;Dbxref=NCBI_GP:AGV01572.1;Name=AGV01572.1;gbkey=CDS;locus_tag=C8_223;product=hypothetical protein;protein_id=AGV01572.1
+KF261120.1	Genbank	gene	176880	177614	.	-	.	ID=gene-C8_224;Name=C8_224;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_224
+KF261120.1	Genbank	CDS	176880	177614	.	-	0	ID=cds-AGV01573.1;Parent=gene-C8_224;Dbxref=NCBI_GP:AGV01573.1;Name=AGV01573.1;gbkey=CDS;locus_tag=C8_224;product=RuvC-like Holliday junction resolvase;protein_id=AGV01573.1
+KF261120.1	Genbank	gene	177651	178121	.	-	.	ID=gene-C8_225;Name=C8_225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_225
+KF261120.1	Genbank	CDS	177651	178121	.	-	0	ID=cds-AGV01574.1;Parent=gene-C8_225;Dbxref=NCBI_GP:AGV01574.1;Name=AGV01574.1;gbkey=CDS;locus_tag=C8_225;product=dNMP kinase;protein_id=AGV01574.1
+KF261120.1	Genbank	gene	178128	178445	.	+	.	ID=gene-C8_226;Name=C8_226;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_226
+KF261120.1	Genbank	CDS	178128	178445	.	+	0	ID=cds-AGV01575.1;Parent=gene-C8_226;Dbxref=NCBI_GP:AGV01575.1;Name=AGV01575.1;gbkey=CDS;locus_tag=C8_226;product=hypothetical protein;protein_id=AGV01575.1
+KF261120.1	Genbank	gene	178467	179120	.	-	.	ID=gene-C8_227;Name=C8_227;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_227
+KF261120.1	Genbank	CDS	178467	179120	.	-	0	ID=cds-AGV01576.1;Parent=gene-C8_227;Dbxref=NCBI_GP:AGV01576.1;Name=AGV01576.1;gbkey=CDS;locus_tag=C8_227;product=hypothetical protein;protein_id=AGV01576.1
+KF261120.1	Genbank	gene	179145	179354	.	-	.	ID=gene-C8_228;Name=C8_228;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_228
+KF261120.1	Genbank	CDS	179145	179354	.	-	0	ID=cds-AGV01577.1;Parent=gene-C8_228;Dbxref=NCBI_GP:AGV01577.1;Name=AGV01577.1;gbkey=CDS;locus_tag=C8_228;product=zinc finger-like fusion protein;protein_id=AGV01577.1
+KF261120.1	Genbank	gene	179390	180043	.	+	.	ID=gene-C8_229;Name=C8_229;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_229
+KF261120.1	Genbank	CDS	179390	180043	.	+	0	ID=cds-AGV01578.1;Parent=gene-C8_229;Dbxref=NCBI_GP:AGV01578.1;Name=AGV01578.1;gbkey=CDS;locus_tag=C8_229;product=hypothetical protein;protein_id=AGV01578.1
+KF261120.1	Genbank	gene	180063	180527	.	-	.	ID=gene-C8_230;Name=C8_230;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_230
+KF261120.1	Genbank	CDS	180063	180527	.	-	0	ID=cds-AGV01579.1;Parent=gene-C8_230;Dbxref=NCBI_GP:AGV01579.1;Name=AGV01579.1;gbkey=CDS;locus_tag=C8_230;product=transcription factor S-II-domain-containing protein RNAP subunit;protein_id=AGV01579.1
+KF261120.1	Genbank	gene	180577	181614	.	+	.	ID=gene-C8_231;Name=C8_231;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_231
+KF261120.1	Genbank	CDS	180577	181614	.	+	0	ID=cds-AGV01580.1;Parent=gene-C8_231;Dbxref=NCBI_GP:AGV01580.1;Name=AGV01580.1;gbkey=CDS;locus_tag=C8_231;product=class 3 lipase;protein_id=AGV01580.1
+KF261120.1	Genbank	gene	181639	182385	.	-	.	ID=gene-C8_232;Name=C8_232;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_232
+KF261120.1	Genbank	CDS	181639	182385	.	-	0	ID=cds-AGV01581.1;Parent=gene-C8_232;Dbxref=NCBI_GP:AGV01581.1;Name=AGV01581.1;gbkey=CDS;locus_tag=C8_232;product=hypothetical protein;protein_id=AGV01581.1
+KF261120.1	Genbank	gene	182427	182771	.	-	.	ID=gene-C8_233;Name=C8_233;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_233
+KF261120.1	Genbank	CDS	182427	182771	.	-	0	ID=cds-AGV01582.1;Parent=gene-C8_233;Dbxref=NCBI_GP:AGV01582.1;Name=AGV01582.1;gbkey=CDS;locus_tag=C8_233;product=hypothetical protein;protein_id=AGV01582.1
+KF261120.1	Genbank	gene	182804	185170	.	-	.	ID=gene-C8_234;Name=C8_234;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_234
+KF261120.1	Genbank	CDS	182804	185170	.	-	0	ID=cds-AGV01583.1;Parent=gene-C8_234;Dbxref=NCBI_GP:AGV01583.1;Name=AGV01583.1;gbkey=CDS;locus_tag=C8_234;product=hypothetical protein;protein_id=AGV01583.1
+KF261120.1	Genbank	gene	185212	185838	.	+	.	ID=gene-C8_235;Name=C8_235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_235
+KF261120.1	Genbank	CDS	185212	185838	.	+	0	ID=cds-AGV01584.1;Parent=gene-C8_235;Dbxref=NCBI_GP:AGV01584.1;Name=AGV01584.1;gbkey=CDS;locus_tag=C8_235;product=putative RNA methyltransferase;protein_id=AGV01584.1
+KF261120.1	Genbank	gene	185875	186759	.	+	.	ID=gene-C8_236;Name=C8_236;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_236
+KF261120.1	Genbank	CDS	185875	186759	.	+	0	ID=cds-AGV01585.1;Parent=gene-C8_236;Dbxref=NCBI_GP:AGV01585.1;Name=AGV01585.1;gbkey=CDS;locus_tag=C8_236;product=patatin-like phospholipase;protein_id=AGV01585.1
+KF261120.1	Genbank	gene	186836	187966	.	+	.	ID=gene-C8_237;Name=C8_237;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_237
+KF261120.1	Genbank	CDS	186836	187966	.	+	0	ID=cds-AGV01586.1;Parent=gene-C8_237;Dbxref=NCBI_GP:AGV01586.1;Name=AGV01586.1;Note=conserved in Mimi-%2C Phycodna-%2C and Iridoviridae;gbkey=CDS;locus_tag=C8_237;product=putative C-terminal domain protein;protein_id=AGV01586.1
+KF261120.1	Genbank	gene	187988	189154	.	-	.	ID=gene-C8_238;Name=C8_238;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_238
+KF261120.1	Genbank	CDS	187988	189154	.	-	0	ID=cds-AGV01587.1;Parent=gene-C8_238;Dbxref=NCBI_GP:AGV01587.1;Name=AGV01587.1;Note=present in MIMI L371;gbkey=CDS;locus_tag=C8_238;product=putative conserved domain;protein_id=AGV01587.1
+KF261120.1	Genbank	gene	189186	189560	.	-	.	ID=gene-C8_239;Name=C8_239;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_239
+KF261120.1	Genbank	CDS	189186	189560	.	-	0	ID=cds-AGV01588.1;Parent=gene-C8_239;Dbxref=NCBI_GP:AGV01588.1;Name=AGV01588.1;gbkey=CDS;locus_tag=C8_239;product=thioredoxin;protein_id=AGV01588.1
+KF261120.1	Genbank	gene	189599	190042	.	-	.	ID=gene-C8_240;Name=C8_240;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_240
+KF261120.1	Genbank	CDS	189599	190042	.	-	0	ID=cds-AGV01589.1;Parent=gene-C8_240;Dbxref=NCBI_GP:AGV01589.1;Name=AGV01589.1;gbkey=CDS;locus_tag=C8_240;product=hypothetical protein;protein_id=AGV01589.1
+KF261120.1	Genbank	gene	190049	190993	.	-	.	ID=gene-C8_241;Name=C8_241;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_241
+KF261120.1	Genbank	CDS	190049	190993	.	-	0	ID=cds-AGV01590.1;Parent=gene-C8_241;Dbxref=NCBI_GP:AGV01590.1;Name=AGV01590.1;gbkey=CDS;locus_tag=C8_241;product=hypothetical protein;protein_id=AGV01590.1
+KF261120.1	Genbank	gene	191037	191654	.	-	.	ID=gene-C8_242;Name=C8_242;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_242
+KF261120.1	Genbank	CDS	191037	191654	.	-	0	ID=cds-AGV01591.1;Parent=gene-C8_242;Dbxref=NCBI_GP:AGV01591.1;Name=AGV01591.1;gbkey=CDS;locus_tag=C8_242;product=hypothetical protein;protein_id=AGV01591.1
+KF261120.1	Genbank	gene	191683	192006	.	+	.	ID=gene-C8_243;Name=C8_243;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_243
+KF261120.1	Genbank	CDS	191683	192006	.	+	0	ID=cds-AGV01592.1;Parent=gene-C8_243;Dbxref=NCBI_GP:AGV01592.1;Name=AGV01592.1;gbkey=CDS;locus_tag=C8_243;product=hypothetical protein;protein_id=AGV01592.1
+KF261120.1	Genbank	gene	192031	192654	.	-	.	ID=gene-C8_244;Name=C8_244;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_244
+KF261120.1	Genbank	CDS	192031	192654	.	-	0	ID=cds-AGV01593.1;Parent=gene-C8_244;Dbxref=NCBI_GP:AGV01593.1;Name=AGV01593.1;gbkey=CDS;locus_tag=C8_244;product=thymidine kinase;protein_id=AGV01593.1
+KF261120.1	Genbank	gene	192776	193201	.	+	.	ID=gene-C8_245;Name=C8_245;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_245
+KF261120.1	Genbank	CDS	192776	193201	.	+	0	ID=cds-AGV01594.1;Parent=gene-C8_245;Dbxref=NCBI_GP:AGV01594.1;Name=AGV01594.1;gbkey=CDS;locus_tag=C8_245;product=zinc finger/DNA-binding protein;protein_id=AGV01594.1
+KF261120.1	Genbank	gene	193230	193712	.	+	.	ID=gene-C8_246;Name=C8_246;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_246
+KF261120.1	Genbank	CDS	193230	193712	.	+	0	ID=cds-AGV01595.1;Parent=gene-C8_246;Dbxref=NCBI_GP:AGV01595.1;Name=AGV01595.1;gbkey=CDS;locus_tag=C8_246;product=hypothetical protein;protein_id=AGV01595.1
+KF261120.1	Genbank	gene	193709	194557	.	-	.	ID=gene-C8_247;Name=C8_247;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_247
+KF261120.1	Genbank	CDS	193709	194557	.	-	0	ID=cds-AGV01596.1;Parent=gene-C8_247;Dbxref=NCBI_GP:AGV01596.1;Name=AGV01596.1;gbkey=CDS;locus_tag=C8_247;product=hypothetical protein;protein_id=AGV01596.1
+KF261120.1	Genbank	gene	194879	195451	.	+	.	ID=gene-C8_248;Name=C8_248;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_248
+KF261120.1	Genbank	CDS	194879	195451	.	+	0	ID=cds-AGV01597.1;Parent=gene-C8_248;Dbxref=NCBI_GP:AGV01597.1;Name=AGV01597.1;gbkey=CDS;locus_tag=C8_248;product=hypothetical protein;protein_id=AGV01597.1
+KF261120.1	Genbank	gene	195478	200091	.	-	.	ID=gene-C8_249;Name=C8_249;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_249
+KF261120.1	Genbank	CDS	195478	200091	.	-	0	ID=cds-AGV01598.1;Parent=gene-C8_249;Dbxref=NCBI_GP:AGV01598.1;Name=AGV01598.1;gbkey=CDS;locus_tag=C8_249;product=D6/D11-like helicase;protein_id=AGV01598.1
+KF261120.1	Genbank	gene	200134	200637	.	-	.	ID=gene-C8_250;Name=C8_250;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_250
+KF261120.1	Genbank	CDS	200134	200637	.	-	0	ID=cds-AGV01599.1;Parent=gene-C8_250;Dbxref=NCBI_GP:AGV01599.1;Name=AGV01599.1;gbkey=CDS;locus_tag=C8_250;product=NUDIX hydrolase;protein_id=AGV01599.1
+KF261120.1	Genbank	gene	200688	201020	.	+	.	ID=gene-C8_251;Name=C8_251;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_251
+KF261120.1	Genbank	CDS	200688	201020	.	+	0	ID=cds-AGV01600.1;Parent=gene-C8_251;Dbxref=NCBI_GP:AGV01600.1;Name=AGV01600.1;gbkey=CDS;locus_tag=C8_251;product=hypothetical protein;protein_id=AGV01600.1
+KF261120.1	Genbank	gene	201079	202017	.	+	.	ID=gene-C8_252;Name=C8_252;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_252
+KF261120.1	Genbank	CDS	201079	202017	.	+	0	ID=cds-AGV01601.1;Parent=gene-C8_252;Dbxref=NCBI_GP:AGV01601.1;Name=AGV01601.1;gbkey=CDS;locus_tag=C8_252;product=ribonuclease III;protein_id=AGV01601.1
+KF261120.1	Genbank	gene	202404	203903	.	+	.	ID=gene-C8_253;Name=C8_253;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_253
+KF261120.1	Genbank	CDS	202404	203903	.	+	0	ID=cds-AGV01602.1;Parent=gene-C8_253;Dbxref=NCBI_GP:AGV01602.1;Name=AGV01602.1;gbkey=CDS;locus_tag=C8_253;product=restriction endonuclease;protein_id=AGV01602.1
+KF261120.1	Genbank	gene	203926	204594	.	+	.	ID=gene-C8_254;Name=C8_254;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_254
+KF261120.1	Genbank	CDS	203926	204594	.	+	0	ID=cds-AGV01603.1;Parent=gene-C8_254;Dbxref=NCBI_GP:AGV01603.1;Name=AGV01603.1;gbkey=CDS;locus_tag=C8_254;product=hypothetical protein;protein_id=AGV01603.1
+KF261120.1	Genbank	gene	205058	205603	.	+	.	ID=gene-C8_255;Name=C8_255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_255
+KF261120.1	Genbank	CDS	205058	205603	.	+	0	ID=cds-AGV01604.1;Parent=gene-C8_255;Dbxref=NCBI_GP:AGV01604.1;Name=AGV01604.1;gbkey=CDS;locus_tag=C8_255;product=hypothetical protein;protein_id=AGV01604.1
+KF261120.1	Genbank	gene	205594	206241	.	+	.	ID=gene-C8_256;Name=C8_256;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_256
+KF261120.1	Genbank	CDS	205594	206241	.	+	0	ID=cds-AGV01605.1;Parent=gene-C8_256;Dbxref=NCBI_GP:AGV01605.1;Name=AGV01605.1;gbkey=CDS;locus_tag=C8_256;product=mg465;protein_id=AGV01605.1
+KF261120.1	Genbank	gene	206320	206547	.	+	.	ID=gene-C8_257;Name=C8_257;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_257
+KF261120.1	Genbank	CDS	206320	206547	.	+	0	ID=cds-AGV01606.1;Parent=gene-C8_257;Dbxref=NCBI_GP:AGV01606.1;Name=AGV01606.1;gbkey=CDS;locus_tag=C8_257;product=ubiquitin;protein_id=AGV01606.1
+KF261120.1	Genbank	gene	206571	208025	.	-	.	ID=gene-C8_258;Name=C8_258;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_258
+KF261120.1	Genbank	CDS	206571	208025	.	-	0	ID=cds-AGV01607.1;Parent=gene-C8_258;Dbxref=NCBI_GP:AGV01607.1;Name=AGV01607.1;gbkey=CDS;locus_tag=C8_258;product=MutH/Vsr/archaeal HJR-like endonuclease;protein_id=AGV01607.1
+KF261120.1	Genbank	gene	208022	208327	.	-	.	ID=gene-C8_259;Name=C8_259;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_259
+KF261120.1	Genbank	CDS	208022	208327	.	-	0	ID=cds-AGV01608.1;Parent=gene-C8_259;Dbxref=NCBI_GP:AGV01608.1;Name=AGV01608.1;gbkey=CDS;locus_tag=C8_259;product=hypothetical protein;protein_id=AGV01608.1
+KF261120.1	Genbank	gene	208383	208634	.	+	.	ID=gene-C8_260;Name=C8_260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_260
+KF261120.1	Genbank	CDS	208383	208634	.	+	0	ID=cds-AGV01609.1;Parent=gene-C8_260;Dbxref=NCBI_GP:AGV01609.1;Name=AGV01609.1;gbkey=CDS;locus_tag=C8_260;product=hypothetical protein;protein_id=AGV01609.1
+KF261120.1	Genbank	gene	208838	209089	.	-	.	ID=gene-C8_261;Name=C8_261;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_261
+KF261120.1	Genbank	CDS	208838	209089	.	-	0	ID=cds-AGV01610.1;Parent=gene-C8_261;Dbxref=NCBI_GP:AGV01610.1;Name=AGV01610.1;gbkey=CDS;locus_tag=C8_261;product=hypothetical protein;protein_id=AGV01610.1
+KF261120.1	Genbank	gene	209127	209684	.	-	.	ID=gene-C8_262;Name=C8_262;end_range=209684,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_262;partial=true
+KF261120.1	Genbank	CDS	209127	209684	.	-	0	ID=cds-AGV01611.1;Parent=gene-C8_262;Dbxref=NCBI_GP:AGV01611.1;Name=AGV01611.1;Note=start codon not determined;end_range=209684,.;gbkey=CDS;locus_tag=C8_262;partial=true;product=low complexity proline-rich repeat protein;protein_id=AGV01611.1
+KF261120.1	Genbank	gene	209653	210402	.	-	.	ID=gene-C8_263;Name=C8_263;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_263
+KF261120.1	Genbank	CDS	209653	210402	.	-	0	ID=cds-AGV01612.1;Parent=gene-C8_263;Dbxref=NCBI_GP:AGV01612.1;Name=AGV01612.1;gbkey=CDS;locus_tag=C8_263;product=hypothetical protein;protein_id=AGV01612.1
+KF261120.1	Genbank	gene	210802	211530	.	-	.	ID=gene-C8_264;Name=C8_264;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_264
+KF261120.1	Genbank	CDS	210802	211530	.	-	0	ID=cds-AGV01613.1;Parent=gene-C8_264;Dbxref=NCBI_GP:AGV01613.1;Name=AGV01613.1;gbkey=CDS;locus_tag=C8_264;product=hypothetical protein;protein_id=AGV01613.1
+KF261120.1	Genbank	gene	211568	212554	.	+	.	ID=gene-C8_265;Name=C8_265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_265
+KF261120.1	Genbank	CDS	211568	212554	.	+	0	ID=cds-AGV01614.1;Parent=gene-C8_265;Dbxref=NCBI_GP:AGV01614.1;Name=AGV01614.1;Note=conserved in numerous bacteria;gbkey=CDS;locus_tag=C8_265;product=putative TIM-barrel protein;protein_id=AGV01614.1
+KF261120.1	Genbank	gene	212571	212870	.	-	.	ID=gene-C8_266;Name=C8_266;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_266
+KF261120.1	Genbank	CDS	212571	212870	.	-	0	ID=cds-AGV01615.1;Parent=gene-C8_266;Dbxref=NCBI_GP:AGV01615.1;Name=AGV01615.1;gbkey=CDS;locus_tag=C8_266;product=hypothetical protein;protein_id=AGV01615.1
+KF261120.1	Genbank	gene	212898	213140	.	-	.	ID=gene-C8_267;Name=C8_267;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_267
+KF261120.1	Genbank	CDS	212898	213140	.	-	0	ID=cds-AGV01616.1;Parent=gene-C8_267;Dbxref=NCBI_GP:AGV01616.1;Name=AGV01616.1;gbkey=CDS;locus_tag=C8_267;product=hypothetical protein;protein_id=AGV01616.1
+KF261120.1	Genbank	gene	213168	213764	.	-	.	ID=gene-C8_268;Name=C8_268;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_268
+KF261120.1	Genbank	CDS	213168	213764	.	-	0	ID=cds-AGV01617.1;Parent=gene-C8_268;Dbxref=NCBI_GP:AGV01617.1;Name=AGV01617.1;gbkey=CDS;locus_tag=C8_268;product=alkylated DNA repair protein;protein_id=AGV01617.1
+KF261120.1	Genbank	gene	213772	214341	.	-	.	ID=gene-C8_269;Name=C8_269;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_269
+KF261120.1	Genbank	CDS	213772	214341	.	-	0	ID=cds-AGV01618.1;Parent=gene-C8_269;Dbxref=NCBI_GP:AGV01618.1;Name=AGV01618.1;Note=unique to Marseillevirus and Chilo virus;gbkey=CDS;locus_tag=C8_269;product=hypothetical protein;protein_id=AGV01618.1
+KF261120.1	Genbank	gene	214369	217113	.	-	.	ID=gene-C8_270;Name=C8_270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_270
+KF261120.1	Genbank	CDS	214369	217113	.	-	0	ID=cds-AGV01619.1;Parent=gene-C8_270;Dbxref=NCBI_GP:AGV01619.1;Name=AGV01619.1;gbkey=CDS;locus_tag=C8_270;product=divergent serine/threonine protein kinase;protein_id=AGV01619.1
+KF261120.1	Genbank	gene	217142	217399	.	-	.	ID=gene-C8_271;Name=C8_271;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_271
+KF261120.1	Genbank	CDS	217142	217399	.	-	0	ID=cds-AGV01620.1;Parent=gene-C8_271;Dbxref=NCBI_GP:AGV01620.1;Name=AGV01620.1;gbkey=CDS;locus_tag=C8_271;product=hypothetical protein;protein_id=AGV01620.1
+KF261120.1	Genbank	gene	217399	217674	.	-	.	ID=gene-C8_272;Name=C8_272;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_272
+KF261120.1	Genbank	CDS	217399	217674	.	-	0	ID=cds-AGV01621.1;Parent=gene-C8_272;Dbxref=NCBI_GP:AGV01621.1;Name=AGV01621.1;gbkey=CDS;locus_tag=C8_272;product=hypothetical protein;protein_id=AGV01621.1
+KF261120.1	Genbank	gene	217702	219096	.	-	.	ID=gene-C8_273;Name=C8_273;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_273
+KF261120.1	Genbank	CDS	217702	219096	.	-	0	ID=cds-AGV01622.1;Parent=gene-C8_273;Dbxref=NCBI_GP:AGV01622.1;Name=AGV01622.1;gbkey=CDS;locus_tag=C8_273;product=hypothetical protein;protein_id=AGV01622.1
+KF261120.1	Genbank	gene	219161	219475	.	-	.	ID=gene-C8_274;Name=C8_274;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_274
+KF261120.1	Genbank	CDS	219161	219475	.	-	0	ID=cds-AGV01623.1;Parent=gene-C8_274;Dbxref=NCBI_GP:AGV01623.1;Name=AGV01623.1;gbkey=CDS;locus_tag=C8_274;product=hypothetical protein;protein_id=AGV01623.1
+KF261120.1	Genbank	gene	219721	220116	.	-	.	ID=gene-C8_275;Name=C8_275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_275
+KF261120.1	Genbank	CDS	219721	220116	.	-	0	ID=cds-AGV01624.1;Parent=gene-C8_275;Dbxref=NCBI_GP:AGV01624.1;Name=AGV01624.1;gbkey=CDS;locus_tag=C8_275;product=hypothetical protein;protein_id=AGV01624.1
+KF261120.1	Genbank	gene	220198	221304	.	-	.	ID=gene-C8_276;Name=C8_276;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_276
+KF261120.1	Genbank	CDS	220198	221304	.	-	0	ID=cds-AGV01625.1;Parent=gene-C8_276;Dbxref=NCBI_GP:AGV01625.1;Name=AGV01625.1;gbkey=CDS;locus_tag=C8_276;product=serine/threonine protein kinase catalytic domain-containing protein;protein_id=AGV01625.1
+KF261120.1	Genbank	gene	221596	222096	.	+	.	ID=gene-C8_277;Name=C8_277;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_277
+KF261120.1	Genbank	CDS	221596	222096	.	+	0	ID=cds-AGV01626.1;Parent=gene-C8_277;Dbxref=NCBI_GP:AGV01626.1;Name=AGV01626.1;gbkey=CDS;locus_tag=C8_277;product=hypothetical protein;protein_id=AGV01626.1
+KF261120.1	Genbank	gene	222122	222499	.	-	.	ID=gene-C8_278;Name=C8_278;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_278
+KF261120.1	Genbank	CDS	222122	222499	.	-	0	ID=cds-AGV01627.1;Parent=gene-C8_278;Dbxref=NCBI_GP:AGV01627.1;Name=AGV01627.1;gbkey=CDS;locus_tag=C8_278;product=hypothetical protein;protein_id=AGV01627.1
+KF261120.1	Genbank	gene	222500	223045	.	-	.	ID=gene-C8_279;Name=C8_279;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_279
+KF261120.1	Genbank	CDS	222500	223045	.	-	0	ID=cds-AGV01628.1;Parent=gene-C8_279;Dbxref=NCBI_GP:AGV01628.1;Name=AGV01628.1;gbkey=CDS;locus_tag=C8_279;product=hypothetical protein;protein_id=AGV01628.1
+KF261120.1	Genbank	gene	223121	224080	.	+	.	ID=gene-C8_280;Name=C8_280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_280
+KF261120.1	Genbank	CDS	223121	224080	.	+	0	ID=cds-AGV01629.1;Parent=gene-C8_280;Dbxref=NCBI_GP:AGV01629.1;Name=AGV01629.1;gbkey=CDS;locus_tag=C8_280;product=ribonucleotide reductase small chain;protein_id=AGV01629.1
+KF261120.1	Genbank	gene	224102	224941	.	-	.	ID=gene-C8_281;Name=C8_281;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_281
+KF261120.1	Genbank	CDS	224102	224941	.	-	0	ID=cds-AGV01630.1;Parent=gene-C8_281;Dbxref=NCBI_GP:AGV01630.1;Name=AGV01630.1;gbkey=CDS;locus_tag=C8_281;product=chaperone protein DnaJ;protein_id=AGV01630.1
+KF261120.1	Genbank	gene	224995	225240	.	-	.	ID=gene-C8_282;Name=C8_282;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_282
+KF261120.1	Genbank	CDS	224995	225240	.	-	0	ID=cds-AGV01631.1;Parent=gene-C8_282;Dbxref=NCBI_GP:AGV01631.1;Name=AGV01631.1;gbkey=CDS;locus_tag=C8_282;product=hypothetical protein;protein_id=AGV01631.1
+KF261120.1	Genbank	gene	225302	226582	.	+	.	ID=gene-C8_283;Name=C8_283;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_283
+KF261120.1	Genbank	CDS	225302	226582	.	+	0	ID=cds-AGV01632.1;Parent=gene-C8_283;Dbxref=NCBI_GP:AGV01632.1;Name=AGV01632.1;gbkey=CDS;locus_tag=C8_283;product=superfamily II helicase;protein_id=AGV01632.1
+KF261120.1	Genbank	gene	226591	226911	.	-	.	ID=gene-C8_284;Name=C8_284;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_284
+KF261120.1	Genbank	CDS	226591	226911	.	-	0	ID=cds-AGV01633.1;Parent=gene-C8_284;Dbxref=NCBI_GP:AGV01633.1;Name=AGV01633.1;gbkey=CDS;locus_tag=C8_284;product=hypothetical protein;protein_id=AGV01633.1
+KF261120.1	Genbank	gene	226924	227742	.	-	.	ID=gene-C8_285;Name=C8_285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_285
+KF261120.1	Genbank	CDS	226924	227742	.	-	0	ID=cds-AGV01634.1;Parent=gene-C8_285;Dbxref=NCBI_GP:AGV01634.1;Name=AGV01634.1;gbkey=CDS;locus_tag=C8_285;product=membrane protein;protein_id=AGV01634.1
+KF261120.1	Genbank	gene	227773	228975	.	-	.	ID=gene-C8_286;Name=C8_286;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_286
+KF261120.1	Genbank	CDS	227773	228975	.	-	0	ID=cds-AGV01635.1;Parent=gene-C8_286;Dbxref=NCBI_GP:AGV01635.1;Name=AGV01635.1;gbkey=CDS;locus_tag=C8_286;product=membrane protein;protein_id=AGV01635.1
+KF261120.1	Genbank	gene	229038	230294	.	+	.	ID=gene-C8_287;Name=C8_287;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_287
+KF261120.1	Genbank	CDS	229038	230294	.	+	0	ID=cds-AGV01636.1;Parent=gene-C8_287;Dbxref=NCBI_GP:AGV01636.1;Name=AGV01636.1;gbkey=CDS;locus_tag=C8_287;product=membrane protein;protein_id=AGV01636.1
+KF261120.1	Genbank	gene	230294	230476	.	+	.	ID=gene-C8_288;Name=C8_288;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_288
+KF261120.1	Genbank	CDS	230294	230476	.	+	0	ID=cds-AGV01637.1;Parent=gene-C8_288;Dbxref=NCBI_GP:AGV01637.1;Name=AGV01637.1;gbkey=CDS;locus_tag=C8_288;product=hypothetical protein;protein_id=AGV01637.1
+KF261120.1	Genbank	gene	230496	232046	.	-	.	ID=gene-C8_289;Name=C8_289;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_289
+KF261120.1	Genbank	CDS	230496	232046	.	-	0	ID=cds-AGV01638.1;Parent=gene-C8_289;Dbxref=NCBI_GP:AGV01638.1;Name=AGV01638.1;gbkey=CDS;locus_tag=C8_289;product=papain-like cysteine peptidase;protein_id=AGV01638.1
+KF261120.1	Genbank	gene	232243	232938	.	+	.	ID=gene-C8_290;Name=C8_290;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_290
+KF261120.1	Genbank	CDS	232243	232938	.	+	0	ID=cds-AGV01639.1;Parent=gene-C8_290;Dbxref=NCBI_GP:AGV01639.1;Name=AGV01639.1;gbkey=CDS;locus_tag=C8_290;product=NUDIX hydrolase;protein_id=AGV01639.1
+KF261120.1	Genbank	gene	232969	233400	.	+	.	ID=gene-C8_291;Name=C8_291;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_291
+KF261120.1	Genbank	CDS	232969	233400	.	+	0	ID=cds-AGV01640.1;Parent=gene-C8_291;Dbxref=NCBI_GP:AGV01640.1;Name=AGV01640.1;gbkey=CDS;locus_tag=C8_291;product=metallopeptidase WLM;protein_id=AGV01640.1
+KF261120.1	Genbank	gene	233450	234061	.	+	.	ID=gene-C8_292;Name=C8_292;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_292
+KF261120.1	Genbank	CDS	233450	234061	.	+	0	ID=cds-AGV01641.1;Parent=gene-C8_292;Dbxref=NCBI_GP:AGV01641.1;Name=AGV01641.1;gbkey=CDS;locus_tag=C8_292;product=bacterial MORN repeat-containing protein;protein_id=AGV01641.1
+KF261120.1	Genbank	gene	234078	234416	.	-	.	ID=gene-C8_293;Name=C8_293;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_293
+KF261120.1	Genbank	CDS	234078	234416	.	-	0	ID=cds-AGV01642.1;Parent=gene-C8_293;Dbxref=NCBI_GP:AGV01642.1;Name=AGV01642.1;gbkey=CDS;locus_tag=C8_293;product=hypothetical protein;protein_id=AGV01642.1
+KF261120.1	Genbank	gene	234413	234919	.	-	.	ID=gene-C8_294;Name=C8_294;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_294
+KF261120.1	Genbank	CDS	234413	234919	.	-	0	ID=cds-AGV01643.1;Parent=gene-C8_294;Dbxref=NCBI_GP:AGV01643.1;Name=AGV01643.1;gbkey=CDS;locus_tag=C8_294;product=membrane-bound metal-dependent hydrolase;protein_id=AGV01643.1
+KF261120.1	Genbank	gene	234923	235399	.	-	.	ID=gene-C8_295;Name=C8_295;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_295
+KF261120.1	Genbank	CDS	234923	235399	.	-	0	ID=cds-AGV01644.1;Parent=gene-C8_295;Dbxref=NCBI_GP:AGV01644.1;Name=AGV01644.1;gbkey=CDS;locus_tag=C8_295;product=hypothetical protein;protein_id=AGV01644.1
+KF261120.1	Genbank	gene	235500	237308	.	-	.	ID=gene-C8_296;Name=C8_296;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_296
+KF261120.1	Genbank	CDS	235500	237308	.	-	0	ID=cds-AGV01645.1;Parent=gene-C8_296;Dbxref=NCBI_GP:AGV01645.1;Name=AGV01645.1;gbkey=CDS;locus_tag=C8_296;product=glycosyltransferase;protein_id=AGV01645.1
+KF261120.1	Genbank	gene	237369	237821	.	+	.	ID=gene-C8_297;Name=C8_297;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_297
+KF261120.1	Genbank	CDS	237369	237821	.	+	0	ID=cds-AGV01646.1;Parent=gene-C8_297;Dbxref=NCBI_GP:AGV01646.1;Name=AGV01646.1;gbkey=CDS;locus_tag=C8_297;product=hypothetical protein;protein_id=AGV01646.1
+KF261120.1	Genbank	gene	237841	239157	.	-	.	ID=gene-C8_298;Name=C8_298;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_298
+KF261120.1	Genbank	CDS	237841	239157	.	-	0	ID=cds-AGV01647.1;Parent=gene-C8_298;Dbxref=NCBI_GP:AGV01647.1;Name=AGV01647.1;gbkey=CDS;locus_tag=C8_298;product=papain-like cysteine peptidase;protein_id=AGV01647.1
+KF261120.1	Genbank	gene	239206	239799	.	-	.	ID=gene-C8_299;Name=C8_299;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_299
+KF261120.1	Genbank	CDS	239206	239799	.	-	0	ID=cds-AGV01648.1;Parent=gene-C8_299;Dbxref=NCBI_GP:AGV01648.1;Name=AGV01648.1;gbkey=CDS;locus_tag=C8_299;product=hypothetical protein;protein_id=AGV01648.1
+KF261120.1	Genbank	gene	239842	240333	.	+	.	ID=gene-C8_300;Name=C8_300;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_300
+KF261120.1	Genbank	CDS	239842	240333	.	+	0	ID=cds-AGV01649.1;Parent=gene-C8_300;Dbxref=NCBI_GP:AGV01649.1;Name=AGV01649.1;gbkey=CDS;locus_tag=C8_300;product=hypothetical protein;protein_id=AGV01649.1
+KF261120.1	Genbank	gene	240354	240659	.	-	.	ID=gene-C8_301;Name=C8_301;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_301
+KF261120.1	Genbank	CDS	240354	240659	.	-	0	ID=cds-AGV01650.1;Parent=gene-C8_301;Dbxref=NCBI_GP:AGV01650.1;Name=AGV01650.1;gbkey=CDS;locus_tag=C8_301;product=hypothetical protein;protein_id=AGV01650.1
+KF261120.1	Genbank	gene	240659	241189	.	-	.	ID=gene-C8_302;Name=C8_302;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_302
+KF261120.1	Genbank	CDS	240659	241189	.	-	0	ID=cds-AGV01651.1;Parent=gene-C8_302;Dbxref=NCBI_GP:AGV01651.1;Name=AGV01651.1;gbkey=CDS;locus_tag=C8_302;product=putative nuclease;protein_id=AGV01651.1
+KF261120.1	Genbank	gene	241245	242261	.	-	.	ID=gene-C8_303;Name=C8_303;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_303
+KF261120.1	Genbank	CDS	241245	242261	.	-	0	ID=cds-AGV01652.1;Parent=gene-C8_303;Dbxref=NCBI_GP:AGV01652.1;Name=AGV01652.1;gbkey=CDS;locus_tag=C8_303;product=hypothetical protein;protein_id=AGV01652.1
+KF261120.1	Genbank	gene	242466	243149	.	-	.	ID=gene-C8_304;Name=C8_304;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_304
+KF261120.1	Genbank	CDS	242466	243149	.	-	0	ID=cds-AGV01653.1;Parent=gene-C8_304;Dbxref=NCBI_GP:AGV01653.1;Name=AGV01653.1;gbkey=CDS;locus_tag=C8_304;product=SWIB/MDM2 domain-containing protein;protein_id=AGV01653.1
+KF261120.1	Genbank	gene	243280	244155	.	+	.	ID=gene-C8_305;Name=C8_305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_305
+KF261120.1	Genbank	CDS	243280	244155	.	+	0	ID=cds-AGV01654.1;Parent=gene-C8_305;Dbxref=NCBI_GP:AGV01654.1;Name=AGV01654.1;gbkey=CDS;locus_tag=C8_305;product=hypothetical protein;protein_id=AGV01654.1
+KF261120.1	Genbank	gene	244201	245100	.	+	.	ID=gene-C8_306;Name=C8_306;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_306
+KF261120.1	Genbank	CDS	244201	245100	.	+	0	ID=cds-AGV01655.1;Parent=gene-C8_306;Dbxref=NCBI_GP:AGV01655.1;Name=AGV01655.1;gbkey=CDS;locus_tag=C8_306;product=AP endonuclease family 2 protein;protein_id=AGV01655.1
+KF261120.1	Genbank	gene	245123	245680	.	-	.	ID=gene-C8_307;Name=C8_307;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_307
+KF261120.1	Genbank	CDS	245123	245680	.	-	0	ID=cds-AGV01656.1;Parent=gene-C8_307;Dbxref=NCBI_GP:AGV01656.1;Name=AGV01656.1;gbkey=CDS;locus_tag=C8_307;product=hypothetical protein;protein_id=AGV01656.1
+KF261120.1	Genbank	gene	245844	247238	.	+	.	ID=gene-C8_308;Name=C8_308;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_308
+KF261120.1	Genbank	CDS	245844	247238	.	+	0	ID=cds-AGV01657.1;Parent=gene-C8_308;Dbxref=NCBI_GP:AGV01657.1;Name=AGV01657.1;gbkey=CDS;locus_tag=C8_308;product=HNH-family endonuclease;protein_id=AGV01657.1
+KF261120.1	Genbank	gene	247269	247898	.	-	.	ID=gene-C8_309;Name=C8_309;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_309
+KF261120.1	Genbank	CDS	247269	247898	.	-	0	ID=cds-AGV01658.1;Parent=gene-C8_309;Dbxref=NCBI_GP:AGV01658.1;Name=AGV01658.1;gbkey=CDS;locus_tag=C8_309;product=membrane protein;protein_id=AGV01658.1
+KF261120.1	Genbank	gene	248164	248505	.	-	.	ID=gene-C8_310;Name=C8_310;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_310
+KF261120.1	Genbank	CDS	248164	248505	.	-	0	ID=cds-AGV01659.1;Parent=gene-C8_310;Dbxref=NCBI_GP:AGV01659.1;Name=AGV01659.1;gbkey=CDS;locus_tag=C8_310;product=hypothetical protein;protein_id=AGV01659.1
+KF261120.1	Genbank	gene	248711	249019	.	+	.	ID=gene-C8_311;Name=C8_311;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_311
+KF261120.1	Genbank	CDS	248711	249019	.	+	0	ID=cds-AGV01660.1;Parent=gene-C8_311;Dbxref=NCBI_GP:AGV01660.1;Name=AGV01660.1;gbkey=CDS;locus_tag=C8_311;product=hypothetical protein;protein_id=AGV01660.1
+KF261120.1	Genbank	gene	249025	249225	.	-	.	ID=gene-C8_312;Name=C8_312;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_312
+KF261120.1	Genbank	CDS	249025	249225	.	-	0	ID=cds-AGV01661.1;Parent=gene-C8_312;Dbxref=NCBI_GP:AGV01661.1;Name=AGV01661.1;gbkey=CDS;locus_tag=C8_312;product=hypothetical protein;protein_id=AGV01661.1
+KF261120.1	Genbank	gene	249150	249938	.	+	.	ID=gene-C8_313;Name=C8_313;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_313
+KF261120.1	Genbank	CDS	249150	249938	.	+	0	ID=cds-AGV01662.1;Parent=gene-C8_313;Dbxref=NCBI_GP:AGV01662.1;Name=AGV01662.1;gbkey=CDS;locus_tag=C8_313;product=hypothetical protein;protein_id=AGV01662.1
+KF261120.1	Genbank	gene	249980	251584	.	-	.	ID=gene-C8_314;Name=C8_314;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_314
+KF261120.1	Genbank	CDS	249980	251584	.	-	0	ID=cds-AGV01663.1;Parent=gene-C8_314;Dbxref=NCBI_GP:AGV01663.1;Name=AGV01663.1;gbkey=CDS;locus_tag=C8_314;product=Vsr/MutH/archaeal HJR family nuclease;protein_id=AGV01663.1
+KF261120.1	Genbank	gene	251685	252389	.	-	.	ID=gene-C8_315;Name=C8_315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_315
+KF261120.1	Genbank	CDS	251685	252389	.	-	0	ID=cds-AGV01664.1;Parent=gene-C8_315;Dbxref=NCBI_GP:AGV01664.1;Name=AGV01664.1;gbkey=CDS;locus_tag=C8_315;product=hypothetical protein;protein_id=AGV01664.1
+KF261120.1	Genbank	gene	252441	252695	.	+	.	ID=gene-C8_316;Name=C8_316;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_316
+KF261120.1	Genbank	CDS	252441	252695	.	+	0	ID=cds-AGV01665.1;Parent=gene-C8_316;Dbxref=NCBI_GP:AGV01665.1;Name=AGV01665.1;gbkey=CDS;locus_tag=C8_316;product=hypothetical protein;protein_id=AGV01665.1
+KF261120.1	Genbank	gene	252659	252991	.	-	.	ID=gene-C8_317;Name=C8_317;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_317
+KF261120.1	Genbank	CDS	252659	252991	.	-	0	ID=cds-AGV01666.1;Parent=gene-C8_317;Dbxref=NCBI_GP:AGV01666.1;Name=AGV01666.1;gbkey=CDS;locus_tag=C8_317;product=hypothetical protein;protein_id=AGV01666.1
+KF261120.1	Genbank	gene	253009	253509	.	+	.	ID=gene-C8_318;Name=C8_318;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_318
+KF261120.1	Genbank	CDS	253009	253509	.	+	0	ID=cds-AGV01667.1;Parent=gene-C8_318;Dbxref=NCBI_GP:AGV01667.1;Name=AGV01667.1;gbkey=CDS;locus_tag=C8_318;product=eukaryotic translation initiation factor 5;protein_id=AGV01667.1
+KF261120.1	Genbank	gene	253539	254048	.	-	.	ID=gene-C8_319;Name=C8_319;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_319
+KF261120.1	Genbank	CDS	253539	254048	.	-	0	ID=cds-AGV01668.1;Parent=gene-C8_319;Dbxref=NCBI_GP:AGV01668.1;Name=AGV01668.1;gbkey=CDS;locus_tag=C8_319;product=hypothetical protein;protein_id=AGV01668.1
+KF261120.1	Genbank	gene	254094	257501	.	-	.	ID=gene-C8_320;Name=C8_320;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_320
+KF261120.1	Genbank	CDS	254094	257501	.	-	0	ID=cds-AGV01669.1;Parent=gene-C8_320;Dbxref=NCBI_GP:AGV01669.1;Name=AGV01669.1;gbkey=CDS;locus_tag=C8_320;product=early transcription factor large subunit;protein_id=AGV01669.1
+KF261120.1	Genbank	gene	257540	258208	.	+	.	ID=gene-C8_321;Name=C8_321;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_321
+KF261120.1	Genbank	CDS	257540	258208	.	+	0	ID=cds-AGV01670.1;Parent=gene-C8_321;Dbxref=NCBI_GP:AGV01670.1;Name=AGV01670.1;gbkey=CDS;locus_tag=C8_321;product=hypothetical protein;protein_id=AGV01670.1
+KF261120.1	Genbank	gene	258224	258871	.	-	.	ID=gene-C8_322;Name=C8_322;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_322
+KF261120.1	Genbank	CDS	258224	258871	.	-	0	ID=cds-AGV01671.1;Parent=gene-C8_322;Dbxref=NCBI_GP:AGV01671.1;Name=AGV01671.1;gbkey=CDS;locus_tag=C8_322;product=hypothetical protein;protein_id=AGV01671.1
+KF261120.1	Genbank	gene	258911	259129	.	-	.	ID=gene-C8_323;Name=C8_323;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_323
+KF261120.1	Genbank	CDS	258911	259129	.	-	0	ID=cds-AGV01672.1;Parent=gene-C8_323;Dbxref=NCBI_GP:AGV01672.1;Name=AGV01672.1;gbkey=CDS;locus_tag=C8_323;product=hypothetical protein;protein_id=AGV01672.1
+KF261120.1	Genbank	gene	259170	259568	.	+	.	ID=gene-C8_324;Name=C8_324;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_324
+KF261120.1	Genbank	CDS	259170	259568	.	+	0	ID=cds-AGV01673.1;Parent=gene-C8_324;Dbxref=NCBI_GP:AGV01673.1;Name=AGV01673.1;gbkey=CDS;locus_tag=C8_324;product=disulfide oxidoreductase;protein_id=AGV01673.1
+KF261120.1	Genbank	gene	259636	260067	.	+	.	ID=gene-C8_325;Name=C8_325;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_325
+KF261120.1	Genbank	CDS	259636	260067	.	+	0	ID=cds-AGV01674.1;Parent=gene-C8_325;Dbxref=NCBI_GP:AGV01674.1;Name=AGV01674.1;gbkey=CDS;locus_tag=C8_325;product=hypothetical protein;protein_id=AGV01674.1
+KF261120.1	Genbank	gene	260069	260221	.	+	.	ID=gene-C8_326;Name=C8_326;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_326
+KF261120.1	Genbank	CDS	260069	260221	.	+	0	ID=cds-AGV01675.1;Parent=gene-C8_326;Dbxref=NCBI_GP:AGV01675.1;Name=AGV01675.1;gbkey=CDS;locus_tag=C8_326;product=hypothetical protein;protein_id=AGV01675.1
+KF261120.1	Genbank	gene	260262	261647	.	+	.	ID=gene-C8_327;Name=C8_327;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_327
+KF261120.1	Genbank	CDS	260262	261647	.	+	0	ID=cds-AGV01676.1;Parent=gene-C8_327;Dbxref=NCBI_GP:AGV01676.1;Name=AGV01676.1;gbkey=CDS;locus_tag=C8_327;product=low complexity protein;protein_id=AGV01676.1
+KF261120.1	Genbank	gene	261705	262265	.	+	.	ID=gene-C8_328;Name=C8_328;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_328
+KF261120.1	Genbank	CDS	261705	262265	.	+	0	ID=cds-AGV01677.1;Parent=gene-C8_328;Dbxref=NCBI_GP:AGV01677.1;Name=AGV01677.1;gbkey=CDS;locus_tag=C8_328;product=thioredoxin;protein_id=AGV01677.1
+KF261120.1	Genbank	gene	262238	264697	.	+	.	ID=gene-C8_329;Name=C8_329;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_329
+KF261120.1	Genbank	CDS	262238	264697	.	+	0	ID=cds-AGV01678.1;Parent=gene-C8_329;Dbxref=NCBI_GP:AGV01678.1;Name=AGV01678.1;gbkey=CDS;locus_tag=C8_329;product=3-domain mRNA capping enzyme;protein_id=AGV01678.1
+KF261120.1	Genbank	gene	264733	264969	.	+	.	ID=gene-C8_330;Name=C8_330;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_330
+KF261120.1	Genbank	CDS	264733	264969	.	+	0	ID=cds-AGV01679.1;Parent=gene-C8_330;Dbxref=NCBI_GP:AGV01679.1;Name=AGV01679.1;gbkey=CDS;locus_tag=C8_330;product=hypothetical protein;protein_id=AGV01679.1
+KF261120.1	Genbank	gene	265008	266018	.	+	.	ID=gene-C8_331;Name=C8_331;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_331
+KF261120.1	Genbank	CDS	265008	266018	.	+	0	ID=cds-AGV01680.1;Parent=gene-C8_331;Dbxref=NCBI_GP:AGV01680.1;Name=AGV01680.1;gbkey=CDS;locus_tag=C8_331;product=DNA repair exonuclease SbcCD D subunit;protein_id=AGV01680.1
+KF261120.1	Genbank	gene	266041	268164	.	+	.	ID=gene-C8_332;Name=C8_332;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_332
+KF261120.1	Genbank	CDS	266041	268164	.	+	0	ID=cds-AGV01681.1;Parent=gene-C8_332;Dbxref=NCBI_GP:AGV01681.1;Name=AGV01681.1;gbkey=CDS;locus_tag=C8_332;product=ankyrin repeat-containing protein;protein_id=AGV01681.1
+KF261120.1	Genbank	gene	268214	268498	.	+	.	ID=gene-C8_333;Name=C8_333;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_333
+KF261120.1	Genbank	CDS	268214	268498	.	+	0	ID=cds-AGV01682.1;Parent=gene-C8_333;Dbxref=NCBI_GP:AGV01682.1;Name=AGV01682.1;gbkey=CDS;locus_tag=C8_333;product=hypothetical protein;protein_id=AGV01682.1
+KF261120.1	Genbank	gene	268561	269679	.	-	.	ID=gene-C8_334;Name=C8_334;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_334
+KF261120.1	Genbank	CDS	268561	269679	.	-	0	ID=cds-AGV01683.1;Parent=gene-C8_334;Dbxref=NCBI_GP:AGV01683.1;Name=AGV01683.1;gbkey=CDS;locus_tag=C8_334;product=restriction endonuclease;protein_id=AGV01683.1
+KF261120.1	Genbank	gene	269724	271196	.	+	.	ID=gene-C8_335;Name=C8_335;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_335
+KF261120.1	Genbank	CDS	269724	271196	.	+	0	ID=cds-AGV01684.1;Parent=gene-C8_335;Dbxref=NCBI_GP:AGV01684.1;Name=AGV01684.1;gbkey=CDS;locus_tag=C8_335;product=XRN1 5'-3' exonuclease;protein_id=AGV01684.1
+KF261120.1	Genbank	gene	271197	271331	.	+	.	ID=gene-C8_336;Name=C8_336;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_336
+KF261120.1	Genbank	CDS	271197	271331	.	+	0	ID=cds-AGV01685.1;Parent=gene-C8_336;Dbxref=NCBI_GP:AGV01685.1;Name=AGV01685.1;gbkey=CDS;locus_tag=C8_336;product=hypothetical protein;protein_id=AGV01685.1
+KF261120.1	Genbank	gene	271592	272803	.	+	.	ID=gene-C8_337;Name=C8_337;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_337
+KF261120.1	Genbank	CDS	271592	272803	.	+	0	ID=cds-AGV01686.1;Parent=gene-C8_337;Dbxref=NCBI_GP:AGV01686.1;Name=AGV01686.1;gbkey=CDS;locus_tag=C8_337;product=zinc finger protein;protein_id=AGV01686.1
+KF261120.1	Genbank	gene	272839	273210	.	+	.	ID=gene-C8_338;Name=C8_338;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_338
+KF261120.1	Genbank	CDS	272839	273210	.	+	0	ID=cds-AGV01687.1;Parent=gene-C8_338;Dbxref=NCBI_GP:AGV01687.1;Name=AGV01687.1;gbkey=CDS;locus_tag=C8_338;product=zinc finger protein;protein_id=AGV01687.1
+KF261120.1	Genbank	gene	273200	273490	.	+	.	ID=gene-C8_339;Name=C8_339;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_339
+KF261120.1	Genbank	CDS	273200	273490	.	+	0	ID=cds-AGV01688.1;Parent=gene-C8_339;Dbxref=NCBI_GP:AGV01688.1;Name=AGV01688.1;gbkey=CDS;locus_tag=C8_339;product=truncated XRN1;protein_id=AGV01688.1
+KF261120.1	Genbank	gene	273659	274867	.	+	.	ID=gene-C8_340;Name=C8_340;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_340
+KF261120.1	Genbank	CDS	273659	274867	.	+	0	ID=cds-AGV01689.1;Parent=gene-C8_340;Dbxref=NCBI_GP:AGV01689.1;Name=AGV01689.1;gbkey=CDS;locus_tag=C8_340;product=hypothetical protein;protein_id=AGV01689.1
+KF261120.1	Genbank	gene	274905	275672	.	+	.	ID=gene-C8_341;Name=C8_341;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_341
+KF261120.1	Genbank	CDS	274905	275672	.	+	0	ID=cds-AGV01690.1;Parent=gene-C8_341;Dbxref=NCBI_GP:AGV01690.1;Name=AGV01690.1;gbkey=CDS;locus_tag=C8_341;product=hypothetical protein;protein_id=AGV01690.1
+KF261120.1	Genbank	gene	275813	276448	.	+	.	ID=gene-C8_342;Name=C8_342;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_342
+KF261120.1	Genbank	CDS	275813	276448	.	+	0	ID=cds-AGV01691.1;Parent=gene-C8_342;Dbxref=NCBI_GP:AGV01691.1;Name=AGV01691.1;gbkey=CDS;locus_tag=C8_342;product=P-loop ATPase/GTPase;protein_id=AGV01691.1
+KF261120.1	Genbank	gene	276478	277764	.	-	.	ID=gene-C8_343;Name=C8_343;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_343
+KF261120.1	Genbank	CDS	276478	277764	.	-	0	ID=cds-AGV01692.1;Parent=gene-C8_343;Dbxref=NCBI_GP:AGV01692.1;Name=AGV01692.1;gbkey=CDS;locus_tag=C8_343;product=restriction endonuclease;protein_id=AGV01692.1
+KF261120.1	Genbank	gene	277832	278707	.	-	.	ID=gene-C8_344;Name=C8_344;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_344
+KF261120.1	Genbank	CDS	277832	278707	.	-	0	ID=cds-AGV01693.1;Parent=gene-C8_344;Dbxref=NCBI_GP:AGV01693.1;Name=AGV01693.1;gbkey=CDS;locus_tag=C8_344;product=glycosyltransferase;protein_id=AGV01693.1
+KF261120.1	Genbank	gene	278770	282195	.	-	.	ID=gene-C8_345;Name=C8_345;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_345
+KF261120.1	Genbank	CDS	278770	282195	.	-	0	ID=cds-AGV01694.1;Parent=gene-C8_345;Dbxref=NCBI_GP:AGV01694.1;Name=AGV01694.1;gbkey=CDS;locus_tag=C8_345;product=DNA polymerase delta catalytic subunit;protein_id=AGV01694.1
+KF261120.1	Genbank	gene	282201	283634	.	+	.	ID=gene-C8_346;Name=C8_346;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_346
+KF261120.1	Genbank	CDS	282201	283634	.	+	0	ID=cds-AGV01695.1;Parent=gene-C8_346;Dbxref=NCBI_GP:AGV01695.1;Name=AGV01695.1;gbkey=CDS;locus_tag=C8_346;product=ankyrin repeat-containing protein;protein_id=AGV01695.1
+KF261120.1	Genbank	gene	283795	284436	.	-	.	ID=gene-C8_347;Name=C8_347;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_347
+KF261120.1	Genbank	CDS	283795	284436	.	-	0	ID=cds-AGV01696.1;Parent=gene-C8_347;Dbxref=NCBI_GP:AGV01696.1;Name=AGV01696.1;gbkey=CDS;locus_tag=C8_347;product=ankyrin repeat-containing protein;protein_id=AGV01696.1
+KF261120.1	Genbank	gene	284482	284907	.	+	.	ID=gene-C8_348;Name=C8_348;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_348
+KF261120.1	Genbank	CDS	284482	284907	.	+	0	ID=cds-AGV01697.1;Parent=gene-C8_348;Dbxref=NCBI_GP:AGV01697.1;Name=AGV01697.1;gbkey=CDS;locus_tag=C8_348;product=thioredoxin;protein_id=AGV01697.1
+KF261120.1	Genbank	gene	284895	285323	.	+	.	ID=gene-C8_349;Name=C8_349;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_349
+KF261120.1	Genbank	CDS	284895	285323	.	+	0	ID=cds-AGV01698.1;Parent=gene-C8_349;Dbxref=NCBI_GP:AGV01698.1;Name=AGV01698.1;Note=similar protein in all Phycodnaviridae;gbkey=CDS;locus_tag=C8_349;product=hypothetical protein;protein_id=AGV01698.1
+KF261120.1	Genbank	gene	285350	285802	.	+	.	ID=gene-C8_350;Name=C8_350;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_350
+KF261120.1	Genbank	CDS	285350	285802	.	+	0	ID=cds-AGV01699.1;Parent=gene-C8_350;Dbxref=NCBI_GP:AGV01699.1;Name=AGV01699.1;gbkey=CDS;locus_tag=C8_350;product=inactivated thioredoxin/glutaredoxin;protein_id=AGV01699.1
+KF261120.1	Genbank	gene	285819	286226	.	-	.	ID=gene-C8_351;Name=C8_351;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_351
+KF261120.1	Genbank	CDS	285819	286226	.	-	0	ID=cds-AGV01700.1;Parent=gene-C8_351;Dbxref=NCBI_GP:AGV01700.1;Name=AGV01700.1;gbkey=CDS;locus_tag=C8_351;product=hypothetical protein;protein_id=AGV01700.1
+KF261120.1	Genbank	gene	286237	286584	.	+	.	ID=gene-C8_352;Name=C8_352;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_352
+KF261120.1	Genbank	CDS	286237	286584	.	+	0	ID=cds-AGV01701.1;Parent=gene-C8_352;Dbxref=NCBI_GP:AGV01701.1;Name=AGV01701.1;gbkey=CDS;locus_tag=C8_352;product=hypothetical protein;protein_id=AGV01701.1
+KF261120.1	Genbank	gene	286599	286997	.	+	.	ID=gene-C8_353;Name=C8_353;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_353
+KF261120.1	Genbank	CDS	286599	286997	.	+	0	ID=cds-AGV01702.1;Parent=gene-C8_353;Dbxref=NCBI_GP:AGV01702.1;Name=AGV01702.1;gbkey=CDS;locus_tag=C8_353;product=hypothetical protein;protein_id=AGV01702.1
+KF261120.1	Genbank	gene	287014	287610	.	-	.	ID=gene-C8_354;Name=C8_354;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_354
+KF261120.1	Genbank	CDS	287014	287610	.	-	0	ID=cds-AGV01703.1;Parent=gene-C8_354;Dbxref=NCBI_GP:AGV01703.1;Name=AGV01703.1;gbkey=CDS;locus_tag=C8_354;product=membrane protein;protein_id=AGV01703.1
+KF261120.1	Genbank	gene	287703	287963	.	+	.	ID=gene-C8_355;Name=C8_355;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_355
+KF261120.1	Genbank	CDS	287703	287963	.	+	0	ID=cds-AGV01704.1;Parent=gene-C8_355;Dbxref=NCBI_GP:AGV01704.1;Name=AGV01704.1;gbkey=CDS;locus_tag=C8_355;product=putative secreted protein;protein_id=AGV01704.1
+KF261120.1	Genbank	gene	287984	288709	.	-	.	ID=gene-C8_356;Name=C8_356;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_356
+KF261120.1	Genbank	CDS	287984	288709	.	-	0	ID=cds-AGV01705.1;Parent=gene-C8_356;Dbxref=NCBI_GP:AGV01705.1;Name=AGV01705.1;Note=conserved in Irido-%2C Phycodna-%2C and Mimiviridae;gbkey=CDS;locus_tag=C8_356;product=hypothetical protein;protein_id=AGV01705.1
+KF261120.1	Genbank	gene	288771	289811	.	-	.	ID=gene-C8_357;Name=C8_357;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_357
+KF261120.1	Genbank	CDS	288771	289811	.	-	0	ID=cds-AGV01706.1;Parent=gene-C8_357;Dbxref=NCBI_GP:AGV01706.1;Name=AGV01706.1;gbkey=CDS;locus_tag=C8_357;product=transcription factor A2-like protein;protein_id=AGV01706.1
+KF261120.1	Genbank	gene	289886	290419	.	-	.	ID=gene-C8_358;Name=C8_358;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_358
+KF261120.1	Genbank	CDS	289886	290419	.	-	0	ID=cds-AGV01707.1;Parent=gene-C8_358;Dbxref=NCBI_GP:AGV01707.1;Name=AGV01707.1;gbkey=CDS;locus_tag=C8_358;product=hypothetical protein;protein_id=AGV01707.1
+KF261120.1	Genbank	gene	290549	291973	.	+	.	ID=gene-C8_359;Name=C8_359;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_359
+KF261120.1	Genbank	CDS	290549	291973	.	+	0	ID=cds-AGV01708.1;Parent=gene-C8_359;Dbxref=NCBI_GP:AGV01708.1;Name=AGV01708.1;gbkey=CDS;locus_tag=C8_359;product=major capsid protein;protein_id=AGV01708.1
+KF261120.1	Genbank	gene	292061	292642	.	-	.	ID=gene-C8_360;Name=C8_360;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_360
+KF261120.1	Genbank	CDS	292061	292642	.	-	0	ID=cds-AGV01709.1;Parent=gene-C8_360;Dbxref=NCBI_GP:AGV01709.1;Name=AGV01709.1;gbkey=CDS;locus_tag=C8_360;product=Zn-ribbon containing protein;protein_id=AGV01709.1
+KF261120.1	Genbank	gene	292683	294467	.	-	.	ID=gene-C8_361;Name=C8_361;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_361
+KF261120.1	Genbank	CDS	292683	294467	.	-	0	ID=cds-AGV01710.1;Parent=gene-C8_361;Dbxref=NCBI_GP:AGV01710.1;Name=AGV01710.1;gbkey=CDS;locus_tag=C8_361;product=zinc ribbon-containing protein;protein_id=AGV01710.1
+KF261120.1	Genbank	gene	294515	294898	.	+	.	ID=gene-C8_362;Name=C8_362;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_362
+KF261120.1	Genbank	CDS	294515	294898	.	+	0	ID=cds-AGV01711.1;Parent=gene-C8_362;Dbxref=NCBI_GP:AGV01711.1;Name=AGV01711.1;gbkey=CDS;locus_tag=C8_362;product=hypothetical protein;protein_id=AGV01711.1
+KF261120.1	Genbank	gene	294958	295500	.	-	.	ID=gene-C8_363;Name=C8_363;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_363
+KF261120.1	Genbank	CDS	294958	295500	.	-	0	ID=cds-AGV01712.1;Parent=gene-C8_363;Dbxref=NCBI_GP:AGV01712.1;Name=AGV01712.1;gbkey=CDS;locus_tag=C8_363;product=zinc ribbon-containing protein;protein_id=AGV01712.1
+KF261120.1	Genbank	gene	295574	296023	.	-	.	ID=gene-C8_364;Name=C8_364;end_range=296023,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_364;partial=true
+KF261120.1	Genbank	CDS	295574	296023	.	-	0	ID=cds-AGV01713.1;Parent=gene-C8_364;Dbxref=NCBI_GP:AGV01713.1;Name=AGV01713.1;Note=start codon not determined;end_range=296023,.;gbkey=CDS;locus_tag=C8_364;partial=true;product=hypothetical protein;protein_id=AGV01713.1
+KF261120.1	Genbank	gene	296063	297595	.	-	.	ID=gene-C8_365;Name=C8_365;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_365
+KF261120.1	Genbank	CDS	296063	297595	.	-	0	ID=cds-AGV01714.1;Parent=gene-C8_365;Dbxref=NCBI_GP:AGV01714.1;Name=AGV01714.1;gbkey=CDS;locus_tag=C8_365;product=restriction endonuclease;protein_id=AGV01714.1
+KF261120.1	Genbank	gene	297664	298068	.	-	.	ID=gene-C8_366;Name=C8_366;end_range=298068,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_366;partial=true
+KF261120.1	Genbank	CDS	297664	298068	.	-	0	ID=cds-AGV01715.1;Parent=gene-C8_366;Dbxref=NCBI_GP:AGV01715.1;Name=AGV01715.1;Note=start codon not determined;end_range=298068,.;gbkey=CDS;locus_tag=C8_366;partial=true;product=hypothetical protein;protein_id=AGV01715.1
+KF261120.1	Genbank	gene	298173	298664	.	-	.	ID=gene-C8_367;Name=C8_367;end_range=298664,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_367;partial=true
+KF261120.1	Genbank	CDS	298173	298664	.	-	0	ID=cds-AGV01716.1;Parent=gene-C8_367;Dbxref=NCBI_GP:AGV01716.1;Name=AGV01716.1;Note=start codon not determined;end_range=298664,.;gbkey=CDS;locus_tag=C8_367;partial=true;product=hypothetical protein;protein_id=AGV01716.1
+KF261120.1	Genbank	gene	298768	299400	.	+	.	ID=gene-C8_368;Name=C8_368;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_368
+KF261120.1	Genbank	CDS	298768	299400	.	+	0	ID=cds-AGV01717.1;Parent=gene-C8_368;Dbxref=NCBI_GP:AGV01717.1;Name=AGV01717.1;gbkey=CDS;locus_tag=C8_368;product=hypothetical protein;protein_id=AGV01717.1
+KF261120.1	Genbank	gene	299483	300079	.	+	.	ID=gene-C8_369;Name=C8_369;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_369
+KF261120.1	Genbank	CDS	299483	300079	.	+	0	ID=cds-AGV01718.1;Parent=gene-C8_369;Dbxref=NCBI_GP:AGV01718.1;Name=AGV01718.1;gbkey=CDS;locus_tag=C8_369;product=divergent serine/threonine protein kinase;protein_id=AGV01718.1
+KF261120.1	Genbank	gene	300144	300731	.	+	.	ID=gene-C8_370;Name=C8_370;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_370
+KF261120.1	Genbank	CDS	300144	300731	.	+	0	ID=cds-AGV01719.1;Parent=gene-C8_370;Dbxref=NCBI_GP:AGV01719.1;Name=AGV01719.1;gbkey=CDS;locus_tag=C8_370;product=divergent serine/threonine protein kinase;protein_id=AGV01719.1
+KF261120.1	Genbank	gene	300774	301181	.	+	.	ID=gene-C8_371;Name=C8_371;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_371
+KF261120.1	Genbank	CDS	300774	301181	.	+	0	ID=cds-AGV01720.1;Parent=gene-C8_371;Dbxref=NCBI_GP:AGV01720.1;Name=AGV01720.1;gbkey=CDS;locus_tag=C8_371;product=hypothetical protein;protein_id=AGV01720.1
+KF261120.1	Genbank	gene	301215	301655	.	+	.	ID=gene-C8_372;Name=C8_372;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_372
+KF261120.1	Genbank	CDS	301215	301655	.	+	0	ID=cds-AGV01721.1;Parent=gene-C8_372;Dbxref=NCBI_GP:AGV01721.1;Name=AGV01721.1;gbkey=CDS;locus_tag=C8_372;product=hypothetical protein;protein_id=AGV01721.1
+KF261120.1	Genbank	gene	301686	302201	.	+	.	ID=gene-C8_373;Name=C8_373;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_373
+KF261120.1	Genbank	CDS	301686	302201	.	+	0	ID=cds-AGV01722.1;Parent=gene-C8_373;Dbxref=NCBI_GP:AGV01722.1;Name=AGV01722.1;gbkey=CDS;locus_tag=C8_373;product=MORN repeat-containing protein;protein_id=AGV01722.1
+KF261120.1	Genbank	gene	302227	302859	.	-	.	ID=gene-C8_374;Name=C8_374;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_374
+KF261120.1	Genbank	CDS	302227	302859	.	-	0	ID=cds-AGV01723.1;Parent=gene-C8_374;Dbxref=NCBI_GP:AGV01723.1;Name=AGV01723.1;gbkey=CDS;locus_tag=C8_374;product=hypothetical protein;protein_id=AGV01723.1
+KF261120.1	Genbank	gene	302888	303169	.	-	.	ID=gene-C8_375;Name=C8_375;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_375
+KF261120.1	Genbank	CDS	302888	303169	.	-	0	ID=cds-AGV01724.1;Parent=gene-C8_375;Dbxref=NCBI_GP:AGV01724.1;Name=AGV01724.1;gbkey=CDS;locus_tag=C8_375;product=hypothetical protein;protein_id=AGV01724.1
+KF261120.1	Genbank	gene	303168	303521	.	+	.	ID=gene-C8_376;Name=C8_376;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_376
+KF261120.1	Genbank	CDS	303168	303521	.	+	0	ID=cds-AGV01725.1;Parent=gene-C8_376;Dbxref=NCBI_GP:AGV01725.1;Name=AGV01725.1;gbkey=CDS;locus_tag=C8_376;product=conserved MORN repeat-containing protein;protein_id=AGV01725.1
+KF261120.1	Genbank	gene	303661	304053	.	+	.	ID=gene-C8_377;Name=C8_377;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_377
+KF261120.1	Genbank	CDS	303661	304053	.	+	0	ID=cds-AGV01726.1;Parent=gene-C8_377;Dbxref=NCBI_GP:AGV01726.1;Name=AGV01726.1;gbkey=CDS;locus_tag=C8_377;product=hypothetical protein;protein_id=AGV01726.1
+KF261120.1	Genbank	gene	304122	304361	.	+	.	ID=gene-C8_378;Name=C8_378;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_378
+KF261120.1	Genbank	CDS	304122	304361	.	+	0	ID=cds-AGV01727.1;Parent=gene-C8_378;Dbxref=NCBI_GP:AGV01727.1;Name=AGV01727.1;gbkey=CDS;locus_tag=C8_378;product=divergent serine/threonine protein kinase;protein_id=AGV01727.1
+KF261120.1	Genbank	gene	304427	304717	.	+	.	ID=gene-C8_379;Name=C8_379;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_379
+KF261120.1	Genbank	CDS	304427	304717	.	+	0	ID=cds-AGV01728.1;Parent=gene-C8_379;Dbxref=NCBI_GP:AGV01728.1;Name=AGV01728.1;gbkey=CDS;locus_tag=C8_379;product=divergent serine/threonine protein kinase;protein_id=AGV01728.1
+KF261120.1	Genbank	gene	304769	305188	.	+	.	ID=gene-C8_380;Name=C8_380;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_380
+KF261120.1	Genbank	CDS	304769	305188	.	+	0	ID=cds-AGV01729.1;Parent=gene-C8_380;Dbxref=NCBI_GP:AGV01729.1;Name=AGV01729.1;gbkey=CDS;locus_tag=C8_380;product=MORN repeat-containing protein;protein_id=AGV01729.1
+KF261120.1	Genbank	gene	305397	305687	.	+	.	ID=gene-C8_381;Name=C8_381;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_381
+KF261120.1	Genbank	CDS	305397	305687	.	+	0	ID=cds-AGV01730.1;Parent=gene-C8_381;Dbxref=NCBI_GP:AGV01730.1;Name=AGV01730.1;gbkey=CDS;locus_tag=C8_381;product=hypothetical protein;protein_id=AGV01730.1
+KF261120.1	Genbank	gene	305756	306484	.	+	.	ID=gene-C8_382;Name=C8_382;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_382
+KF261120.1	Genbank	CDS	305756	306484	.	+	0	ID=cds-AGV01731.1;Parent=gene-C8_382;Dbxref=NCBI_GP:AGV01731.1;Name=AGV01731.1;gbkey=CDS;locus_tag=C8_382;product=calcineurin-like phosphoesterase;protein_id=AGV01731.1
+KF261120.1	Genbank	gene	306511	306804	.	-	.	ID=gene-C8_383;Name=C8_383;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_383
+KF261120.1	Genbank	CDS	306511	306804	.	-	0	ID=cds-AGV01732.1;Parent=gene-C8_383;Dbxref=NCBI_GP:AGV01732.1;Name=AGV01732.1;gbkey=CDS;locus_tag=C8_383;product=hypothetical protein;protein_id=AGV01732.1
+KF261120.1	Genbank	gene	306849	307937	.	+	.	ID=gene-C8_384;Name=C8_384;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_384
+KF261120.1	Genbank	CDS	306849	307937	.	+	0	ID=cds-AGV01733.1;Parent=gene-C8_384;Dbxref=NCBI_GP:AGV01733.1;Name=AGV01733.1;gbkey=CDS;locus_tag=C8_384;product=flap-specific endonuclease;protein_id=AGV01733.1
+KF261120.1	Genbank	gene	307967	308491	.	+	.	ID=gene-C8_385;Name=C8_385;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_385
+KF261120.1	Genbank	CDS	307967	308491	.	+	0	ID=cds-AGV01734.1;Parent=gene-C8_385;Dbxref=NCBI_GP:AGV01734.1;Name=AGV01734.1;gbkey=CDS;locus_tag=C8_385;product=MORN repeat-containing protein;protein_id=AGV01734.1
+KF261120.1	Genbank	gene	308511	309446	.	-	.	ID=gene-C8_386;Name=C8_386;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_386
+KF261120.1	Genbank	CDS	308511	309446	.	-	0	ID=cds-AGV01735.1;Parent=gene-C8_386;Dbxref=NCBI_GP:AGV01735.1;Name=AGV01735.1;gbkey=CDS;locus_tag=C8_386;product=putative nuclease;protein_id=AGV01735.1
+KF261120.1	Genbank	gene	309566	311014	.	+	.	ID=gene-C8_387;Name=C8_387;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_387
+KF261120.1	Genbank	CDS	309566	311014	.	+	0	ID=cds-AGV01736.1;Parent=gene-C8_387;Dbxref=NCBI_GP:AGV01736.1;Name=AGV01736.1;gbkey=CDS;locus_tag=C8_387;product=low complexity protein;protein_id=AGV01736.1
+KF261120.1	Genbank	gene	311123	311845	.	+	.	ID=gene-C8_388;Name=C8_388;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_388
+KF261120.1	Genbank	CDS	311123	311845	.	+	0	ID=cds-AGV01737.1;Parent=gene-C8_388;Dbxref=NCBI_GP:AGV01737.1;Name=AGV01737.1;Note=similar protein only in Chilo iridovirus;gbkey=CDS;locus_tag=C8_388;product=hypothetical protein;protein_id=AGV01737.1
+KF261120.1	Genbank	gene	311923	312414	.	+	.	ID=gene-C8_389;Name=C8_389;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_389
+KF261120.1	Genbank	CDS	311923	312414	.	+	0	ID=cds-AGV01738.1;Parent=gene-C8_389;Dbxref=NCBI_GP:AGV01738.1;Name=AGV01738.1;gbkey=CDS;locus_tag=C8_389;product=hypothetical protein;protein_id=AGV01738.1
+KF261120.1	Genbank	gene	312372	312842	.	+	.	ID=gene-C8_390;Name=C8_390;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_390
+KF261120.1	Genbank	CDS	312372	312842	.	+	0	ID=cds-AGV01739.1;Parent=gene-C8_390;Dbxref=NCBI_GP:AGV01739.1;Name=AGV01739.1;gbkey=CDS;locus_tag=C8_390;product=hypothetical protein;protein_id=AGV01739.1
+KF261120.1	Genbank	gene	312884	313297	.	+	.	ID=gene-C8_391;Name=C8_391;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_391
+KF261120.1	Genbank	CDS	312884	313297	.	+	0	ID=cds-AGV01740.1;Parent=gene-C8_391;Dbxref=NCBI_GP:AGV01740.1;Name=AGV01740.1;gbkey=CDS;locus_tag=C8_391;product=hypothetical protein;protein_id=AGV01740.1
+KF261120.1	Genbank	gene	313340	313576	.	+	.	ID=gene-C8_392;Name=C8_392;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_392
+KF261120.1	Genbank	CDS	313340	313576	.	+	0	ID=cds-AGV01741.1;Parent=gene-C8_392;Dbxref=NCBI_GP:AGV01741.1;Name=AGV01741.1;gbkey=CDS;locus_tag=C8_392;product=Csr MutH archaeal HJR family nuclease;protein_id=AGV01741.1
+KF261120.1	Genbank	gene	313600	314019	.	+	.	ID=gene-C8_393;Name=C8_393;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_393
+KF261120.1	Genbank	CDS	313600	314019	.	+	0	ID=cds-AGV01742.1;Parent=gene-C8_393;Dbxref=NCBI_GP:AGV01742.1;Name=AGV01742.1;gbkey=CDS;locus_tag=C8_393;product=hypothetical protein;protein_id=AGV01742.1
+KF261120.1	Genbank	gene	314056	314475	.	+	.	ID=gene-C8_394;Name=C8_394;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_394
+KF261120.1	Genbank	CDS	314056	314475	.	+	0	ID=cds-AGV01743.1;Parent=gene-C8_394;Dbxref=NCBI_GP:AGV01743.1;Name=AGV01743.1;gbkey=CDS;locus_tag=C8_394;product=hypothetical protein;protein_id=AGV01743.1
+KF261120.1	Genbank	gene	314456	314923	.	+	.	ID=gene-C8_395;Name=C8_395;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_395
+KF261120.1	Genbank	CDS	314456	314923	.	+	0	ID=cds-AGV01744.1;Parent=gene-C8_395;Dbxref=NCBI_GP:AGV01744.1;Name=AGV01744.1;gbkey=CDS;locus_tag=C8_395;product=hypothetical protein;protein_id=AGV01744.1
+KF261120.1	Genbank	gene	314927	315301	.	+	.	ID=gene-C8_396;Name=C8_396;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_396
+KF261120.1	Genbank	CDS	314927	315301	.	+	0	ID=cds-AGV01745.1;Parent=gene-C8_396;Dbxref=NCBI_GP:AGV01745.1;Name=AGV01745.1;gbkey=CDS;locus_tag=C8_396;product=hypothetical protein;protein_id=AGV01745.1
+KF261120.1	Genbank	gene	315298	315510	.	-	.	ID=gene-C8_397;Name=C8_397;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_397
+KF261120.1	Genbank	CDS	315298	315510	.	-	0	ID=cds-AGV01746.1;Parent=gene-C8_397;Dbxref=NCBI_GP:AGV01746.1;Name=AGV01746.1;gbkey=CDS;locus_tag=C8_397;product=hypothetical protein;protein_id=AGV01746.1
+KF261120.1	Genbank	gene	315565	315897	.	-	.	ID=gene-C8_398;Name=C8_398;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_398
+KF261120.1	Genbank	CDS	315565	315897	.	-	0	ID=cds-AGV01747.1;Parent=gene-C8_398;Dbxref=NCBI_GP:AGV01747.1;Name=AGV01747.1;gbkey=CDS;locus_tag=C8_398;product=hypothetical protein;protein_id=AGV01747.1
+KF261120.1	Genbank	gene	315899	316633	.	-	.	ID=gene-C8_399;Name=C8_399;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_399
+KF261120.1	Genbank	CDS	315899	316633	.	-	0	ID=cds-AGV01748.1;Parent=gene-C8_399;Dbxref=NCBI_GP:AGV01748.1;Name=AGV01748.1;gbkey=CDS;locus_tag=C8_399;product=hypothetical protein;protein_id=AGV01748.1
+KF261120.1	Genbank	gene	316667	317119	.	-	.	ID=gene-C8_400;Name=C8_400;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_400
+KF261120.1	Genbank	CDS	316667	317119	.	-	0	ID=cds-AGV01749.1;Parent=gene-C8_400;Dbxref=NCBI_GP:AGV01749.1;Name=AGV01749.1;gbkey=CDS;locus_tag=C8_400;product=hypothetical protein;protein_id=AGV01749.1
+KF261120.1	Genbank	gene	317121	317933	.	-	.	ID=gene-C8_401;Name=C8_401;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_401
+KF261120.1	Genbank	CDS	317121	317933	.	-	0	ID=cds-AGV01750.1;Parent=gene-C8_401;Dbxref=NCBI_GP:AGV01750.1;Name=AGV01750.1;gbkey=CDS;locus_tag=C8_401;product=hypothetical protein;protein_id=AGV01750.1
+KF261120.1	Genbank	gene	317988	318569	.	+	.	ID=gene-C8_402;Name=C8_402;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_402
+KF261120.1	Genbank	CDS	317988	318569	.	+	0	ID=cds-AGV01751.1;Parent=gene-C8_402;Dbxref=NCBI_GP:AGV01751.1;Name=AGV01751.1;gbkey=CDS;locus_tag=C8_402;product=RNAP subunit Rpb5;protein_id=AGV01751.1
+KF261120.1	Genbank	gene	318598	318855	.	+	.	ID=gene-C8_403;Name=C8_403;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_403
+KF261120.1	Genbank	CDS	318598	318855	.	+	0	ID=cds-AGV01752.1;Parent=gene-C8_403;Dbxref=NCBI_GP:AGV01752.1;Name=AGV01752.1;gbkey=CDS;locus_tag=C8_403;product=hypothetical protein;protein_id=AGV01752.1
+KF261120.1	Genbank	gene	318831	319046	.	-	.	ID=gene-C8_404;Name=C8_404;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_404
+KF261120.1	Genbank	CDS	318831	319046	.	-	0	ID=cds-AGV01753.1;Parent=gene-C8_404;Dbxref=NCBI_GP:AGV01753.1;Name=AGV01753.1;gbkey=CDS;locus_tag=C8_404;product=hypothetical protein;protein_id=AGV01753.1
+KF261120.1	Genbank	gene	319103	319714	.	+	.	ID=gene-C8_405;Name=C8_405;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_405
+KF261120.1	Genbank	CDS	319103	319714	.	+	0	ID=cds-AGV01754.1;Parent=gene-C8_405;Dbxref=NCBI_GP:AGV01754.1;Name=AGV01754.1;gbkey=CDS;locus_tag=C8_405;product=F-box containing protein;protein_id=AGV01754.1
+KF261120.1	Genbank	gene	319737	320219	.	+	.	ID=gene-C8_406;Name=C8_406;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_406
+KF261120.1	Genbank	CDS	319737	320219	.	+	0	ID=cds-AGV01755.1;Parent=gene-C8_406;Dbxref=NCBI_GP:AGV01755.1;Name=AGV01755.1;gbkey=CDS;locus_tag=C8_406;product=hypothetical protein;protein_id=AGV01755.1
+KF261120.1	Genbank	gene	320450	322072	.	-	.	ID=gene-C8_407;Name=C8_407;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_407
+KF261120.1	Genbank	CDS	320450	322072	.	-	0	ID=cds-AGV01756.1;Parent=gene-C8_407;Dbxref=NCBI_GP:AGV01756.1;Name=AGV01756.1;gbkey=CDS;locus_tag=C8_407;product=HNH endonuclease;protein_id=AGV01756.1
+KF261120.1	Genbank	gene	322107	322409	.	+	.	ID=gene-C8_408;Name=C8_408;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_408
+KF261120.1	Genbank	CDS	322107	322409	.	+	0	ID=cds-AGV01757.1;Parent=gene-C8_408;Dbxref=NCBI_GP:AGV01757.1;Name=AGV01757.1;gbkey=CDS;locus_tag=C8_408;product=hypothetical protein;protein_id=AGV01757.1
+KF261120.1	Genbank	gene	323107	323787	.	+	.	ID=gene-C8_409;Name=C8_409;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_409
+KF261120.1	Genbank	CDS	323107	323787	.	+	0	ID=cds-AGV01758.1;Parent=gene-C8_409;Dbxref=NCBI_GP:AGV01758.1;Name=AGV01758.1;gbkey=CDS;locus_tag=C8_409;product=hypothetical protein;protein_id=AGV01758.1
+KF261120.1	Genbank	gene	323991	324158	.	+	.	ID=gene-C8_410;Name=C8_410;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_410
+KF261120.1	Genbank	CDS	323991	324158	.	+	0	ID=cds-AGV01759.1;Parent=gene-C8_410;Dbxref=NCBI_GP:AGV01759.1;Name=AGV01759.1;gbkey=CDS;locus_tag=C8_410;product=hypothetical protein;protein_id=AGV01759.1
+KF261120.1	Genbank	gene	324391	324549	.	-	.	ID=gene-C8_411;Name=C8_411;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_411
+KF261120.1	Genbank	CDS	324391	324549	.	-	0	ID=cds-AGV01760.1;Parent=gene-C8_411;Dbxref=NCBI_GP:AGV01760.1;Name=AGV01760.1;gbkey=CDS;locus_tag=C8_411;product=hypothetical protein;protein_id=AGV01760.1
+KF261120.1	Genbank	gene	324548	325759	.	+	.	ID=gene-C8_412;Name=C8_412;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_412
+KF261120.1	Genbank	CDS	324548	325759	.	+	0	ID=cds-AGV01761.1;Parent=gene-C8_412;Dbxref=NCBI_GP:AGV01761.1;Name=AGV01761.1;gbkey=CDS;locus_tag=C8_412;product=zinc finger protein;protein_id=AGV01761.1
+KF261120.1	Genbank	gene	325797	326183	.	+	.	ID=gene-C8_413;Name=C8_413;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_413
+KF261120.1	Genbank	CDS	325797	326183	.	+	0	ID=cds-AGV01762.1;Parent=gene-C8_413;Dbxref=NCBI_GP:AGV01762.1;Name=AGV01762.1;gbkey=CDS;locus_tag=C8_413;product=hypothetical protein;protein_id=AGV01762.1
+KF261120.1	Genbank	gene	326278	327018	.	+	.	ID=gene-C8_414;Name=C8_414;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_414
+KF261120.1	Genbank	CDS	326278	327018	.	+	0	ID=cds-AGV01763.1;Parent=gene-C8_414;Dbxref=NCBI_GP:AGV01763.1;Name=AGV01763.1;gbkey=CDS;locus_tag=C8_414;product=hypothetical protein;protein_id=AGV01763.1
+KF261120.1	Genbank	gene	327083	327286	.	-	.	ID=gene-C8_415;Name=C8_415;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_415
+KF261120.1	Genbank	CDS	327083	327286	.	-	0	ID=cds-AGV01764.1;Parent=gene-C8_415;Dbxref=NCBI_GP:AGV01764.1;Name=AGV01764.1;gbkey=CDS;locus_tag=C8_415;product=hypothetical protein;protein_id=AGV01764.1
+KF261120.1	Genbank	gene	327461	327778	.	+	.	ID=gene-C8_416;Name=C8_416;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_416
+KF261120.1	Genbank	CDS	327461	327778	.	+	0	ID=cds-AGV01765.1;Parent=gene-C8_416;Dbxref=NCBI_GP:AGV01765.1;Name=AGV01765.1;gbkey=CDS;locus_tag=C8_416;product=hypothetical protein;protein_id=AGV01765.1
+KF261120.1	Genbank	gene	327848	328189	.	+	.	ID=gene-C8_417;Name=C8_417;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_417
+KF261120.1	Genbank	CDS	327848	328189	.	+	0	ID=cds-AGV01766.1;Parent=gene-C8_417;Dbxref=NCBI_GP:AGV01766.1;Name=AGV01766.1;gbkey=CDS;locus_tag=C8_417;product=hypothetical protein;protein_id=AGV01766.1
+KF261120.1	Genbank	gene	328208	328813	.	-	.	ID=gene-C8_418;Name=C8_418;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_418
+KF261120.1	Genbank	CDS	328208	328813	.	-	0	ID=cds-AGV01767.1;Parent=gene-C8_418;Dbxref=NCBI_GP:AGV01767.1;Name=AGV01767.1;gbkey=CDS;locus_tag=C8_418;product=galactose-binding lectin domain-containing protein;protein_id=AGV01767.1
+KF261120.1	Genbank	gene	328826	329506	.	+	.	ID=gene-C8_419;Name=C8_419;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_419
+KF261120.1	Genbank	CDS	328826	329506	.	+	0	ID=cds-AGV01768.1;Parent=gene-C8_419;Dbxref=NCBI_GP:AGV01768.1;Name=AGV01768.1;gbkey=CDS;locus_tag=C8_419;product=hypothetical protein;protein_id=AGV01768.1
+KF261120.1	Genbank	gene	329536	329949	.	+	.	ID=gene-C8_420;Name=C8_420;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_420
+KF261120.1	Genbank	CDS	329536	329949	.	+	0	ID=cds-AGV01769.1;Parent=gene-C8_420;Dbxref=NCBI_GP:AGV01769.1;Name=AGV01769.1;gbkey=CDS;locus_tag=C8_420;product=hypothetical protein;protein_id=AGV01769.1
+KF261120.1	Genbank	gene	329973	331187	.	+	.	ID=gene-C8_421;Name=C8_421;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_421
+KF261120.1	Genbank	CDS	329973	331187	.	+	0	ID=cds-AGV01770.1;Parent=gene-C8_421;Dbxref=NCBI_GP:AGV01770.1;Name=AGV01770.1;gbkey=CDS;locus_tag=C8_421;product=uracil-DNA glycosylase D4;protein_id=AGV01770.1
+KF261120.1	Genbank	gene	331214	332278	.	+	.	ID=gene-C8_422;Name=C8_422;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_422
+KF261120.1	Genbank	CDS	331214	332278	.	+	0	ID=cds-AGV01771.1;Parent=gene-C8_422;Dbxref=NCBI_GP:AGV01771.1;Name=AGV01771.1;gbkey=CDS;locus_tag=C8_422;product=hypothetical protein;protein_id=AGV01771.1
+KF261120.1	Genbank	gene	332301	333110	.	+	.	ID=gene-C8_423;Name=C8_423;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_423
+KF261120.1	Genbank	CDS	332301	333110	.	+	0	ID=cds-AGV01772.1;Parent=gene-C8_423;Dbxref=NCBI_GP:AGV01772.1;Name=AGV01772.1;gbkey=CDS;locus_tag=C8_423;product=cell division cycle 123 protein;protein_id=AGV01772.1
+KF261120.1	Genbank	gene	333347	334024	.	+	.	ID=gene-C8_424;Name=C8_424;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_424
+KF261120.1	Genbank	CDS	333347	334024	.	+	0	ID=cds-AGV01773.1;Parent=gene-C8_424;Dbxref=NCBI_GP:AGV01773.1;Name=AGV01773.1;gbkey=CDS;locus_tag=C8_424;product=putative restriction endonuclease;protein_id=AGV01773.1
+KF261120.1	Genbank	gene	334063	334404	.	+	.	ID=gene-C8_425;Name=C8_425;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_425
+KF261120.1	Genbank	CDS	334063	334404	.	+	0	ID=cds-AGV01774.1;Parent=gene-C8_425;Dbxref=NCBI_GP:AGV01774.1;Name=AGV01774.1;gbkey=CDS;locus_tag=C8_425;product=restriction endonuclease;protein_id=AGV01774.1
+KF261120.1	Genbank	gene	334561	337182	.	-	.	ID=gene-C8_426;Name=C8_426;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_426
+KF261120.1	Genbank	CDS	334561	337182	.	-	0	ID=cds-AGV01775.1;Parent=gene-C8_426;Dbxref=NCBI_GP:AGV01775.1;Name=AGV01775.1;gbkey=CDS;locus_tag=C8_426;product=hypothetical protein;protein_id=AGV01775.1
+KF261120.1	Genbank	gene	337177	338940	.	+	.	ID=gene-C8_427;Name=C8_427;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_427
+KF261120.1	Genbank	CDS	337177	338940	.	+	0	ID=cds-AGV01776.1;Parent=gene-C8_427;Dbxref=NCBI_GP:AGV01776.1;Name=AGV01776.1;gbkey=CDS;locus_tag=C8_427;product=zinc finger protein;protein_id=AGV01776.1
+KF261120.1	Genbank	gene	338979	341576	.	+	.	ID=gene-C8_428;Name=C8_428;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_428
+KF261120.1	Genbank	CDS	338979	341576	.	+	0	ID=cds-AGV01777.1;Parent=gene-C8_428;Dbxref=NCBI_GP:AGV01777.1;Name=AGV01777.1;gbkey=CDS;locus_tag=C8_428;product=AAA family ATPase;protein_id=AGV01777.1
+KF261120.1	Genbank	gene	341652	342020	.	+	.	ID=gene-C8_429;Name=C8_429;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_429
+KF261120.1	Genbank	CDS	341652	342020	.	+	0	ID=cds-AGV01778.1;Parent=gene-C8_429;Dbxref=NCBI_GP:AGV01778.1;Name=AGV01778.1;gbkey=CDS;locus_tag=C8_429;product=hypothetical protein;protein_id=AGV01778.1
+KF261120.1	Genbank	gene	342070	342348	.	+	.	ID=gene-C8_430;Name=C8_430;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_430
+KF261120.1	Genbank	CDS	342070	342348	.	+	0	ID=cds-AGV01779.1;Parent=gene-C8_430;Dbxref=NCBI_GP:AGV01779.1;Name=AGV01779.1;gbkey=CDS;locus_tag=C8_430;product=hypothetical protein;protein_id=AGV01779.1
+KF261120.1	Genbank	gene	342363	342686	.	+	.	ID=gene-C8_431;Name=C8_431;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_431
+KF261120.1	Genbank	CDS	342363	342686	.	+	0	ID=cds-AGV01780.1;Parent=gene-C8_431;Dbxref=NCBI_GP:AGV01780.1;Name=AGV01780.1;gbkey=CDS;locus_tag=C8_431;product=ubiquitin-like protein;protein_id=AGV01780.1
+KF261120.1	Genbank	gene	342714	342866	.	-	.	ID=gene-C8_432;Name=C8_432;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_432
+KF261120.1	Genbank	CDS	342714	342866	.	-	0	ID=cds-AGV01781.1;Parent=gene-C8_432;Dbxref=NCBI_GP:AGV01781.1;Name=AGV01781.1;gbkey=CDS;locus_tag=C8_432;product=hypothetical protein;protein_id=AGV01781.1
+KF261120.1	Genbank	gene	342920	344329	.	+	.	ID=gene-C8_433;Name=C8_433;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_433
+KF261120.1	Genbank	CDS	342920	344329	.	+	0	ID=cds-AGV01782.1;Parent=gene-C8_433;Dbxref=NCBI_GP:AGV01782.1;Name=AGV01782.1;gbkey=CDS;locus_tag=C8_433;product=ATP-dependent exoDNAse alpha subunit;protein_id=AGV01782.1
+KF261120.1	Genbank	gene	344374	345924	.	+	.	ID=gene-C8_434;Name=C8_434;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_434;partial=true;start_range=.,344374
+KF261120.1	Genbank	CDS	344374	345924	.	+	0	ID=cds-AGV01783.1;Parent=gene-C8_434;Dbxref=NCBI_GP:AGV01783.1;Name=AGV01783.1;Note=start codon not determined;gbkey=CDS;locus_tag=C8_434;partial=true;product=restriction endonuclease;protein_id=AGV01783.1;start_range=.,344374
+KF261120.1	Genbank	gene	345968	346300	.	-	.	ID=gene-C8_435;Name=C8_435;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_435
+KF261120.1	Genbank	CDS	345968	346300	.	-	0	ID=cds-AGV01784.1;Parent=gene-C8_435;Dbxref=NCBI_GP:AGV01784.1;Name=AGV01784.1;gbkey=CDS;locus_tag=C8_435;product=hypothetical protein;protein_id=AGV01784.1
+KF261120.1	Genbank	gene	346378	347262	.	+	.	ID=gene-C8_436;Name=C8_436;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_436
+KF261120.1	Genbank	CDS	346378	347262	.	+	0	ID=cds-AGV01785.1;Parent=gene-C8_436;Dbxref=NCBI_GP:AGV01785.1;Name=AGV01785.1;gbkey=CDS;locus_tag=C8_436;product=hypothetical protein;protein_id=AGV01785.1
+KF261120.1	Genbank	gene	347356	347742	.	+	.	ID=gene-C8_437;Name=C8_437;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_437
+KF261120.1	Genbank	CDS	347356	347742	.	+	0	ID=cds-AGV01786.1;Parent=gene-C8_437;Dbxref=NCBI_GP:AGV01786.1;Name=AGV01786.1;gbkey=CDS;locus_tag=C8_437;product=hypothetical protein;protein_id=AGV01786.1
+KF261120.1	Genbank	gene	347941	348591	.	-	.	ID=gene-C8_438;Name=C8_438;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_438
+KF261120.1	Genbank	CDS	347941	348591	.	-	0	ID=cds-AGV01787.1;Parent=gene-C8_438;Dbxref=NCBI_GP:AGV01787.1;Name=AGV01787.1;gbkey=CDS;locus_tag=C8_438;product=histone H3;protein_id=AGV01787.1
+KF261120.1	Genbank	gene	348693	349502	.	+	.	ID=gene-C8_439;Name=C8_439;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_439
+KF261120.1	Genbank	CDS	348693	349502	.	+	0	ID=cds-AGV01788.1;Parent=gene-C8_439;Dbxref=NCBI_GP:AGV01788.1;Name=AGV01788.1;gbkey=CDS;locus_tag=C8_439;product=histone H2B/H2A fusion protein;protein_id=AGV01788.1
+KF261120.1	Genbank	gene	349523	349903	.	-	.	ID=gene-C8_440;Name=C8_440;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_440
+KF261120.1	Genbank	CDS	349523	349903	.	-	0	ID=cds-AGV01789.1;Parent=gene-C8_440;Dbxref=NCBI_GP:AGV01789.1;Name=AGV01789.1;gbkey=CDS;locus_tag=C8_440;product=hypothetical protein;protein_id=AGV01789.1
+KF261120.1	Genbank	gene	349903	350508	.	-	.	ID=gene-C8_441;Name=C8_441;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_441
+KF261120.1	Genbank	CDS	349903	350508	.	-	0	ID=cds-AGV01790.1;Parent=gene-C8_441;Dbxref=NCBI_GP:AGV01790.1;Name=AGV01790.1;gbkey=CDS;locus_tag=C8_441;product=hypothetical protein;protein_id=AGV01790.1
+KF261120.1	Genbank	gene	350508	351125	.	-	.	ID=gene-C8_442;Name=C8_442;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_442
+KF261120.1	Genbank	CDS	350508	351125	.	-	0	ID=cds-AGV01791.1;Parent=gene-C8_442;Dbxref=NCBI_GP:AGV01791.1;Name=AGV01791.1;gbkey=CDS;locus_tag=C8_442;product=peptidoglycan peptidase;protein_id=AGV01791.1
+KF261120.1	Genbank	gene	351153	351779	.	+	.	ID=gene-C8_443;Name=C8_443;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_443
+KF261120.1	Genbank	CDS	351153	351779	.	+	0	ID=cds-AGV01792.1;Parent=gene-C8_443;Dbxref=NCBI_GP:AGV01792.1;Name=AGV01792.1;gbkey=CDS;locus_tag=C8_443;product=hypothetical protein;protein_id=AGV01792.1
+KF261120.1	Genbank	gene	351796	352068	.	-	.	ID=gene-C8_444;Name=C8_444;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_444
+KF261120.1	Genbank	CDS	351796	352068	.	-	0	ID=cds-AGV01793.1;Parent=gene-C8_444;Dbxref=NCBI_GP:AGV01793.1;Name=AGV01793.1;gbkey=CDS;locus_tag=C8_444;product=hypothetical protein;protein_id=AGV01793.1
+KF261120.1	Genbank	gene	352065	352469	.	-	.	ID=gene-C8_445;Name=C8_445;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_445
+KF261120.1	Genbank	CDS	352065	352469	.	-	0	ID=cds-AGV01794.1;Parent=gene-C8_445;Dbxref=NCBI_GP:AGV01794.1;Name=AGV01794.1;gbkey=CDS;locus_tag=C8_445;product=hypothetical protein;protein_id=AGV01794.1
+KF261120.1	Genbank	gene	352516	353166	.	+	.	ID=gene-C8_446;Name=C8_446;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_446
+KF261120.1	Genbank	CDS	352516	353166	.	+	0	ID=cds-AGV01795.1;Parent=gene-C8_446;Dbxref=NCBI_GP:AGV01795.1;Name=AGV01795.1;gbkey=CDS;locus_tag=C8_446;product=hypothetical protein;protein_id=AGV01795.1
+KF261120.1	Genbank	gene	353182	353679	.	-	.	ID=gene-C8_447;Name=C8_447;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_447
+KF261120.1	Genbank	CDS	353182	353679	.	-	0	ID=cds-AGV01796.1;Parent=gene-C8_447;Dbxref=NCBI_GP:AGV01796.1;Name=AGV01796.1;gbkey=CDS;locus_tag=C8_447;product=hypothetical protein;protein_id=AGV01796.1
+KF261120.1	Genbank	gene	353718	354335	.	+	.	ID=gene-C8_448;Name=C8_448;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_448
+KF261120.1	Genbank	CDS	353718	354335	.	+	0	ID=cds-AGV01797.1;Parent=gene-C8_448;Dbxref=NCBI_GP:AGV01797.1;Name=AGV01797.1;gbkey=CDS;locus_tag=C8_448;product=putative P-loop kinase;protein_id=AGV01797.1
+KF261120.1	Genbank	gene	354341	354979	.	+	.	ID=gene-C8_449;Name=C8_449;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_449
+KF261120.1	Genbank	CDS	354341	354979	.	+	0	ID=cds-AGV01798.1;Parent=gene-C8_449;Dbxref=NCBI_GP:AGV01798.1;Name=AGV01798.1;gbkey=CDS;locus_tag=C8_449;product=serine/threonine protein kinase;protein_id=AGV01798.1
+KF261120.1	Genbank	gene	354981	355160	.	+	.	ID=gene-C8_450;Name=C8_450;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_450
+KF261120.1	Genbank	CDS	354981	355160	.	+	0	ID=cds-AGV01799.1;Parent=gene-C8_450;Dbxref=NCBI_GP:AGV01799.1;Name=AGV01799.1;gbkey=CDS;locus_tag=C8_450;product=hypothetical protein;protein_id=AGV01799.1
+KF261120.1	Genbank	gene	355181	356113	.	-	.	ID=gene-C8_451;Name=C8_451;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_451
+KF261120.1	Genbank	CDS	355181	356113	.	-	0	ID=cds-AGV01800.1;Parent=gene-C8_451;Dbxref=NCBI_GP:AGV01800.1;Name=AGV01800.1;gbkey=CDS;locus_tag=C8_451;product=WD repeat protein;protein_id=AGV01800.1
+KF261120.1	Genbank	gene	356176	356919	.	-	.	ID=gene-C8_452;Name=C8_452;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_452
+KF261120.1	Genbank	CDS	356176	356919	.	-	0	ID=cds-AGV01801.1;Parent=gene-C8_452;Dbxref=NCBI_GP:AGV01801.1;Name=AGV01801.1;gbkey=CDS;locus_tag=C8_452;product=serine/threonine protein kinase;protein_id=AGV01801.1
+KF261120.1	Genbank	gene	356922	357338	.	-	.	ID=gene-C8_453;Name=C8_453;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_453
+KF261120.1	Genbank	CDS	356922	357338	.	-	0	ID=cds-AGV01802.1;Parent=gene-C8_453;Dbxref=NCBI_GP:AGV01802.1;Name=AGV01802.1;gbkey=CDS;locus_tag=C8_453;product=Vsr/MutH/archaeal HJR family endonuclease;protein_id=AGV01802.1
+KF261120.1	Genbank	gene	357325	357771	.	-	.	ID=gene-C8_454;Name=C8_454;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_454
+KF261120.1	Genbank	CDS	357325	357771	.	-	0	ID=cds-AGV01803.1;Parent=gene-C8_454;Dbxref=NCBI_GP:AGV01803.1;Name=AGV01803.1;gbkey=CDS;locus_tag=C8_454;product=hypothetical protein;protein_id=AGV01803.1
+KF261120.1	Genbank	gene	357755	359089	.	-	.	ID=gene-C8_455;Name=C8_455;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_455
+KF261120.1	Genbank	CDS	357755	359089	.	-	0	ID=cds-AGV01804.1;Parent=gene-C8_455;Dbxref=NCBI_GP:AGV01804.1;Name=AGV01804.1;gbkey=CDS;locus_tag=C8_455;product=bifunctional dihydrofolate reductase-thymidylate synthase;protein_id=AGV01804.1
+KF261120.1	Genbank	gene	359117	359599	.	-	.	ID=gene-C8_456;Name=C8_456;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_456
+KF261120.1	Genbank	CDS	359117	359599	.	-	0	ID=cds-AGV01805.1;Parent=gene-C8_456;Dbxref=NCBI_GP:AGV01805.1;Name=AGV01805.1;gbkey=CDS;locus_tag=C8_456;product=hypothetical protein;protein_id=AGV01805.1
+KF261120.1	Genbank	gene	359871	360329	.	-	.	ID=gene-C8_457;Name=C8_457;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_457
+KF261120.1	Genbank	CDS	359871	360329	.	-	0	ID=cds-AGV01806.1;Parent=gene-C8_457;Dbxref=NCBI_GP:AGV01806.1;Name=AGV01806.1;gbkey=CDS;locus_tag=C8_457;product=hypothetical protein;protein_id=AGV01806.1
+KF261120.1	Genbank	gene	360351	361070	.	-	.	ID=gene-C8_458;Name=C8_458;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_458
+KF261120.1	Genbank	CDS	360351	361070	.	-	0	ID=cds-AGV01807.1;Parent=gene-C8_458;Dbxref=NCBI_GP:AGV01807.1;Name=AGV01807.1;gbkey=CDS;locus_tag=C8_458;product=serine/threonine protein kinase;protein_id=AGV01807.1
+KF261120.1	Genbank	gene	361130	361426	.	-	.	ID=gene-C8_459;Name=C8_459;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_459
+KF261120.1	Genbank	CDS	361130	361426	.	-	0	ID=cds-AGV01808.1;Parent=gene-C8_459;Dbxref=NCBI_GP:AGV01808.1;Name=AGV01808.1;gbkey=CDS;locus_tag=C8_459;product=hypothetical protein;protein_id=AGV01808.1
+KF261120.1	Genbank	gene	361426	362103	.	-	.	ID=gene-C8_460;Name=C8_460;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_460
+KF261120.1	Genbank	CDS	361426	362103	.	-	0	ID=cds-AGV01809.1;Parent=gene-C8_460;Dbxref=NCBI_GP:AGV01809.1;Name=AGV01809.1;gbkey=CDS;locus_tag=C8_460;product=MORN repeat-containing protein;protein_id=AGV01809.1
+KF261120.1	Genbank	gene	362114	362623	.	+	.	ID=gene-C8_461;Name=C8_461;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_461
+KF261120.1	Genbank	CDS	362114	362623	.	+	0	ID=cds-AGV01810.1;Parent=gene-C8_461;Dbxref=NCBI_GP:AGV01810.1;Name=AGV01810.1;gbkey=CDS;locus_tag=C8_461;product=hypothetical protein;protein_id=AGV01810.1
+KF261120.1	Genbank	gene	362623	362892	.	+	.	ID=gene-C8_462;Name=C8_462;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_462
+KF261120.1	Genbank	CDS	362623	362892	.	+	0	ID=cds-AGV01811.1;Parent=gene-C8_462;Dbxref=NCBI_GP:AGV01811.1;Name=AGV01811.1;gbkey=CDS;locus_tag=C8_462;product=hypothetical protein;protein_id=AGV01811.1
+KF261120.1	Genbank	gene	362905	363363	.	+	.	ID=gene-C8_463;Name=C8_463;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_463
+KF261120.1	Genbank	CDS	362905	363363	.	+	0	ID=cds-AGV01812.1;Parent=gene-C8_463;Dbxref=NCBI_GP:AGV01812.1;Name=AGV01812.1;gbkey=CDS;locus_tag=C8_463;product=hypothetical protein;protein_id=AGV01812.1
+KF261120.1	Genbank	gene	363435	363854	.	+	.	ID=gene-C8_464;Name=C8_464;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_464
+KF261120.1	Genbank	CDS	363435	363854	.	+	0	ID=cds-AGV01813.1;Parent=gene-C8_464;Dbxref=NCBI_GP:AGV01813.1;Name=AGV01813.1;gbkey=CDS;locus_tag=C8_464;product=hypothetical protein;protein_id=AGV01813.1
+KF261120.1	Genbank	gene	363922	364128	.	+	.	ID=gene-C8_465;Name=C8_465;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_465
+KF261120.1	Genbank	CDS	363922	364128	.	+	0	ID=cds-AGV01814.1;Parent=gene-C8_465;Dbxref=NCBI_GP:AGV01814.1;Name=AGV01814.1;gbkey=CDS;locus_tag=C8_465;product=hypothetical protein;protein_id=AGV01814.1
+KF261120.1	Genbank	gene	364326	365192	.	+	.	ID=gene-C8_466;Name=C8_466;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_466
+KF261120.1	Genbank	CDS	364326	365192	.	+	0	ID=cds-AGV01815.1;Parent=gene-C8_466;Dbxref=NCBI_GP:AGV01815.1;Name=AGV01815.1;gbkey=CDS;locus_tag=C8_466;product=hypothetical protein;protein_id=AGV01815.1
+KF261120.1	Genbank	gene	365219	365641	.	-	.	ID=gene-C8_467;Name=C8_467;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_467
+KF261120.1	Genbank	CDS	365219	365641	.	-	0	ID=cds-AGV01816.1;Parent=gene-C8_467;Dbxref=NCBI_GP:AGV01816.1;Name=AGV01816.1;gbkey=CDS;locus_tag=C8_467;product=hypothetical protein;protein_id=AGV01816.1
+KF261120.1	Genbank	gene	365640	365915	.	+	.	ID=gene-C8_468;Name=C8_468;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_468
+KF261120.1	Genbank	CDS	365640	365915	.	+	0	ID=cds-AGV01817.1;Parent=gene-C8_468;Dbxref=NCBI_GP:AGV01817.1;Name=AGV01817.1;gbkey=CDS;locus_tag=C8_468;product=hypothetical protein;protein_id=AGV01817.1
+KF261120.1	Genbank	gene	365935	366294	.	-	.	ID=gene-C8_469;Name=C8_469;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_469
+KF261120.1	Genbank	CDS	365935	366294	.	-	0	ID=cds-AGV01818.1;Parent=gene-C8_469;Dbxref=NCBI_GP:AGV01818.1;Name=AGV01818.1;gbkey=CDS;locus_tag=C8_469;product=hypothetical protein;protein_id=AGV01818.1
+KF261120.1	Genbank	gene	366340	366633	.	-	.	ID=gene-C8_470;Name=C8_470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_470
+KF261120.1	Genbank	CDS	366340	366633	.	-	0	ID=cds-AGV01819.1;Parent=gene-C8_470;Dbxref=NCBI_GP:AGV01819.1;Name=AGV01819.1;gbkey=CDS;locus_tag=C8_470;product=hypothetical protein;protein_id=AGV01819.1
+KF261120.1	Genbank	gene	366689	367267	.	+	.	ID=gene-C8_471;Name=C8_471;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_471
+KF261120.1	Genbank	CDS	366689	367267	.	+	0	ID=cds-AGV01820.1;Parent=gene-C8_471;Dbxref=NCBI_GP:AGV01820.1;Name=AGV01820.1;gbkey=CDS;locus_tag=C8_471;product=ankyrin repeat-containing protein;protein_id=AGV01820.1
+KF261120.1	Genbank	gene	367327	368034	.	+	.	ID=gene-C8_472;Name=C8_472;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_472
+KF261120.1	Genbank	CDS	367327	368034	.	+	0	ID=cds-AGV01821.1;Parent=gene-C8_472;Dbxref=NCBI_GP:AGV01821.1;Name=AGV01821.1;gbkey=CDS;locus_tag=C8_472;product=serine/threonine protein kinase;protein_id=AGV01821.1
+KF261120.1	Genbank	gene	368040	368453	.	+	.	ID=gene-C8_473;Name=C8_473;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_473
+KF261120.1	Genbank	CDS	368040	368453	.	+	0	ID=cds-AGV01822.1;Parent=gene-C8_473;Dbxref=NCBI_GP:AGV01822.1;Name=AGV01822.1;gbkey=CDS;locus_tag=C8_473;product=hypothetical protein;protein_id=AGV01822.1
+KF261120.1	Genbank	gene	368669	369007	.	-	.	ID=gene-C8_474;Name=C8_474;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_474
+KF261120.1	Genbank	CDS	368669	369007	.	-	0	ID=cds-AGV01823.1;Parent=gene-C8_474;Dbxref=NCBI_GP:AGV01823.1;Name=AGV01823.1;gbkey=CDS;locus_tag=C8_474;product=hypothetical protein;protein_id=AGV01823.1
+KF261120.1	Genbank	gene	369019	369297	.	-	.	ID=gene-C8_475;Name=C8_475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_475
+KF261120.1	Genbank	CDS	369019	369297	.	-	0	ID=cds-AGV01824.1;Parent=gene-C8_475;Dbxref=NCBI_GP:AGV01824.1;Name=AGV01824.1;gbkey=CDS;locus_tag=C8_475;product=hypothetical protein;protein_id=AGV01824.1
+KF261120.1	Genbank	gene	369348	369515	.	-	.	ID=gene-C8_476;Name=C8_476;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_476
+KF261120.1	Genbank	CDS	369348	369515	.	-	0	ID=cds-AGV01825.1;Parent=gene-C8_476;Dbxref=NCBI_GP:AGV01825.1;Name=AGV01825.1;gbkey=CDS;locus_tag=C8_476;product=hypothetical protein;protein_id=AGV01825.1
+KF261120.1	Genbank	gene	369698	370687	.	+	.	ID=gene-C8_477;Name=C8_477;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_477
+KF261120.1	Genbank	CDS	369698	370687	.	+	0	ID=cds-AGV01826.1;Parent=gene-C8_477;Dbxref=NCBI_GP:AGV01826.1;Name=AGV01826.1;gbkey=CDS;locus_tag=C8_477;product=glycosyltransferase;protein_id=AGV01826.1
+KF261120.1	Genbank	gene	370695	371264	.	-	.	ID=gene-C8_478;Name=C8_478;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_478
+KF261120.1	Genbank	CDS	370695	371264	.	-	0	ID=cds-AGV01827.1;Parent=gene-C8_478;Dbxref=NCBI_GP:AGV01827.1;Name=AGV01827.1;gbkey=CDS;locus_tag=C8_478;product=hypothetical protein;protein_id=AGV01827.1
+KF261120.1	Genbank	gene	371329	371979	.	-	.	ID=gene-C8_479;Name=C8_479;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_479
+KF261120.1	Genbank	CDS	371329	371979	.	-	0	ID=cds-AGV01828.1;Parent=gene-C8_479;Dbxref=NCBI_GP:AGV01828.1;Name=AGV01828.1;gbkey=CDS;locus_tag=C8_479;product=hypothetical protein;protein_id=AGV01828.1
+KF261120.1	Genbank	gene	371999	372205	.	-	.	ID=gene-C8_480;Name=C8_480;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_480
+KF261120.1	Genbank	CDS	371999	372205	.	-	0	ID=cds-AGV01829.1;Parent=gene-C8_480;Dbxref=NCBI_GP:AGV01829.1;Name=AGV01829.1;gbkey=CDS;locus_tag=C8_480;product=hypothetical protein;protein_id=AGV01829.1
+KF261120.1	Genbank	gene	372447	372644	.	-	.	ID=gene-C8_481;Name=C8_481;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_481
+KF261120.1	Genbank	CDS	372447	372644	.	-	0	ID=cds-AGV01830.1;Parent=gene-C8_481;Dbxref=NCBI_GP:AGV01830.1;Name=AGV01830.1;gbkey=CDS;locus_tag=C8_481;product=hypothetical protein;protein_id=AGV01830.1
+KF261120.1	Genbank	gene	372683	373480	.	+	.	ID=gene-C8_482;Name=C8_482;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_482
+KF261120.1	Genbank	CDS	372683	373480	.	+	0	ID=cds-AGV01831.1;Parent=gene-C8_482;Dbxref=NCBI_GP:AGV01831.1;Name=AGV01831.1;gbkey=CDS;locus_tag=C8_482;product=hypothetical protein;protein_id=AGV01831.1
+KF261120.1	Genbank	gene	373492	374040	.	-	.	ID=gene-C8_483;Name=C8_483;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C8_483
+KF261120.1	Genbank	CDS	373492	373974	.	-	0	ID=cds-AGV01832.1;Parent=gene-C8_483;Dbxref=NCBI_GP:AGV01832.1;Name=AGV01832.1;gbkey=CDS;locus_tag=C8_483;product=hypothetical protein;protein_id=AGV01832.1
+

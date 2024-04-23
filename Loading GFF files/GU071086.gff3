@@ -1,0 +1,892 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region GU071086.1 1 368454
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694581
+GU071086.1	Genbank	region	1	368454	.	+	.	ID=GU071086.1:1..368454;Dbxref=taxon:694581;Is_circular=true;collection-date=Oct-2007;country=France: Paris;gbkey=Src;genome=genomic;isolation-source=water of a cooling tower;lab-host=Acanthamoeba castellanii;mol_type=genomic DNA;strain=T19
+GU071086.1	Genbank	gene	293	1039	.	-	.	ID=gene-MAR_ORF001;Name=MAR_ORF001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF001
+GU071086.1	Genbank	CDS	293	1039	.	-	0	ID=cds-ADB03794.1;Parent=gene-MAR_ORF001;Dbxref=NCBI_GP:ADB03794.1;Name=ADB03794.1;gbkey=CDS;locus_tag=MAR_ORF001;product=hypothetical protein;protein_id=ADB03794.1
+GU071086.1	Genbank	gene	1146	1802	.	-	.	ID=gene-MAR_ORF002;Name=MAR_ORF002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF002
+GU071086.1	Genbank	CDS	1146	1802	.	-	0	ID=cds-ADB03795.1;Parent=gene-MAR_ORF002;Dbxref=NCBI_GP:ADB03795.1;Name=ADB03795.1;gbkey=CDS;locus_tag=MAR_ORF002;product=hypothetical protein;protein_id=ADB03795.1
+GU071086.1	Genbank	gene	1950	2714	.	-	.	ID=gene-MAR_ORF003;Name=MAR_ORF003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF003
+GU071086.1	Genbank	CDS	1950	2714	.	-	0	ID=cds-ADB03796.1;Parent=gene-MAR_ORF003;Dbxref=NCBI_GP:ADB03796.1;Name=ADB03796.1;gbkey=CDS;locus_tag=MAR_ORF003;product=hypothetical protein;protein_id=ADB03796.1
+GU071086.1	Genbank	gene	2737	3210	.	-	.	ID=gene-MAR_ORF004;Name=MAR_ORF004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF004
+GU071086.1	Genbank	CDS	2737	3210	.	-	0	ID=cds-ADB03797.1;Parent=gene-MAR_ORF004;Dbxref=NCBI_GP:ADB03797.1;Name=ADB03797.1;gbkey=CDS;locus_tag=MAR_ORF004;product=hypothetical protein;protein_id=ADB03797.1
+GU071086.1	Genbank	gene	3242	3520	.	-	.	ID=gene-MAR_ORF005;Name=MAR_ORF005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF005
+GU071086.1	Genbank	CDS	3242	3520	.	-	0	ID=cds-ADB03798.1;Parent=gene-MAR_ORF005;Dbxref=NCBI_GP:ADB03798.1;Name=ADB03798.1;gbkey=CDS;locus_tag=MAR_ORF005;product=hypothetical protein;protein_id=ADB03798.1
+GU071086.1	Genbank	gene	3566	4048	.	-	.	ID=gene-MAR_ORF006;Name=MAR_ORF006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF006
+GU071086.1	Genbank	CDS	3566	4048	.	-	0	ID=cds-ADB03799.1;Parent=gene-MAR_ORF006;Dbxref=NCBI_GP:ADB03799.1;Name=ADB03799.1;gbkey=CDS;locus_tag=MAR_ORF006;product=hypothetical protein;protein_id=ADB03799.1
+GU071086.1	Genbank	gene	4076	4477	.	-	.	ID=gene-MAR_ORF007;Name=MAR_ORF007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF007
+GU071086.1	Genbank	CDS	4076	4477	.	-	0	ID=cds-ADB03800.1;Parent=gene-MAR_ORF007;Dbxref=NCBI_GP:ADB03800.1;Name=ADB03800.1;gbkey=CDS;locus_tag=MAR_ORF007;product=hypothetical protein;protein_id=ADB03800.1
+GU071086.1	Genbank	gene	4511	4762	.	-	.	ID=gene-MAR_ORF008;Name=MAR_ORF008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF008
+GU071086.1	Genbank	CDS	4511	4762	.	-	0	ID=cds-ADB03801.1;Parent=gene-MAR_ORF008;Dbxref=NCBI_GP:ADB03801.1;Name=ADB03801.1;gbkey=CDS;locus_tag=MAR_ORF008;product=hypothetical protein;protein_id=ADB03801.1
+GU071086.1	Genbank	gene	4779	5246	.	-	.	ID=gene-MAR_ORF009;Name=MAR_ORF009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF009
+GU071086.1	Genbank	CDS	4779	5246	.	-	0	ID=cds-ADB03802.1;Parent=gene-MAR_ORF009;Dbxref=NCBI_GP:ADB03802.1;Name=ADB03802.1;gbkey=CDS;locus_tag=MAR_ORF009;product=hypothetical protein;protein_id=ADB03802.1
+GU071086.1	Genbank	gene	5277	5498	.	-	.	ID=gene-MAR_ORF010;Name=MAR_ORF010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF010
+GU071086.1	Genbank	CDS	5277	5498	.	-	0	ID=cds-ADB03803.1;Parent=gene-MAR_ORF010;Dbxref=NCBI_GP:ADB03803.1;Name=ADB03803.1;gbkey=CDS;locus_tag=MAR_ORF010;product=hypothetical protein;protein_id=ADB03803.1
+GU071086.1	Genbank	gene	5502	5795	.	-	.	ID=gene-MAR_ORF011;Name=MAR_ORF011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF011
+GU071086.1	Genbank	CDS	5502	5795	.	-	0	ID=cds-ADB03804.1;Parent=gene-MAR_ORF011;Dbxref=NCBI_GP:ADB03804.1;Name=ADB03804.1;gbkey=CDS;locus_tag=MAR_ORF011;product=hypothetical protein;protein_id=ADB03804.1
+GU071086.1	Genbank	gene	5799	6242	.	-	.	ID=gene-MAR_ORF012;Name=MAR_ORF012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF012
+GU071086.1	Genbank	CDS	5799	6242	.	-	0	ID=cds-ADB03805.1;Parent=gene-MAR_ORF012;Dbxref=NCBI_GP:ADB03805.1;Name=ADB03805.1;gbkey=CDS;locus_tag=MAR_ORF012;product=hypothetical protein;protein_id=ADB03805.1
+GU071086.1	Genbank	gene	6327	6722	.	+	.	ID=gene-MAR_ORF013;Name=MAR_ORF013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF013
+GU071086.1	Genbank	CDS	6327	6722	.	+	0	ID=cds-ADB03806.1;Parent=gene-MAR_ORF013;Dbxref=NCBI_GP:ADB03806.1;Name=ADB03806.1;gbkey=CDS;locus_tag=MAR_ORF013;product=hypothetical protein;protein_id=ADB03806.1
+GU071086.1	Genbank	gene	6751	6954	.	+	.	ID=gene-MAR_ORF014;Name=MAR_ORF014;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF014
+GU071086.1	Genbank	CDS	6751	6954	.	+	0	ID=cds-ADB03807.1;Parent=gene-MAR_ORF014;Dbxref=NCBI_GP:ADB03807.1;Name=ADB03807.1;gbkey=CDS;locus_tag=MAR_ORF014;product=hypothetical protein;protein_id=ADB03807.1
+GU071086.1	Genbank	gene	6951	7166	.	-	.	ID=gene-MAR_ORF015;Name=MAR_ORF015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF015
+GU071086.1	Genbank	CDS	6951	7166	.	-	0	ID=cds-ADB03808.1;Parent=gene-MAR_ORF015;Dbxref=NCBI_GP:ADB03808.1;Name=ADB03808.1;gbkey=CDS;locus_tag=MAR_ORF015;product=truncated dUTPase;protein_id=ADB03808.1
+GU071086.1	Genbank	gene	7223	7852	.	+	.	ID=gene-MAR_ORF016;Name=MAR_ORF016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF016
+GU071086.1	Genbank	CDS	7223	7852	.	+	0	ID=cds-ADB03809.1;Parent=gene-MAR_ORF016;Dbxref=NCBI_GP:ADB03809.1;Name=ADB03809.1;Note=similar to PBCV1_A579L;gbkey=CDS;locus_tag=MAR_ORF016;product=hypothetical protein;protein_id=ADB03809.1
+GU071086.1	Genbank	gene	7894	8781	.	+	.	ID=gene-MAR_ORF017;Name=MAR_ORF017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF017
+GU071086.1	Genbank	CDS	7894	8781	.	+	0	ID=cds-ADB03810.1;Parent=gene-MAR_ORF017;Dbxref=NCBI_GP:ADB03810.1;Name=ADB03810.1;gbkey=CDS;locus_tag=MAR_ORF017;product=Dam-like adenine-specific DNA methylase;protein_id=ADB03810.1
+GU071086.1	Genbank	gene	8813	9724	.	+	.	ID=gene-MAR_ORF018;Name=MAR_ORF018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF018
+GU071086.1	Genbank	CDS	8813	9724	.	+	0	ID=cds-ADB03811.1;Parent=gene-MAR_ORF018;Dbxref=NCBI_GP:ADB03811.1;Name=ADB03811.1;gbkey=CDS;locus_tag=MAR_ORF018;product=hypothetical protein;protein_id=ADB03811.1
+GU071086.1	Genbank	gene	9757	10485	.	-	.	ID=gene-MAR_ORF019;Name=MAR_ORF019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF019
+GU071086.1	Genbank	CDS	9757	10485	.	-	0	ID=cds-ADB03812.1;Parent=gene-MAR_ORF019;Dbxref=NCBI_GP:ADB03812.1;Name=ADB03812.1;gbkey=CDS;locus_tag=MAR_ORF019;product=F-box containing protein;protein_id=ADB03812.1
+GU071086.1	Genbank	gene	10554	10940	.	-	.	ID=gene-MAR_ORF020;Name=MAR_ORF020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF020
+GU071086.1	Genbank	CDS	10554	10940	.	-	0	ID=cds-ADB03813.1;Parent=gene-MAR_ORF020;Dbxref=NCBI_GP:ADB03813.1;Name=ADB03813.1;gbkey=CDS;locus_tag=MAR_ORF020;product=hypothetical protein;protein_id=ADB03813.1
+GU071086.1	Genbank	gene	10931	11227	.	-	.	ID=gene-MAR_ORF021;Name=MAR_ORF021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF021
+GU071086.1	Genbank	CDS	10931	11227	.	-	0	ID=cds-ADB03814.1;Parent=gene-MAR_ORF021;Dbxref=NCBI_GP:ADB03814.1;Name=ADB03814.1;gbkey=CDS;locus_tag=MAR_ORF021;product=hypothetical protein;protein_id=ADB03814.1
+GU071086.1	Genbank	gene	11252	11551	.	+	.	ID=gene-MAR_ORF022;Name=MAR_ORF022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF022
+GU071086.1	Genbank	CDS	11252	11551	.	+	0	ID=cds-ADB03815.1;Parent=gene-MAR_ORF022;Dbxref=NCBI_GP:ADB03815.1;Name=ADB03815.1;gbkey=CDS;locus_tag=MAR_ORF022;product=hypothetical protein;protein_id=ADB03815.1
+GU071086.1	Genbank	gene	11792	15625	.	+	.	ID=gene-MAR_ORF023;Name=MAR_ORF023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF023
+GU071086.1	Genbank	CDS	11792	15625	.	+	0	ID=cds-ADB03816.1;Parent=gene-MAR_ORF023;Dbxref=NCBI_GP:ADB03816.1;Name=ADB03816.1;gbkey=CDS;locus_tag=MAR_ORF023;product=DNA-directed RNA polymerase subunit beta;protein_id=ADB03816.1
+GU071086.1	Genbank	gene	15755	17536	.	+	.	ID=gene-MAR_ORF024;Name=MAR_ORF024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF024
+GU071086.1	Genbank	CDS	15755	17536	.	+	0	ID=cds-ADB03817.1;Parent=gene-MAR_ORF024;Dbxref=NCBI_GP:ADB03817.1;Name=ADB03817.1;gbkey=CDS;locus_tag=MAR_ORF024;product=hypothetical protein;protein_id=ADB03817.1
+GU071086.1	Genbank	gene	17662	18846	.	-	.	ID=gene-MAR_ORF025;Name=MAR_ORF025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF025
+GU071086.1	Genbank	CDS	17662	18846	.	-	0	ID=cds-ADB03818.1;Parent=gene-MAR_ORF025;Dbxref=NCBI_GP:ADB03818.1;Name=ADB03818.1;gbkey=CDS;locus_tag=MAR_ORF025;product=hypothetical protein;protein_id=ADB03818.1
+GU071086.1	Genbank	gene	18873	20027	.	-	.	ID=gene-MAR_ORF026;Name=MAR_ORF026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF026
+GU071086.1	Genbank	CDS	18873	20027	.	-	0	ID=cds-ADB03819.1;Parent=gene-MAR_ORF026;Dbxref=NCBI_GP:ADB03819.1;Name=ADB03819.1;Note=similar to PBCV1_A540L%3B contains distinct repeats;gbkey=CDS;locus_tag=MAR_ORF026;product=hypothetical protein;protein_id=ADB03819.1
+GU071086.1	Genbank	gene	20187	20984	.	+	.	ID=gene-MAR_ORF028;Name=MAR_ORF028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF028
+GU071086.1	Genbank	CDS	20187	20984	.	+	0	ID=cds-ADB03820.1;Parent=gene-MAR_ORF028;Dbxref=NCBI_GP:ADB03820.1;Name=ADB03820.1;gbkey=CDS;locus_tag=MAR_ORF028;product=F-box containing protein;protein_id=ADB03820.1
+GU071086.1	Genbank	gene	21021	21353	.	-	.	ID=gene-MAR_ORF029;Name=MAR_ORF029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF029
+GU071086.1	Genbank	CDS	21021	21353	.	-	0	ID=cds-ADB03821.1;Parent=gene-MAR_ORF029;Dbxref=NCBI_GP:ADB03821.1;Name=ADB03821.1;gbkey=CDS;locus_tag=MAR_ORF029;product=hypothetical protein;protein_id=ADB03821.1
+GU071086.1	Genbank	gene	21415	21612	.	-	.	ID=gene-MAR_ORF030;Name=MAR_ORF030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF030
+GU071086.1	Genbank	CDS	21415	21612	.	-	0	ID=cds-ADB03822.1;Parent=gene-MAR_ORF030;Dbxref=NCBI_GP:ADB03822.1;Name=ADB03822.1;gbkey=CDS;locus_tag=MAR_ORF030;product=hypothetical protein;protein_id=ADB03822.1
+GU071086.1	Genbank	gene	21749	21910	.	-	.	ID=gene-MAR_ORF031;Name=MAR_ORF031;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF031
+GU071086.1	Genbank	gene	22016	22486	.	+	.	ID=gene-MAR_ORF032;Name=MAR_ORF032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF032
+GU071086.1	Genbank	CDS	22016	22486	.	+	0	ID=cds-ADB03823.1;Parent=gene-MAR_ORF032;Dbxref=NCBI_GP:ADB03823.1;Name=ADB03823.1;gbkey=CDS;locus_tag=MAR_ORF032;product=hypothetical protein;protein_id=ADB03823.1
+GU071086.1	Genbank	gene	22707	23393	.	-	.	ID=gene-MAR_ORF033;Name=MAR_ORF033;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF033
+GU071086.1	Genbank	gene	23418	24848	.	+	.	ID=gene-MAR_ORF034;Name=MAR_ORF034;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF034
+GU071086.1	Genbank	gene	25179	25460	.	-	.	ID=gene-MAR_ORF035;Name=MAR_ORF035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF035
+GU071086.1	Genbank	CDS	25179	25460	.	-	0	ID=cds-ADB03824.1;Parent=gene-MAR_ORF035;Dbxref=NCBI_GP:ADB03824.1;Name=ADB03824.1;gbkey=CDS;locus_tag=MAR_ORF035;product=hypothetical protein;protein_id=ADB03824.1
+GU071086.1	Genbank	gene	25547	27967	.	+	.	ID=gene-MAR_ORF036;Name=MAR_ORF036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF036
+GU071086.1	Genbank	CDS	25547	27967	.	+	0	ID=cds-ADB03825.1;Parent=gene-MAR_ORF036;Dbxref=NCBI_GP:ADB03825.1;Name=ADB03825.1;gbkey=CDS;locus_tag=MAR_ORF036;product=highly derived D5-like helicase-primase;protein_id=ADB03825.1
+GU071086.1	Genbank	gene	28228	28746	.	-	.	ID=gene-MAR_ORF037;Name=MAR_ORF037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF037
+GU071086.1	Genbank	CDS	28228	28746	.	-	0	ID=cds-ADB03826.1;Parent=gene-MAR_ORF037;Dbxref=NCBI_GP:ADB03826.1;Name=ADB03826.1;gbkey=CDS;locus_tag=MAR_ORF037;product=hypothetical protein;protein_id=ADB03826.1
+GU071086.1	Genbank	gene	28830	29105	.	+	.	ID=gene-MAR_ORF038;Name=MAR_ORF038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF038
+GU071086.1	Genbank	CDS	28830	29105	.	+	0	ID=cds-ADB03827.1;Parent=gene-MAR_ORF038;Dbxref=NCBI_GP:ADB03827.1;Name=ADB03827.1;gbkey=CDS;locus_tag=MAR_ORF038;product=hypothetical protein;protein_id=ADB03827.1
+GU071086.1	Genbank	gene	29373	30260	.	+	.	ID=gene-MAR_ORF039;Name=MAR_ORF039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF039
+GU071086.1	Genbank	CDS	29373	30260	.	+	0	ID=cds-ADB03828.1;Parent=gene-MAR_ORF039;Dbxref=NCBI_GP:ADB03828.1;Name=ADB03828.1;gbkey=CDS;locus_tag=MAR_ORF039;product=F-box containing protein;protein_id=ADB03828.1
+GU071086.1	Genbank	gene	30667	31959	.	+	.	ID=gene-MAR_ORF040;Name=MAR_ORF040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF040
+GU071086.1	Genbank	CDS	30667	31959	.	+	0	ID=cds-ADB03829.1;Parent=gene-MAR_ORF040;Dbxref=NCBI_GP:ADB03829.1;Name=ADB03829.1;Note=contains multiple N-terminal zinc-ribbon domains;gbkey=CDS;locus_tag=MAR_ORF040;product=restriction endonuclease;protein_id=ADB03829.1
+GU071086.1	Genbank	gene	31961	32134	.	-	.	ID=gene-MAR_ORF041;Name=MAR_ORF041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF041
+GU071086.1	Genbank	CDS	31961	32134	.	-	0	ID=cds-ADB03830.1;Parent=gene-MAR_ORF041;Dbxref=NCBI_GP:ADB03830.1;Name=ADB03830.1;gbkey=CDS;locus_tag=MAR_ORF041;product=hypothetical protein;protein_id=ADB03830.1
+GU071086.1	Genbank	gene	32273	33013	.	+	.	ID=gene-MAR_ORF042;Name=MAR_ORF042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF042
+GU071086.1	Genbank	CDS	32273	33013	.	+	0	ID=cds-ADB03831.1;Parent=gene-MAR_ORF042;Dbxref=NCBI_GP:ADB03831.1;Name=ADB03831.1;gbkey=CDS;locus_tag=MAR_ORF042;product=F-box containing protein;protein_id=ADB03831.1
+GU071086.1	Genbank	gene	33034	33501	.	-	.	ID=gene-MAR_ORF043;Name=MAR_ORF043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF043
+GU071086.1	Genbank	CDS	33034	33501	.	-	0	ID=cds-ADB03832.1;Parent=gene-MAR_ORF043;Dbxref=NCBI_GP:ADB03832.1;Name=ADB03832.1;gbkey=CDS;locus_tag=MAR_ORF043;product=hypothetical protein;protein_id=ADB03832.1
+GU071086.1	Genbank	gene	33501	34622	.	-	.	ID=gene-MAR_ORF044;Name=MAR_ORF044;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF044
+GU071086.1	Genbank	gene	34706	35854	.	-	.	ID=gene-MAR_ORF045;Name=MAR_ORF045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF045
+GU071086.1	Genbank	CDS	34706	35854	.	-	0	ID=cds-ADB03833.1;Parent=gene-MAR_ORF045;Dbxref=NCBI_GP:ADB03833.1;Name=ADB03833.1;Note=contains HA-like repeats;gbkey=CDS;locus_tag=MAR_ORF045;product=hypothetical protein;protein_id=ADB03833.1
+GU071086.1	Genbank	gene	36004	36417	.	+	.	ID=gene-MAR_ORF046;Name=MAR_ORF046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF046
+GU071086.1	Genbank	CDS	36004	36417	.	+	0	ID=cds-ADB03834.1;Parent=gene-MAR_ORF046;Dbxref=NCBI_GP:ADB03834.1;Name=ADB03834.1;gbkey=CDS;locus_tag=MAR_ORF046;product=hypothetical protein;protein_id=ADB03834.1
+GU071086.1	Genbank	gene	36426	36719	.	-	.	ID=gene-MAR_ORF047;Name=MAR_ORF047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF047
+GU071086.1	Genbank	CDS	36426	36719	.	-	0	ID=cds-ADB03835.1;Parent=gene-MAR_ORF047;Dbxref=NCBI_GP:ADB03835.1;Name=ADB03835.1;gbkey=CDS;locus_tag=MAR_ORF047;product=hypothetical protein;protein_id=ADB03835.1
+GU071086.1	Genbank	gene	36783	37382	.	-	.	ID=gene-MAR_ORF048;Name=MAR_ORF048;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF048
+GU071086.1	Genbank	CDS	36783	37382	.	-	0	ID=cds-ADB03836.1;Parent=gene-MAR_ORF048;Dbxref=NCBI_GP:ADB03836.1;Name=ADB03836.1;gbkey=CDS;locus_tag=MAR_ORF048;product=hypothetical protein;protein_id=ADB03836.1
+GU071086.1	Genbank	gene	37555	38499	.	+	.	ID=gene-MAR_ORF049;Name=MAR_ORF049;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF049
+GU071086.1	Genbank	gene	38477	39235	.	+	.	ID=gene-MAR_ORF050;Name=MAR_ORF050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF050
+GU071086.1	Genbank	CDS	38477	39235	.	+	0	ID=cds-ADB03837.1;Parent=gene-MAR_ORF050;Dbxref=NCBI_GP:ADB03837.1;Name=ADB03837.1;gbkey=CDS;locus_tag=MAR_ORF050;product=hypothetical protein;protein_id=ADB03837.1
+GU071086.1	Genbank	gene	39690	39944	.	+	.	ID=gene-MAR_ORF051;Name=MAR_ORF051;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF051
+GU071086.1	Genbank	gene	40028	42985	.	-	.	ID=gene-MAR_ORF052;Name=MAR_ORF052;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF052
+GU071086.1	Genbank	CDS	40028	42985	.	-	0	ID=cds-ADB03838.1;Parent=gene-MAR_ORF052;Dbxref=NCBI_GP:ADB03838.1;Name=ADB03838.1;Note=RNA polymerase Rpb1 domains 3-7%3B split alpha subunit;gbkey=CDS;locus_tag=MAR_ORF052;product=DNA-directed RNA polymerase subunit alpha;protein_id=ADB03838.1
+GU071086.1	Genbank	gene	43159	43389	.	-	.	ID=gene-MAR_ORF053;Name=MAR_ORF053;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF053
+GU071086.1	Genbank	CDS	43159	43389	.	-	0	ID=cds-ADB03839.1;Parent=gene-MAR_ORF053;Dbxref=NCBI_GP:ADB03839.1;Name=ADB03839.1;gbkey=CDS;locus_tag=MAR_ORF053;product=hypothetical protein;protein_id=ADB03839.1
+GU071086.1	Genbank	gene	43389	43550	.	-	.	ID=gene-MAR_ORF054;Name=MAR_ORF054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF054
+GU071086.1	Genbank	CDS	43389	43550	.	-	0	ID=cds-ADB03840.1;Parent=gene-MAR_ORF054;Dbxref=NCBI_GP:ADB03840.1;Name=ADB03840.1;gbkey=CDS;locus_tag=MAR_ORF054;product=hypothetical protein;protein_id=ADB03840.1
+GU071086.1	Genbank	gene	43923	45413	.	-	.	ID=gene-MAR_ORF055;Name=MAR_ORF055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF055
+GU071086.1	Genbank	CDS	43923	45413	.	-	0	ID=cds-ADB03841.1;Parent=gene-MAR_ORF055;Dbxref=NCBI_GP:ADB03841.1;Name=ADB03841.1;Note=RNA polymerase Rpb1 domains 1-2%3B split alpha subunit;gbkey=CDS;locus_tag=MAR_ORF055;product=DNA-directed RNA polymerase subunit alpha;protein_id=ADB03841.1
+GU071086.1	Genbank	gene	45515	45976	.	+	.	ID=gene-MAR_ORF056;Name=MAR_ORF056;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF056
+GU071086.1	Genbank	CDS	45515	45976	.	+	0	ID=cds-ADB03842.1;Parent=gene-MAR_ORF056;Dbxref=NCBI_GP:ADB03842.1;Name=ADB03842.1;gbkey=CDS;locus_tag=MAR_ORF056;product=hypothetical protein;protein_id=ADB03842.1
+GU071086.1	Genbank	gene	46194	46427	.	+	.	ID=gene-MAR_ORF057;Name=MAR_ORF057;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF057
+GU071086.1	Genbank	CDS	46194	46427	.	+	0	ID=cds-ADB03843.1;Parent=gene-MAR_ORF057;Dbxref=NCBI_GP:ADB03843.1;Name=ADB03843.1;gbkey=CDS;locus_tag=MAR_ORF057;product=hypothetical protein;protein_id=ADB03843.1
+GU071086.1	Genbank	gene	46816	47292	.	-	.	ID=gene-MAR_ORF058;Name=MAR_ORF058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF058
+GU071086.1	Genbank	CDS	46816	47292	.	-	0	ID=cds-ADB03844.1;Parent=gene-MAR_ORF058;Dbxref=NCBI_GP:ADB03844.1;Name=ADB03844.1;gbkey=CDS;locus_tag=MAR_ORF058;product=hypothetical protein;protein_id=ADB03844.1
+GU071086.1	Genbank	gene	47364	47843	.	+	.	ID=gene-MAR_ORF059;Name=MAR_ORF059;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF059
+GU071086.1	Genbank	CDS	47364	47843	.	+	0	ID=cds-ADB03845.1;Parent=gene-MAR_ORF059;Dbxref=NCBI_GP:ADB03845.1;Name=ADB03845.1;gbkey=CDS;locus_tag=MAR_ORF059;product=hypothetical protein;protein_id=ADB03845.1
+GU071086.1	Genbank	gene	47979	48446	.	+	.	ID=gene-MAR_ORF060;Name=MAR_ORF060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF060
+GU071086.1	Genbank	CDS	47979	48446	.	+	0	ID=cds-ADB03846.1;Parent=gene-MAR_ORF060;Dbxref=NCBI_GP:ADB03846.1;Name=ADB03846.1;gbkey=CDS;locus_tag=MAR_ORF060;product=hypothetical protein;protein_id=ADB03846.1
+GU071086.1	Genbank	gene	48487	48717	.	+	.	ID=gene-MAR_ORF061;Name=MAR_ORF061;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF061
+GU071086.1	Genbank	CDS	48487	48717	.	+	0	ID=cds-ADB03847.1;Parent=gene-MAR_ORF061;Dbxref=NCBI_GP:ADB03847.1;Name=ADB03847.1;gbkey=CDS;locus_tag=MAR_ORF061;product=hypothetical protein;protein_id=ADB03847.1
+GU071086.1	Genbank	gene	48754	49326	.	-	.	ID=gene-MAR_ORF062;Name=MAR_ORF062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF062
+GU071086.1	Genbank	CDS	48754	49326	.	-	0	ID=cds-ADB03848.1;Parent=gene-MAR_ORF062;Dbxref=NCBI_GP:ADB03848.1;Name=ADB03848.1;gbkey=CDS;locus_tag=MAR_ORF062;product=hypothetical protein;protein_id=ADB03848.1
+GU071086.1	Genbank	gene	49314	49586	.	+	.	ID=gene-MAR_ORF063;Name=MAR_ORF063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF063
+GU071086.1	Genbank	CDS	49314	49586	.	+	0	ID=cds-ADB03849.1;Parent=gene-MAR_ORF063;Dbxref=NCBI_GP:ADB03849.1;Name=ADB03849.1;gbkey=CDS;locus_tag=MAR_ORF063;product=hypothetical protein;protein_id=ADB03849.1
+GU071086.1	Genbank	gene	49622	49813	.	+	.	ID=gene-MAR_ORF064;Name=MAR_ORF064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF064
+GU071086.1	Genbank	CDS	49622	49813	.	+	0	ID=cds-ADB03850.1;Parent=gene-MAR_ORF064;Dbxref=NCBI_GP:ADB03850.1;Name=ADB03850.1;gbkey=CDS;locus_tag=MAR_ORF064;product=hypothetical protein;protein_id=ADB03850.1
+GU071086.1	Genbank	gene	49895	50119	.	+	.	ID=gene-MAR_ORF065;Name=MAR_ORF065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF065
+GU071086.1	Genbank	CDS	49895	50119	.	+	0	ID=cds-ADB03851.1;Parent=gene-MAR_ORF065;Dbxref=NCBI_GP:ADB03851.1;Name=ADB03851.1;gbkey=CDS;locus_tag=MAR_ORF065;product=hypothetical protein;protein_id=ADB03851.1
+GU071086.1	Genbank	gene	50153	51301	.	-	.	ID=gene-MAR_ORF066;Name=MAR_ORF066;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF066
+GU071086.1	Genbank	gene	51362	52513	.	-	.	ID=gene-MAR_ORF067;Name=MAR_ORF067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF067
+GU071086.1	Genbank	CDS	51362	52513	.	-	0	ID=cds-ADB03852.1;Parent=gene-MAR_ORF067;Dbxref=NCBI_GP:ADB03852.1;Name=ADB03852.1;Note=low complexity protein%3B contains HA-like repeats;gbkey=CDS;locus_tag=MAR_ORF067;product=hypothetical protein;protein_id=ADB03852.1
+GU071086.1	Genbank	gene	52571	53413	.	-	.	ID=gene-MAR_ORF068;Name=MAR_ORF068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF068
+GU071086.1	Genbank	CDS	52571	53413	.	-	0	ID=cds-ADB03853.1;Parent=gene-MAR_ORF068;Dbxref=NCBI_GP:ADB03853.1;Name=ADB03853.1;gbkey=CDS;locus_tag=MAR_ORF068;product=F-box containing protein;protein_id=ADB03853.1
+GU071086.1	Genbank	gene	53800	54186	.	-	.	ID=gene-MAR_ORF069;Name=MAR_ORF069;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF069
+GU071086.1	Genbank	CDS	53800	54186	.	-	0	ID=cds-ADB03854.1;Parent=gene-MAR_ORF069;Dbxref=NCBI_GP:ADB03854.1;Name=ADB03854.1;gbkey=CDS;locus_tag=MAR_ORF069;product=hypothetical protein;protein_id=ADB03854.1
+GU071086.1	Genbank	gene	54224	55435	.	-	.	ID=gene-MAR_ORF070;Name=MAR_ORF070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF070
+GU071086.1	Genbank	CDS	54224	55435	.	-	0	ID=cds-ADB03855.1;Parent=gene-MAR_ORF070;Dbxref=NCBI_GP:ADB03855.1;Name=ADB03855.1;gbkey=CDS;locus_tag=MAR_ORF070;product=zinc finger protein;protein_id=ADB03855.1
+GU071086.1	Genbank	gene	55434	55592	.	+	.	ID=gene-MAR_ORF071;Name=MAR_ORF071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF071
+GU071086.1	Genbank	CDS	55434	55592	.	+	0	ID=cds-ADB03856.1;Parent=gene-MAR_ORF071;Dbxref=NCBI_GP:ADB03856.1;Name=ADB03856.1;gbkey=CDS;locus_tag=MAR_ORF071;product=hypothetical protein;protein_id=ADB03856.1
+GU071086.1	Genbank	gene	55843	57060	.	-	.	ID=gene-MAR_ORF072;Name=MAR_ORF072;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF072
+GU071086.1	Genbank	CDS	55843	57060	.	-	0	ID=cds-ADB03857.1;Parent=gene-MAR_ORF072;Dbxref=NCBI_GP:ADB03857.1;Name=ADB03857.1;gbkey=CDS;locus_tag=MAR_ORF072;product=ATP-dependent DNA ligase;protein_id=ADB03857.1
+GU071086.1	Genbank	gene	57150	58037	.	-	.	ID=gene-MAR_ORF073;Name=MAR_ORF073;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF073
+GU071086.1	Genbank	CDS	57150	58037	.	-	0	ID=cds-ADB03858.1;Parent=gene-MAR_ORF073;Dbxref=NCBI_GP:ADB03858.1;Name=ADB03858.1;Note=low complexity protein%3B contains invasin-like repeats;gbkey=CDS;locus_tag=MAR_ORF073;product=hypothetical protein;protein_id=ADB03858.1
+GU071086.1	Genbank	gene	58076	58699	.	-	.	ID=gene-MAR_ORF074;Name=MAR_ORF074;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF074
+GU071086.1	Genbank	CDS	58076	58699	.	-	0	ID=cds-ADB03859.1;Parent=gene-MAR_ORF074;Dbxref=NCBI_GP:ADB03859.1;Name=ADB03859.1;Note=contains HD motif;gbkey=CDS;locus_tag=MAR_ORF074;product=metal dependent phosphohydrolase;protein_id=ADB03859.1
+GU071086.1	Genbank	gene	58730	59167	.	-	.	ID=gene-MAR_ORF075;Name=MAR_ORF075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF075
+GU071086.1	Genbank	CDS	58730	59167	.	-	0	ID=cds-ADB03860.1;Parent=gene-MAR_ORF075;Dbxref=NCBI_GP:ADB03860.1;Name=ADB03860.1;gbkey=CDS;locus_tag=MAR_ORF075;product=hypothetical protein;protein_id=ADB03860.1
+GU071086.1	Genbank	gene	59164	59367	.	-	.	ID=gene-MAR_ORF076;Name=MAR_ORF076;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF076
+GU071086.1	Genbank	CDS	59164	59367	.	-	0	ID=cds-ADB03861.1;Parent=gene-MAR_ORF076;Dbxref=NCBI_GP:ADB03861.1;Name=ADB03861.1;gbkey=CDS;locus_tag=MAR_ORF076;product=hypothetical protein;protein_id=ADB03861.1
+GU071086.1	Genbank	gene	59387	59659	.	+	.	ID=gene-MAR_ORF077;Name=MAR_ORF077;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF077
+GU071086.1	Genbank	CDS	59387	59659	.	+	0	ID=cds-ADB03862.1;Parent=gene-MAR_ORF077;Dbxref=NCBI_GP:ADB03862.1;Name=ADB03862.1;gbkey=CDS;locus_tag=MAR_ORF077;product=hypothetical protein;protein_id=ADB03862.1
+GU071086.1	Genbank	gene	60096	60638	.	-	.	ID=gene-MAR_ORF078;Name=MAR_ORF078;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF078
+GU071086.1	Genbank	CDS	60096	60638	.	-	0	ID=cds-ADB03863.1;Parent=gene-MAR_ORF078;Dbxref=NCBI_GP:ADB03863.1;Name=ADB03863.1;gbkey=CDS;locus_tag=MAR_ORF078;product=hypothetical protein;protein_id=ADB03863.1
+GU071086.1	Genbank	gene	61454	61741	.	+	.	ID=gene-MAR_ORF079;Name=MAR_ORF079;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF079
+GU071086.1	Genbank	CDS	61454	61741	.	+	0	ID=cds-ADB03864.1;Parent=gene-MAR_ORF079;Dbxref=NCBI_GP:ADB03864.1;Name=ADB03864.1;gbkey=CDS;locus_tag=MAR_ORF079;product=translation initiation factor SUI1;protein_id=ADB03864.1
+GU071086.1	Genbank	gene	61747	62181	.	+	.	ID=gene-MAR_ORF080;Name=MAR_ORF080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF080
+GU071086.1	Genbank	CDS	61747	62181	.	+	0	ID=cds-ADB03865.1;Parent=gene-MAR_ORF080;Dbxref=NCBI_GP:ADB03865.1;Name=ADB03865.1;gbkey=CDS;locus_tag=MAR_ORF080;product=hypothetical protein;protein_id=ADB03865.1
+GU071086.1	Genbank	gene	62416	62661	.	-	.	ID=gene-MAR_ORF081;Name=MAR_ORF081;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF081
+GU071086.1	Genbank	CDS	62416	62661	.	-	0	ID=cds-ADB03866.1;Parent=gene-MAR_ORF081;Dbxref=NCBI_GP:ADB03866.1;Name=ADB03866.1;gbkey=CDS;locus_tag=MAR_ORF081;product=nucleoside deaminase;protein_id=ADB03866.1
+GU071086.1	Genbank	gene	62737	63096	.	+	.	ID=gene-MAR_ORF082;Name=MAR_ORF082;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF082
+GU071086.1	Genbank	CDS	62737	63096	.	+	0	ID=cds-ADB03867.1;Parent=gene-MAR_ORF082;Dbxref=NCBI_GP:ADB03867.1;Name=ADB03867.1;gbkey=CDS;locus_tag=MAR_ORF082;product=hypothetical protein;protein_id=ADB03867.1
+GU071086.1	Genbank	gene	63081	63554	.	+	.	ID=gene-MAR_ORF083;Name=MAR_ORF083;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF083
+GU071086.1	Genbank	CDS	63081	63554	.	+	0	ID=cds-ADB03868.1;Parent=gene-MAR_ORF083;Dbxref=NCBI_GP:ADB03868.1;Name=ADB03868.1;gbkey=CDS;locus_tag=MAR_ORF083;product=hypothetical protein;protein_id=ADB03868.1
+GU071086.1	Genbank	gene	63577	64614	.	+	.	ID=gene-MAR_ORF084;Name=MAR_ORF084;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF084
+GU071086.1	Genbank	CDS	63577	64614	.	+	0	ID=cds-ADB03869.1;Parent=gene-MAR_ORF084;Dbxref=NCBI_GP:ADB03869.1;Name=ADB03869.1;gbkey=CDS;locus_tag=MAR_ORF084;product=serine/threonine protein kinase;protein_id=ADB03869.1
+GU071086.1	Genbank	gene	64636	64857	.	-	.	ID=gene-MAR_ORF085;Name=MAR_ORF085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF085
+GU071086.1	Genbank	CDS	64636	64857	.	-	0	ID=cds-ADB03870.1;Parent=gene-MAR_ORF085;Dbxref=NCBI_GP:ADB03870.1;Name=ADB03870.1;gbkey=CDS;locus_tag=MAR_ORF085;product=hypothetical protein;protein_id=ADB03870.1
+GU071086.1	Genbank	gene	64872	65363	.	+	.	ID=gene-MAR_ORF086;Name=MAR_ORF086;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF086
+GU071086.1	Genbank	CDS	64872	65363	.	+	0	ID=cds-ADB03871.1;Parent=gene-MAR_ORF086;Dbxref=NCBI_GP:ADB03871.1;Name=ADB03871.1;gbkey=CDS;locus_tag=MAR_ORF086;product=hypothetical protein;protein_id=ADB03871.1
+GU071086.1	Genbank	gene	65386	65802	.	-	.	ID=gene-MAR_ORF087;Name=MAR_ORF087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF087
+GU071086.1	Genbank	CDS	65386	65802	.	-	0	ID=cds-ADB03872.1;Parent=gene-MAR_ORF087;Dbxref=NCBI_GP:ADB03872.1;Name=ADB03872.1;gbkey=CDS;locus_tag=MAR_ORF087;product=hypothetical protein;protein_id=ADB03872.1
+GU071086.1	Genbank	gene	66031	66246	.	-	.	ID=gene-MAR_ORF088;Name=MAR_ORF088;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF088
+GU071086.1	Genbank	CDS	66031	66246	.	-	0	ID=cds-ADB03873.1;Parent=gene-MAR_ORF088;Dbxref=NCBI_GP:ADB03873.1;Name=ADB03873.1;gbkey=CDS;locus_tag=MAR_ORF088;product=hypothetical protein;protein_id=ADB03873.1
+GU071086.1	Genbank	gene	66271	66717	.	-	.	ID=gene-MAR_ORF089;Name=MAR_ORF089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF089
+GU071086.1	Genbank	CDS	66271	66717	.	-	0	ID=cds-ADB03874.1;Parent=gene-MAR_ORF089;Dbxref=NCBI_GP:ADB03874.1;Name=ADB03874.1;gbkey=CDS;locus_tag=MAR_ORF089;product=hypothetical protein;protein_id=ADB03874.1
+GU071086.1	Genbank	gene	66869	67381	.	+	.	ID=gene-MAR_ORF090;Name=MAR_ORF090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF090
+GU071086.1	Genbank	CDS	66869	67381	.	+	0	ID=cds-ADB03875.1;Parent=gene-MAR_ORF090;Dbxref=NCBI_GP:ADB03875.1;Name=ADB03875.1;gbkey=CDS;locus_tag=MAR_ORF090;product=hypothetical protein;protein_id=ADB03875.1
+GU071086.1	Genbank	gene	67386	67832	.	-	.	ID=gene-MAR_ORF091;Name=MAR_ORF091;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF091
+GU071086.1	Genbank	CDS	67386	67832	.	-	0	ID=cds-ADB03876.1;Parent=gene-MAR_ORF091;Dbxref=NCBI_GP:ADB03876.1;Name=ADB03876.1;gbkey=CDS;locus_tag=MAR_ORF091;product=hypothetical protein;protein_id=ADB03876.1
+GU071086.1	Genbank	gene	67899	68315	.	-	.	ID=gene-MAR_ORF092;Name=MAR_ORF092;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF092
+GU071086.1	Genbank	CDS	67899	68315	.	-	0	ID=cds-ADB03877.1;Parent=gene-MAR_ORF092;Dbxref=NCBI_GP:ADB03877.1;Name=ADB03877.1;gbkey=CDS;locus_tag=MAR_ORF092;product=HTH-containing DNA-binding protein;protein_id=ADB03877.1
+GU071086.1	Genbank	gene	68341	68742	.	-	.	ID=gene-MAR_ORF093;Name=MAR_ORF093;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF093
+GU071086.1	Genbank	CDS	68341	68742	.	-	0	ID=cds-ADB03878.1;Parent=gene-MAR_ORF093;Dbxref=NCBI_GP:ADB03878.1;Name=ADB03878.1;gbkey=CDS;locus_tag=MAR_ORF093;product=hypothetical protein;protein_id=ADB03878.1
+GU071086.1	Genbank	gene	68765	69220	.	-	.	ID=gene-MAR_ORF094;Name=MAR_ORF094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF094
+GU071086.1	Genbank	CDS	68765	69220	.	-	0	ID=cds-ADB03879.1;Parent=gene-MAR_ORF094;Dbxref=NCBI_GP:ADB03879.1;Name=ADB03879.1;gbkey=CDS;locus_tag=MAR_ORF094;product=hypothetical protein;protein_id=ADB03879.1
+GU071086.1	Genbank	gene	69516	70055	.	-	.	ID=gene-MAR_ORF095;Name=MAR_ORF095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF095
+GU071086.1	Genbank	CDS	69516	70055	.	-	0	ID=cds-ADB03880.1;Parent=gene-MAR_ORF095;Dbxref=NCBI_GP:ADB03880.1;Name=ADB03880.1;gbkey=CDS;locus_tag=MAR_ORF095;product=hypothetical protein;protein_id=ADB03880.1
+GU071086.1	Genbank	gene	70077	70538	.	-	.	ID=gene-MAR_ORF096;Name=MAR_ORF096;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF096
+GU071086.1	Genbank	CDS	70077	70538	.	-	0	ID=cds-ADB03881.1;Parent=gene-MAR_ORF096;Dbxref=NCBI_GP:ADB03881.1;Name=ADB03881.1;gbkey=CDS;locus_tag=MAR_ORF096;product=hypothetical protein;protein_id=ADB03881.1
+GU071086.1	Genbank	gene	70553	70942	.	-	.	ID=gene-MAR_ORF097;Name=MAR_ORF097;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF097
+GU071086.1	Genbank	CDS	70553	70942	.	-	0	ID=cds-ADB03882.1;Parent=gene-MAR_ORF097;Dbxref=NCBI_GP:ADB03882.1;Name=ADB03882.1;gbkey=CDS;locus_tag=MAR_ORF097;product=putative antitoxin;protein_id=ADB03882.1
+GU071086.1	Genbank	gene	70993	71331	.	+	.	ID=gene-MAR_ORF098;Name=MAR_ORF098;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF098
+GU071086.1	Genbank	CDS	70993	71331	.	+	0	ID=cds-ADB03883.1;Parent=gene-MAR_ORF098;Dbxref=NCBI_GP:ADB03883.1;Name=ADB03883.1;gbkey=CDS;locus_tag=MAR_ORF098;product=toxin of RelE/StbE family;protein_id=ADB03883.1
+GU071086.1	Genbank	gene	71455	72798	.	-	.	ID=gene-MAR_ORF099;Name=MAR_ORF099;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF099
+GU071086.1	Genbank	CDS	71455	72798	.	-	0	ID=cds-ADB03884.1;Parent=gene-MAR_ORF099;Dbxref=NCBI_GP:ADB03884.1;Name=ADB03884.1;gbkey=CDS;locus_tag=MAR_ORF099;product=flavin-containing amine oxidoreductase;protein_id=ADB03884.1
+GU071086.1	Genbank	gene	72848	73183	.	+	.	ID=gene-MAR_ORF100;Name=MAR_ORF100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF100
+GU071086.1	Genbank	CDS	72848	73183	.	+	0	ID=cds-ADB03885.1;Parent=gene-MAR_ORF100;Dbxref=NCBI_GP:ADB03885.1;Name=ADB03885.1;gbkey=CDS;locus_tag=MAR_ORF100;product=hypothetical protein;protein_id=ADB03885.1
+GU071086.1	Genbank	gene	73622	74167	.	+	.	ID=gene-MAR_ORF101;Name=MAR_ORF101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF101
+GU071086.1	Genbank	CDS	73622	74167	.	+	0	ID=cds-ADB03886.1;Parent=gene-MAR_ORF101;Dbxref=NCBI_GP:ADB03886.1;Name=ADB03886.1;gbkey=CDS;locus_tag=MAR_ORF101;product=hypothetical protein;protein_id=ADB03886.1
+GU071086.1	Genbank	gene	74190	74477	.	+	.	ID=gene-MAR_ORF102;Name=MAR_ORF102;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF102
+GU071086.1	Genbank	CDS	74190	74477	.	+	0	ID=cds-ADB03887.1;Parent=gene-MAR_ORF102;Dbxref=NCBI_GP:ADB03887.1;Name=ADB03887.1;gbkey=CDS;locus_tag=MAR_ORF102;product=hypothetical protein;protein_id=ADB03887.1
+GU071086.1	Genbank	gene	74480	75121	.	+	.	ID=gene-MAR_ORF103;Name=MAR_ORF103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF103
+GU071086.1	Genbank	CDS	74480	75121	.	+	0	ID=cds-ADB03888.1;Parent=gene-MAR_ORF103;Dbxref=NCBI_GP:ADB03888.1;Name=ADB03888.1;gbkey=CDS;locus_tag=MAR_ORF103;product=hypothetical protein;protein_id=ADB03888.1
+GU071086.1	Genbank	gene	75182	76384	.	+	.	ID=gene-MAR_ORF104;Name=MAR_ORF104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF104
+GU071086.1	Genbank	CDS	75182	76384	.	+	0	ID=cds-ADB03889.1;Parent=gene-MAR_ORF104;Dbxref=NCBI_GP:ADB03889.1;Name=ADB03889.1;gbkey=CDS;locus_tag=MAR_ORF104;product=hypothetical protein;protein_id=ADB03889.1
+GU071086.1	Genbank	gene	76381	76854	.	+	.	ID=gene-MAR_ORF105;Name=MAR_ORF105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF105
+GU071086.1	Genbank	CDS	76381	76854	.	+	0	ID=cds-ADB03890.1;Parent=gene-MAR_ORF105;Dbxref=NCBI_GP:ADB03890.1;Name=ADB03890.1;gbkey=CDS;locus_tag=MAR_ORF105;product=hypothetical protein;protein_id=ADB03890.1
+GU071086.1	Genbank	gene	76897	77583	.	+	.	ID=gene-MAR_ORF106;Name=MAR_ORF106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF106
+GU071086.1	Genbank	CDS	76897	77583	.	+	0	ID=cds-ADB03891.1;Parent=gene-MAR_ORF106;Dbxref=NCBI_GP:ADB03891.1;Name=ADB03891.1;gbkey=CDS;locus_tag=MAR_ORF106;product=F-box containing protein;protein_id=ADB03891.1
+GU071086.1	Genbank	gene	78001	78447	.	+	.	ID=gene-MAR_ORF107;Name=MAR_ORF107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF107
+GU071086.1	Genbank	CDS	78001	78447	.	+	0	ID=cds-ADB03892.1;Parent=gene-MAR_ORF107;Dbxref=NCBI_GP:ADB03892.1;Name=ADB03892.1;gbkey=CDS;locus_tag=MAR_ORF107;product=hypothetical protein;protein_id=ADB03892.1
+GU071086.1	Genbank	gene	78467	79141	.	-	.	ID=gene-MAR_ORF108;Name=MAR_ORF108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF108
+GU071086.1	Genbank	CDS	78467	79141	.	-	0	ID=cds-ADB03893.1;Parent=gene-MAR_ORF108;Dbxref=NCBI_GP:ADB03893.1;Name=ADB03893.1;gbkey=CDS;locus_tag=MAR_ORF108;product=hypothetical protein;protein_id=ADB03893.1
+GU071086.1	Genbank	gene	79214	79714	.	-	.	ID=gene-MAR_ORF109;Name=MAR_ORF109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF109
+GU071086.1	Genbank	CDS	79214	79714	.	-	0	ID=cds-ADB03894.1;Parent=gene-MAR_ORF109;Dbxref=NCBI_GP:ADB03894.1;Name=ADB03894.1;gbkey=CDS;locus_tag=MAR_ORF109;product=hypothetical protein;protein_id=ADB03894.1
+GU071086.1	Genbank	gene	79802	80080	.	+	.	ID=gene-MAR_ORF110;Name=MAR_ORF110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF110
+GU071086.1	Genbank	CDS	79802	80080	.	+	0	ID=cds-ADB03895.1;Parent=gene-MAR_ORF110;Dbxref=NCBI_GP:ADB03895.1;Name=ADB03895.1;gbkey=CDS;locus_tag=MAR_ORF110;product=hypothetical protein;protein_id=ADB03895.1
+GU071086.1	Genbank	gene	80115	80657	.	+	.	ID=gene-MAR_ORF111;Name=MAR_ORF111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF111
+GU071086.1	Genbank	CDS	80115	80657	.	+	0	ID=cds-ADB03896.1;Parent=gene-MAR_ORF111;Dbxref=NCBI_GP:ADB03896.1;Name=ADB03896.1;gbkey=CDS;locus_tag=MAR_ORF111;product=hypothetical protein;protein_id=ADB03896.1
+GU071086.1	Genbank	gene	80933	81607	.	-	.	ID=gene-MAR_ORF112;Name=MAR_ORF112;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF112
+GU071086.1	Genbank	CDS	80933	81607	.	-	0	ID=cds-ADB03897.1;Parent=gene-MAR_ORF112;Dbxref=NCBI_GP:ADB03897.1;Name=ADB03897.1;gbkey=CDS;locus_tag=MAR_ORF112;product=hypothetical protein;protein_id=ADB03897.1
+GU071086.1	Genbank	gene	81650	82141	.	-	.	ID=gene-MAR_ORF113;Name=MAR_ORF113;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF113
+GU071086.1	Genbank	CDS	81650	82141	.	-	0	ID=cds-ADB03898.1;Parent=gene-MAR_ORF113;Dbxref=NCBI_GP:ADB03898.1;Name=ADB03898.1;gbkey=CDS;locus_tag=MAR_ORF113;product=hypothetical protein;protein_id=ADB03898.1
+GU071086.1	Genbank	gene	82418	84190	.	+	.	ID=gene-MAR_ORF114;Name=MAR_ORF114;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF114
+GU071086.1	Genbank	CDS	82418	84190	.	+	0	ID=cds-ADB03899.1;Parent=gene-MAR_ORF114;Dbxref=NCBI_GP:ADB03899.1;Name=ADB03899.1;Note=contains HA-like repeats;gbkey=CDS;locus_tag=MAR_ORF114;product=hypothetical protein;protein_id=ADB03899.1
+GU071086.1	Genbank	gene	84441	84680	.	-	.	ID=gene-MAR_ORF115;Name=MAR_ORF115;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF115
+GU071086.1	Genbank	CDS	84441	84680	.	-	0	ID=cds-ADB03900.1;Parent=gene-MAR_ORF115;Dbxref=NCBI_GP:ADB03900.1;Name=ADB03900.1;gbkey=CDS;locus_tag=MAR_ORF115;product=hypothetical protein;protein_id=ADB03900.1
+GU071086.1	Genbank	gene	84699	85232	.	+	.	ID=gene-MAR_ORF116;Name=MAR_ORF116;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF116
+GU071086.1	Genbank	CDS	84699	85232	.	+	0	ID=cds-ADB03901.1;Parent=gene-MAR_ORF116;Dbxref=NCBI_GP:ADB03901.1;Name=ADB03901.1;gbkey=CDS;locus_tag=MAR_ORF116;product=hypothetical protein;protein_id=ADB03901.1
+GU071086.1	Genbank	gene	85254	85616	.	-	.	ID=gene-MAR_ORF117;Name=MAR_ORF117;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF117
+GU071086.1	Genbank	CDS	85254	85616	.	-	0	ID=cds-ADB03902.1;Parent=gene-MAR_ORF117;Dbxref=NCBI_GP:ADB03902.1;Name=ADB03902.1;gbkey=CDS;locus_tag=MAR_ORF117;product=hypothetical protein;protein_id=ADB03902.1
+GU071086.1	Genbank	gene	85654	88011	.	-	.	ID=gene-MAR_ORF118;Name=MAR_ORF118;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF118
+GU071086.1	Genbank	CDS	85654	88011	.	-	0	ID=cds-ADB03903.1;Parent=gene-MAR_ORF118;Dbxref=NCBI_GP:ADB03903.1;Name=ADB03903.1;gbkey=CDS;locus_tag=MAR_ORF118;product=SMC1 family ATPase;protein_id=ADB03903.1
+GU071086.1	Genbank	gene	88062	88772	.	-	.	ID=gene-MAR_ORF119;Name=MAR_ORF119;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF119
+GU071086.1	Genbank	CDS	88062	88772	.	-	0	ID=cds-ADB03904.1;Parent=gene-MAR_ORF119;Dbxref=NCBI_GP:ADB03904.1;Name=ADB03904.1;gbkey=CDS;locus_tag=MAR_ORF119;product=hypothetical protein;protein_id=ADB03904.1
+GU071086.1	Genbank	gene	88815	89135	.	+	.	ID=gene-MAR_ORF120;Name=MAR_ORF120;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF120
+GU071086.1	Genbank	CDS	88815	89135	.	+	0	ID=cds-ADB03905.1;Parent=gene-MAR_ORF120;Dbxref=NCBI_GP:ADB03905.1;Name=ADB03905.1;gbkey=CDS;locus_tag=MAR_ORF120;product=small membrane protein;protein_id=ADB03905.1
+GU071086.1	Genbank	gene	89143	89481	.	+	.	ID=gene-MAR_ORF121;Name=MAR_ORF121;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF121
+GU071086.1	Genbank	CDS	89143	89481	.	+	0	ID=cds-ADB03906.1;Parent=gene-MAR_ORF121;Dbxref=NCBI_GP:ADB03906.1;Name=ADB03906.1;gbkey=CDS;locus_tag=MAR_ORF121;product=small membrane protein;protein_id=ADB03906.1
+GU071086.1	Genbank	gene	89502	93884	.	-	.	ID=gene-MAR_ORF122;Name=MAR_ORF122;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF122
+GU071086.1	Genbank	CDS	89502	93884	.	-	0	ID=cds-ADB03907.1;Parent=gene-MAR_ORF122;Dbxref=NCBI_GP:ADB03907.1;Name=ADB03907.1;Note=contains duplicated kinase domain;gbkey=CDS;locus_tag=MAR_ORF122;product=serine/threonine protein kinase;protein_id=ADB03907.1
+GU071086.1	Genbank	gene	93986	94285	.	-	.	ID=gene-MAR_ORF123;Name=MAR_ORF123;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF123
+GU071086.1	Genbank	gene	94858	95367	.	-	.	ID=gene-MAR_ORF124;Name=MAR_ORF124;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF124
+GU071086.1	Genbank	CDS	94858	95367	.	-	0	ID=cds-ADB03908.1;Parent=gene-MAR_ORF124;Dbxref=NCBI_GP:ADB03908.1;Name=ADB03908.1;gbkey=CDS;locus_tag=MAR_ORF124;product=MORN repeat-containing protein;protein_id=ADB03908.1
+GU071086.1	Genbank	gene	95432	95584	.	+	.	ID=gene-MAR_ORF125;Name=MAR_ORF125;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF125
+GU071086.1	Genbank	gene	95620	96294	.	-	.	ID=gene-MAR_ORF126;Name=MAR_ORF126;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF126
+GU071086.1	Genbank	CDS	95620	96294	.	-	0	ID=cds-ADB03909.1;Parent=gene-MAR_ORF126;Dbxref=NCBI_GP:ADB03909.1;Name=ADB03909.1;gbkey=CDS;locus_tag=MAR_ORF126;product=hypothetical protein;protein_id=ADB03909.1
+GU071086.1	Genbank	gene	96338	96892	.	-	.	ID=gene-MAR_ORF127;Name=MAR_ORF127;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF127
+GU071086.1	Genbank	gene	96876	97319	.	-	.	ID=gene-MAR_ORF128;Name=MAR_ORF128;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF128
+GU071086.1	Genbank	CDS	96876	97319	.	-	0	ID=cds-ADB03910.1;Parent=gene-MAR_ORF128;Dbxref=NCBI_GP:ADB03910.1;Name=ADB03910.1;gbkey=CDS;locus_tag=MAR_ORF128;product=hypothetical protein;protein_id=ADB03910.1
+GU071086.1	Genbank	gene	97372	97797	.	+	.	ID=gene-MAR_ORF129;Name=MAR_ORF129;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF129
+GU071086.1	Genbank	CDS	97372	97797	.	+	0	ID=cds-ADB03911.1;Parent=gene-MAR_ORF129;Dbxref=NCBI_GP:ADB03911.1;Name=ADB03911.1;gbkey=CDS;locus_tag=MAR_ORF129;product=ribonuclease H;protein_id=ADB03911.1
+GU071086.1	Genbank	gene	97817	98968	.	-	.	ID=gene-MAR_ORF130;Name=MAR_ORF130;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF130
+GU071086.1	Genbank	CDS	97817	98968	.	-	0	ID=cds-ADB03912.1;Parent=gene-MAR_ORF130;Dbxref=NCBI_GP:ADB03912.1;Name=ADB03912.1;gbkey=CDS;locus_tag=MAR_ORF130;product=eukaryotic peptide chain release translation termination factor 1;protein_id=ADB03912.1
+GU071086.1	Genbank	gene	99063	99878	.	+	.	ID=gene-MAR_ORF131;Name=MAR_ORF131;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF131
+GU071086.1	Genbank	CDS	99063	99878	.	+	0	ID=cds-ADB03913.1;Parent=gene-MAR_ORF131;Dbxref=NCBI_GP:ADB03913.1;Name=ADB03913.1;gbkey=CDS;locus_tag=MAR_ORF131;product=DHH family phosphohydrolase;protein_id=ADB03913.1
+GU071086.1	Genbank	gene	100018	100992	.	+	.	ID=gene-MAR_ORF132;Name=MAR_ORF132;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF132
+GU071086.1	Genbank	gene	101008	101757	.	+	.	ID=gene-MAR_ORF133;Name=MAR_ORF133;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF133
+GU071086.1	Genbank	CDS	101008	101757	.	+	0	ID=cds-ADB03914.1;Parent=gene-MAR_ORF133;Dbxref=NCBI_GP:ADB03914.1;Name=ADB03914.1;gbkey=CDS;locus_tag=MAR_ORF133;product=hypothetical protein;protein_id=ADB03914.1
+GU071086.1	Genbank	gene	101790	102488	.	+	.	ID=gene-MAR_ORF134;Name=MAR_ORF134;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF134
+GU071086.1	Genbank	CDS	101790	102488	.	+	0	ID=cds-ADB03915.1;Parent=gene-MAR_ORF134;Dbxref=NCBI_GP:ADB03915.1;Name=ADB03915.1;gbkey=CDS;locus_tag=MAR_ORF134;product=hypothetical protein;protein_id=ADB03915.1
+GU071086.1	Genbank	gene	102510	103013	.	-	.	ID=gene-MAR_ORF135;Name=MAR_ORF135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF135
+GU071086.1	Genbank	CDS	102510	103013	.	-	0	ID=cds-ADB03916.1;Parent=gene-MAR_ORF135;Dbxref=NCBI_GP:ADB03916.1;Name=ADB03916.1;gbkey=CDS;locus_tag=MAR_ORF135;product=hypothetical protein;protein_id=ADB03916.1
+GU071086.1	Genbank	gene	103287	103634	.	+	.	ID=gene-MAR_ORF136;Name=MAR_ORF136;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF136
+GU071086.1	Genbank	CDS	103287	103634	.	+	0	ID=cds-ADB03917.1;Parent=gene-MAR_ORF136;Dbxref=NCBI_GP:ADB03917.1;Name=ADB03917.1;gbkey=CDS;locus_tag=MAR_ORF136;product=hypothetical protein;protein_id=ADB03917.1
+GU071086.1	Genbank	gene	103776	104471	.	+	.	ID=gene-MAR_ORF137;Name=MAR_ORF137;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF137
+GU071086.1	Genbank	CDS	103776	104471	.	+	0	ID=cds-ADB03918.1;Parent=gene-MAR_ORF137;Dbxref=NCBI_GP:ADB03918.1;Name=ADB03918.1;gbkey=CDS;locus_tag=MAR_ORF137;product=hypothetical protein;protein_id=ADB03918.1
+GU071086.1	Genbank	gene	104926	105168	.	-	.	ID=gene-MAR_ORF138;Name=MAR_ORF138;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF138
+GU071086.1	Genbank	CDS	104926	105168	.	-	0	ID=cds-ADB03919.1;Parent=gene-MAR_ORF138;Dbxref=NCBI_GP:ADB03919.1;Name=ADB03919.1;gbkey=CDS;locus_tag=MAR_ORF138;product=hypothetical protein;protein_id=ADB03919.1
+GU071086.1	Genbank	gene	105269	106351	.	+	.	ID=gene-MAR_ORF139;Name=MAR_ORF139;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF139
+GU071086.1	Genbank	CDS	105269	106351	.	+	0	ID=cds-ADB03920.1;Parent=gene-MAR_ORF139;Dbxref=NCBI_GP:ADB03920.1;Name=ADB03920.1;gbkey=CDS;locus_tag=MAR_ORF139;product=hypothetical protein;protein_id=ADB03920.1
+GU071086.1	Genbank	gene	106355	106678	.	-	.	ID=gene-MAR_ORF140;Name=MAR_ORF140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF140
+GU071086.1	Genbank	CDS	106355	106678	.	-	0	ID=cds-ADB03921.1;Parent=gene-MAR_ORF140;Dbxref=NCBI_GP:ADB03921.1;Name=ADB03921.1;gbkey=CDS;locus_tag=MAR_ORF140;product=hypothetical protein;protein_id=ADB03921.1
+GU071086.1	Genbank	gene	106822	107586	.	+	.	ID=gene-MAR_ORF141;Name=MAR_ORF141;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF141
+GU071086.1	Genbank	CDS	106822	107586	.	+	0	ID=cds-ADB03922.1;Parent=gene-MAR_ORF141;Dbxref=NCBI_GP:ADB03922.1;Name=ADB03922.1;gbkey=CDS;locus_tag=MAR_ORF141;product=hypothetical protein;protein_id=ADB03922.1
+GU071086.1	Genbank	gene	107615	108262	.	+	.	ID=gene-MAR_ORF142;Name=MAR_ORF142;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF142
+GU071086.1	Genbank	CDS	107615	108262	.	+	0	ID=cds-ADB03923.1;Parent=gene-MAR_ORF142;Dbxref=NCBI_GP:ADB03923.1;Name=ADB03923.1;gbkey=CDS;locus_tag=MAR_ORF142;product=hypothetical protein;protein_id=ADB03923.1
+GU071086.1	Genbank	gene	108298	108954	.	+	.	ID=gene-MAR_ORF143;Name=MAR_ORF143;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF143
+GU071086.1	Genbank	CDS	108298	108954	.	+	0	ID=cds-ADB03924.1;Parent=gene-MAR_ORF143;Dbxref=NCBI_GP:ADB03924.1;Name=ADB03924.1;gbkey=CDS;locus_tag=MAR_ORF143;product=hypothetical protein;protein_id=ADB03924.1
+GU071086.1	Genbank	gene	108991	109710	.	+	.	ID=gene-MAR_ORF144;Name=MAR_ORF144;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF144
+GU071086.1	Genbank	CDS	108991	109710	.	+	0	ID=cds-ADB03925.1;Parent=gene-MAR_ORF144;Dbxref=NCBI_GP:ADB03925.1;Name=ADB03925.1;gbkey=CDS;locus_tag=MAR_ORF144;product=hypothetical protein;protein_id=ADB03925.1
+GU071086.1	Genbank	gene	109747	109956	.	+	.	ID=gene-MAR_ORF145;Name=MAR_ORF145;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF145
+GU071086.1	Genbank	CDS	109747	109956	.	+	0	ID=cds-ADB03926.1;Parent=gene-MAR_ORF145;Dbxref=NCBI_GP:ADB03926.1;Name=ADB03926.1;gbkey=CDS;locus_tag=MAR_ORF145;product=hypothetical protein;protein_id=ADB03926.1
+GU071086.1	Genbank	gene	110013	110444	.	+	.	ID=gene-MAR_ORF146;Name=MAR_ORF146;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF146
+GU071086.1	Genbank	CDS	110013	110444	.	+	0	ID=cds-ADB03927.1;Parent=gene-MAR_ORF146;Dbxref=NCBI_GP:ADB03927.1;Name=ADB03927.1;gbkey=CDS;locus_tag=MAR_ORF146;product=F-box containing protein;protein_id=ADB03927.1
+GU071086.1	Genbank	gene	110583	111056	.	+	.	ID=gene-MAR_ORF147;Name=MAR_ORF147;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF147
+GU071086.1	Genbank	CDS	110583	111056	.	+	0	ID=cds-ADB03928.1;Parent=gene-MAR_ORF147;Dbxref=NCBI_GP:ADB03928.1;Name=ADB03928.1;gbkey=CDS;locus_tag=MAR_ORF147;product=hypothetical protein;protein_id=ADB03928.1
+GU071086.1	Genbank	gene	111091	111537	.	+	.	ID=gene-MAR_ORF148;Name=MAR_ORF148;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF148
+GU071086.1	Genbank	CDS	111091	111537	.	+	0	ID=cds-ADB03929.1;Parent=gene-MAR_ORF148;Dbxref=NCBI_GP:ADB03929.1;Name=ADB03929.1;gbkey=CDS;locus_tag=MAR_ORF148;product=hypothetical protein;protein_id=ADB03929.1
+GU071086.1	Genbank	gene	111605	113272	.	-	.	ID=gene-MAR_ORF149;Name=MAR_ORF149;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF149
+GU071086.1	Genbank	CDS	111605	113272	.	-	0	ID=cds-ADB03930.1;Parent=gene-MAR_ORF149;Dbxref=NCBI_GP:ADB03930.1;Name=ADB03930.1;gbkey=CDS;locus_tag=MAR_ORF149;product=hypothetical protein;protein_id=ADB03930.1
+GU071086.1	Genbank	gene	113284	113622	.	+	.	ID=gene-MAR_ORF150;Name=MAR_ORF150;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF150
+GU071086.1	Genbank	CDS	113284	113622	.	+	0	ID=cds-ADB03931.1;Parent=gene-MAR_ORF150;Dbxref=NCBI_GP:ADB03931.1;Name=ADB03931.1;gbkey=CDS;locus_tag=MAR_ORF150;product=hypothetical protein;protein_id=ADB03931.1
+GU071086.1	Genbank	gene	113619	114083	.	+	.	ID=gene-MAR_ORF151;Name=MAR_ORF151;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF151
+GU071086.1	Genbank	CDS	113619	114083	.	+	0	ID=cds-ADB03932.1;Parent=gene-MAR_ORF151;Dbxref=NCBI_GP:ADB03932.1;Name=ADB03932.1;gbkey=CDS;locus_tag=MAR_ORF151;product=F-box containing protein;protein_id=ADB03932.1
+GU071086.1	Genbank	gene	114110	116821	.	-	.	ID=gene-MAR_ORF152;Name=MAR_ORF152;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF152
+GU071086.1	Genbank	CDS	114110	116821	.	-	0	ID=cds-ADB03933.1;Parent=gene-MAR_ORF152;Dbxref=NCBI_GP:ADB03933.1;Name=ADB03933.1;gbkey=CDS;locus_tag=MAR_ORF152;product=D5 family helicase-primase;protein_id=ADB03933.1
+GU071086.1	Genbank	gene	116917	117720	.	+	.	ID=gene-MAR_ORF153;Name=MAR_ORF153;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF153
+GU071086.1	Genbank	CDS	116917	117720	.	+	0	ID=cds-ADB03934.1;Parent=gene-MAR_ORF153;Dbxref=NCBI_GP:ADB03934.1;Name=ADB03934.1;gbkey=CDS;locus_tag=MAR_ORF153;product=hypothetical protein;protein_id=ADB03934.1
+GU071086.1	Genbank	gene	117742	118044	.	-	.	ID=gene-MAR_ORF154;Name=MAR_ORF154;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF154
+GU071086.1	Genbank	CDS	117742	118044	.	-	0	ID=cds-ADB03935.1;Parent=gene-MAR_ORF154;Dbxref=NCBI_GP:ADB03935.1;Name=ADB03935.1;gbkey=CDS;locus_tag=MAR_ORF154;product=zinc-ribbon-containing protein;protein_id=ADB03935.1
+GU071086.1	Genbank	gene	118265	118666	.	-	.	ID=gene-MAR_ORF155;Name=MAR_ORF155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF155
+GU071086.1	Genbank	CDS	118265	118666	.	-	0	ID=cds-ADB03936.1;Parent=gene-MAR_ORF155;Dbxref=NCBI_GP:ADB03936.1;Name=ADB03936.1;gbkey=CDS;locus_tag=MAR_ORF155;product=hypothetical protein;protein_id=ADB03936.1
+GU071086.1	Genbank	gene	118627	120225	.	-	.	ID=gene-MAR_ORF156;Name=MAR_ORF156;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF156
+GU071086.1	Genbank	CDS	118627	120225	.	-	0	ID=cds-ADB03937.1;Parent=gene-MAR_ORF156;Dbxref=NCBI_GP:ADB03937.1;Name=ADB03937.1;Note=contains multiple N-terminal zinc-ribbon domains;gbkey=CDS;locus_tag=MAR_ORF156;product=restriction endonuclease;protein_id=ADB03937.1
+GU071086.1	Genbank	gene	120216	120989	.	+	.	ID=gene-MAR_ORF157;Name=MAR_ORF157;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF157
+GU071086.1	Genbank	CDS	120216	120989	.	+	0	ID=cds-ADB03938.1;Parent=gene-MAR_ORF157;Dbxref=NCBI_GP:ADB03938.1;Name=ADB03938.1;gbkey=CDS;locus_tag=MAR_ORF157;product=A32-like packaging ATPase;protein_id=ADB03938.1
+GU071086.1	Genbank	gene	121016	121501	.	+	.	ID=gene-MAR_ORF158;Name=MAR_ORF158;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF158
+GU071086.1	Genbank	CDS	121016	121501	.	+	0	ID=cds-ADB03939.1;Parent=gene-MAR_ORF158;Dbxref=NCBI_GP:ADB03939.1;Name=ADB03939.1;gbkey=CDS;locus_tag=MAR_ORF158;product=hypothetical protein;protein_id=ADB03939.1
+GU071086.1	Genbank	gene	121675	122574	.	-	.	ID=gene-MAR_ORF159;Name=MAR_ORF159;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF159
+GU071086.1	Genbank	CDS	121675	122574	.	-	0	ID=cds-ADB03940.1;Parent=gene-MAR_ORF159;Dbxref=NCBI_GP:ADB03940.1;Name=ADB03940.1;gbkey=CDS;locus_tag=MAR_ORF159;product=hypothetical protein;protein_id=ADB03940.1
+GU071086.1	Genbank	gene	122576	123301	.	-	.	ID=gene-MAR_ORF160;Name=MAR_ORF160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF160
+GU071086.1	Genbank	CDS	122576	123301	.	-	0	ID=cds-ADB03941.1;Parent=gene-MAR_ORF160;Dbxref=NCBI_GP:ADB03941.1;Name=ADB03941.1;gbkey=CDS;locus_tag=MAR_ORF160;product=serine/threonine protein kinase;protein_id=ADB03941.1
+GU071086.1	Genbank	gene	123342	123722	.	+	.	ID=gene-MAR_ORF161;Name=MAR_ORF161;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF161
+GU071086.1	Genbank	CDS	123342	123722	.	+	0	ID=cds-ADB03942.1;Parent=gene-MAR_ORF161;Dbxref=NCBI_GP:ADB03942.1;Name=ADB03942.1;gbkey=CDS;locus_tag=MAR_ORF161;product=mannosyltransferase OCH1-like protein;protein_id=ADB03942.1
+GU071086.1	Genbank	gene	123745	124653	.	-	.	ID=gene-MAR_ORF162;Name=MAR_ORF162;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF162
+GU071086.1	Genbank	CDS	123745	124653	.	-	0	ID=cds-ADB03943.1;Parent=gene-MAR_ORF162;Dbxref=NCBI_GP:ADB03943.1;Name=ADB03943.1;gbkey=CDS;locus_tag=MAR_ORF162;product=mannosyltransferase OCH1-like protein;protein_id=ADB03943.1
+GU071086.1	Genbank	gene	124815	126074	.	-	.	ID=gene-MAR_ORF163;Name=MAR_ORF163;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF163
+GU071086.1	Genbank	CDS	124815	126074	.	-	0	ID=cds-ADB03944.1;Parent=gene-MAR_ORF163;Dbxref=NCBI_GP:ADB03944.1;Name=ADB03944.1;gbkey=CDS;locus_tag=MAR_ORF163;product=translation elongation factor EF-1alpha;protein_id=ADB03944.1
+GU071086.1	Genbank	gene	126100	126501	.	-	.	ID=gene-MAR_ORF164;Name=MAR_ORF164;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF164
+GU071086.1	Genbank	CDS	126100	126501	.	-	0	ID=cds-ADB03945.1;Parent=gene-MAR_ORF164;Dbxref=NCBI_GP:ADB03945.1;Name=ADB03945.1;gbkey=CDS;locus_tag=MAR_ORF164;product=hypothetical protein;protein_id=ADB03945.1
+GU071086.1	Genbank	gene	126510	126719	.	-	.	ID=gene-MAR_ORF165;Name=MAR_ORF165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF165
+GU071086.1	Genbank	CDS	126510	126719	.	-	0	ID=cds-ADB03946.1;Parent=gene-MAR_ORF165;Dbxref=NCBI_GP:ADB03946.1;Name=ADB03946.1;gbkey=CDS;locus_tag=MAR_ORF165;product=small membrane protein;protein_id=ADB03946.1
+GU071086.1	Genbank	gene	126743	127249	.	+	.	ID=gene-MAR_ORF166;Name=MAR_ORF166;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF166
+GU071086.1	Genbank	CDS	126743	127249	.	+	0	ID=cds-ADB03947.1;Parent=gene-MAR_ORF166;Dbxref=NCBI_GP:ADB03947.1;Name=ADB03947.1;gbkey=CDS;locus_tag=MAR_ORF166;product=histone 2A-domain-containing protein;protein_id=ADB03947.1
+GU071086.1	Genbank	gene	127277	128194	.	-	.	ID=gene-MAR_ORF167;Name=MAR_ORF167;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF167
+GU071086.1	Genbank	CDS	127277	128194	.	-	0	ID=cds-ADB03948.1;Parent=gene-MAR_ORF167;Dbxref=NCBI_GP:ADB03948.1;Name=ADB03948.1;gbkey=CDS;locus_tag=MAR_ORF167;product=hypothetical protein;protein_id=ADB03948.1
+GU071086.1	Genbank	gene	128194	128460	.	+	.	ID=gene-MAR_ORF168;Name=MAR_ORF168;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF168
+GU071086.1	Genbank	CDS	128194	128460	.	+	0	ID=cds-ADB03949.1;Parent=gene-MAR_ORF168;Dbxref=NCBI_GP:ADB03949.1;Name=ADB03949.1;gbkey=CDS;locus_tag=MAR_ORF168;product=hypothetical protein;protein_id=ADB03949.1
+GU071086.1	Genbank	gene	128500	129006	.	+	.	ID=gene-MAR_ORF169;Name=MAR_ORF169;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF169
+GU071086.1	Genbank	CDS	128500	129006	.	+	0	ID=cds-ADB03950.1;Parent=gene-MAR_ORF169;Dbxref=NCBI_GP:ADB03950.1;Name=ADB03950.1;gbkey=CDS;locus_tag=MAR_ORF169;product=hypothetical protein;protein_id=ADB03950.1
+GU071086.1	Genbank	gene	129122	129310	.	-	.	ID=gene-MAR_ORF170;Name=MAR_ORF170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF170
+GU071086.1	Genbank	CDS	129122	129310	.	-	0	ID=cds-ADB03951.1;Parent=gene-MAR_ORF170;Dbxref=NCBI_GP:ADB03951.1;Name=ADB03951.1;gbkey=CDS;locus_tag=MAR_ORF170;product=hypothetical protein;protein_id=ADB03951.1
+GU071086.1	Genbank	gene	129341	130078	.	-	.	ID=gene-MAR_ORF171;Name=MAR_ORF171;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF171
+GU071086.1	Genbank	CDS	129341	130078	.	-	0	ID=cds-ADB03952.1;Parent=gene-MAR_ORF171;Dbxref=NCBI_GP:ADB03952.1;Name=ADB03952.1;gbkey=CDS;locus_tag=MAR_ORF171;product=hypothetical protein;protein_id=ADB03952.1
+GU071086.1	Genbank	gene	130115	130663	.	-	.	ID=gene-MAR_ORF172;Name=MAR_ORF172;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF172
+GU071086.1	Genbank	CDS	130115	130663	.	-	0	ID=cds-ADB03953.1;Parent=gene-MAR_ORF172;Dbxref=NCBI_GP:ADB03953.1;Name=ADB03953.1;gbkey=CDS;locus_tag=MAR_ORF172;product=hypothetical protein;protein_id=ADB03953.1
+GU071086.1	Genbank	gene	130695	133964	.	-	.	ID=gene-MAR_ORF173;Name=MAR_ORF173;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF173
+GU071086.1	Genbank	CDS	130695	133964	.	-	0	ID=cds-ADB03954.1;Parent=gene-MAR_ORF173;Dbxref=NCBI_GP:ADB03954.1;Name=ADB03954.1;gbkey=CDS;locus_tag=MAR_ORF173;product=DNA topoisomerase II;protein_id=ADB03954.1
+GU071086.1	Genbank	gene	134031	134225	.	-	.	ID=gene-MAR_ORF174;Name=MAR_ORF174;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF174
+GU071086.1	Genbank	CDS	134031	134225	.	-	0	ID=cds-ADB03955.1;Parent=gene-MAR_ORF174;Dbxref=NCBI_GP:ADB03955.1;Name=ADB03955.1;gbkey=CDS;locus_tag=MAR_ORF174;product=hypothetical protein;protein_id=ADB03955.1
+GU071086.1	Genbank	gene	134227	134778	.	+	.	ID=gene-MAR_ORF175;Name=MAR_ORF175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF175
+GU071086.1	Genbank	CDS	134227	134778	.	+	0	ID=cds-ADB03956.1;Parent=gene-MAR_ORF175;Dbxref=NCBI_GP:ADB03956.1;Name=ADB03956.1;gbkey=CDS;locus_tag=MAR_ORF175;product=hypothetical protein;protein_id=ADB03956.1
+GU071086.1	Genbank	gene	134812	135177	.	+	.	ID=gene-MAR_ORF176;Name=MAR_ORF176;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF176
+GU071086.1	Genbank	CDS	134812	135177	.	+	0	ID=cds-ADB03957.1;Parent=gene-MAR_ORF176;Dbxref=NCBI_GP:ADB03957.1;Name=ADB03957.1;gbkey=CDS;locus_tag=MAR_ORF176;product=hypothetical protein;protein_id=ADB03957.1
+GU071086.1	Genbank	gene	135170	135406	.	-	.	ID=gene-MAR_ORF177;Name=MAR_ORF177;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF177
+GU071086.1	Genbank	CDS	135170	135406	.	-	0	ID=cds-ADB03958.1;Parent=gene-MAR_ORF177;Dbxref=NCBI_GP:ADB03958.1;Name=ADB03958.1;gbkey=CDS;locus_tag=MAR_ORF177;product=hypothetical protein;protein_id=ADB03958.1
+GU071086.1	Genbank	gene	135681	136223	.	-	.	ID=gene-MAR_ORF178;Name=MAR_ORF178;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF178
+GU071086.1	Genbank	CDS	135681	136223	.	-	0	ID=cds-ADB03959.1;Parent=gene-MAR_ORF178;Dbxref=NCBI_GP:ADB03959.1;Name=ADB03959.1;gbkey=CDS;locus_tag=MAR_ORF178;product=hypothetical protein;protein_id=ADB03959.1
+GU071086.1	Genbank	gene	136247	136621	.	+	.	ID=gene-MAR_ORF179;Name=MAR_ORF179;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF179
+GU071086.1	Genbank	CDS	136247	136621	.	+	0	ID=cds-ADB03960.1;Parent=gene-MAR_ORF179;Dbxref=NCBI_GP:ADB03960.1;Name=ADB03960.1;gbkey=CDS;locus_tag=MAR_ORF179;product=hypothetical protein;protein_id=ADB03960.1
+GU071086.1	Genbank	gene	136652	136954	.	+	.	ID=gene-MAR_ORF180;Name=MAR_ORF180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF180
+GU071086.1	Genbank	CDS	136652	136954	.	+	0	ID=cds-ADB03961.1;Parent=gene-MAR_ORF180;Dbxref=NCBI_GP:ADB03961.1;Name=ADB03961.1;gbkey=CDS;locus_tag=MAR_ORF180;product=hypothetical protein;protein_id=ADB03961.1
+GU071086.1	Genbank	gene	136979	137974	.	-	.	ID=gene-MAR_ORF181;Name=MAR_ORF181;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF181
+GU071086.1	Genbank	CDS	136979	137974	.	-	0	ID=cds-ADB03962.1;Parent=gene-MAR_ORF181;Dbxref=NCBI_GP:ADB03962.1;Name=ADB03962.1;Note=linked to bacterial restriction-modification systems;gbkey=CDS;locus_tag=MAR_ORF181;product=putative nuclease;protein_id=ADB03962.1
+GU071086.1	Genbank	gene	138034	138393	.	+	.	ID=gene-MAR_ORF182;Name=MAR_ORF182;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF182
+GU071086.1	Genbank	CDS	138034	138393	.	+	0	ID=cds-ADB03963.1;Parent=gene-MAR_ORF182;Dbxref=NCBI_GP:ADB03963.1;Name=ADB03963.1;gbkey=CDS;locus_tag=MAR_ORF182;product=hypothetical protein;protein_id=ADB03963.1
+GU071086.1	Genbank	gene	138436	139974	.	-	.	ID=gene-MAR_ORF183;Name=MAR_ORF183;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF183
+GU071086.1	Genbank	CDS	138436	139974	.	-	0	ID=cds-ADB03964.1;Parent=gene-MAR_ORF183;Dbxref=NCBI_GP:ADB03964.1;Name=ADB03964.1;gbkey=CDS;locus_tag=MAR_ORF183;product=hypothetical protein;protein_id=ADB03964.1
+GU071086.1	Genbank	gene	140404	143925	.	-	.	ID=gene-MAR_ORF184;Name=MAR_ORF184;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF184
+GU071086.1	Genbank	CDS	140404	143925	.	-	0	ID=cds-ADB03965.1;Parent=gene-MAR_ORF184;Dbxref=NCBI_GP:ADB03965.1;Name=ADB03965.1;gbkey=CDS;locus_tag=MAR_ORF184;product=helicase origin-binding-protein;protein_id=ADB03965.1
+GU071086.1	Genbank	gene	143955	144293	.	+	.	ID=gene-MAR_ORF185;Name=MAR_ORF185;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF185
+GU071086.1	Genbank	gene	144402	144608	.	-	.	ID=gene-MAR_ORF186;Name=MAR_ORF186;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF186
+GU071086.1	Genbank	CDS	144402	144608	.	-	0	ID=cds-ADB03966.1;Parent=gene-MAR_ORF186;Dbxref=NCBI_GP:ADB03966.1;Name=ADB03966.1;gbkey=CDS;locus_tag=MAR_ORF186;product=hypothetical protein;protein_id=ADB03966.1
+GU071086.1	Genbank	gene	144877	145185	.	-	.	ID=gene-MAR_ORF187;Name=MAR_ORF187;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF187
+GU071086.1	Genbank	gene	145214	145870	.	+	.	ID=gene-MAR_ORF188;Name=MAR_ORF188;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF188
+GU071086.1	Genbank	CDS	145214	145870	.	+	0	ID=cds-ADB03967.1;Parent=gene-MAR_ORF188;Dbxref=NCBI_GP:ADB03967.1;Name=ADB03967.1;gbkey=CDS;locus_tag=MAR_ORF188;product=hypothetical protein;protein_id=ADB03967.1
+GU071086.1	Genbank	gene	145877	146773	.	-	.	ID=gene-MAR_ORF189;Name=MAR_ORF189;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF189
+GU071086.1	Genbank	CDS	145877	146773	.	-	0	ID=cds-ADB03968.1;Parent=gene-MAR_ORF189;Dbxref=NCBI_GP:ADB03968.1;Name=ADB03968.1;gbkey=CDS;locus_tag=MAR_ORF189;product=class 3 lipase;protein_id=ADB03968.1
+GU071086.1	Genbank	gene	146818	147198	.	+	.	ID=gene-MAR_ORF190;Name=MAR_ORF190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF190
+GU071086.1	Genbank	CDS	146818	147198	.	+	0	ID=cds-ADB03969.1;Parent=gene-MAR_ORF190;Dbxref=NCBI_GP:ADB03969.1;Name=ADB03969.1;gbkey=CDS;locus_tag=MAR_ORF190;product=hypothetical protein;protein_id=ADB03969.1
+GU071086.1	Genbank	gene	147270	148109	.	+	.	ID=gene-MAR_ORF191;Name=MAR_ORF191;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF191
+GU071086.1	Genbank	CDS	147270	148109	.	+	0	ID=cds-ADB03970.1;Parent=gene-MAR_ORF191;Dbxref=NCBI_GP:ADB03970.1;Name=ADB03970.1;gbkey=CDS;locus_tag=MAR_ORF191;product=serine/threonine protein kinase;protein_id=ADB03970.1
+GU071086.1	Genbank	gene	148134	148679	.	-	.	ID=gene-MAR_ORF192;Name=MAR_ORF192;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF192
+GU071086.1	Genbank	CDS	148134	148679	.	-	0	ID=cds-ADB03971.1;Parent=gene-MAR_ORF192;Dbxref=NCBI_GP:ADB03971.1;Name=ADB03971.1;gbkey=CDS;locus_tag=MAR_ORF192;product=hypothetical protein;protein_id=ADB03971.1
+GU071086.1	Genbank	gene	148740	150086	.	-	.	ID=gene-MAR_ORF193;Name=MAR_ORF193;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF193
+GU071086.1	Genbank	CDS	148740	150086	.	-	0	ID=cds-ADB03972.1;Parent=gene-MAR_ORF193;Dbxref=NCBI_GP:ADB03972.1;Name=ADB03972.1;gbkey=CDS;locus_tag=MAR_ORF193;product=zinc finger protein;protein_id=ADB03972.1
+GU071086.1	Genbank	gene	150162	154055	.	-	.	ID=gene-MAR_ORF194;Name=MAR_ORF194;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF194
+GU071086.1	Genbank	CDS	150162	154055	.	-	0	ID=cds-ADB03973.1;Parent=gene-MAR_ORF194;Dbxref=NCBI_GP:ADB03973.1;Name=ADB03973.1;gbkey=CDS;locus_tag=MAR_ORF194;product=hypothetical protein;protein_id=ADB03973.1
+GU071086.1	Genbank	gene	154217	154948	.	-	.	ID=gene-MAR_ORF195;Name=MAR_ORF195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF195
+GU071086.1	Genbank	CDS	154217	154948	.	-	0	ID=cds-ADB03974.1;Parent=gene-MAR_ORF195;Dbxref=NCBI_GP:ADB03974.1;Name=ADB03974.1;gbkey=CDS;locus_tag=MAR_ORF195;product=serine/threonine protein kinase;protein_id=ADB03974.1
+GU071086.1	Genbank	gene	154968	155237	.	+	.	ID=gene-MAR_ORF196;Name=MAR_ORF196;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF196
+GU071086.1	Genbank	CDS	154968	155237	.	+	0	ID=cds-ADB03975.1;Parent=gene-MAR_ORF196;Dbxref=NCBI_GP:ADB03975.1;Name=ADB03975.1;gbkey=CDS;locus_tag=MAR_ORF196;product=hypothetical protein;protein_id=ADB03975.1
+GU071086.1	Genbank	gene	155258	156490	.	-	.	ID=gene-MAR_ORF197;Name=MAR_ORF197;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF197
+GU071086.1	Genbank	CDS	155258	156490	.	-	0	ID=cds-ADB03976.1;Parent=gene-MAR_ORF197;Dbxref=NCBI_GP:ADB03976.1;Name=ADB03976.1;gbkey=CDS;locus_tag=MAR_ORF197;product=RNA ligase;protein_id=ADB03976.1
+GU071086.1	Genbank	gene	156533	156943	.	+	.	ID=gene-MAR_ORF198;Name=MAR_ORF198;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF198
+GU071086.1	Genbank	CDS	156533	156943	.	+	0	ID=cds-ADB03977.1;Parent=gene-MAR_ORF198;Dbxref=NCBI_GP:ADB03977.1;Name=ADB03977.1;gbkey=CDS;locus_tag=MAR_ORF198;product=hypothetical protein;protein_id=ADB03977.1
+GU071086.1	Genbank	gene	157017	157892	.	+	.	ID=gene-MAR_ORF199;Name=MAR_ORF199;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF199
+GU071086.1	Genbank	CDS	157017	157892	.	+	0	ID=cds-ADB03978.1;Parent=gene-MAR_ORF199;Dbxref=NCBI_GP:ADB03978.1;Name=ADB03978.1;Note=contains catalytic domain;gbkey=CDS;locus_tag=MAR_ORF199;product=serine/threonine protein kinase;protein_id=ADB03978.1
+GU071086.1	Genbank	gene	157915	159477	.	-	.	ID=gene-MAR_ORF200;Name=MAR_ORF200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF200
+GU071086.1	Genbank	CDS	157915	159477	.	-	0	ID=cds-ADB03979.1;Parent=gene-MAR_ORF200;Dbxref=NCBI_GP:ADB03979.1;Name=ADB03979.1;gbkey=CDS;locus_tag=MAR_ORF200;product=hypothetical protein;protein_id=ADB03979.1
+GU071086.1	Genbank	gene	159514	159906	.	+	.	ID=gene-MAR_ORF201;Name=MAR_ORF201;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF201
+GU071086.1	Genbank	CDS	159514	159906	.	+	0	ID=cds-ADB03980.1;Parent=gene-MAR_ORF201;Dbxref=NCBI_GP:ADB03980.1;Name=ADB03980.1;gbkey=CDS;locus_tag=MAR_ORF201;product=hypothetical protein;protein_id=ADB03980.1
+GU071086.1	Genbank	gene	159903	160229	.	+	.	ID=gene-MAR_ORF202;Name=MAR_ORF202;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF202
+GU071086.1	Genbank	CDS	159903	160229	.	+	0	ID=cds-ADB03981.1;Parent=gene-MAR_ORF202;Dbxref=NCBI_GP:ADB03981.1;Name=ADB03981.1;gbkey=CDS;locus_tag=MAR_ORF202;product=hypothetical protein;protein_id=ADB03981.1
+GU071086.1	Genbank	gene	160248	162566	.	-	.	ID=gene-MAR_ORF203;Name=MAR_ORF203;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF203
+GU071086.1	Genbank	CDS	160248	162566	.	-	0	ID=cds-ADB03982.1;Parent=gene-MAR_ORF203;Dbxref=NCBI_GP:ADB03982.1;Name=ADB03982.1;gbkey=CDS;locus_tag=MAR_ORF203;product=D6/D11-like helicase;protein_id=ADB03982.1
+GU071086.1	Genbank	gene	162565	163083	.	+	.	ID=gene-MAR_ORF204;Name=MAR_ORF204;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF204
+GU071086.1	Genbank	CDS	162565	163083	.	+	0	ID=cds-ADB03983.1;Parent=gene-MAR_ORF204;Dbxref=NCBI_GP:ADB03983.1;Name=ADB03983.1;gbkey=CDS;locus_tag=MAR_ORF204;product=hypothetical protein;protein_id=ADB03983.1
+GU071086.1	Genbank	gene	163105	163689	.	-	.	ID=gene-MAR_ORF205;Name=MAR_ORF205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF205
+GU071086.1	Genbank	CDS	163105	163689	.	-	0	ID=cds-ADB03984.1;Parent=gene-MAR_ORF205;Dbxref=NCBI_GP:ADB03984.1;Name=ADB03984.1;gbkey=CDS;locus_tag=MAR_ORF205;product=hypothetical protein;protein_id=ADB03984.1
+GU071086.1	Genbank	gene	163689	164078	.	-	.	ID=gene-MAR_ORF206;Name=MAR_ORF206;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF206
+GU071086.1	Genbank	CDS	163689	164078	.	-	0	ID=cds-ADB03985.1;Parent=gene-MAR_ORF206;Dbxref=NCBI_GP:ADB03985.1;Name=ADB03985.1;gbkey=CDS;locus_tag=MAR_ORF206;product=RING finger E3 ubiquitin protein ligase;protein_id=ADB03985.1
+GU071086.1	Genbank	gene	164123	164668	.	+	.	ID=gene-MAR_ORF207;Name=MAR_ORF207;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF207
+GU071086.1	Genbank	CDS	164123	164668	.	+	0	ID=cds-ADB03986.1;Parent=gene-MAR_ORF207;Dbxref=NCBI_GP:ADB03986.1;Name=ADB03986.1;gbkey=CDS;locus_tag=MAR_ORF207;product=hypothetical protein;protein_id=ADB03986.1
+GU071086.1	Genbank	gene	164687	164992	.	-	.	ID=gene-MAR_ORF208;Name=MAR_ORF208;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF208
+GU071086.1	Genbank	CDS	164687	164992	.	-	0	ID=cds-ADB03987.1;Parent=gene-MAR_ORF208;Dbxref=NCBI_GP:ADB03987.1;Name=ADB03987.1;gbkey=CDS;locus_tag=MAR_ORF208;product=hypothetical protein;protein_id=ADB03987.1
+GU071086.1	Genbank	gene	165037	165432	.	+	.	ID=gene-MAR_ORF209;Name=MAR_ORF209;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF209
+GU071086.1	Genbank	CDS	165037	165432	.	+	0	ID=cds-ADB03988.1;Parent=gene-MAR_ORF209;Dbxref=NCBI_GP:ADB03988.1;Name=ADB03988.1;gbkey=CDS;locus_tag=MAR_ORF209;product=hypothetical protein;protein_id=ADB03988.1
+GU071086.1	Genbank	gene	165588	166115	.	-	.	ID=gene-MAR_ORF210;Name=MAR_ORF210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF210
+GU071086.1	Genbank	CDS	165588	166115	.	-	0	ID=cds-ADB03989.1;Parent=gene-MAR_ORF210;Dbxref=NCBI_GP:ADB03989.1;Name=ADB03989.1;gbkey=CDS;locus_tag=MAR_ORF210;product=Rossmann-fold nucleotide-binding protein;protein_id=ADB03989.1
+GU071086.1	Genbank	gene	166156	168906	.	-	.	ID=gene-MAR_ORF211;Name=MAR_ORF211;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF211
+GU071086.1	Genbank	CDS	166156	168906	.	-	0	ID=cds-ADB03990.1;Parent=gene-MAR_ORF211;Dbxref=NCBI_GP:ADB03990.1;Name=ADB03990.1;gbkey=CDS;locus_tag=MAR_ORF211;product=ribonucleoside diphosphate reductase alpha subunit;protein_id=ADB03990.1
+GU071086.1	Genbank	gene	168939	169835	.	+	.	ID=gene-MAR_ORF212;Name=MAR_ORF212;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF212
+GU071086.1	Genbank	CDS	168939	169835	.	+	0	ID=cds-ADB03991.1;Parent=gene-MAR_ORF212;Dbxref=NCBI_GP:ADB03991.1;Name=ADB03991.1;Note=involved in DNA replication and repair;gbkey=CDS;locus_tag=MAR_ORF212;product=proliferating cell nuclear antigen;protein_id=ADB03991.1
+GU071086.1	Genbank	gene	169907	170707	.	+	.	ID=gene-MAR_ORF213;Name=MAR_ORF213;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF213
+GU071086.1	Genbank	CDS	169907	170707	.	+	0	ID=cds-ADB03992.1;Parent=gene-MAR_ORF213;Dbxref=NCBI_GP:ADB03992.1;Name=ADB03992.1;gbkey=CDS;locus_tag=MAR_ORF213;product=transcription initiation factor TFIIB;protein_id=ADB03992.1
+GU071086.1	Genbank	gene	170729	170956	.	-	.	ID=gene-MAR_ORF214;Name=MAR_ORF214;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF214
+GU071086.1	Genbank	CDS	170729	170956	.	-	0	ID=cds-ADB03993.1;Parent=gene-MAR_ORF214;Dbxref=NCBI_GP:ADB03993.1;Name=ADB03993.1;gbkey=CDS;locus_tag=MAR_ORF214;product=hypothetical protein;protein_id=ADB03993.1
+GU071086.1	Genbank	gene	170980	171384	.	-	.	ID=gene-MAR_ORF215;Name=MAR_ORF215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF215
+GU071086.1	Genbank	CDS	170980	171384	.	-	0	ID=cds-ADB03994.1;Parent=gene-MAR_ORF215;Dbxref=NCBI_GP:ADB03994.1;Name=ADB03994.1;gbkey=CDS;locus_tag=MAR_ORF215;product=hypothetical protein;protein_id=ADB03994.1
+GU071086.1	Genbank	gene	171482	172120	.	-	.	ID=gene-MAR_ORF216;Name=MAR_ORF216;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF216
+GU071086.1	Genbank	CDS	171482	172120	.	-	0	ID=cds-ADB03995.1;Parent=gene-MAR_ORF216;Dbxref=NCBI_GP:ADB03995.1;Name=ADB03995.1;gbkey=CDS;locus_tag=MAR_ORF216;product=RuvC-like Holliday junction resolvase;protein_id=ADB03995.1
+GU071086.1	Genbank	gene	172157	172627	.	-	.	ID=gene-MAR_ORF217;Name=MAR_ORF217;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF217
+GU071086.1	Genbank	CDS	172157	172627	.	-	0	ID=cds-ADB03996.1;Parent=gene-MAR_ORF217;Dbxref=NCBI_GP:ADB03996.1;Name=ADB03996.1;gbkey=CDS;locus_tag=MAR_ORF217;product=dNMP kinase;protein_id=ADB03996.1
+GU071086.1	Genbank	gene	172634	172951	.	+	.	ID=gene-MAR_ORF218;Name=MAR_ORF218;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF218
+GU071086.1	Genbank	CDS	172634	172951	.	+	0	ID=cds-ADB03997.1;Parent=gene-MAR_ORF218;Dbxref=NCBI_GP:ADB03997.1;Name=ADB03997.1;gbkey=CDS;locus_tag=MAR_ORF218;product=hypothetical protein;protein_id=ADB03997.1
+GU071086.1	Genbank	gene	172973	173626	.	-	.	ID=gene-MAR_ORF219;Name=MAR_ORF219;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF219
+GU071086.1	Genbank	CDS	172973	173626	.	-	0	ID=cds-ADB03998.1;Parent=gene-MAR_ORF219;Dbxref=NCBI_GP:ADB03998.1;Name=ADB03998.1;gbkey=CDS;locus_tag=MAR_ORF219;product=hypothetical protein;protein_id=ADB03998.1
+GU071086.1	Genbank	gene	173689	173847	.	-	.	ID=gene-MAR_ORF220;Name=MAR_ORF220;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF220
+GU071086.1	Genbank	gene	173896	174552	.	+	.	ID=gene-MAR_ORF221;Name=MAR_ORF221;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF221
+GU071086.1	Genbank	CDS	173896	174552	.	+	0	ID=cds-ADB03999.1;Parent=gene-MAR_ORF221;Dbxref=NCBI_GP:ADB03999.1;Name=ADB03999.1;gbkey=CDS;locus_tag=MAR_ORF221;product=hypothetical protein;protein_id=ADB03999.1
+GU071086.1	Genbank	gene	174572	175021	.	-	.	ID=gene-MAR_ORF222;Name=MAR_ORF222;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF222
+GU071086.1	Genbank	CDS	174572	175021	.	-	0	ID=cds-ADB04000.1;Parent=gene-MAR_ORF222;Dbxref=NCBI_GP:ADB04000.1;Name=ADB04000.1;gbkey=CDS;locus_tag=MAR_ORF222;product=transcription factor S-II-domain-containing protein RNAP subunit;protein_id=ADB04000.1
+GU071086.1	Genbank	gene	175086	176123	.	+	.	ID=gene-MAR_ORF223;Name=MAR_ORF223;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF223
+GU071086.1	Genbank	CDS	175086	176123	.	+	0	ID=cds-ADB04001.1;Parent=gene-MAR_ORF223;Dbxref=NCBI_GP:ADB04001.1;Name=ADB04001.1;gbkey=CDS;locus_tag=MAR_ORF223;product=class 3 lipase;protein_id=ADB04001.1
+GU071086.1	Genbank	gene	176148	176894	.	-	.	ID=gene-MAR_ORF224;Name=MAR_ORF224;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF224
+GU071086.1	Genbank	CDS	176148	176894	.	-	0	ID=cds-ADB04002.1;Parent=gene-MAR_ORF224;Dbxref=NCBI_GP:ADB04002.1;Name=ADB04002.1;gbkey=CDS;locus_tag=MAR_ORF224;product=hypothetical protein;protein_id=ADB04002.1
+GU071086.1	Genbank	gene	176936	177286	.	-	.	ID=gene-MAR_ORF225;Name=MAR_ORF225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF225
+GU071086.1	Genbank	CDS	176936	177286	.	-	0	ID=cds-ADB04003.1;Parent=gene-MAR_ORF225;Dbxref=NCBI_GP:ADB04003.1;Name=ADB04003.1;gbkey=CDS;locus_tag=MAR_ORF225;product=hypothetical protein;protein_id=ADB04003.1
+GU071086.1	Genbank	gene	177313	179679	.	-	.	ID=gene-MAR_ORF226;Name=MAR_ORF226;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF226
+GU071086.1	Genbank	CDS	177313	179679	.	-	0	ID=cds-ADB04004.1;Parent=gene-MAR_ORF226;Dbxref=NCBI_GP:ADB04004.1;Name=ADB04004.1;gbkey=CDS;locus_tag=MAR_ORF226;product=hypothetical protein;protein_id=ADB04004.1
+GU071086.1	Genbank	gene	179721	180347	.	+	.	ID=gene-MAR_ORF227;Name=MAR_ORF227;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF227
+GU071086.1	Genbank	CDS	179721	180347	.	+	0	ID=cds-ADB04005.1;Parent=gene-MAR_ORF227;Dbxref=NCBI_GP:ADB04005.1;Name=ADB04005.1;gbkey=CDS;locus_tag=MAR_ORF227;product=putative RNA methyltransferase;protein_id=ADB04005.1
+GU071086.1	Genbank	gene	180383	181267	.	+	.	ID=gene-MAR_ORF228;Name=MAR_ORF228;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF228
+GU071086.1	Genbank	CDS	180383	181267	.	+	0	ID=cds-ADB04006.1;Parent=gene-MAR_ORF228;Dbxref=NCBI_GP:ADB04006.1;Name=ADB04006.1;gbkey=CDS;locus_tag=MAR_ORF228;product=patatin-like phospholipase;protein_id=ADB04006.1
+GU071086.1	Genbank	gene	181344	182471	.	+	.	ID=gene-MAR_ORF229;Name=MAR_ORF229;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF229
+GU071086.1	Genbank	CDS	181344	182471	.	+	0	ID=cds-ADB04007.1;Parent=gene-MAR_ORF229;Dbxref=NCBI_GP:ADB04007.1;Name=ADB04007.1;gbkey=CDS;locus_tag=MAR_ORF229;product=hypothetical protein;protein_id=ADB04007.1
+GU071086.1	Genbank	gene	182490	183659	.	-	.	ID=gene-MAR_ORF230;Name=MAR_ORF230;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF230
+GU071086.1	Genbank	CDS	182490	183659	.	-	0	ID=cds-ADB04008.1;Parent=gene-MAR_ORF230;Dbxref=NCBI_GP:ADB04008.1;Name=ADB04008.1;gbkey=CDS;locus_tag=MAR_ORF230;product=hypothetical protein;protein_id=ADB04008.1
+GU071086.1	Genbank	gene	183691	184065	.	-	.	ID=gene-MAR_ORF231;Name=MAR_ORF231;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF231
+GU071086.1	Genbank	CDS	183691	184065	.	-	0	ID=cds-ADB04009.1;Parent=gene-MAR_ORF231;Dbxref=NCBI_GP:ADB04009.1;Name=ADB04009.1;gbkey=CDS;locus_tag=MAR_ORF231;product=thioredoxin;protein_id=ADB04009.1
+GU071086.1	Genbank	gene	184104	184547	.	-	.	ID=gene-MAR_ORF232;Name=MAR_ORF232;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF232
+GU071086.1	Genbank	CDS	184104	184547	.	-	0	ID=cds-ADB04010.1;Parent=gene-MAR_ORF232;Dbxref=NCBI_GP:ADB04010.1;Name=ADB04010.1;gbkey=CDS;locus_tag=MAR_ORF232;product=hypothetical protein;protein_id=ADB04010.1
+GU071086.1	Genbank	gene	184554	185459	.	-	.	ID=gene-MAR_ORF233;Name=MAR_ORF233;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF233
+GU071086.1	Genbank	CDS	184554	185459	.	-	0	ID=cds-ADB04011.1;Parent=gene-MAR_ORF233;Dbxref=NCBI_GP:ADB04011.1;Name=ADB04011.1;gbkey=CDS;locus_tag=MAR_ORF233;product=hypothetical protein;protein_id=ADB04011.1
+GU071086.1	Genbank	gene	185542	186159	.	-	.	ID=gene-MAR_ORF234;Name=MAR_ORF234;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF234
+GU071086.1	Genbank	CDS	185542	186159	.	-	0	ID=cds-ADB04012.1;Parent=gene-MAR_ORF234;Dbxref=NCBI_GP:ADB04012.1;Name=ADB04012.1;gbkey=CDS;locus_tag=MAR_ORF234;product=hypothetical protein;protein_id=ADB04012.1
+GU071086.1	Genbank	gene	186188	186511	.	+	.	ID=gene-MAR_ORF235;Name=MAR_ORF235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF235
+GU071086.1	Genbank	CDS	186188	186511	.	+	0	ID=cds-ADB04013.1;Parent=gene-MAR_ORF235;Dbxref=NCBI_GP:ADB04013.1;Name=ADB04013.1;gbkey=CDS;locus_tag=MAR_ORF235;product=hypothetical protein;protein_id=ADB04013.1
+GU071086.1	Genbank	gene	186536	187096	.	-	.	ID=gene-MAR_ORF236;Name=MAR_ORF236;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF236
+GU071086.1	Genbank	CDS	186536	187096	.	-	0	ID=cds-ADB04014.1;Parent=gene-MAR_ORF236;Dbxref=NCBI_GP:ADB04014.1;Name=ADB04014.1;gbkey=CDS;locus_tag=MAR_ORF236;product=thymidine kinase;protein_id=ADB04014.1
+GU071086.1	Genbank	gene	187128	187706	.	+	.	ID=gene-MAR_ORF237;Name=MAR_ORF237;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF237
+GU071086.1	Genbank	CDS	187128	187706	.	+	0	ID=cds-ADB04015.1;Parent=gene-MAR_ORF237;Dbxref=NCBI_GP:ADB04015.1;Name=ADB04015.1;gbkey=CDS;locus_tag=MAR_ORF237;product=zinc finger/DNA-binding protein;protein_id=ADB04015.1
+GU071086.1	Genbank	gene	187735	188217	.	+	.	ID=gene-MAR_ORF238;Name=MAR_ORF238;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF238
+GU071086.1	Genbank	CDS	187735	188217	.	+	0	ID=cds-ADB04016.1;Parent=gene-MAR_ORF238;Dbxref=NCBI_GP:ADB04016.1;Name=ADB04016.1;gbkey=CDS;locus_tag=MAR_ORF238;product=hypothetical protein;protein_id=ADB04016.1
+GU071086.1	Genbank	gene	188214	189107	.	-	.	ID=gene-MAR_ORF239;Name=MAR_ORF239;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF239
+GU071086.1	Genbank	CDS	188214	189107	.	-	0	ID=cds-ADB04017.1;Parent=gene-MAR_ORF239;Dbxref=NCBI_GP:ADB04017.1;Name=ADB04017.1;gbkey=CDS;locus_tag=MAR_ORF239;product=hypothetical protein;protein_id=ADB04017.1
+GU071086.1	Genbank	gene	189240	189956	.	+	.	ID=gene-MAR_ORF240;Name=MAR_ORF240;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF240
+GU071086.1	Genbank	gene	189983	194596	.	-	.	ID=gene-MAR_ORF241;Name=MAR_ORF241;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF241
+GU071086.1	Genbank	CDS	189983	194596	.	-	0	ID=cds-ADB04018.1;Parent=gene-MAR_ORF241;Dbxref=NCBI_GP:ADB04018.1;Name=ADB04018.1;gbkey=CDS;locus_tag=MAR_ORF241;product=D6/D11-like helicase;protein_id=ADB04018.1
+GU071086.1	Genbank	gene	194639	195142	.	-	.	ID=gene-MAR_ORF242;Name=MAR_ORF242;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF242
+GU071086.1	Genbank	CDS	194639	195142	.	-	0	ID=cds-ADB04019.1;Parent=gene-MAR_ORF242;Dbxref=NCBI_GP:ADB04019.1;Name=ADB04019.1;gbkey=CDS;locus_tag=MAR_ORF242;product=NUDIX hydrolase;protein_id=ADB04019.1
+GU071086.1	Genbank	gene	195193	195525	.	+	.	ID=gene-MAR_ORF243;Name=MAR_ORF243;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF243
+GU071086.1	Genbank	CDS	195193	195525	.	+	0	ID=cds-ADB04020.1;Parent=gene-MAR_ORF243;Dbxref=NCBI_GP:ADB04020.1;Name=ADB04020.1;gbkey=CDS;locus_tag=MAR_ORF243;product=hypothetical protein;protein_id=ADB04020.1
+GU071086.1	Genbank	gene	195584	196522	.	+	.	ID=gene-MAR_ORF244;Name=MAR_ORF244;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF244
+GU071086.1	Genbank	CDS	195584	196522	.	+	0	ID=cds-ADB04021.1;Parent=gene-MAR_ORF244;Dbxref=NCBI_GP:ADB04021.1;Name=ADB04021.1;gbkey=CDS;locus_tag=MAR_ORF244;product=ribonuclease III;protein_id=ADB04021.1
+GU071086.1	Genbank	gene	196909	198408	.	+	.	ID=gene-MAR_ORF245;Name=MAR_ORF245;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF245
+GU071086.1	Genbank	CDS	196909	198408	.	+	0	ID=cds-ADB04022.1;Parent=gene-MAR_ORF245;Dbxref=NCBI_GP:ADB04022.1;Name=ADB04022.1;Note=contains multiple N-terminal zinc-ribbon domains;gbkey=CDS;locus_tag=MAR_ORF245;product=restriction endonuclease;protein_id=ADB04022.1
+GU071086.1	Genbank	gene	198431	199096	.	+	.	ID=gene-MAR_ORF246;Name=MAR_ORF246;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF246
+GU071086.1	Genbank	CDS	198431	199096	.	+	0	ID=cds-ADB04023.1;Parent=gene-MAR_ORF246;Dbxref=NCBI_GP:ADB04023.1;Name=ADB04023.1;gbkey=CDS;locus_tag=MAR_ORF246;product=hypothetical protein;protein_id=ADB04023.1
+GU071086.1	Genbank	gene	199405	199632	.	-	.	ID=gene-MAR_ORF247;Name=MAR_ORF247;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF247
+GU071086.1	Genbank	CDS	199405	199632	.	-	0	ID=cds-ADB04024.1;Parent=gene-MAR_ORF247;Dbxref=NCBI_GP:ADB04024.1;Name=ADB04024.1;gbkey=CDS;locus_tag=MAR_ORF247;product=ubiquitin;protein_id=ADB04024.1
+GU071086.1	Genbank	gene	199699	200760	.	-	.	ID=gene-MAR_ORF248;Name=MAR_ORF248;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF248
+GU071086.1	Genbank	gene	201058	202512	.	-	.	ID=gene-MAR_ORF249;Name=MAR_ORF249;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF249
+GU071086.1	Genbank	CDS	201058	202512	.	-	0	ID=cds-ADB04025.1;Parent=gene-MAR_ORF249;Dbxref=NCBI_GP:ADB04025.1;Name=ADB04025.1;gbkey=CDS;locus_tag=MAR_ORF249;product=MutH/Vsr/archaeal HJR-like endonuclease;protein_id=ADB04025.1
+GU071086.1	Genbank	gene	202509	202778	.	-	.	ID=gene-MAR_ORF250;Name=MAR_ORF250;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF250
+GU071086.1	Genbank	gene	202870	203121	.	+	.	ID=gene-MAR_ORF251;Name=MAR_ORF251;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF251
+GU071086.1	Genbank	CDS	202870	203121	.	+	0	ID=cds-ADB04026.1;Parent=gene-MAR_ORF251;Dbxref=NCBI_GP:ADB04026.1;Name=ADB04026.1;gbkey=CDS;locus_tag=MAR_ORF251;product=hypothetical protein;protein_id=ADB04026.1
+GU071086.1	Genbank	gene	203323	203574	.	-	.	ID=gene-MAR_ORF252;Name=MAR_ORF252;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF252
+GU071086.1	Genbank	CDS	203323	203574	.	-	0	ID=cds-ADB04027.1;Parent=gene-MAR_ORF252;Dbxref=NCBI_GP:ADB04027.1;Name=ADB04027.1;gbkey=CDS;locus_tag=MAR_ORF252;product=hypothetical protein;protein_id=ADB04027.1
+GU071086.1	Genbank	gene	203612	205252	.	-	.	ID=gene-MAR_ORF253;Name=MAR_ORF253;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF253
+GU071086.1	Genbank	CDS	203612	205252	.	-	0	ID=cds-ADB04028.1;Parent=gene-MAR_ORF253;Dbxref=NCBI_GP:ADB04028.1;Name=ADB04028.1;Note=low complexity protein%3B contains proline-rich repeats;gbkey=CDS;locus_tag=MAR_ORF253;product=hypothetical protein;protein_id=ADB04028.1
+GU071086.1	Genbank	gene	205287	206015	.	-	.	ID=gene-MAR_ORF254;Name=MAR_ORF254;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF254
+GU071086.1	Genbank	CDS	205287	206015	.	-	0	ID=cds-ADB04029.1;Parent=gene-MAR_ORF254;Dbxref=NCBI_GP:ADB04029.1;Name=ADB04029.1;gbkey=CDS;locus_tag=MAR_ORF254;product=hypothetical protein;protein_id=ADB04029.1
+GU071086.1	Genbank	gene	205996	207039	.	+	.	ID=gene-MAR_ORF255;Name=MAR_ORF255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF255
+GU071086.1	Genbank	CDS	205996	207039	.	+	0	ID=cds-ADB04030.1;Parent=gene-MAR_ORF255;Dbxref=NCBI_GP:ADB04030.1;Name=ADB04030.1;gbkey=CDS;locus_tag=MAR_ORF255;product=hypothetical protein;protein_id=ADB04030.1
+GU071086.1	Genbank	gene	207125	207391	.	+	.	ID=gene-MAR_ORF256;Name=MAR_ORF256;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF256
+GU071086.1	Genbank	gene	207383	207625	.	-	.	ID=gene-MAR_ORF257;Name=MAR_ORF257;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF257
+GU071086.1	Genbank	CDS	207383	207625	.	-	0	ID=cds-ADB04031.1;Parent=gene-MAR_ORF257;Dbxref=NCBI_GP:ADB04031.1;Name=ADB04031.1;gbkey=CDS;locus_tag=MAR_ORF257;product=hypothetical protein;protein_id=ADB04031.1
+GU071086.1	Genbank	gene	207653	208249	.	-	.	ID=gene-MAR_ORF258;Name=MAR_ORF258;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF258
+GU071086.1	Genbank	CDS	207653	208249	.	-	0	ID=cds-ADB04032.1;Parent=gene-MAR_ORF258;Dbxref=NCBI_GP:ADB04032.1;Name=ADB04032.1;gbkey=CDS;locus_tag=MAR_ORF258;product=alkylated DNA repair protein;protein_id=ADB04032.1
+GU071086.1	Genbank	gene	208257	208826	.	-	.	ID=gene-MAR_ORF259;Name=MAR_ORF259;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF259
+GU071086.1	Genbank	CDS	208257	208826	.	-	0	ID=cds-ADB04033.1;Parent=gene-MAR_ORF259;Dbxref=NCBI_GP:ADB04033.1;Name=ADB04033.1;Note=unique to Marseillevirus and Chilo virus;gbkey=CDS;locus_tag=MAR_ORF259;product=hypothetical protein;protein_id=ADB04033.1
+GU071086.1	Genbank	gene	208853	211597	.	-	.	ID=gene-MAR_ORF260;Name=MAR_ORF260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF260
+GU071086.1	Genbank	CDS	208853	211597	.	-	0	ID=cds-ADB04034.1;Parent=gene-MAR_ORF260;Dbxref=NCBI_GP:ADB04034.1;Name=ADB04034.1;gbkey=CDS;locus_tag=MAR_ORF260;product=divergent serine/threonine protein kinase;protein_id=ADB04034.1
+GU071086.1	Genbank	gene	211626	211883	.	-	.	ID=gene-MAR_ORF261;Name=MAR_ORF261;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF261
+GU071086.1	Genbank	CDS	211626	211883	.	-	0	ID=cds-ADB04035.1;Parent=gene-MAR_ORF261;Dbxref=NCBI_GP:ADB04035.1;Name=ADB04035.1;gbkey=CDS;locus_tag=MAR_ORF261;product=hypothetical protein;protein_id=ADB04035.1
+GU071086.1	Genbank	gene	211883	212158	.	-	.	ID=gene-MAR_ORF262;Name=MAR_ORF262;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF262
+GU071086.1	Genbank	CDS	211883	212158	.	-	0	ID=cds-ADB04036.1;Parent=gene-MAR_ORF262;Dbxref=NCBI_GP:ADB04036.1;Name=ADB04036.1;gbkey=CDS;locus_tag=MAR_ORF262;product=hypothetical protein;protein_id=ADB04036.1
+GU071086.1	Genbank	gene	212186	213580	.	-	.	ID=gene-MAR_ORF263;Name=MAR_ORF263;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF263
+GU071086.1	Genbank	CDS	212186	213580	.	-	0	ID=cds-ADB04037.1;Parent=gene-MAR_ORF263;Dbxref=NCBI_GP:ADB04037.1;Name=ADB04037.1;gbkey=CDS;locus_tag=MAR_ORF263;product=hypothetical protein;protein_id=ADB04037.1
+GU071086.1	Genbank	gene	214682	216013	.	-	.	ID=gene-MAR_ORF264;Name=MAR_ORF264;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF264
+GU071086.1	Genbank	CDS	214682	216013	.	-	0	ID=cds-ADB04038.1;Parent=gene-MAR_ORF264;Dbxref=NCBI_GP:ADB04038.1;Name=ADB04038.1;gbkey=CDS;locus_tag=MAR_ORF264;product=serine/threonine protein kinase catalytic domain-containing protein;protein_id=ADB04038.1
+GU071086.1	Genbank	gene	216116	216625	.	-	.	ID=gene-MAR_ORF265;Name=MAR_ORF265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF265
+GU071086.1	Genbank	CDS	216116	216625	.	-	0	ID=cds-ADB04039.1;Parent=gene-MAR_ORF265;Dbxref=NCBI_GP:ADB04039.1;Name=ADB04039.1;gbkey=CDS;locus_tag=MAR_ORF265;product=hypothetical protein;protein_id=ADB04039.1
+GU071086.1	Genbank	gene	216624	216815	.	+	.	ID=gene-MAR_ORF266;Name=MAR_ORF266;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF266
+GU071086.1	Genbank	CDS	216624	216815	.	+	0	ID=cds-ADB04040.1;Parent=gene-MAR_ORF266;Dbxref=NCBI_GP:ADB04040.1;Name=ADB04040.1;gbkey=CDS;locus_tag=MAR_ORF266;product=hypothetical protein;protein_id=ADB04040.1
+GU071086.1	Genbank	gene	216984	217562	.	-	.	ID=gene-MAR_ORF267;Name=MAR_ORF267;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF267
+GU071086.1	Genbank	CDS	216984	217562	.	-	0	ID=cds-ADB04041.1;Parent=gene-MAR_ORF267;Dbxref=NCBI_GP:ADB04041.1;Name=ADB04041.1;gbkey=CDS;locus_tag=MAR_ORF267;product=hypothetical protein;protein_id=ADB04041.1
+GU071086.1	Genbank	gene	217722	218564	.	+	.	ID=gene-MAR_ORF268;Name=MAR_ORF268;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF268
+GU071086.1	Genbank	CDS	217722	218564	.	+	0	ID=cds-ADB04042.1;Parent=gene-MAR_ORF268;Dbxref=NCBI_GP:ADB04042.1;Name=ADB04042.1;gbkey=CDS;locus_tag=MAR_ORF268;product=ribonucleotide reductase small chain;protein_id=ADB04042.1
+GU071086.1	Genbank	gene	218587	219426	.	-	.	ID=gene-MAR_ORF269;Name=MAR_ORF269;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF269
+GU071086.1	Genbank	CDS	218587	219426	.	-	0	ID=cds-ADB04043.1;Parent=gene-MAR_ORF269;Dbxref=NCBI_GP:ADB04043.1;Name=ADB04043.1;gbkey=CDS;locus_tag=MAR_ORF269;product=chaperone protein DnaJ;protein_id=ADB04043.1
+GU071086.1	Genbank	gene	219859	221067	.	+	.	ID=gene-MAR_ORF270;Name=MAR_ORF270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF270
+GU071086.1	Genbank	CDS	219859	221067	.	+	0	ID=cds-ADB04044.1;Parent=gene-MAR_ORF270;Dbxref=NCBI_GP:ADB04044.1;Name=ADB04044.1;gbkey=CDS;locus_tag=MAR_ORF270;product=superfamily II helicase;protein_id=ADB04044.1
+GU071086.1	Genbank	gene	221078	221398	.	-	.	ID=gene-MAR_ORF271;Name=MAR_ORF271;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF271
+GU071086.1	Genbank	CDS	221078	221398	.	-	0	ID=cds-ADB04045.1;Parent=gene-MAR_ORF271;Dbxref=NCBI_GP:ADB04045.1;Name=ADB04045.1;gbkey=CDS;locus_tag=MAR_ORF271;product=hypothetical protein;protein_id=ADB04045.1
+GU071086.1	Genbank	gene	221411	222229	.	-	.	ID=gene-MAR_ORF272;Name=MAR_ORF272;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF272
+GU071086.1	Genbank	CDS	221411	222229	.	-	0	ID=cds-ADB04046.1;Parent=gene-MAR_ORF272;Dbxref=NCBI_GP:ADB04046.1;Name=ADB04046.1;gbkey=CDS;locus_tag=MAR_ORF272;product=membrane protein;protein_id=ADB04046.1
+GU071086.1	Genbank	gene	222260	223252	.	-	.	ID=gene-MAR_ORF273;Name=MAR_ORF273;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF273
+GU071086.1	Genbank	CDS	222260	223252	.	-	0	ID=cds-ADB04047.1;Parent=gene-MAR_ORF273;Dbxref=NCBI_GP:ADB04047.1;Name=ADB04047.1;gbkey=CDS;locus_tag=MAR_ORF273;product=membrane protein;protein_id=ADB04047.1
+GU071086.1	Genbank	gene	223456	224781	.	+	.	ID=gene-MAR_ORF274;Name=MAR_ORF274;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF274
+GU071086.1	Genbank	CDS	223456	224781	.	+	0	ID=cds-ADB04048.1;Parent=gene-MAR_ORF274;Dbxref=NCBI_GP:ADB04048.1;Name=ADB04048.1;gbkey=CDS;locus_tag=MAR_ORF274;product=hypothetical protein;protein_id=ADB04048.1
+GU071086.1	Genbank	gene	224781	224963	.	+	.	ID=gene-MAR_ORF275;Name=MAR_ORF275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF275
+GU071086.1	Genbank	CDS	224781	224963	.	+	0	ID=cds-ADB04049.1;Parent=gene-MAR_ORF275;Dbxref=NCBI_GP:ADB04049.1;Name=ADB04049.1;gbkey=CDS;locus_tag=MAR_ORF275;product=hypothetical protein;protein_id=ADB04049.1
+GU071086.1	Genbank	gene	224983	226533	.	-	.	ID=gene-MAR_ORF276;Name=MAR_ORF276;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF276
+GU071086.1	Genbank	CDS	224983	226533	.	-	0	ID=cds-ADB04050.1;Parent=gene-MAR_ORF276;Dbxref=NCBI_GP:ADB04050.1;Name=ADB04050.1;Note=cathepsin B group protein;gbkey=CDS;locus_tag=MAR_ORF276;product=papain-like cysteine peptidase;protein_id=ADB04050.1
+GU071086.1	Genbank	gene	226730	227425	.	+	.	ID=gene-MAR_ORF277;Name=MAR_ORF277;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF277
+GU071086.1	Genbank	CDS	226730	227425	.	+	0	ID=cds-ADB04051.1;Parent=gene-MAR_ORF277;Dbxref=NCBI_GP:ADB04051.1;Name=ADB04051.1;Note=similar to D10;gbkey=CDS;locus_tag=MAR_ORF277;product=NUDIX hydrolase;protein_id=ADB04051.1
+GU071086.1	Genbank	gene	227456	227887	.	+	.	ID=gene-MAR_ORF278;Name=MAR_ORF278;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF278
+GU071086.1	Genbank	CDS	227456	227887	.	+	0	ID=cds-ADB04052.1;Parent=gene-MAR_ORF278;Dbxref=NCBI_GP:ADB04052.1;Name=ADB04052.1;gbkey=CDS;locus_tag=MAR_ORF278;product=metallopeptidase WLM;protein_id=ADB04052.1
+GU071086.1	Genbank	gene	227937	228548	.	+	.	ID=gene-MAR_ORF279;Name=MAR_ORF279;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF279
+GU071086.1	Genbank	CDS	227937	228548	.	+	0	ID=cds-ADB04053.1;Parent=gene-MAR_ORF279;Dbxref=NCBI_GP:ADB04053.1;Name=ADB04053.1;gbkey=CDS;locus_tag=MAR_ORF279;product=bacterial MORN repeat-containing protein;protein_id=ADB04053.1
+GU071086.1	Genbank	gene	228565	228903	.	-	.	ID=gene-MAR_ORF280;Name=MAR_ORF280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF280
+GU071086.1	Genbank	CDS	228565	228903	.	-	0	ID=cds-ADB04054.1;Parent=gene-MAR_ORF280;Dbxref=NCBI_GP:ADB04054.1;Name=ADB04054.1;gbkey=CDS;locus_tag=MAR_ORF280;product=hypothetical protein;protein_id=ADB04054.1
+GU071086.1	Genbank	gene	228900	229328	.	-	.	ID=gene-MAR_ORF281;Name=MAR_ORF281;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF281
+GU071086.1	Genbank	CDS	228900	229328	.	-	0	ID=cds-ADB04055.1;Parent=gene-MAR_ORF281;Dbxref=NCBI_GP:ADB04055.1;Name=ADB04055.1;gbkey=CDS;locus_tag=MAR_ORF281;product=membrane-bound metal-dependent hydrolase;protein_id=ADB04055.1
+GU071086.1	Genbank	gene	229910	231796	.	-	.	ID=gene-MAR_ORF282;Name=MAR_ORF282;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF282
+GU071086.1	Genbank	CDS	229910	231796	.	-	0	ID=cds-ADB04056.1;Parent=gene-MAR_ORF282;Dbxref=NCBI_GP:ADB04056.1;Name=ADB04056.1;gbkey=CDS;locus_tag=MAR_ORF282;product=glycosyltransferase;protein_id=ADB04056.1
+GU071086.1	Genbank	gene	231796	232026	.	+	.	ID=gene-MAR_ORF283;Name=MAR_ORF283;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF283
+GU071086.1	Genbank	CDS	231796	232026	.	+	0	ID=cds-ADB04057.1;Parent=gene-MAR_ORF283;Dbxref=NCBI_GP:ADB04057.1;Name=ADB04057.1;gbkey=CDS;locus_tag=MAR_ORF283;product=hypothetical protein;protein_id=ADB04057.1
+GU071086.1	Genbank	gene	232026	232319	.	+	.	ID=gene-MAR_ORF284;Name=MAR_ORF284;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF284
+GU071086.1	Genbank	CDS	232026	232319	.	+	0	ID=cds-ADB04058.1;Parent=gene-MAR_ORF284;Dbxref=NCBI_GP:ADB04058.1;Name=ADB04058.1;gbkey=CDS;locus_tag=MAR_ORF284;product=hypothetical protein;protein_id=ADB04058.1
+GU071086.1	Genbank	gene	232329	233645	.	-	.	ID=gene-MAR_ORF285;Name=MAR_ORF285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF285
+GU071086.1	Genbank	CDS	232329	233645	.	-	0	ID=cds-ADB04059.1;Parent=gene-MAR_ORF285;Dbxref=NCBI_GP:ADB04059.1;Name=ADB04059.1;Note=cathepsin B group protein;gbkey=CDS;locus_tag=MAR_ORF285;product=papain-like cysteine peptidase;protein_id=ADB04059.1
+GU071086.1	Genbank	gene	233851	234171	.	-	.	ID=gene-MAR_ORF286;Name=MAR_ORF286;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF286
+GU071086.1	Genbank	CDS	233851	234171	.	-	0	ID=cds-ADB04060.1;Parent=gene-MAR_ORF286;Dbxref=NCBI_GP:ADB04060.1;Name=ADB04060.1;gbkey=CDS;locus_tag=MAR_ORF286;product=hypothetical protein;protein_id=ADB04060.1
+GU071086.1	Genbank	gene	234330	234821	.	+	.	ID=gene-MAR_ORF287;Name=MAR_ORF287;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF287
+GU071086.1	Genbank	CDS	234330	234821	.	+	0	ID=cds-ADB04061.1;Parent=gene-MAR_ORF287;Dbxref=NCBI_GP:ADB04061.1;Name=ADB04061.1;gbkey=CDS;locus_tag=MAR_ORF287;product=hypothetical protein;protein_id=ADB04061.1
+GU071086.1	Genbank	gene	234842	235147	.	-	.	ID=gene-MAR_ORF288;Name=MAR_ORF288;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF288
+GU071086.1	Genbank	CDS	234842	235147	.	-	0	ID=cds-ADB04062.1;Parent=gene-MAR_ORF288;Dbxref=NCBI_GP:ADB04062.1;Name=ADB04062.1;gbkey=CDS;locus_tag=MAR_ORF288;product=hypothetical protein;protein_id=ADB04062.1
+GU071086.1	Genbank	gene	235147	235677	.	-	.	ID=gene-MAR_ORF289;Name=MAR_ORF289;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF289
+GU071086.1	Genbank	CDS	235147	235677	.	-	0	ID=cds-ADB04063.1;Parent=gene-MAR_ORF289;Dbxref=NCBI_GP:ADB04063.1;Name=ADB04063.1;gbkey=CDS;locus_tag=MAR_ORF289;product=putative nuclease;protein_id=ADB04063.1
+GU071086.1	Genbank	gene	235733	236860	.	-	.	ID=gene-MAR_ORF290;Name=MAR_ORF290;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF290
+GU071086.1	Genbank	gene	236954	237637	.	-	.	ID=gene-MAR_ORF291;Name=MAR_ORF291;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF291
+GU071086.1	Genbank	CDS	236954	237637	.	-	0	ID=cds-ADB04064.1;Parent=gene-MAR_ORF291;Dbxref=NCBI_GP:ADB04064.1;Name=ADB04064.1;Note=involved in chromatin condensation;gbkey=CDS;locus_tag=MAR_ORF291;product=SWIB/MDM2 domain-containing protein;protein_id=ADB04064.1
+GU071086.1	Genbank	gene	237768	238643	.	+	.	ID=gene-MAR_ORF292;Name=MAR_ORF292;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF292
+GU071086.1	Genbank	CDS	237768	238643	.	+	0	ID=cds-ADB04065.1;Parent=gene-MAR_ORF292;Dbxref=NCBI_GP:ADB04065.1;Name=ADB04065.1;gbkey=CDS;locus_tag=MAR_ORF292;product=hypothetical protein;protein_id=ADB04065.1
+GU071086.1	Genbank	gene	238689	239588	.	+	.	ID=gene-MAR_ORF293;Name=MAR_ORF293;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF293
+GU071086.1	Genbank	CDS	238689	239588	.	+	0	ID=cds-ADB04066.1;Parent=gene-MAR_ORF293;Dbxref=NCBI_GP:ADB04066.1;Name=ADB04066.1;Note=apurinic protein;gbkey=CDS;locus_tag=MAR_ORF293;product=AP endonuclease family 2 protein;protein_id=ADB04066.1
+GU071086.1	Genbank	gene	239611	240168	.	-	.	ID=gene-MAR_ORF294;Name=MAR_ORF294;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF294
+GU071086.1	Genbank	CDS	239611	240168	.	-	0	ID=cds-ADB04067.1;Parent=gene-MAR_ORF294;Dbxref=NCBI_GP:ADB04067.1;Name=ADB04067.1;gbkey=CDS;locus_tag=MAR_ORF294;product=hypothetical protein;protein_id=ADB04067.1
+GU071086.1	Genbank	gene	240331	241725	.	+	.	ID=gene-MAR_ORF295;Name=MAR_ORF295;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF295
+GU071086.1	Genbank	CDS	240331	241725	.	+	0	ID=cds-ADB04068.1;Parent=gene-MAR_ORF295;Dbxref=NCBI_GP:ADB04068.1;Name=ADB04068.1;gbkey=CDS;locus_tag=MAR_ORF295;product=HNH-family endonuclease;protein_id=ADB04068.1
+GU071086.1	Genbank	gene	241756	242385	.	-	.	ID=gene-MAR_ORF296;Name=MAR_ORF296;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF296
+GU071086.1	Genbank	CDS	241756	242385	.	-	0	ID=cds-ADB04069.1;Parent=gene-MAR_ORF296;Dbxref=NCBI_GP:ADB04069.1;Name=ADB04069.1;gbkey=CDS;locus_tag=MAR_ORF296;product=membrane protein;protein_id=ADB04069.1
+GU071086.1	Genbank	gene	242430	242783	.	-	.	ID=gene-MAR_ORF297;Name=MAR_ORF297;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF297
+GU071086.1	Genbank	CDS	242430	242783	.	-	0	ID=cds-ADB04070.1;Parent=gene-MAR_ORF297;Dbxref=NCBI_GP:ADB04070.1;Name=ADB04070.1;gbkey=CDS;locus_tag=MAR_ORF297;product=hypothetical protein;protein_id=ADB04070.1
+GU071086.1	Genbank	gene	243198	243506	.	+	.	ID=gene-MAR_ORF298;Name=MAR_ORF298;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF298
+GU071086.1	Genbank	CDS	243198	243506	.	+	0	ID=cds-ADB04071.1;Parent=gene-MAR_ORF298;Dbxref=NCBI_GP:ADB04071.1;Name=ADB04071.1;gbkey=CDS;locus_tag=MAR_ORF298;product=hypothetical protein;protein_id=ADB04071.1
+GU071086.1	Genbank	gene	243709	243939	.	-	.	ID=gene-MAR_ORF299;Name=MAR_ORF299;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF299
+GU071086.1	Genbank	CDS	243709	243939	.	-	0	ID=cds-ADB04072.1;Parent=gene-MAR_ORF299;Dbxref=NCBI_GP:ADB04072.1;Name=ADB04072.1;gbkey=CDS;locus_tag=MAR_ORF299;product=hypothetical protein;protein_id=ADB04072.1
+GU071086.1	Genbank	gene	243934	244425	.	+	.	ID=gene-MAR_ORF300;Name=MAR_ORF300;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF300
+GU071086.1	Genbank	gene	244467	246173	.	-	.	ID=gene-MAR_ORF301;Name=MAR_ORF301;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF301
+GU071086.1	Genbank	CDS	244467	246173	.	-	0	ID=cds-ADB04073.1;Parent=gene-MAR_ORF301;Dbxref=NCBI_GP:ADB04073.1;Name=ADB04073.1;Note=contains C-terminal domain and N-terminal zinc-ribbon;gbkey=CDS;locus_tag=MAR_ORF301;product=Vsr/MutH/archaeal HJR family nuclease;protein_id=ADB04073.1
+GU071086.1	Genbank	gene	246170	246874	.	-	.	ID=gene-MAR_ORF302;Name=MAR_ORF302;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF302
+GU071086.1	Genbank	CDS	246170	246874	.	-	0	ID=cds-ADB04074.1;Parent=gene-MAR_ORF302;Dbxref=NCBI_GP:ADB04074.1;Name=ADB04074.1;gbkey=CDS;locus_tag=MAR_ORF302;product=hypothetical protein;protein_id=ADB04074.1
+GU071086.1	Genbank	gene	246926	247180	.	+	.	ID=gene-MAR_ORF303;Name=MAR_ORF303;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF303
+GU071086.1	Genbank	CDS	246926	247180	.	+	0	ID=cds-ADB04075.1;Parent=gene-MAR_ORF303;Dbxref=NCBI_GP:ADB04075.1;Name=ADB04075.1;gbkey=CDS;locus_tag=MAR_ORF303;product=hypothetical protein;protein_id=ADB04075.1
+GU071086.1	Genbank	gene	247542	247994	.	+	.	ID=gene-MAR_ORF304;Name=MAR_ORF304;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF304
+GU071086.1	Genbank	CDS	247542	247994	.	+	0	ID=cds-ADB04076.1;Parent=gene-MAR_ORF304;Dbxref=NCBI_GP:ADB04076.1;Name=ADB04076.1;Note=contains N-terminal zinc-ribbon domain%3B similar to eIF2-beta;gbkey=CDS;locus_tag=MAR_ORF304;product=eukaryotic translation initiation factor 5;protein_id=ADB04076.1
+GU071086.1	Genbank	gene	248024	248383	.	-	.	ID=gene-MAR_ORF305;Name=MAR_ORF305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF305
+GU071086.1	Genbank	CDS	248024	248383	.	-	0	ID=cds-ADB04077.1;Parent=gene-MAR_ORF305;Dbxref=NCBI_GP:ADB04077.1;Name=ADB04077.1;gbkey=CDS;locus_tag=MAR_ORF305;product=hypothetical protein;protein_id=ADB04077.1
+GU071086.1	Genbank	gene	248579	251986	.	-	.	ID=gene-MAR_ORF306;Name=MAR_ORF306;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF306
+GU071086.1	Genbank	CDS	248579	251986	.	-	0	ID=cds-ADB04078.1;Parent=gene-MAR_ORF306;Dbxref=NCBI_GP:ADB04078.1;Name=ADB04078.1;Note=similar to pfam04441;gbkey=CDS;locus_tag=MAR_ORF306;product=early transcription factor large subunit;protein_id=ADB04078.1
+GU071086.1	Genbank	gene	252025	252693	.	+	.	ID=gene-MAR_ORF307;Name=MAR_ORF307;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF307
+GU071086.1	Genbank	CDS	252025	252693	.	+	0	ID=cds-ADB04079.1;Parent=gene-MAR_ORF307;Dbxref=NCBI_GP:ADB04079.1;Name=ADB04079.1;gbkey=CDS;locus_tag=MAR_ORF307;product=hypothetical protein;protein_id=ADB04079.1
+GU071086.1	Genbank	gene	252710	253234	.	-	.	ID=gene-MAR_ORF308;Name=MAR_ORF308;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF308
+GU071086.1	Genbank	CDS	252710	253234	.	-	0	ID=cds-ADB04080.1;Parent=gene-MAR_ORF308;Dbxref=NCBI_GP:ADB04080.1;Name=ADB04080.1;gbkey=CDS;locus_tag=MAR_ORF308;product=hypothetical protein;protein_id=ADB04080.1
+GU071086.1	Genbank	gene	253397	253615	.	-	.	ID=gene-MAR_ORF309;Name=MAR_ORF309;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF309
+GU071086.1	Genbank	CDS	253397	253615	.	-	0	ID=cds-ADB04081.1;Parent=gene-MAR_ORF309;Dbxref=NCBI_GP:ADB04081.1;Name=ADB04081.1;gbkey=CDS;locus_tag=MAR_ORF309;product=hypothetical protein;protein_id=ADB04081.1
+GU071086.1	Genbank	gene	253656	254054	.	+	.	ID=gene-MAR_ORF310;Name=MAR_ORF310;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF310
+GU071086.1	Genbank	CDS	253656	254054	.	+	0	ID=cds-ADB04082.1;Parent=gene-MAR_ORF310;Dbxref=NCBI_GP:ADB04082.1;Name=ADB04082.1;Note=Erv1/Alr family protein%3B similar to poxvirus E10 protein;gbkey=CDS;locus_tag=MAR_ORF310;product=disulfide oxidoreductase;protein_id=ADB04082.1
+GU071086.1	Genbank	gene	254122	254553	.	+	.	ID=gene-MAR_ORF311;Name=MAR_ORF311;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF311
+GU071086.1	Genbank	CDS	254122	254553	.	+	0	ID=cds-ADB04083.1;Parent=gene-MAR_ORF311;Dbxref=NCBI_GP:ADB04083.1;Name=ADB04083.1;gbkey=CDS;locus_tag=MAR_ORF311;product=hypothetical protein;protein_id=ADB04083.1
+GU071086.1	Genbank	gene	254749	256131	.	+	.	ID=gene-MAR_ORF312;Name=MAR_ORF312;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF312
+GU071086.1	Genbank	CDS	254749	256131	.	+	0	ID=cds-ADB04084.1;Parent=gene-MAR_ORF312;Dbxref=NCBI_GP:ADB04084.1;Name=ADB04084.1;gbkey=CDS;locus_tag=MAR_ORF312;product=hypothetical protein;protein_id=ADB04084.1
+GU071086.1	Genbank	gene	256189	256749	.	+	.	ID=gene-MAR_ORF313;Name=MAR_ORF313;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF313
+GU071086.1	Genbank	CDS	256189	256749	.	+	0	ID=cds-ADB04085.1;Parent=gene-MAR_ORF313;Dbxref=NCBI_GP:ADB04085.1;Name=ADB04085.1;gbkey=CDS;locus_tag=MAR_ORF313;product=thioredoxin;protein_id=ADB04085.1
+GU071086.1	Genbank	gene	256722	259181	.	+	.	ID=gene-MAR_ORF314;Name=MAR_ORF314;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF314
+GU071086.1	Genbank	CDS	256722	259181	.	+	0	ID=cds-ADB04086.1;Parent=gene-MAR_ORF314;Dbxref=NCBI_GP:ADB04086.1;Name=ADB04086.1;Note=possibly not of viral origin;gbkey=CDS;locus_tag=MAR_ORF314;product=3-domain mRNA capping enzyme;protein_id=ADB04086.1
+GU071086.1	Genbank	gene	259493	260503	.	+	.	ID=gene-MAR_ORF315;Name=MAR_ORF315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF315
+GU071086.1	Genbank	CDS	259493	260503	.	+	0	ID=cds-ADB04087.1;Parent=gene-MAR_ORF315;Dbxref=NCBI_GP:ADB04087.1;Name=ADB04087.1;Note=active nuclease of the calcineurin family;gbkey=CDS;locus_tag=MAR_ORF315;product=DNA repair exonuclease SbcCD D subunit;protein_id=ADB04087.1
+GU071086.1	Genbank	gene	260575	262650	.	+	.	ID=gene-MAR_ORF316;Name=MAR_ORF316;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF316
+GU071086.1	Genbank	CDS	260575	262650	.	+	0	ID=cds-ADB04088.1;Parent=gene-MAR_ORF316;Dbxref=NCBI_GP:ADB04088.1;Name=ADB04088.1;gbkey=CDS;locus_tag=MAR_ORF316;product=ankyrin repeat-containing protein;protein_id=ADB04088.1
+GU071086.1	Genbank	gene	262921	263145	.	+	.	ID=gene-MAR_ORF317;Name=MAR_ORF317;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF317
+GU071086.1	Genbank	gene	263142	263780	.	+	.	ID=gene-MAR_ORF318;Name=MAR_ORF318;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF318
+GU071086.1	Genbank	gene	263848	265320	.	+	.	ID=gene-MAR_ORF319;Name=MAR_ORF319;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF319
+GU071086.1	Genbank	CDS	263848	265320	.	+	0	ID=cds-ADB04089.1;Parent=gene-MAR_ORF319;Dbxref=NCBI_GP:ADB04089.1;Name=ADB04089.1;gbkey=CDS;locus_tag=MAR_ORF319;product=XRN1 5'-3' exonuclease;protein_id=ADB04089.1
+GU071086.1	Genbank	gene	265321	265485	.	+	.	ID=gene-MAR_ORF320;Name=MAR_ORF320;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF320
+GU071086.1	Genbank	CDS	265321	265485	.	+	0	ID=cds-ADB04090.1;Parent=gene-MAR_ORF320;Dbxref=NCBI_GP:ADB04090.1;Name=ADB04090.1;gbkey=CDS;locus_tag=MAR_ORF320;product=hypothetical protein;protein_id=ADB04090.1
+GU071086.1	Genbank	gene	265715	266926	.	+	.	ID=gene-MAR_ORF321;Name=MAR_ORF321;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF321
+GU071086.1	Genbank	CDS	265715	266926	.	+	0	ID=cds-ADB04091.1;Parent=gene-MAR_ORF321;Dbxref=NCBI_GP:ADB04091.1;Name=ADB04091.1;gbkey=CDS;locus_tag=MAR_ORF321;product=zinc finger protein;protein_id=ADB04091.1
+GU071086.1	Genbank	gene	266962	267333	.	+	.	ID=gene-MAR_ORF322;Name=MAR_ORF322;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF322
+GU071086.1	Genbank	CDS	266962	267333	.	+	0	ID=cds-ADB04092.1;Parent=gene-MAR_ORF322;Dbxref=NCBI_GP:ADB04092.1;Name=ADB04092.1;gbkey=CDS;locus_tag=MAR_ORF322;product=zinc finger protein;protein_id=ADB04092.1
+GU071086.1	Genbank	gene	267323	267613	.	+	.	ID=gene-MAR_ORF323;Name=MAR_ORF323;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF323
+GU071086.1	Genbank	CDS	267323	267613	.	+	0	ID=cds-ADB04093.1;Parent=gene-MAR_ORF323;Dbxref=NCBI_GP:ADB04093.1;Name=ADB04093.1;Note=similar to nt228699-nt230168%3B result of partial duplication;gbkey=CDS;locus_tag=MAR_ORF323;product=truncated XRN1;protein_id=ADB04093.1
+GU071086.1	Genbank	gene	267794	268990	.	+	.	ID=gene-MAR_ORF324;Name=MAR_ORF324;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF324
+GU071086.1	Genbank	gene	269028	269795	.	+	.	ID=gene-MAR_ORF325;Name=MAR_ORF325;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF325
+GU071086.1	Genbank	CDS	269028	269795	.	+	0	ID=cds-ADB04094.1;Parent=gene-MAR_ORF325;Dbxref=NCBI_GP:ADB04094.1;Name=ADB04094.1;gbkey=CDS;locus_tag=MAR_ORF325;product=hypothetical protein;protein_id=ADB04094.1
+GU071086.1	Genbank	gene	269936	270571	.	+	.	ID=gene-MAR_ORF326;Name=MAR_ORF326;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF326
+GU071086.1	Genbank	CDS	269936	270571	.	+	0	ID=cds-ADB04095.1;Parent=gene-MAR_ORF326;Dbxref=NCBI_GP:ADB04095.1;Name=ADB04095.1;gbkey=CDS;locus_tag=MAR_ORF326;product=P-loop ATPase/GTPase;protein_id=ADB04095.1
+GU071086.1	Genbank	gene	270601	271887	.	-	.	ID=gene-MAR_ORF327;Name=MAR_ORF327;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF327
+GU071086.1	Genbank	CDS	270601	271887	.	-	0	ID=cds-ADB04096.1;Parent=gene-MAR_ORF327;Dbxref=NCBI_GP:ADB04096.1;Name=ADB04096.1;Note=contains multiple N-terminal zinc-ribbon domains;gbkey=CDS;locus_tag=MAR_ORF327;product=restriction endonuclease;protein_id=ADB04096.1
+GU071086.1	Genbank	gene	271955	272830	.	-	.	ID=gene-MAR_ORF328;Name=MAR_ORF328;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF328
+GU071086.1	Genbank	CDS	271955	272830	.	-	0	ID=cds-ADB04097.1;Parent=gene-MAR_ORF328;Dbxref=NCBI_GP:ADB04097.1;Name=ADB04097.1;gbkey=CDS;locus_tag=MAR_ORF328;product=glycosyltransferase;protein_id=ADB04097.1
+GU071086.1	Genbank	gene	272893	276246	.	-	.	ID=gene-MAR_ORF329;Name=MAR_ORF329;Note=lacks valid start codon%3B DNA polymerase elongation subunit;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF329
+GU071086.1	Genbank	gene	276324	277757	.	+	.	ID=gene-MAR_ORF330;Name=MAR_ORF330;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF330
+GU071086.1	Genbank	CDS	276324	277757	.	+	0	ID=cds-ADB04098.1;Parent=gene-MAR_ORF330;Dbxref=NCBI_GP:ADB04098.1;Name=ADB04098.1;gbkey=CDS;locus_tag=MAR_ORF330;product=ankyrin repeat-containing protein;protein_id=ADB04098.1
+GU071086.1	Genbank	gene	277918	278409	.	-	.	ID=gene-MAR_ORF331;Name=MAR_ORF331;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF331
+GU071086.1	Genbank	CDS	277918	278409	.	-	0	ID=cds-ADB04099.1;Parent=gene-MAR_ORF331;Dbxref=NCBI_GP:ADB04099.1;Name=ADB04099.1;gbkey=CDS;locus_tag=MAR_ORF331;product=ankyrin repeat-containing protein;protein_id=ADB04099.1
+GU071086.1	Genbank	gene	278419	279030	.	+	.	ID=gene-MAR_ORF332;Name=MAR_ORF332;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF332
+GU071086.1	Genbank	CDS	278419	279030	.	+	0	ID=cds-ADB04100.1;Parent=gene-MAR_ORF332;Dbxref=NCBI_GP:ADB04100.1;Name=ADB04100.1;gbkey=CDS;locus_tag=MAR_ORF332;product=thioredoxin;protein_id=ADB04100.1
+GU071086.1	Genbank	gene	279018	279446	.	+	.	ID=gene-MAR_ORF333;Name=MAR_ORF333;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF333
+GU071086.1	Genbank	CDS	279018	279446	.	+	0	ID=cds-ADB04101.1;Parent=gene-MAR_ORF333;Dbxref=NCBI_GP:ADB04101.1;Name=ADB04101.1;gbkey=CDS;locus_tag=MAR_ORF333;product=hypothetical protein;protein_id=ADB04101.1
+GU071086.1	Genbank	gene	279473	279925	.	+	.	ID=gene-MAR_ORF334;Name=MAR_ORF334;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF334
+GU071086.1	Genbank	CDS	279473	279925	.	+	0	ID=cds-ADB04102.1;Parent=gene-MAR_ORF334;Dbxref=NCBI_GP:ADB04102.1;Name=ADB04102.1;gbkey=CDS;locus_tag=MAR_ORF334;product=inactivated thioredoxin/glutaredoxin;protein_id=ADB04102.1
+GU071086.1	Genbank	gene	279987	280367	.	+	.	ID=gene-MAR_ORF335;Name=MAR_ORF335;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF335
+GU071086.1	Genbank	gene	280360	280707	.	+	.	ID=gene-MAR_ORF336;Name=MAR_ORF336;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF336
+GU071086.1	Genbank	CDS	280360	280707	.	+	0	ID=cds-ADB04103.1;Parent=gene-MAR_ORF336;Dbxref=NCBI_GP:ADB04103.1;Name=ADB04103.1;gbkey=CDS;locus_tag=MAR_ORF336;product=hypothetical protein;protein_id=ADB04103.1
+GU071086.1	Genbank	gene	280722	281120	.	+	.	ID=gene-MAR_ORF337;Name=MAR_ORF337;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF337
+GU071086.1	Genbank	CDS	280722	281120	.	+	0	ID=cds-ADB04104.1;Parent=gene-MAR_ORF337;Dbxref=NCBI_GP:ADB04104.1;Name=ADB04104.1;gbkey=CDS;locus_tag=MAR_ORF337;product=hypothetical protein;protein_id=ADB04104.1
+GU071086.1	Genbank	gene	281137	281733	.	-	.	ID=gene-MAR_ORF338;Name=MAR_ORF338;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF338
+GU071086.1	Genbank	CDS	281137	281733	.	-	0	ID=cds-ADB04105.1;Parent=gene-MAR_ORF338;Dbxref=NCBI_GP:ADB04105.1;Name=ADB04105.1;Note=similar to Mimiviridae membrane protein;gbkey=CDS;locus_tag=MAR_ORF338;product=membrane protein;protein_id=ADB04105.1
+GU071086.1	Genbank	gene	282107	282832	.	-	.	ID=gene-MAR_ORF339;Name=MAR_ORF339;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF339
+GU071086.1	Genbank	CDS	282107	282832	.	-	0	ID=cds-ADB04106.1;Parent=gene-MAR_ORF339;Dbxref=NCBI_GP:ADB04106.1;Name=ADB04106.1;gbkey=CDS;locus_tag=MAR_ORF339;product=hypothetical protein;protein_id=ADB04106.1
+GU071086.1	Genbank	gene	282894	283934	.	-	.	ID=gene-MAR_ORF340;Name=MAR_ORF340;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF340
+GU071086.1	Genbank	CDS	282894	283934	.	-	0	ID=cds-ADB04107.1;Parent=gene-MAR_ORF340;Dbxref=NCBI_GP:ADB04107.1;Name=ADB04107.1;gbkey=CDS;locus_tag=MAR_ORF340;product=transcription factor A2-like protein;protein_id=ADB04107.1
+GU071086.1	Genbank	gene	284151	284393	.	-	.	ID=gene-MAR_ORF341;Name=MAR_ORF341;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF341
+GU071086.1	Genbank	CDS	284151	284393	.	-	0	ID=cds-ADB04108.1;Parent=gene-MAR_ORF341;Dbxref=NCBI_GP:ADB04108.1;Name=ADB04108.1;gbkey=CDS;locus_tag=MAR_ORF341;product=hypothetical protein;protein_id=ADB04108.1
+GU071086.1	Genbank	gene	284716	286149	.	+	.	ID=gene-MAR_ORF342;Name=MAR_ORF342;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF342
+GU071086.1	Genbank	CDS	284716	286149	.	+	0	ID=cds-ADB04109.1;Parent=gene-MAR_ORF342;Dbxref=NCBI_GP:ADB04109.1;Name=ADB04109.1;Note=similar to poxvirus D13 protein;gbkey=CDS;locus_tag=MAR_ORF342;product=major capsid protein;protein_id=ADB04109.1
+GU071086.1	Genbank	gene	286239	286820	.	-	.	ID=gene-MAR_ORF343;Name=MAR_ORF343;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF343
+GU071086.1	Genbank	CDS	286239	286820	.	-	0	ID=cds-ADB04110.1;Parent=gene-MAR_ORF343;Dbxref=NCBI_GP:ADB04110.1;Name=ADB04110.1;gbkey=CDS;locus_tag=MAR_ORF343;product=hypothetical protein;protein_id=ADB04110.1
+GU071086.1	Genbank	gene	286945	288483	.	-	.	ID=gene-MAR_ORF344;Name=MAR_ORF344;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF344
+GU071086.1	Genbank	CDS	286945	288483	.	-	0	ID=cds-ADB04111.1;Parent=gene-MAR_ORF344;Dbxref=NCBI_GP:ADB04111.1;Name=ADB04111.1;Note=putative restriction-fold endonuclease;gbkey=CDS;locus_tag=MAR_ORF344;product=zinc-ribbon-containing protein;protein_id=ADB04111.1
+GU071086.1	Genbank	gene	288554	288838	.	-	.	ID=gene-MAR_ORF345;Name=MAR_ORF345;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF345
+GU071086.1	Genbank	CDS	288554	288838	.	-	0	ID=cds-ADB04112.1;Parent=gene-MAR_ORF345;Dbxref=NCBI_GP:ADB04112.1;Name=ADB04112.1;gbkey=CDS;locus_tag=MAR_ORF345;product=hypothetical protein;protein_id=ADB04112.1
+GU071086.1	Genbank	gene	289068	289479	.	+	.	ID=gene-MAR_ORF346;Name=MAR_ORF346;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF346
+GU071086.1	Genbank	CDS	289068	289478	.	+	0	ID=cds-ADB04113.1;Parent=gene-MAR_ORF346;Dbxref=NCBI_GP:ADB04113.1;Name=ADB04113.1;gbkey=CDS;locus_tag=MAR_ORF346;product=hypothetical protein;protein_id=ADB04113.1
+GU071086.1	Genbank	gene	289535	290185	.	-	.	ID=gene-MAR_ORF347;Name=MAR_ORF347;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF347
+GU071086.1	Genbank	CDS	289535	290185	.	-	0	ID=cds-ADB04114.1;Parent=gene-MAR_ORF347;Dbxref=NCBI_GP:ADB04114.1;Name=ADB04114.1;gbkey=CDS;locus_tag=MAR_ORF347;product=zinc-ribbon-containing protein;protein_id=ADB04114.1
+GU071086.1	Genbank	gene	290160	290579	.	-	.	ID=gene-MAR_ORF348;Name=MAR_ORF348;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF348
+GU071086.1	Genbank	CDS	290160	290579	.	-	0	ID=cds-ADB04115.1;Parent=gene-MAR_ORF348;Dbxref=NCBI_GP:ADB04115.1;Name=ADB04115.1;gbkey=CDS;locus_tag=MAR_ORF348;product=hypothetical protein;protein_id=ADB04115.1
+GU071086.1	Genbank	gene	290635	291939	.	-	.	ID=gene-MAR_ORF349;Name=MAR_ORF349;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF349
+GU071086.1	Genbank	CDS	290635	291939	.	-	0	ID=cds-ADB04116.1;Parent=gene-MAR_ORF349;Dbxref=NCBI_GP:ADB04116.1;Name=ADB04116.1;Note=contains multiple N-terminal zinc-ribbon domains;gbkey=CDS;locus_tag=MAR_ORF349;product=restriction endonuclease;protein_id=ADB04116.1
+GU071086.1	Genbank	gene	292341	292898	.	-	.	ID=gene-MAR_ORF350;Name=MAR_ORF350;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF350
+GU071086.1	Genbank	gene	293174	293722	.	-	.	ID=gene-MAR_ORF351;Name=MAR_ORF351;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF351
+GU071086.1	Genbank	CDS	293174	293722	.	-	0	ID=cds-ADB04117.1;Parent=gene-MAR_ORF351;Dbxref=NCBI_GP:ADB04117.1;Name=ADB04117.1;gbkey=CDS;locus_tag=MAR_ORF351;product=hypothetical protein;protein_id=ADB04117.1
+GU071086.1	Genbank	gene	293721	294317	.	+	.	ID=gene-MAR_ORF352;Name=MAR_ORF352;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF352
+GU071086.1	Genbank	CDS	293721	294317	.	+	0	ID=cds-ADB04118.1;Parent=gene-MAR_ORF352;Dbxref=NCBI_GP:ADB04118.1;Name=ADB04118.1;gbkey=CDS;locus_tag=MAR_ORF352;product=divergent serine/threonine protein kinase;protein_id=ADB04118.1
+GU071086.1	Genbank	gene	294382	294969	.	+	.	ID=gene-MAR_ORF353;Name=MAR_ORF353;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF353
+GU071086.1	Genbank	CDS	294382	294969	.	+	0	ID=cds-ADB04119.1;Parent=gene-MAR_ORF353;Dbxref=NCBI_GP:ADB04119.1;Name=ADB04119.1;gbkey=CDS;locus_tag=MAR_ORF353;product=divergent serine/threonine protein kinase;protein_id=ADB04119.1
+GU071086.1	Genbank	gene	295453	295893	.	+	.	ID=gene-MAR_ORF354;Name=MAR_ORF354;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF354
+GU071086.1	Genbank	CDS	295453	295893	.	+	0	ID=cds-ADB04120.1;Parent=gene-MAR_ORF354;Dbxref=NCBI_GP:ADB04120.1;Name=ADB04120.1;gbkey=CDS;locus_tag=MAR_ORF354;product=hypothetical protein;protein_id=ADB04120.1
+GU071086.1	Genbank	gene	295924	296439	.	+	.	ID=gene-MAR_ORF355;Name=MAR_ORF355;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF355
+GU071086.1	Genbank	CDS	295924	296439	.	+	0	ID=cds-ADB04121.1;Parent=gene-MAR_ORF355;Dbxref=NCBI_GP:ADB04121.1;Name=ADB04121.1;gbkey=CDS;locus_tag=MAR_ORF355;product=MORN repeat-containing protein;protein_id=ADB04121.1
+GU071086.1	Genbank	gene	296465	297097	.	-	.	ID=gene-MAR_ORF356;Name=MAR_ORF356;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF356
+GU071086.1	Genbank	CDS	296465	297097	.	-	0	ID=cds-ADB04122.1;Parent=gene-MAR_ORF356;Dbxref=NCBI_GP:ADB04122.1;Name=ADB04122.1;gbkey=CDS;locus_tag=MAR_ORF356;product=hypothetical protein;protein_id=ADB04122.1
+GU071086.1	Genbank	gene	297126	297407	.	-	.	ID=gene-MAR_ORF357;Name=MAR_ORF357;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF357
+GU071086.1	Genbank	CDS	297126	297407	.	-	0	ID=cds-ADB04123.1;Parent=gene-MAR_ORF357;Dbxref=NCBI_GP:ADB04123.1;Name=ADB04123.1;gbkey=CDS;locus_tag=MAR_ORF357;product=hypothetical protein;protein_id=ADB04123.1
+GU071086.1	Genbank	gene	297512	297826	.	+	.	ID=gene-MAR_ORF358;Name=MAR_ORF358;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF358
+GU071086.1	Genbank	CDS	297512	297826	.	+	0	ID=cds-ADB04124.1;Parent=gene-MAR_ORF358;Dbxref=NCBI_GP:ADB04124.1;Name=ADB04124.1;gbkey=CDS;locus_tag=MAR_ORF358;product=hypothetical protein;protein_id=ADB04124.1
+GU071086.1	Genbank	gene	297952	298170	.	+	.	ID=gene-MAR_ORF359;Name=MAR_ORF359;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF359
+GU071086.1	Genbank	CDS	297952	298170	.	+	0	ID=cds-ADB04125.1;Parent=gene-MAR_ORF359;Dbxref=NCBI_GP:ADB04125.1;Name=ADB04125.1;gbkey=CDS;locus_tag=MAR_ORF359;product=hypothetical protein;protein_id=ADB04125.1
+GU071086.1	Genbank	gene	298360	298956	.	+	.	ID=gene-MAR_ORF360;Name=MAR_ORF360;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF360
+GU071086.1	Genbank	CDS	298360	298956	.	+	0	ID=cds-ADB04126.1;Parent=gene-MAR_ORF360;Dbxref=NCBI_GP:ADB04126.1;Name=ADB04126.1;gbkey=CDS;locus_tag=MAR_ORF360;product=divergent serine/threonine protein kinase;protein_id=ADB04126.1
+GU071086.1	Genbank	gene	299008	299427	.	+	.	ID=gene-MAR_ORF361;Name=MAR_ORF361;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF361
+GU071086.1	Genbank	CDS	299008	299427	.	+	0	ID=cds-ADB04127.1;Parent=gene-MAR_ORF361;Dbxref=NCBI_GP:ADB04127.1;Name=ADB04127.1;gbkey=CDS;locus_tag=MAR_ORF361;product=MORN repeat-containing protein;protein_id=ADB04127.1
+GU071086.1	Genbank	gene	299636	299926	.	+	.	ID=gene-MAR_ORF362;Name=MAR_ORF362;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF362
+GU071086.1	Genbank	CDS	299636	299926	.	+	0	ID=cds-ADB04128.1;Parent=gene-MAR_ORF362;Dbxref=NCBI_GP:ADB04128.1;Name=ADB04128.1;gbkey=CDS;locus_tag=MAR_ORF362;product=hypothetical protein;protein_id=ADB04128.1
+GU071086.1	Genbank	gene	299995	300723	.	+	.	ID=gene-MAR_ORF363;Name=MAR_ORF363;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF363
+GU071086.1	Genbank	CDS	299995	300723	.	+	0	ID=cds-ADB04129.1;Parent=gene-MAR_ORF363;Dbxref=NCBI_GP:ADB04129.1;Name=ADB04129.1;gbkey=CDS;locus_tag=MAR_ORF363;product=calcineurin-like phosphoesterase;protein_id=ADB04129.1
+GU071086.1	Genbank	gene	300750	301043	.	-	.	ID=gene-MAR_ORF364;Name=MAR_ORF364;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF364
+GU071086.1	Genbank	CDS	300750	301043	.	-	0	ID=cds-ADB04130.1;Parent=gene-MAR_ORF364;Dbxref=NCBI_GP:ADB04130.1;Name=ADB04130.1;gbkey=CDS;locus_tag=MAR_ORF364;product=hypothetical protein;protein_id=ADB04130.1
+GU071086.1	Genbank	gene	301088	302176	.	+	.	ID=gene-MAR_ORF365;Name=MAR_ORF365;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF365
+GU071086.1	Genbank	CDS	301088	302176	.	+	0	ID=cds-ADB04131.1;Parent=gene-MAR_ORF365;Dbxref=NCBI_GP:ADB04131.1;Name=ADB04131.1;Note=similar to poxvirus G5 protein;gbkey=CDS;locus_tag=MAR_ORF365;product=flap-specific endonuclease;protein_id=ADB04131.1
+GU071086.1	Genbank	gene	302206	302730	.	+	.	ID=gene-MAR_ORF366;Name=MAR_ORF366;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF366
+GU071086.1	Genbank	CDS	302206	302730	.	+	0	ID=cds-ADB04132.1;Parent=gene-MAR_ORF366;Dbxref=NCBI_GP:ADB04132.1;Name=ADB04132.1;gbkey=CDS;locus_tag=MAR_ORF366;product=MORN repeat-containing protein;protein_id=ADB04132.1
+GU071086.1	Genbank	gene	302750	303685	.	-	.	ID=gene-MAR_ORF367;Name=MAR_ORF367;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF367
+GU071086.1	Genbank	CDS	302750	303685	.	-	0	ID=cds-ADB04133.1;Parent=gene-MAR_ORF367;Dbxref=NCBI_GP:ADB04133.1;Name=ADB04133.1;Note=linked to bacterial restriction-modification systems;gbkey=CDS;locus_tag=MAR_ORF367;product=putative nuclease;protein_id=ADB04133.1
+GU071086.1	Genbank	gene	303805	305247	.	+	.	ID=gene-MAR_ORF368;Name=MAR_ORF368;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF368
+GU071086.1	Genbank	CDS	303805	305247	.	+	0	ID=cds-ADB04134.1;Parent=gene-MAR_ORF368;Dbxref=NCBI_GP:ADB04134.1;Name=ADB04134.1;gbkey=CDS;locus_tag=MAR_ORF368;product=hypothetical protein;protein_id=ADB04134.1
+GU071086.1	Genbank	gene	305356	306078	.	+	.	ID=gene-MAR_ORF369;Name=MAR_ORF369;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF369
+GU071086.1	Genbank	CDS	305356	306078	.	+	0	ID=cds-ADB04135.1;Parent=gene-MAR_ORF369;Dbxref=NCBI_GP:ADB04135.1;Name=ADB04135.1;gbkey=CDS;locus_tag=MAR_ORF369;product=hypothetical protein;protein_id=ADB04135.1
+GU071086.1	Genbank	gene	306187	306621	.	+	.	ID=gene-MAR_ORF370;Name=MAR_ORF370;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF370
+GU071086.1	Genbank	gene	306643	307911	.	+	.	ID=gene-MAR_ORF371;Name=MAR_ORF371;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF371
+GU071086.1	Genbank	CDS	306643	307911	.	+	0	ID=cds-ADB04136.1;Parent=gene-MAR_ORF371;Dbxref=NCBI_GP:ADB04136.1;Name=ADB04136.1;gbkey=CDS;locus_tag=MAR_ORF371;product=Csr/MutH/archaeal HJR family nuclease;protein_id=ADB04136.1
+GU071086.1	Genbank	gene	307916	308215	.	+	.	ID=gene-MAR_ORF372;Name=MAR_ORF372;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF372
+GU071086.1	Genbank	CDS	307916	308215	.	+	0	ID=cds-ADB04137.1;Parent=gene-MAR_ORF372;Dbxref=NCBI_GP:ADB04137.1;Name=ADB04137.1;gbkey=CDS;locus_tag=MAR_ORF372;product=hypothetical protein;protein_id=ADB04137.1
+GU071086.1	Genbank	gene	308311	308574	.	-	.	ID=gene-MAR_ORF373;Name=MAR_ORF373;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF373
+GU071086.1	Genbank	CDS	308311	308574	.	-	0	ID=cds-ADB04138.1;Parent=gene-MAR_ORF373;Dbxref=NCBI_GP:ADB04138.1;Name=ADB04138.1;gbkey=CDS;locus_tag=MAR_ORF373;product=hypothetical protein;protein_id=ADB04138.1
+GU071086.1	Genbank	gene	309018	309392	.	+	.	ID=gene-MAR_ORF374;Name=MAR_ORF374;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF374
+GU071086.1	Genbank	gene	309429	309848	.	+	.	ID=gene-MAR_ORF375;Name=MAR_ORF375;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF375
+GU071086.1	Genbank	CDS	309429	309848	.	+	0	ID=cds-ADB04139.1;Parent=gene-MAR_ORF375;Dbxref=NCBI_GP:ADB04139.1;Name=ADB04139.1;gbkey=CDS;locus_tag=MAR_ORF375;product=hypothetical protein;protein_id=ADB04139.1
+GU071086.1	Genbank	gene	309836	310297	.	+	.	ID=gene-MAR_ORF376;Name=MAR_ORF376;Note=lacks valid start codon;gbkey=Gene;gene_biotype=other;locus_tag=MAR_ORF376
+GU071086.1	Genbank	gene	310297	310671	.	+	.	ID=gene-MAR_ORF377;Name=MAR_ORF377;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF377
+GU071086.1	Genbank	CDS	310297	310671	.	+	0	ID=cds-ADB04140.1;Parent=gene-MAR_ORF377;Dbxref=NCBI_GP:ADB04140.1;Name=ADB04140.1;gbkey=CDS;locus_tag=MAR_ORF377;product=hypothetical protein;protein_id=ADB04140.1
+GU071086.1	Genbank	gene	310668	310967	.	-	.	ID=gene-MAR_ORF378;Name=MAR_ORF378;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF378
+GU071086.1	Genbank	CDS	310668	310967	.	-	0	ID=cds-ADB04141.1;Parent=gene-MAR_ORF378;Dbxref=NCBI_GP:ADB04141.1;Name=ADB04141.1;gbkey=CDS;locus_tag=MAR_ORF378;product=hypothetical protein;protein_id=ADB04141.1
+GU071086.1	Genbank	gene	310936	311268	.	-	.	ID=gene-MAR_ORF379;Name=MAR_ORF379;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF379
+GU071086.1	Genbank	CDS	310936	311268	.	-	0	ID=cds-ADB04142.1;Parent=gene-MAR_ORF379;Dbxref=NCBI_GP:ADB04142.1;Name=ADB04142.1;gbkey=CDS;locus_tag=MAR_ORF379;product=hypothetical protein;protein_id=ADB04142.1
+GU071086.1	Genbank	gene	311270	312004	.	-	.	ID=gene-MAR_ORF380;Name=MAR_ORF380;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF380
+GU071086.1	Genbank	CDS	311270	312004	.	-	0	ID=cds-ADB04143.1;Parent=gene-MAR_ORF380;Dbxref=NCBI_GP:ADB04143.1;Name=ADB04143.1;gbkey=CDS;locus_tag=MAR_ORF380;product=hypothetical protein;protein_id=ADB04143.1
+GU071086.1	Genbank	gene	312001	312429	.	-	.	ID=gene-MAR_ORF381;Name=MAR_ORF381;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF381
+GU071086.1	Genbank	CDS	312001	312429	.	-	0	ID=cds-ADB04144.1;Parent=gene-MAR_ORF381;Dbxref=NCBI_GP:ADB04144.1;Name=ADB04144.1;gbkey=CDS;locus_tag=MAR_ORF381;product=hypothetical protein;protein_id=ADB04144.1
+GU071086.1	Genbank	gene	312492	313304	.	-	.	ID=gene-MAR_ORF382;Name=MAR_ORF382;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF382
+GU071086.1	Genbank	CDS	312492	313304	.	-	0	ID=cds-ADB04145.1;Parent=gene-MAR_ORF382;Dbxref=NCBI_GP:ADB04145.1;Name=ADB04145.1;gbkey=CDS;locus_tag=MAR_ORF382;product=hypothetical protein;protein_id=ADB04145.1
+GU071086.1	Genbank	gene	313359	313940	.	+	.	ID=gene-MAR_ORF383;Name=MAR_ORF383;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF383
+GU071086.1	Genbank	CDS	313359	313940	.	+	0	ID=cds-ADB04146.1;Parent=gene-MAR_ORF383;Dbxref=NCBI_GP:ADB04146.1;Name=ADB04146.1;gbkey=CDS;locus_tag=MAR_ORF383;product=RNAP subunit Rpb5;protein_id=ADB04146.1
+GU071086.1	Genbank	gene	313969	314226	.	+	.	ID=gene-MAR_ORF384;Name=MAR_ORF384;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF384
+GU071086.1	Genbank	CDS	313969	314226	.	+	0	ID=cds-ADB04147.1;Parent=gene-MAR_ORF384;Dbxref=NCBI_GP:ADB04147.1;Name=ADB04147.1;gbkey=CDS;locus_tag=MAR_ORF384;product=hypothetical protein;protein_id=ADB04147.1
+GU071086.1	Genbank	gene	314453	315085	.	+	.	ID=gene-MAR_ORF385;Name=MAR_ORF385;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF385
+GU071086.1	Genbank	CDS	314453	315085	.	+	0	ID=cds-ADB04148.1;Parent=gene-MAR_ORF385;Dbxref=NCBI_GP:ADB04148.1;Name=ADB04148.1;gbkey=CDS;locus_tag=MAR_ORF385;product=F-box containing protein;protein_id=ADB04148.1
+GU071086.1	Genbank	gene	315108	315590	.	+	.	ID=gene-MAR_ORF386;Name=MAR_ORF386;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF386
+GU071086.1	Genbank	CDS	315108	315590	.	+	0	ID=cds-ADB04149.1;Parent=gene-MAR_ORF386;Dbxref=NCBI_GP:ADB04149.1;Name=ADB04149.1;gbkey=CDS;locus_tag=MAR_ORF386;product=hypothetical protein;protein_id=ADB04149.1
+GU071086.1	Genbank	gene	315815	317707	.	-	.	ID=gene-MAR_ORF387;Name=MAR_ORF387;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF387
+GU071086.1	Genbank	CDS	315815	317707	.	-	0	ID=cds-ADB04150.1;Parent=gene-MAR_ORF387;Dbxref=NCBI_GP:ADB04150.1;Name=ADB04150.1;Note=contains duplication of the catalytic domain%3B lacks zinc-ribbon;gbkey=CDS;locus_tag=MAR_ORF387;product=HNH endonuclease;protein_id=ADB04150.1
+GU071086.1	Genbank	gene	317713	318048	.	-	.	ID=gene-MAR_ORF388;Name=MAR_ORF388;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF388
+GU071086.1	Genbank	CDS	317713	318048	.	-	0	ID=cds-ADB04151.1;Parent=gene-MAR_ORF388;Dbxref=NCBI_GP:ADB04151.1;Name=ADB04151.1;gbkey=CDS;locus_tag=MAR_ORF388;product=hypothetical protein;protein_id=ADB04151.1
+GU071086.1	Genbank	gene	318329	318529	.	+	.	ID=gene-MAR_ORF389;Name=MAR_ORF389;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF389
+GU071086.1	Genbank	CDS	318329	318529	.	+	0	ID=cds-ADB04152.1;Parent=gene-MAR_ORF389;Dbxref=NCBI_GP:ADB04152.1;Name=ADB04152.1;gbkey=CDS;locus_tag=MAR_ORF389;product=hypothetical protein;protein_id=ADB04152.1
+GU071086.1	Genbank	gene	318554	318745	.	-	.	ID=gene-MAR_ORF390;Name=MAR_ORF390;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF390
+GU071086.1	Genbank	CDS	318554	318745	.	-	0	ID=cds-ADB04153.1;Parent=gene-MAR_ORF390;Dbxref=NCBI_GP:ADB04153.1;Name=ADB04153.1;gbkey=CDS;locus_tag=MAR_ORF390;product=hypothetical protein;protein_id=ADB04153.1
+GU071086.1	Genbank	gene	318782	319498	.	+	.	ID=gene-MAR_ORF391;Name=MAR_ORF391;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF391
+GU071086.1	Genbank	CDS	318782	319498	.	+	0	ID=cds-ADB04154.1;Parent=gene-MAR_ORF391;Dbxref=NCBI_GP:ADB04154.1;Name=ADB04154.1;gbkey=CDS;locus_tag=MAR_ORF391;product=multiple zinc ribbon protein;protein_id=ADB04154.1
+GU071086.1	Genbank	gene	319532	319972	.	+	.	ID=gene-MAR_ORF392;Name=MAR_ORF392;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF392
+GU071086.1	Genbank	CDS	319532	319972	.	+	0	ID=cds-ADB04155.1;Parent=gene-MAR_ORF392;Dbxref=NCBI_GP:ADB04155.1;Name=ADB04155.1;gbkey=CDS;locus_tag=MAR_ORF392;product=hypothetical protein;protein_id=ADB04155.1
+GU071086.1	Genbank	gene	320181	320732	.	+	.	ID=gene-MAR_ORF393;Name=MAR_ORF393;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF393
+GU071086.1	Genbank	CDS	320181	320732	.	+	0	ID=cds-ADB04156.1;Parent=gene-MAR_ORF393;Dbxref=NCBI_GP:ADB04156.1;Name=ADB04156.1;gbkey=CDS;locus_tag=MAR_ORF393;product=hypothetical protein;protein_id=ADB04156.1
+GU071086.1	Genbank	gene	320802	321143	.	+	.	ID=gene-MAR_ORF394;Name=MAR_ORF394;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF394
+GU071086.1	Genbank	CDS	320802	321143	.	+	0	ID=cds-ADB04157.1;Parent=gene-MAR_ORF394;Dbxref=NCBI_GP:ADB04157.1;Name=ADB04157.1;gbkey=CDS;locus_tag=MAR_ORF394;product=hypothetical protein;protein_id=ADB04157.1
+GU071086.1	Genbank	gene	321162	321767	.	-	.	ID=gene-MAR_ORF395;Name=MAR_ORF395;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF395
+GU071086.1	Genbank	CDS	321162	321767	.	-	0	ID=cds-ADB04158.1;Parent=gene-MAR_ORF395;Dbxref=NCBI_GP:ADB04158.1;Name=ADB04158.1;gbkey=CDS;locus_tag=MAR_ORF395;product=galactose binding lectin domain-containing protein;protein_id=ADB04158.1
+GU071086.1	Genbank	gene	321762	322460	.	+	.	ID=gene-MAR_ORF396;Name=MAR_ORF396;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF396
+GU071086.1	Genbank	CDS	321762	322460	.	+	0	ID=cds-ADB04159.1;Parent=gene-MAR_ORF396;Dbxref=NCBI_GP:ADB04159.1;Name=ADB04159.1;gbkey=CDS;locus_tag=MAR_ORF396;product=hypothetical protein;protein_id=ADB04159.1
+GU071086.1	Genbank	gene	322490	322903	.	+	.	ID=gene-MAR_ORF397;Name=MAR_ORF397;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF397
+GU071086.1	Genbank	CDS	322490	322903	.	+	0	ID=cds-ADB04160.1;Parent=gene-MAR_ORF397;Dbxref=NCBI_GP:ADB04160.1;Name=ADB04160.1;gbkey=CDS;locus_tag=MAR_ORF397;product=hypothetical protein;protein_id=ADB04160.1
+GU071086.1	Genbank	gene	322927	324141	.	+	.	ID=gene-MAR_ORF398;Name=MAR_ORF398;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF398
+GU071086.1	Genbank	CDS	322927	324141	.	+	0	ID=cds-ADB04161.1;Parent=gene-MAR_ORF398;Dbxref=NCBI_GP:ADB04161.1;Name=ADB04161.1;gbkey=CDS;locus_tag=MAR_ORF398;product=uracil-DNA glycosylase D4;protein_id=ADB04161.1
+GU071086.1	Genbank	gene	324156	325232	.	+	.	ID=gene-MAR_ORF399;Name=MAR_ORF399;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF399
+GU071086.1	Genbank	CDS	324156	325232	.	+	0	ID=cds-ADB04162.1;Parent=gene-MAR_ORF399;Dbxref=NCBI_GP:ADB04162.1;Name=ADB04162.1;gbkey=CDS;locus_tag=MAR_ORF399;product=hypothetical protein;protein_id=ADB04162.1
+GU071086.1	Genbank	gene	325255	326064	.	+	.	ID=gene-MAR_ORF400;Name=MAR_ORF400;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF400
+GU071086.1	Genbank	CDS	325255	326064	.	+	0	ID=cds-ADB04163.1;Parent=gene-MAR_ORF400;Dbxref=NCBI_GP:ADB04163.1;Name=ADB04163.1;Note=affects eIF2;gbkey=CDS;locus_tag=MAR_ORF400;product=cell division cycle 123 protein;protein_id=ADB04163.1
+GU071086.1	Genbank	gene	326086	328617	.	-	.	ID=gene-MAR_ORF401;Name=MAR_ORF401;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF401
+GU071086.1	Genbank	CDS	326086	328617	.	-	0	ID=cds-ADB04164.1;Parent=gene-MAR_ORF401;Dbxref=NCBI_GP:ADB04164.1;Name=ADB04164.1;gbkey=CDS;locus_tag=MAR_ORF401;product=hypothetical protein;protein_id=ADB04164.1
+GU071086.1	Genbank	gene	328702	330465	.	+	.	ID=gene-MAR_ORF403;Name=MAR_ORF403;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF403
+GU071086.1	Genbank	CDS	328702	330465	.	+	0	ID=cds-ADB04165.1;Parent=gene-MAR_ORF403;Dbxref=NCBI_GP:ADB04165.1;Name=ADB04165.1;gbkey=CDS;locus_tag=MAR_ORF403;product=zinc finger protein;protein_id=ADB04165.1
+GU071086.1	Genbank	gene	330474	333101	.	+	.	ID=gene-MAR_ORF404;Name=MAR_ORF404;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF404
+GU071086.1	Genbank	CDS	330474	333101	.	+	0	ID=cds-ADB04166.1;Parent=gene-MAR_ORF404;Dbxref=NCBI_GP:ADB04166.1;Name=ADB04166.1;gbkey=CDS;locus_tag=MAR_ORF404;product=AAA family ATPase;protein_id=ADB04166.1
+GU071086.1	Genbank	gene	333176	333544	.	+	.	ID=gene-MAR_ORF405;Name=MAR_ORF405;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF405
+GU071086.1	Genbank	CDS	333176	333544	.	+	0	ID=cds-ADB04167.1;Parent=gene-MAR_ORF405;Dbxref=NCBI_GP:ADB04167.1;Name=ADB04167.1;gbkey=CDS;locus_tag=MAR_ORF405;product=hypothetical protein;protein_id=ADB04167.1
+GU071086.1	Genbank	gene	333594	333872	.	+	.	ID=gene-MAR_ORF406;Name=MAR_ORF406;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF406
+GU071086.1	Genbank	CDS	333594	333872	.	+	0	ID=cds-ADB04168.1;Parent=gene-MAR_ORF406;Dbxref=NCBI_GP:ADB04168.1;Name=ADB04168.1;gbkey=CDS;locus_tag=MAR_ORF406;product=hypothetical protein;protein_id=ADB04168.1
+GU071086.1	Genbank	gene	333887	334210	.	+	.	ID=gene-MAR_ORF407;Name=MAR_ORF407;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF407
+GU071086.1	Genbank	CDS	333887	334210	.	+	0	ID=cds-ADB04169.1;Parent=gene-MAR_ORF407;Dbxref=NCBI_GP:ADB04169.1;Name=ADB04169.1;gbkey=CDS;locus_tag=MAR_ORF407;product=ubiquitin-like protein;protein_id=ADB04169.1
+GU071086.1	Genbank	gene	334444	335853	.	+	.	ID=gene-MAR_ORF408;Name=MAR_ORF408;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF408
+GU071086.1	Genbank	CDS	334444	335853	.	+	0	ID=cds-ADB04170.1;Parent=gene-MAR_ORF408;Dbxref=NCBI_GP:ADB04170.1;Name=ADB04170.1;Note=RecD%3B exonuclease V;gbkey=CDS;locus_tag=MAR_ORF408;product=ATP-dependent exoDNAse alpha subunit;protein_id=ADB04170.1
+GU071086.1	Genbank	gene	335932	337440	.	+	.	ID=gene-MAR_ORF409;Name=MAR_ORF409;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF409
+GU071086.1	Genbank	CDS	335932	337440	.	+	0	ID=cds-ADB04171.1;Parent=gene-MAR_ORF409;Dbxref=NCBI_GP:ADB04171.1;Name=ADB04171.1;Note=contains multiple N-terminal zinc-ribbon domains;gbkey=CDS;locus_tag=MAR_ORF409;product=restriction endonuclease;protein_id=ADB04171.1
+GU071086.1	Genbank	gene	337517	337843	.	-	.	ID=gene-MAR_ORF410;Name=MAR_ORF410;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF410
+GU071086.1	Genbank	CDS	337517	337843	.	-	0	ID=cds-ADB04172.1;Parent=gene-MAR_ORF410;Dbxref=NCBI_GP:ADB04172.1;Name=ADB04172.1;gbkey=CDS;locus_tag=MAR_ORF410;product=hypothetical protein;protein_id=ADB04172.1
+GU071086.1	Genbank	gene	338032	338805	.	+	.	ID=gene-MAR_ORF411;Name=MAR_ORF411;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF411
+GU071086.1	Genbank	CDS	338032	338805	.	+	0	ID=cds-ADB04173.1;Parent=gene-MAR_ORF411;Dbxref=NCBI_GP:ADB04173.1;Name=ADB04173.1;gbkey=CDS;locus_tag=MAR_ORF411;product=hypothetical protein;protein_id=ADB04173.1
+GU071086.1	Genbank	gene	338913	339284	.	+	.	ID=gene-MAR_ORF412;Name=MAR_ORF412;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF412
+GU071086.1	Genbank	CDS	338913	339284	.	+	0	ID=cds-ADB04174.1;Parent=gene-MAR_ORF412;Dbxref=NCBI_GP:ADB04174.1;Name=ADB04174.1;gbkey=CDS;locus_tag=MAR_ORF412;product=hypothetical protein;protein_id=ADB04174.1
+GU071086.1	Genbank	gene	339483	340181	.	-	.	ID=gene-MAR_ORF413;Name=MAR_ORF413;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF413
+GU071086.1	Genbank	CDS	339483	340181	.	-	0	ID=cds-ADB04175.1;Parent=gene-MAR_ORF413;Dbxref=NCBI_GP:ADB04175.1;Name=ADB04175.1;gbkey=CDS;locus_tag=MAR_ORF413;product=histone H3;protein_id=ADB04175.1
+GU071086.1	Genbank	gene	340304	341044	.	+	.	ID=gene-MAR_ORF414;Name=MAR_ORF414;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF414
+GU071086.1	Genbank	CDS	340304	341044	.	+	0	ID=cds-ADB04176.1;Parent=gene-MAR_ORF414;Dbxref=NCBI_GP:ADB04176.1;Name=ADB04176.1;gbkey=CDS;locus_tag=MAR_ORF414;product=histone H2B/H2A fusion protein;protein_id=ADB04176.1
+GU071086.1	Genbank	gene	341445	342050	.	-	.	ID=gene-MAR_ORF415;Name=MAR_ORF415;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF415
+GU071086.1	Genbank	CDS	341445	342050	.	-	0	ID=cds-ADB04177.1;Parent=gene-MAR_ORF415;Dbxref=NCBI_GP:ADB04177.1;Name=ADB04177.1;gbkey=CDS;locus_tag=MAR_ORF415;product=hypothetical protein;protein_id=ADB04177.1
+GU071086.1	Genbank	gene	342050	342667	.	-	.	ID=gene-MAR_ORF416;Name=MAR_ORF416;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF416
+GU071086.1	Genbank	CDS	342050	342667	.	-	0	ID=cds-ADB04178.1;Parent=gene-MAR_ORF416;Dbxref=NCBI_GP:ADB04178.1;Name=ADB04178.1;gbkey=CDS;locus_tag=MAR_ORF416;product=peptidoglycan peptidase;protein_id=ADB04178.1
+GU071086.1	Genbank	gene	342686	343321	.	+	.	ID=gene-MAR_ORF417;Name=MAR_ORF417;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF417
+GU071086.1	Genbank	CDS	342686	343321	.	+	0	ID=cds-ADB04179.1;Parent=gene-MAR_ORF417;Dbxref=NCBI_GP:ADB04179.1;Name=ADB04179.1;gbkey=CDS;locus_tag=MAR_ORF417;product=hypothetical protein;protein_id=ADB04179.1
+GU071086.1	Genbank	gene	343338	343610	.	-	.	ID=gene-MAR_ORF418;Name=MAR_ORF418;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF418
+GU071086.1	Genbank	CDS	343338	343610	.	-	0	ID=cds-ADB04180.1;Parent=gene-MAR_ORF418;Dbxref=NCBI_GP:ADB04180.1;Name=ADB04180.1;gbkey=CDS;locus_tag=MAR_ORF418;product=hypothetical protein;protein_id=ADB04180.1
+GU071086.1	Genbank	gene	343607	344011	.	-	.	ID=gene-MAR_ORF419;Name=MAR_ORF419;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF419
+GU071086.1	Genbank	CDS	343607	344011	.	-	0	ID=cds-ADB04181.1;Parent=gene-MAR_ORF419;Dbxref=NCBI_GP:ADB04181.1;Name=ADB04181.1;gbkey=CDS;locus_tag=MAR_ORF419;product=hypothetical protein;protein_id=ADB04181.1
+GU071086.1	Genbank	gene	344058	344708	.	+	.	ID=gene-MAR_ORF420;Name=MAR_ORF420;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF420
+GU071086.1	Genbank	CDS	344058	344708	.	+	0	ID=cds-ADB04182.1;Parent=gene-MAR_ORF420;Dbxref=NCBI_GP:ADB04182.1;Name=ADB04182.1;gbkey=CDS;locus_tag=MAR_ORF420;product=hypothetical protein;protein_id=ADB04182.1
+GU071086.1	Genbank	gene	344724	345221	.	-	.	ID=gene-MAR_ORF421;Name=MAR_ORF421;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF421
+GU071086.1	Genbank	CDS	344724	345221	.	-	0	ID=cds-ADB04183.1;Parent=gene-MAR_ORF421;Dbxref=NCBI_GP:ADB04183.1;Name=ADB04183.1;gbkey=CDS;locus_tag=MAR_ORF421;product=hypothetical protein;protein_id=ADB04183.1
+GU071086.1	Genbank	gene	345221	345478	.	-	.	ID=gene-MAR_ORF422;Name=MAR_ORF422;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF422
+GU071086.1	Genbank	CDS	345221	345478	.	-	0	ID=cds-ADB04184.1;Parent=gene-MAR_ORF422;Dbxref=NCBI_GP:ADB04184.1;Name=ADB04184.1;gbkey=CDS;locus_tag=MAR_ORF422;product=hypothetical protein;protein_id=ADB04184.1
+GU071086.1	Genbank	gene	345494	345877	.	+	.	ID=gene-MAR_ORF423;Name=MAR_ORF423;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF423
+GU071086.1	Genbank	CDS	345494	345877	.	+	0	ID=cds-ADB04185.1;Parent=gene-MAR_ORF423;Dbxref=NCBI_GP:ADB04185.1;Name=ADB04185.1;gbkey=CDS;locus_tag=MAR_ORF423;product=putative P-loop kinase;protein_id=ADB04185.1
+GU071086.1	Genbank	gene	345883	346521	.	+	.	ID=gene-MAR_ORF424;Name=MAR_ORF424;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF424
+GU071086.1	Genbank	CDS	345883	346521	.	+	0	ID=cds-ADB04186.1;Parent=gene-MAR_ORF424;Dbxref=NCBI_GP:ADB04186.1;Name=ADB04186.1;gbkey=CDS;locus_tag=MAR_ORF424;product=serine/threonine protein kinase;protein_id=ADB04186.1
+GU071086.1	Genbank	gene	346523	346702	.	+	.	ID=gene-MAR_ORF425;Name=MAR_ORF425;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF425
+GU071086.1	Genbank	CDS	346523	346702	.	+	0	ID=cds-ADB04187.1;Parent=gene-MAR_ORF425;Dbxref=NCBI_GP:ADB04187.1;Name=ADB04187.1;gbkey=CDS;locus_tag=MAR_ORF425;product=hypothetical protein;protein_id=ADB04187.1
+GU071086.1	Genbank	gene	346723	347655	.	-	.	ID=gene-MAR_ORF426;Name=MAR_ORF426;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF426
+GU071086.1	Genbank	CDS	346723	347655	.	-	0	ID=cds-ADB04188.1;Parent=gene-MAR_ORF426;Dbxref=NCBI_GP:ADB04188.1;Name=ADB04188.1;gbkey=CDS;locus_tag=MAR_ORF426;product=WD repeat protein;protein_id=ADB04188.1
+GU071086.1	Genbank	gene	347718	348461	.	-	.	ID=gene-MAR_ORF427;Name=MAR_ORF427;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF427
+GU071086.1	Genbank	CDS	347718	348461	.	-	0	ID=cds-ADB04189.1;Parent=gene-MAR_ORF427;Dbxref=NCBI_GP:ADB04189.1;Name=ADB04189.1;gbkey=CDS;locus_tag=MAR_ORF427;product=serine/threonine protein kinase;protein_id=ADB04189.1
+GU071086.1	Genbank	gene	348464	348880	.	-	.	ID=gene-MAR_ORF428;Name=MAR_ORF428;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF428
+GU071086.1	Genbank	CDS	348464	348880	.	-	0	ID=cds-ADB04190.1;Parent=gene-MAR_ORF428;Dbxref=NCBI_GP:ADB04190.1;Name=ADB04190.1;gbkey=CDS;locus_tag=MAR_ORF428;product=Vsr/MutH/archaeal HJR family endonuclease;protein_id=ADB04190.1
+GU071086.1	Genbank	gene	349297	350631	.	-	.	ID=gene-MAR_ORF429;Name=MAR_ORF429;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF429
+GU071086.1	Genbank	CDS	349297	350631	.	-	0	ID=cds-ADB04191.1;Parent=gene-MAR_ORF429;Dbxref=NCBI_GP:ADB04191.1;Name=ADB04191.1;gbkey=CDS;locus_tag=MAR_ORF429;product=bifunctional dihydrofolate reductase-thymidylate synthase;protein_id=ADB04191.1
+GU071086.1	Genbank	gene	350659	351141	.	-	.	ID=gene-MAR_ORF430;Name=MAR_ORF430;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF430
+GU071086.1	Genbank	CDS	350659	351141	.	-	0	ID=cds-ADB04192.1;Parent=gene-MAR_ORF430;Dbxref=NCBI_GP:ADB04192.1;Name=ADB04192.1;gbkey=CDS;locus_tag=MAR_ORF430;product=hypothetical protein;protein_id=ADB04192.1
+GU071086.1	Genbank	gene	351413	351871	.	-	.	ID=gene-MAR_ORF431;Name=MAR_ORF431;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF431
+GU071086.1	Genbank	CDS	351413	351871	.	-	0	ID=cds-ADB04193.1;Parent=gene-MAR_ORF431;Dbxref=NCBI_GP:ADB04193.1;Name=ADB04193.1;gbkey=CDS;locus_tag=MAR_ORF431;product=hypothetical protein;protein_id=ADB04193.1
+GU071086.1	Genbank	gene	351893	352612	.	-	.	ID=gene-MAR_ORF432;Name=MAR_ORF432;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF432
+GU071086.1	Genbank	CDS	351893	352612	.	-	0	ID=cds-ADB04194.1;Parent=gene-MAR_ORF432;Dbxref=NCBI_GP:ADB04194.1;Name=ADB04194.1;gbkey=CDS;locus_tag=MAR_ORF432;product=serine/threonine protein kinase;protein_id=ADB04194.1
+GU071086.1	Genbank	gene	352672	352968	.	-	.	ID=gene-MAR_ORF433;Name=MAR_ORF433;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF433
+GU071086.1	Genbank	CDS	352672	352968	.	-	0	ID=cds-ADB04195.1;Parent=gene-MAR_ORF433;Dbxref=NCBI_GP:ADB04195.1;Name=ADB04195.1;gbkey=CDS;locus_tag=MAR_ORF433;product=hypothetical protein;protein_id=ADB04195.1
+GU071086.1	Genbank	gene	352968	353645	.	-	.	ID=gene-MAR_ORF434;Name=MAR_ORF434;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF434
+GU071086.1	Genbank	CDS	352968	353645	.	-	0	ID=cds-ADB04196.1;Parent=gene-MAR_ORF434;Dbxref=NCBI_GP:ADB04196.1;Name=ADB04196.1;gbkey=CDS;locus_tag=MAR_ORF434;product=MORN repeat-containing protein;protein_id=ADB04196.1
+GU071086.1	Genbank	gene	353656	354165	.	+	.	ID=gene-MAR_ORF435;Name=MAR_ORF435;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF435
+GU071086.1	Genbank	CDS	353656	354165	.	+	0	ID=cds-ADB04197.1;Parent=gene-MAR_ORF435;Dbxref=NCBI_GP:ADB04197.1;Name=ADB04197.1;gbkey=CDS;locus_tag=MAR_ORF435;product=hypothetical protein;protein_id=ADB04197.1
+GU071086.1	Genbank	gene	354165	354434	.	+	.	ID=gene-MAR_ORF436;Name=MAR_ORF436;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF436
+GU071086.1	Genbank	CDS	354165	354434	.	+	0	ID=cds-ADB04198.1;Parent=gene-MAR_ORF436;Dbxref=NCBI_GP:ADB04198.1;Name=ADB04198.1;gbkey=CDS;locus_tag=MAR_ORF436;product=hypothetical protein;protein_id=ADB04198.1
+GU071086.1	Genbank	gene	354492	354905	.	+	.	ID=gene-MAR_ORF437;Name=MAR_ORF437;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF437
+GU071086.1	Genbank	CDS	354492	354905	.	+	0	ID=cds-ADB04199.1;Parent=gene-MAR_ORF437;Dbxref=NCBI_GP:ADB04199.1;Name=ADB04199.1;gbkey=CDS;locus_tag=MAR_ORF437;product=hypothetical protein;protein_id=ADB04199.1
+GU071086.1	Genbank	gene	354886	355410	.	+	.	ID=gene-MAR_ORF438;Name=MAR_ORF438;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF438
+GU071086.1	Genbank	CDS	354886	355410	.	+	0	ID=cds-ADB04200.1;Parent=gene-MAR_ORF438;Dbxref=NCBI_GP:ADB04200.1;Name=ADB04200.1;gbkey=CDS;locus_tag=MAR_ORF438;product=hypothetical protein;protein_id=ADB04200.1
+GU071086.1	Genbank	gene	355416	355670	.	+	.	ID=gene-MAR_ORF439;Name=MAR_ORF439;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF439
+GU071086.1	Genbank	CDS	355416	355670	.	+	0	ID=cds-ADB04201.1;Parent=gene-MAR_ORF439;Dbxref=NCBI_GP:ADB04201.1;Name=ADB04201.1;gbkey=CDS;locus_tag=MAR_ORF439;product=hypothetical protein;protein_id=ADB04201.1
+GU071086.1	Genbank	gene	355869	356735	.	+	.	ID=gene-MAR_ORF440;Name=MAR_ORF440;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF440
+GU071086.1	Genbank	CDS	355869	356735	.	+	0	ID=cds-ADB04202.1;Parent=gene-MAR_ORF440;Dbxref=NCBI_GP:ADB04202.1;Name=ADB04202.1;gbkey=CDS;locus_tag=MAR_ORF440;product=hypothetical protein;protein_id=ADB04202.1
+GU071086.1	Genbank	gene	356762	357184	.	-	.	ID=gene-MAR_ORF441;Name=MAR_ORF441;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF441
+GU071086.1	Genbank	CDS	356762	357184	.	-	0	ID=cds-ADB04203.1;Parent=gene-MAR_ORF441;Dbxref=NCBI_GP:ADB04203.1;Name=ADB04203.1;gbkey=CDS;locus_tag=MAR_ORF441;product=hypothetical protein;protein_id=ADB04203.1
+GU071086.1	Genbank	gene	357183	357458	.	+	.	ID=gene-MAR_ORF442;Name=MAR_ORF442;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF442
+GU071086.1	Genbank	CDS	357183	357458	.	+	0	ID=cds-ADB04204.1;Parent=gene-MAR_ORF442;Dbxref=NCBI_GP:ADB04204.1;Name=ADB04204.1;gbkey=CDS;locus_tag=MAR_ORF442;product=hypothetical protein;protein_id=ADB04204.1
+GU071086.1	Genbank	gene	357478	357837	.	-	.	ID=gene-MAR_ORF443;Name=MAR_ORF443;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF443
+GU071086.1	Genbank	CDS	357478	357837	.	-	0	ID=cds-ADB04205.1;Parent=gene-MAR_ORF443;Dbxref=NCBI_GP:ADB04205.1;Name=ADB04205.1;gbkey=CDS;locus_tag=MAR_ORF443;product=hypothetical protein;protein_id=ADB04205.1
+GU071086.1	Genbank	gene	357883	358176	.	-	.	ID=gene-MAR_ORF444;Name=MAR_ORF444;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF444
+GU071086.1	Genbank	CDS	357883	358176	.	-	0	ID=cds-ADB04206.1;Parent=gene-MAR_ORF444;Dbxref=NCBI_GP:ADB04206.1;Name=ADB04206.1;gbkey=CDS;locus_tag=MAR_ORF444;product=hypothetical protein;protein_id=ADB04206.1
+GU071086.1	Genbank	gene	358232	358810	.	+	.	ID=gene-MAR_ORF445;Name=MAR_ORF445;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF445
+GU071086.1	Genbank	CDS	358232	358810	.	+	0	ID=cds-ADB04207.1;Parent=gene-MAR_ORF445;Dbxref=NCBI_GP:ADB04207.1;Name=ADB04207.1;gbkey=CDS;locus_tag=MAR_ORF445;product=ankyrin repeat-containing protein;protein_id=ADB04207.1
+GU071086.1	Genbank	gene	358820	359578	.	+	.	ID=gene-MAR_ORF446;Name=MAR_ORF446;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF446
+GU071086.1	Genbank	CDS	358820	359578	.	+	0	ID=cds-ADB04208.1;Parent=gene-MAR_ORF446;Dbxref=NCBI_GP:ADB04208.1;Name=ADB04208.1;gbkey=CDS;locus_tag=MAR_ORF446;product=serine/threonine protein kinase;protein_id=ADB04208.1
+GU071086.1	Genbank	gene	359833	359997	.	+	.	ID=gene-MAR_ORF447;Name=MAR_ORF447;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF447
+GU071086.1	Genbank	CDS	359833	359997	.	+	0	ID=cds-ADB04209.1;Parent=gene-MAR_ORF447;Dbxref=NCBI_GP:ADB04209.1;Name=ADB04209.1;gbkey=CDS;locus_tag=MAR_ORF447;product=hypothetical protein;protein_id=ADB04209.1
+GU071086.1	Genbank	gene	360164	360529	.	-	.	ID=gene-MAR_ORF448;Name=MAR_ORF448;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF448
+GU071086.1	Genbank	CDS	360164	360529	.	-	0	ID=cds-ADB04210.1;Parent=gene-MAR_ORF448;Dbxref=NCBI_GP:ADB04210.1;Name=ADB04210.1;gbkey=CDS;locus_tag=MAR_ORF448;product=hypothetical protein;protein_id=ADB04210.1
+GU071086.1	Genbank	gene	360649	360837	.	+	.	ID=gene-MAR_ORF449;Name=MAR_ORF449;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF449
+GU071086.1	Genbank	CDS	360649	360837	.	+	0	ID=cds-ADB04211.1;Parent=gene-MAR_ORF449;Dbxref=NCBI_GP:ADB04211.1;Name=ADB04211.1;gbkey=CDS;locus_tag=MAR_ORF449;product=hypothetical protein;protein_id=ADB04211.1
+GU071086.1	Genbank	gene	360917	361087	.	-	.	ID=gene-MAR_ORF450;Name=MAR_ORF450;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF450
+GU071086.1	Genbank	CDS	360917	361087	.	-	0	ID=cds-ADB04212.1;Parent=gene-MAR_ORF450;Dbxref=NCBI_GP:ADB04212.1;Name=ADB04212.1;gbkey=CDS;locus_tag=MAR_ORF450;product=hypothetical protein;protein_id=ADB04212.1
+GU071086.1	Genbank	gene	361242	362231	.	+	.	ID=gene-MAR_ORF451;Name=MAR_ORF451;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF451
+GU071086.1	Genbank	CDS	361242	362231	.	+	0	ID=cds-ADB04213.1;Parent=gene-MAR_ORF451;Dbxref=NCBI_GP:ADB04213.1;Name=ADB04213.1;gbkey=CDS;locus_tag=MAR_ORF451;product=glycosyltransferase;protein_id=ADB04213.1
+GU071086.1	Genbank	gene	362239	362808	.	-	.	ID=gene-MAR_ORF452;Name=MAR_ORF452;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF452
+GU071086.1	Genbank	CDS	362239	362808	.	-	0	ID=cds-ADB04214.1;Parent=gene-MAR_ORF452;Dbxref=NCBI_GP:ADB04214.1;Name=ADB04214.1;gbkey=CDS;locus_tag=MAR_ORF452;product=hypothetical protein;protein_id=ADB04214.1
+GU071086.1	Genbank	gene	362873	363523	.	-	.	ID=gene-MAR_ORF453;Name=MAR_ORF453;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF453
+GU071086.1	Genbank	CDS	362873	363523	.	-	0	ID=cds-ADB04215.1;Parent=gene-MAR_ORF453;Dbxref=NCBI_GP:ADB04215.1;Name=ADB04215.1;gbkey=CDS;locus_tag=MAR_ORF453;product=hypothetical protein;protein_id=ADB04215.1
+GU071086.1	Genbank	gene	363543	363758	.	-	.	ID=gene-MAR_ORF454;Name=MAR_ORF454;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF454
+GU071086.1	Genbank	CDS	363543	363758	.	-	0	ID=cds-ADB04216.1;Parent=gene-MAR_ORF454;Dbxref=NCBI_GP:ADB04216.1;Name=ADB04216.1;gbkey=CDS;locus_tag=MAR_ORF454;product=hypothetical protein;protein_id=ADB04216.1
+GU071086.1	Genbank	gene	363991	364161	.	-	.	ID=gene-MAR_ORF455;Name=MAR_ORF455;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF455
+GU071086.1	Genbank	CDS	363991	364161	.	-	0	ID=cds-ADB04217.1;Parent=gene-MAR_ORF455;Dbxref=NCBI_GP:ADB04217.1;Name=ADB04217.1;gbkey=CDS;locus_tag=MAR_ORF455;product=hypothetical protein;protein_id=ADB04217.1
+GU071086.1	Genbank	gene	364227	365024	.	+	.	ID=gene-MAR_ORF456;Name=MAR_ORF456;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF456
+GU071086.1	Genbank	CDS	364227	365024	.	+	0	ID=cds-ADB04218.1;Parent=gene-MAR_ORF456;Dbxref=NCBI_GP:ADB04218.1;Name=ADB04218.1;gbkey=CDS;locus_tag=MAR_ORF456;product=hypothetical protein;protein_id=ADB04218.1
+GU071086.1	Genbank	gene	365036	365518	.	-	.	ID=gene-MAR_ORF457;Name=MAR_ORF457;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF457
+GU071086.1	Genbank	CDS	365036	365518	.	-	0	ID=cds-ADB04219.1;Parent=gene-MAR_ORF457;Dbxref=NCBI_GP:ADB04219.1;Name=ADB04219.1;gbkey=CDS;locus_tag=MAR_ORF457;product=hypothetical protein;protein_id=ADB04219.1
+GU071086.1	Genbank	gene	365594	365842	.	-	.	ID=gene-MAR_ORF458;Name=MAR_ORF458;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF458
+GU071086.1	Genbank	CDS	365594	365842	.	-	0	ID=cds-ADB04220.1;Parent=gene-MAR_ORF458;Dbxref=NCBI_GP:ADB04220.1;Name=ADB04220.1;gbkey=CDS;locus_tag=MAR_ORF458;product=hypothetical protein;protein_id=ADB04220.1
+GU071086.1	Genbank	gene	365933	368362	.	+	.	ID=gene-MAR_ORF459;Name=MAR_ORF459;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MAR_ORF459
+GU071086.1	Genbank	CDS	365933	368362	.	+	0	ID=cds-ADB04221.1;Parent=gene-MAR_ORF459;Dbxref=NCBI_GP:ADB04221.1;Name=ADB04221.1;Note=highly derived;gbkey=CDS;locus_tag=MAR_ORF459;product=D5-like helicase-primase;protein_id=ADB04221.1
+

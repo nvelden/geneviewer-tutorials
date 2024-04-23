@@ -1,0 +1,975 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region KF483846.1 1 380011
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1421067
+KF483846.1	Genbank	region	1	380011	.	+	.	ID=KF483846.1:1..380011;Dbxref=taxon:1421067;Is_circular=true;country=Tunisia;gbkey=Src;isolation-source=water from a decorative fountain;mol_type=genomic DNA;nat-host=Acanthamoeba sp.;strain=U484
+KF483846.1	Genbank	gene	305	796	.	+	.	ID=gene-TNS_ORF1;Name=TNS_ORF1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF1
+KF483846.1	Genbank	CDS	305	796	.	+	0	ID=cds-AHC54719.1;Parent=gene-TNS_ORF1;Dbxref=NCBI_GP:AHC54719.1;Name=AHC54719.1;gbkey=CDS;locus_tag=TNS_ORF1;product=hypothetical protein;protein_id=AHC54719.1
+KF483846.1	Genbank	gene	818	1615	.	-	.	ID=gene-TNS_ORF2;Name=TNS_ORF2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF2
+KF483846.1	Genbank	CDS	818	1615	.	-	0	ID=cds-AHC54720.1;Parent=gene-TNS_ORF2;Dbxref=NCBI_GP:AHC54720.1;Name=AHC54720.1;gbkey=CDS;locus_tag=TNS_ORF2;product=hypothetical protein;protein_id=AHC54720.1
+KF483846.1	Genbank	gene	2713	2922	.	+	.	ID=gene-TNS_ORF3;Name=TNS_ORF3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF3
+KF483846.1	Genbank	CDS	2713	2922	.	+	0	ID=cds-AHC54721.1;Parent=gene-TNS_ORF3;Dbxref=NCBI_GP:AHC54721.1;Name=AHC54721.1;gbkey=CDS;locus_tag=TNS_ORF3;product=hypothetical protein;protein_id=AHC54721.1
+KF483846.1	Genbank	gene	2949	4142	.	-	.	ID=gene-TNS_ORF4;Name=TNS_ORF4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF4
+KF483846.1	Genbank	CDS	2949	4142	.	-	0	ID=cds-AHC54722.1;Parent=gene-TNS_ORF4;Dbxref=NCBI_GP:AHC54722.1;Name=AHC54722.1;gbkey=CDS;locus_tag=TNS_ORF4;product=hypothetical protein;protein_id=AHC54722.1
+KF483846.1	Genbank	gene	4187	4654	.	-	.	ID=gene-TNS_ORF5;Name=TNS_ORF5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF5
+KF483846.1	Genbank	CDS	4187	4654	.	-	0	ID=cds-AHC54723.1;Parent=gene-TNS_ORF5;Dbxref=NCBI_GP:AHC54723.1;Name=AHC54723.1;gbkey=CDS;locus_tag=TNS_ORF5;product=hypothetical protein;protein_id=AHC54723.1
+KF483846.1	Genbank	gene	4738	5154	.	-	.	ID=gene-TNS_ORF6;Name=TNS_ORF6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF6
+KF483846.1	Genbank	CDS	4738	5154	.	-	0	ID=cds-AHC54724.1;Parent=gene-TNS_ORF6;Dbxref=NCBI_GP:AHC54724.1;Name=AHC54724.1;gbkey=CDS;locus_tag=TNS_ORF6;product=hypothetical protein;protein_id=AHC54724.1
+KF483846.1	Genbank	gene	5172	5606	.	+	.	ID=gene-TNS_ORF7;Name=TNS_ORF7;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF7
+KF483846.1	Genbank	CDS	5172	5606	.	+	0	ID=cds-AHC54725.1;Parent=gene-TNS_ORF7;Dbxref=NCBI_GP:AHC54725.1;Name=AHC54725.1;gbkey=CDS;locus_tag=TNS_ORF7;product=hypothetical protein;protein_id=AHC54725.1;transl_except=(pos:5172..5174%2Caa:Met)
+KF483846.1	Genbank	gene	5628	6107	.	-	.	ID=gene-TNS_ORF8;Name=TNS_ORF8;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF8
+KF483846.1	Genbank	CDS	5628	6107	.	-	0	ID=cds-AHC54726.1;Parent=gene-TNS_ORF8;Dbxref=NCBI_GP:AHC54726.1;Name=AHC54726.1;gbkey=CDS;locus_tag=TNS_ORF8;product=hypothetical protein;protein_id=AHC54726.1
+KF483846.1	Genbank	gene	6154	6648	.	-	.	ID=gene-TNS_ORF9;Name=TNS_ORF9;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF9
+KF483846.1	Genbank	CDS	6154	6648	.	-	0	ID=cds-AHC54727.1;Parent=gene-TNS_ORF9;Dbxref=NCBI_GP:AHC54727.1;Name=AHC54727.1;gbkey=CDS;locus_tag=TNS_ORF9;product=hypothetical protein;protein_id=AHC54727.1
+KF483846.1	Genbank	gene	6786	7553	.	-	.	ID=gene-TNS_ORF10;Name=TNS_ORF10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF10
+KF483846.1	Genbank	CDS	6786	7553	.	-	0	ID=cds-AHC54728.1;Parent=gene-TNS_ORF10;Dbxref=NCBI_GP:AHC54728.1;Name=AHC54728.1;gbkey=CDS;locus_tag=TNS_ORF10;product=hypothetical protein;protein_id=AHC54728.1
+KF483846.1	Genbank	gene	7628	8209	.	-	.	ID=gene-TNS_ORF11;Name=TNS_ORF11;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF11
+KF483846.1	Genbank	CDS	7628	8209	.	-	0	ID=cds-AHC54729.1;Parent=gene-TNS_ORF11;Dbxref=NCBI_GP:AHC54729.1;Name=AHC54729.1;gbkey=CDS;locus_tag=TNS_ORF11;product=hypothetical protein;protein_id=AHC54729.1
+KF483846.1	Genbank	gene	8271	8609	.	-	.	ID=gene-TNS_ORF12;Name=TNS_ORF12;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF12
+KF483846.1	Genbank	CDS	8271	8609	.	-	0	ID=cds-AHC54730.1;Parent=gene-TNS_ORF12;Dbxref=NCBI_GP:AHC54730.1;Name=AHC54730.1;gbkey=CDS;locus_tag=TNS_ORF12;product=hypothetical protein;protein_id=AHC54730.1
+KF483846.1	Genbank	gene	8611	9078	.	-	.	ID=gene-TNS_ORF13;Name=TNS_ORF13;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF13
+KF483846.1	Genbank	CDS	8611	9078	.	-	0	ID=cds-AHC54731.1;Parent=gene-TNS_ORF13;Dbxref=NCBI_GP:AHC54731.1;Name=AHC54731.1;gbkey=CDS;locus_tag=TNS_ORF13;product=dual specificity protein phosphatase;protein_id=AHC54731.1
+KF483846.1	Genbank	gene	9154	9684	.	-	.	ID=gene-TNS_ORF14;Name=TNS_ORF14;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF14
+KF483846.1	Genbank	CDS	9154	9684	.	-	0	ID=cds-AHC54732.1;Parent=gene-TNS_ORF14;Dbxref=NCBI_GP:AHC54732.1;Name=AHC54732.1;gbkey=CDS;locus_tag=TNS_ORF14;product=hypothetical protein;protein_id=AHC54732.1
+KF483846.1	Genbank	gene	9731	10360	.	-	.	ID=gene-TNS_ORF15;Name=TNS_ORF15;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF15
+KF483846.1	Genbank	CDS	9731	10360	.	-	0	ID=cds-AHC54733.1;Parent=gene-TNS_ORF15;Dbxref=NCBI_GP:AHC54733.1;Name=AHC54733.1;gbkey=CDS;locus_tag=TNS_ORF15;product=hypothetical protein;protein_id=AHC54733.1
+KF483846.1	Genbank	gene	10394	11086	.	-	.	ID=gene-TNS_ORF16;Name=TNS_ORF16;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF16
+KF483846.1	Genbank	CDS	10394	11086	.	-	0	ID=cds-AHC54734.1;Parent=gene-TNS_ORF16;Dbxref=NCBI_GP:AHC54734.1;Name=AHC54734.1;gbkey=CDS;locus_tag=TNS_ORF16;product=putative membrane protein;protein_id=AHC54734.1
+KF483846.1	Genbank	gene	11375	11887	.	+	.	ID=gene-TNS_ORF17;Name=TNS_ORF17;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF17
+KF483846.1	Genbank	CDS	11375	11887	.	+	0	ID=cds-AHC54735.1;Parent=gene-TNS_ORF17;Dbxref=NCBI_GP:AHC54735.1;Name=AHC54735.1;gbkey=CDS;locus_tag=TNS_ORF17;product=hypothetical protein;protein_id=AHC54735.1
+KF483846.1	Genbank	gene	12012	12500	.	+	.	ID=gene-TNS_ORF18;Name=TNS_ORF18;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF18
+KF483846.1	Genbank	CDS	12012	12500	.	+	0	ID=cds-AHC54736.1;Parent=gene-TNS_ORF18;Dbxref=NCBI_GP:AHC54736.1;Name=AHC54736.1;gbkey=CDS;locus_tag=TNS_ORF18;product=hypothetical protein;protein_id=AHC54736.1
+KF483846.1	Genbank	gene	12497	12937	.	+	.	ID=gene-TNS_ORF19;Name=TNS_ORF19;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF19
+KF483846.1	Genbank	CDS	12497	12937	.	+	0	ID=cds-AHC54737.1;Parent=gene-TNS_ORF19;Dbxref=NCBI_GP:AHC54737.1;Name=AHC54737.1;gbkey=CDS;locus_tag=TNS_ORF19;product=hypothetical protein;protein_id=AHC54737.1
+KF483846.1	Genbank	gene	13175	14443	.	+	.	ID=gene-TNS_ORF20;Name=TNS_ORF20;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF20
+KF483846.1	Genbank	CDS	13175	14443	.	+	0	ID=cds-AHC54738.1;Parent=gene-TNS_ORF20;Dbxref=NCBI_GP:AHC54738.1;Name=AHC54738.1;gbkey=CDS;locus_tag=TNS_ORF20;product=hypothetical protein;protein_id=AHC54738.1
+KF483846.1	Genbank	gene	14476	14814	.	+	.	ID=gene-TNS_ORF21;Name=TNS_ORF21;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF21
+KF483846.1	Genbank	CDS	14476	14814	.	+	0	ID=cds-AHC54739.1;Parent=gene-TNS_ORF21;Dbxref=NCBI_GP:AHC54739.1;Name=AHC54739.1;gbkey=CDS;locus_tag=TNS_ORF21;product=hypothetical protein;protein_id=AHC54739.1
+KF483846.1	Genbank	gene	14863	15303	.	-	.	ID=gene-TNS_ORF22;Name=TNS_ORF22;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF22
+KF483846.1	Genbank	CDS	14863	15303	.	-	0	ID=cds-AHC54740.1;Parent=gene-TNS_ORF22;Dbxref=NCBI_GP:AHC54740.1;Name=AHC54740.1;gbkey=CDS;locus_tag=TNS_ORF22;product=ribonuclease H;protein_id=AHC54740.1
+KF483846.1	Genbank	gene	15372	15791	.	+	.	ID=gene-TNS_ORF23;Name=TNS_ORF23;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF23
+KF483846.1	Genbank	CDS	15372	15791	.	+	0	ID=cds-AHC54741.1;Parent=gene-TNS_ORF23;Dbxref=NCBI_GP:AHC54741.1;Name=AHC54741.1;gbkey=CDS;locus_tag=TNS_ORF23;product=hypothetical protein;protein_id=AHC54741.1
+KF483846.1	Genbank	gene	15597	16028	.	-	.	ID=gene-TNS_ORF24;Name=TNS_ORF24;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF24
+KF483846.1	Genbank	CDS	15597	16028	.	-	0	ID=cds-AHC54742.1;Parent=gene-TNS_ORF24;Dbxref=NCBI_GP:AHC54742.1;Name=AHC54742.1;gbkey=CDS;locus_tag=TNS_ORF24;product=hypothetical protein;protein_id=AHC54742.1
+KF483846.1	Genbank	gene	16597	16827	.	+	.	ID=gene-TNS_ORF25;Name=TNS_ORF25;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF25
+KF483846.1	Genbank	CDS	16597	16827	.	+	0	ID=cds-AHC54743.1;Parent=gene-TNS_ORF25;Dbxref=NCBI_GP:AHC54743.1;Name=AHC54743.1;gbkey=CDS;locus_tag=TNS_ORF25;product=hypothetical protein;protein_id=AHC54743.1
+KF483846.1	Genbank	gene	17072	17329	.	-	.	ID=gene-TNS_ORF26;Name=TNS_ORF26;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF26
+KF483846.1	Genbank	CDS	17072	17329	.	-	0	ID=cds-AHC54744.1;Parent=gene-TNS_ORF26;Dbxref=NCBI_GP:AHC54744.1;Name=AHC54744.1;gbkey=CDS;locus_tag=TNS_ORF26;product=hypothetical protein;protein_id=AHC54744.1
+KF483846.1	Genbank	gene	17359	18366	.	+	.	ID=gene-TNS_ORF27;Name=TNS_ORF27;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF27
+KF483846.1	Genbank	CDS	17359	18366	.	+	0	ID=cds-AHC54745.1;Parent=gene-TNS_ORF27;Dbxref=NCBI_GP:AHC54745.1;Name=AHC54745.1;gbkey=CDS;locus_tag=TNS_ORF27;product=hypothetical protein;protein_id=AHC54745.1
+KF483846.1	Genbank	gene	18326	18646	.	-	.	ID=gene-TNS_ORF28;Name=TNS_ORF28;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF28
+KF483846.1	Genbank	CDS	18326	18646	.	-	0	ID=cds-AHC54746.1;Parent=gene-TNS_ORF28;Dbxref=NCBI_GP:AHC54746.1;Name=AHC54746.1;gbkey=CDS;locus_tag=TNS_ORF28;product=hypothetical protein;protein_id=AHC54746.1
+KF483846.1	Genbank	gene	18666	19169	.	+	.	ID=gene-TNS_ORF29;Name=TNS_ORF29;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF29
+KF483846.1	Genbank	CDS	18666	19169	.	+	0	ID=cds-AHC54747.1;Parent=gene-TNS_ORF29;Dbxref=NCBI_GP:AHC54747.1;Name=AHC54747.1;gbkey=CDS;locus_tag=TNS_ORF29;product=hypothetical protein;protein_id=AHC54747.1
+KF483846.1	Genbank	gene	19184	19558	.	-	.	ID=gene-TNS_ORF30;Name=TNS_ORF30;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF30
+KF483846.1	Genbank	CDS	19184	19558	.	-	0	ID=cds-AHC54748.1;Parent=gene-TNS_ORF30;Dbxref=NCBI_GP:AHC54748.1;Name=AHC54748.1;gbkey=CDS;locus_tag=TNS_ORF30;product=hypothetical protein;protein_id=AHC54748.1
+KF483846.1	Genbank	gene	19572	19796	.	-	.	ID=gene-TNS_ORF31;Name=TNS_ORF31;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF31
+KF483846.1	Genbank	CDS	19572	19796	.	-	0	ID=cds-AHC54749.1;Parent=gene-TNS_ORF31;Dbxref=NCBI_GP:AHC54749.1;Name=AHC54749.1;gbkey=CDS;locus_tag=TNS_ORF31;product=hypothetical protein;protein_id=AHC54749.1
+KF483846.1	Genbank	gene	19790	20059	.	+	.	ID=gene-TNS_ORF32;Name=TNS_ORF32;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF32
+KF483846.1	Genbank	CDS	19790	20059	.	+	0	ID=cds-AHC54750.1;Parent=gene-TNS_ORF32;Dbxref=NCBI_GP:AHC54750.1;Name=AHC54750.1;gbkey=CDS;locus_tag=TNS_ORF32;product=hypothetical protein;protein_id=AHC54750.1
+KF483846.1	Genbank	gene	20438	20887	.	+	.	ID=gene-TNS_ORF33;Name=TNS_ORF33;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF33
+KF483846.1	Genbank	CDS	20438	20887	.	+	0	ID=cds-AHC54751.1;Parent=gene-TNS_ORF33;Dbxref=NCBI_GP:AHC54751.1;Name=AHC54751.1;gbkey=CDS;locus_tag=TNS_ORF33;product=hypothetical protein;protein_id=AHC54751.1
+KF483846.1	Genbank	gene	20908	21762	.	-	.	ID=gene-TNS_ORF34;Name=TNS_ORF34;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF34
+KF483846.1	Genbank	CDS	20908	21762	.	-	0	ID=cds-AHC54752.1;Parent=gene-TNS_ORF34;Dbxref=NCBI_GP:AHC54752.1;Name=AHC54752.1;gbkey=CDS;locus_tag=TNS_ORF34;product=serine/threonine protein kinase;protein_id=AHC54752.1
+KF483846.1	Genbank	gene	21801	22298	.	-	.	ID=gene-TNS_ORF35;Name=TNS_ORF35;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF35
+KF483846.1	Genbank	CDS	21801	22298	.	-	0	ID=cds-AHC54753.1;Parent=gene-TNS_ORF35;Dbxref=NCBI_GP:AHC54753.1;Name=AHC54753.1;gbkey=CDS;locus_tag=TNS_ORF35;product=hypothetical protein;protein_id=AHC54753.1
+KF483846.1	Genbank	gene	22419	22613	.	+	.	ID=gene-TNS_ORF36;Name=TNS_ORF36;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF36
+KF483846.1	Genbank	CDS	22419	22613	.	+	0	ID=cds-AHC54754.1;Parent=gene-TNS_ORF36;Dbxref=NCBI_GP:AHC54754.1;Name=AHC54754.1;gbkey=CDS;locus_tag=TNS_ORF36;product=hypothetical protein;protein_id=AHC54754.1
+KF483846.1	Genbank	gene	22718	23059	.	+	.	ID=gene-TNS_ORF37;Name=TNS_ORF37;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF37
+KF483846.1	Genbank	CDS	22718	23059	.	+	0	ID=cds-AHC54755.1;Parent=gene-TNS_ORF37;Dbxref=NCBI_GP:AHC54755.1;Name=AHC54755.1;gbkey=CDS;locus_tag=TNS_ORF37;product=hypothetical protein;protein_id=AHC54755.1
+KF483846.1	Genbank	gene	23077	26409	.	+	.	ID=gene-TNS_ORF38;Name=TNS_ORF38;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF38
+KF483846.1	Genbank	CDS	23077	26409	.	+	0	ID=cds-AHC54756.1;Parent=gene-TNS_ORF38;Dbxref=NCBI_GP:AHC54756.1;Name=AHC54756.1;gbkey=CDS;locus_tag=TNS_ORF38;product=DNA topoisomerase II;protein_id=AHC54756.1;transl_except=(pos:23077..23079%2Caa:Met)
+KF483846.1	Genbank	gene	26679	27641	.	+	.	ID=gene-TNS_ORF39;Name=TNS_ORF39;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF39
+KF483846.1	Genbank	CDS	26679	27641	.	+	0	ID=cds-AHC54757.1;Parent=gene-TNS_ORF39;Dbxref=NCBI_GP:AHC54757.1;Name=AHC54757.1;gbkey=CDS;locus_tag=TNS_ORF39;product=hypothetical protein;protein_id=AHC54757.1
+KF483846.1	Genbank	gene	27648	28025	.	-	.	ID=gene-TNS_ORF40;Name=TNS_ORF40;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF40
+KF483846.1	Genbank	CDS	27648	28025	.	-	0	ID=cds-AHC54758.1;Parent=gene-TNS_ORF40;Dbxref=NCBI_GP:AHC54758.1;Name=AHC54758.1;gbkey=CDS;locus_tag=TNS_ORF40;product=putative mannosyltransferase OCH1;protein_id=AHC54758.1
+KF483846.1	Genbank	gene	28024	28344	.	+	.	ID=gene-TNS_ORF41;Name=TNS_ORF41;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF41
+KF483846.1	Genbank	CDS	28024	28344	.	+	0	ID=cds-AHC54759.1;Parent=gene-TNS_ORF41;Dbxref=NCBI_GP:AHC54759.1;Name=AHC54759.1;gbkey=CDS;locus_tag=TNS_ORF41;product=hypothetical protein;protein_id=AHC54759.1
+KF483846.1	Genbank	gene	28380	29078	.	+	.	ID=gene-TNS_ORF42;Name=TNS_ORF42;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF42
+KF483846.1	Genbank	CDS	28380	29078	.	+	0	ID=cds-AHC54760.1;Parent=gene-TNS_ORF42;Dbxref=NCBI_GP:AHC54760.1;Name=AHC54760.1;gbkey=CDS;locus_tag=TNS_ORF42;product=serine/threonine protein kinase;protein_id=AHC54760.1;transl_except=(pos:28380..28382%2Caa:Met)
+KF483846.1	Genbank	gene	29093	29794	.	-	.	ID=gene-TNS_ORF43;Name=TNS_ORF43;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF43
+KF483846.1	Genbank	CDS	29093	29794	.	-	0	ID=cds-AHC54761.1;Parent=gene-TNS_ORF43;Dbxref=NCBI_GP:AHC54761.1;Name=AHC54761.1;gbkey=CDS;locus_tag=TNS_ORF43;product=serine/threonine protein kinase;protein_id=AHC54761.1
+KF483846.1	Genbank	gene	29858	30367	.	-	.	ID=gene-TNS_ORF44;Name=TNS_ORF44;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF44
+KF483846.1	Genbank	CDS	29858	30367	.	-	0	ID=cds-AHC54762.1;Parent=gene-TNS_ORF44;Dbxref=NCBI_GP:AHC54762.1;Name=AHC54762.1;gbkey=CDS;locus_tag=TNS_ORF44;product=histone H2A domain-containing protein;protein_id=AHC54762.1
+KF483846.1	Genbank	gene	30389	30595	.	+	.	ID=gene-TNS_ORF45;Name=TNS_ORF45;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF45
+KF483846.1	Genbank	CDS	30389	30595	.	+	0	ID=cds-AHC54763.1;Parent=gene-TNS_ORF45;Dbxref=NCBI_GP:AHC54763.1;Name=AHC54763.1;gbkey=CDS;locus_tag=TNS_ORF45;product=hypothetical protein;protein_id=AHC54763.1
+KF483846.1	Genbank	gene	30595	30981	.	+	.	ID=gene-TNS_ORF46;Name=TNS_ORF46;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF46
+KF483846.1	Genbank	CDS	30595	30981	.	+	0	ID=cds-AHC54764.1;Parent=gene-TNS_ORF46;Dbxref=NCBI_GP:AHC54764.1;Name=AHC54764.1;gbkey=CDS;locus_tag=TNS_ORF46;product=hypothetical protein;protein_id=AHC54764.1
+KF483846.1	Genbank	gene	31043	32233	.	+	.	ID=gene-TNS_ORF47;Name=TNS_ORF47;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF47
+KF483846.1	Genbank	CDS	31043	32233	.	+	0	ID=cds-AHC54765.1;Parent=gene-TNS_ORF47;Dbxref=NCBI_GP:AHC54765.1;Name=AHC54765.1;gbkey=CDS;locus_tag=TNS_ORF47;product=elongation factor Tu;protein_id=AHC54765.1;transl_except=(pos:31043..31045%2Caa:Met)
+KF483846.1	Genbank	gene	32272	32460	.	+	.	ID=gene-TNS_ORF48;Name=TNS_ORF48;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF48
+KF483846.1	Genbank	CDS	32272	32460	.	+	0	ID=cds-AHC54766.1;Parent=gene-TNS_ORF48;Dbxref=NCBI_GP:AHC54766.1;Name=AHC54766.1;gbkey=CDS;locus_tag=TNS_ORF48;product=hypothetical protein;protein_id=AHC54766.1
+KF483846.1	Genbank	gene	32608	33522	.	+	.	ID=gene-TNS_ORF49;Name=TNS_ORF49;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF49
+KF483846.1	Genbank	CDS	32608	33522	.	+	0	ID=cds-AHC54767.1;Parent=gene-TNS_ORF49;Dbxref=NCBI_GP:AHC54767.1;Name=AHC54767.1;gbkey=CDS;locus_tag=TNS_ORF49;product=glycosyltransferase;protein_id=AHC54767.1
+KF483846.1	Genbank	gene	33560	33760	.	-	.	ID=gene-TNS_ORF50;Name=TNS_ORF50;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF50
+KF483846.1	Genbank	CDS	33560	33760	.	-	0	ID=cds-AHC54768.1;Parent=gene-TNS_ORF50;Dbxref=NCBI_GP:AHC54768.1;Name=AHC54768.1;gbkey=CDS;locus_tag=TNS_ORF50;product=hypothetical protein;protein_id=AHC54768.1
+KF483846.1	Genbank	gene	33841	34452	.	-	.	ID=gene-TNS_ORF51;Name=TNS_ORF51;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF51
+KF483846.1	Genbank	CDS	33841	34452	.	-	0	ID=cds-AHC54769.1;Parent=gene-TNS_ORF51;Dbxref=NCBI_GP:AHC54769.1;Name=AHC54769.1;gbkey=CDS;locus_tag=TNS_ORF51;product=hypothetical protein;protein_id=AHC54769.1
+KF483846.1	Genbank	gene	34484	35707	.	-	.	ID=gene-TNS_ORF52;Name=TNS_ORF52;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF52
+KF483846.1	Genbank	CDS	34484	35707	.	-	0	ID=cds-AHC54770.1;Parent=gene-TNS_ORF52;Dbxref=NCBI_GP:AHC54770.1;Name=AHC54770.1;gbkey=CDS;locus_tag=TNS_ORF52;product=putative ankyrin repeat protein;protein_id=AHC54770.1
+KF483846.1	Genbank	gene	35766	36443	.	-	.	ID=gene-TNS_ORF53;Name=TNS_ORF53;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF53
+KF483846.1	Genbank	CDS	35766	36443	.	-	0	ID=cds-AHC54771.1;Parent=gene-TNS_ORF53;Dbxref=NCBI_GP:AHC54771.1;Name=AHC54771.1;gbkey=CDS;locus_tag=TNS_ORF53;product=hypothetical protein;protein_id=AHC54771.1
+KF483846.1	Genbank	gene	36506	37243	.	-	.	ID=gene-TNS_ORF54;Name=TNS_ORF54;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF54
+KF483846.1	Genbank	CDS	36506	37243	.	-	0	ID=cds-AHC54772.1;Parent=gene-TNS_ORF54;Dbxref=NCBI_GP:AHC54772.1;Name=AHC54772.1;gbkey=CDS;locus_tag=TNS_ORF54;product=hypothetical protein;protein_id=AHC54772.1
+KF483846.1	Genbank	gene	37244	37867	.	-	.	ID=gene-TNS_ORF55;Name=TNS_ORF55;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF55
+KF483846.1	Genbank	CDS	37244	37867	.	-	0	ID=cds-AHC54773.1;Parent=gene-TNS_ORF55;Dbxref=NCBI_GP:AHC54773.1;Name=AHC54773.1;gbkey=CDS;locus_tag=TNS_ORF55;product=hypothetical protein;protein_id=AHC54773.1
+KF483846.1	Genbank	gene	37894	38073	.	-	.	ID=gene-TNS_ORF56;Name=TNS_ORF56;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF56
+KF483846.1	Genbank	CDS	37894	38073	.	-	0	ID=cds-AHC54774.1;Parent=gene-TNS_ORF56;Dbxref=NCBI_GP:AHC54774.1;Name=AHC54774.1;gbkey=CDS;locus_tag=TNS_ORF56;product=hypothetical protein;protein_id=AHC54774.1
+KF483846.1	Genbank	gene	38128	38856	.	+	.	ID=gene-TNS_ORF57;Name=TNS_ORF57;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF57
+KF483846.1	Genbank	CDS	38128	38856	.	+	0	ID=cds-AHC54775.1;Parent=gene-TNS_ORF57;Dbxref=NCBI_GP:AHC54775.1;Name=AHC54775.1;gbkey=CDS;locus_tag=TNS_ORF57;product=serine/threonine protein kinase;protein_id=AHC54775.1
+KF483846.1	Genbank	gene	38867	39424	.	+	.	ID=gene-TNS_ORF58;Name=TNS_ORF58;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF58
+KF483846.1	Genbank	CDS	38867	39424	.	+	0	ID=cds-AHC54776.1;Parent=gene-TNS_ORF58;Dbxref=NCBI_GP:AHC54776.1;Name=AHC54776.1;gbkey=CDS;locus_tag=TNS_ORF58;product=hypothetical protein;protein_id=AHC54776.1
+KF483846.1	Genbank	gene	39432	39878	.	+	.	ID=gene-TNS_ORF59;Name=TNS_ORF59;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF59
+KF483846.1	Genbank	CDS	39432	39878	.	+	0	ID=cds-AHC54777.1;Parent=gene-TNS_ORF59;Dbxref=NCBI_GP:AHC54777.1;Name=AHC54777.1;gbkey=CDS;locus_tag=TNS_ORF59;product=hypothetical protein;protein_id=AHC54777.1;transl_except=(pos:39432..39434%2Caa:Met)
+KF483846.1	Genbank	gene	39875	40342	.	+	.	ID=gene-TNS_ORF60;Name=TNS_ORF60;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF60
+KF483846.1	Genbank	CDS	39875	40342	.	+	0	ID=cds-AHC54778.1;Parent=gene-TNS_ORF60;Dbxref=NCBI_GP:AHC54778.1;Name=AHC54778.1;gbkey=CDS;locus_tag=TNS_ORF60;product=hypothetical protein;protein_id=AHC54778.1
+KF483846.1	Genbank	gene	40352	40564	.	-	.	ID=gene-TNS_ORF61;Name=TNS_ORF61;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF61
+KF483846.1	Genbank	CDS	40352	40564	.	-	0	ID=cds-AHC54779.1;Parent=gene-TNS_ORF61;Dbxref=NCBI_GP:AHC54779.1;Name=AHC54779.1;gbkey=CDS;locus_tag=TNS_ORF61;product=hypothetical protein;protein_id=AHC54779.1
+KF483846.1	Genbank	gene	40796	41587	.	+	.	ID=gene-TNS_ORF62;Name=TNS_ORF62;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF62
+KF483846.1	Genbank	CDS	40796	41587	.	+	0	ID=cds-AHC54780.1;Parent=gene-TNS_ORF62;Dbxref=NCBI_GP:AHC54780.1;Name=AHC54780.1;gbkey=CDS;locus_tag=TNS_ORF62;product=putative A32-like packaging ATPase;protein_id=AHC54780.1
+KF483846.1	Genbank	gene	41611	42180	.	-	.	ID=gene-TNS_ORF63;Name=TNS_ORF63;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF63
+KF483846.1	Genbank	CDS	41611	42180	.	-	0	ID=cds-AHC54781.1;Parent=gene-TNS_ORF63;Dbxref=NCBI_GP:AHC54781.1;Name=AHC54781.1;gbkey=CDS;locus_tag=TNS_ORF63;product=hypothetical protein;protein_id=AHC54781.1
+KF483846.1	Genbank	gene	42245	42478	.	+	.	ID=gene-TNS_ORF64;Name=TNS_ORF64;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF64
+KF483846.1	Genbank	CDS	42245	42478	.	+	0	ID=cds-AHC54782.1;Parent=gene-TNS_ORF64;Dbxref=NCBI_GP:AHC54782.1;Name=AHC54782.1;gbkey=CDS;locus_tag=TNS_ORF64;product=zinc-ribbon-containing protein;protein_id=AHC54782.1
+KF483846.1	Genbank	gene	42433	43254	.	-	.	ID=gene-TNS_ORF65;Name=TNS_ORF65;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF65
+KF483846.1	Genbank	CDS	42433	43254	.	-	0	ID=cds-AHC54783.1;Parent=gene-TNS_ORF65;Dbxref=NCBI_GP:AHC54783.1;Name=AHC54783.1;gbkey=CDS;locus_tag=TNS_ORF65;product=hypothetical protein;protein_id=AHC54783.1
+KF483846.1	Genbank	gene	43349	46060	.	+	.	ID=gene-TNS_ORF66;Name=TNS_ORF66;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF66
+KF483846.1	Genbank	CDS	43349	46060	.	+	0	ID=cds-AHC54784.1;Parent=gene-TNS_ORF66;Dbxref=NCBI_GP:AHC54784.1;Name=AHC54784.1;gbkey=CDS;locus_tag=TNS_ORF66;product=putative primase;protein_id=AHC54784.1
+KF483846.1	Genbank	gene	46077	46349	.	-	.	ID=gene-TNS_ORF67;Name=TNS_ORF67;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF67
+KF483846.1	Genbank	CDS	46077	46349	.	-	0	ID=cds-AHC54785.1;Parent=gene-TNS_ORF67;Dbxref=NCBI_GP:AHC54785.1;Name=AHC54785.1;gbkey=CDS;locus_tag=TNS_ORF67;product=hypothetical protein;protein_id=AHC54785.1
+KF483846.1	Genbank	gene	46381	46803	.	-	.	ID=gene-TNS_ORF68;Name=TNS_ORF68;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF68
+KF483846.1	Genbank	CDS	46381	46803	.	-	0	ID=cds-AHC54786.1;Parent=gene-TNS_ORF68;Dbxref=NCBI_GP:AHC54786.1;Name=AHC54786.1;gbkey=CDS;locus_tag=TNS_ORF68;product=hypothetical protein;protein_id=AHC54786.1
+KF483846.1	Genbank	gene	46823	48007	.	+	.	ID=gene-TNS_ORF69;Name=TNS_ORF69;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF69
+KF483846.1	Genbank	CDS	46823	48007	.	+	0	ID=cds-AHC54787.1;Parent=gene-TNS_ORF69;Dbxref=NCBI_GP:AHC54787.1;Name=AHC54787.1;gbkey=CDS;locus_tag=TNS_ORF69;product=eukaryotic peptide chain release factor;protein_id=AHC54787.1
+KF483846.1	Genbank	gene	48205	48513	.	-	.	ID=gene-TNS_ORF70;Name=TNS_ORF70;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF70
+KF483846.1	Genbank	CDS	48205	48513	.	-	0	ID=cds-AHC54788.1;Parent=gene-TNS_ORF70;Dbxref=NCBI_GP:AHC54788.1;Name=AHC54788.1;gbkey=CDS;locus_tag=TNS_ORF70;product=hypothetical protein;protein_id=AHC54788.1
+KF483846.1	Genbank	gene	48573	48947	.	+	.	ID=gene-TNS_ORF71;Name=TNS_ORF71;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF71
+KF483846.1	Genbank	CDS	48573	48947	.	+	0	ID=cds-AHC54789.1;Parent=gene-TNS_ORF71;Dbxref=NCBI_GP:AHC54789.1;Name=AHC54789.1;gbkey=CDS;locus_tag=TNS_ORF71;product=hypothetical protein;protein_id=AHC54789.1
+KF483846.1	Genbank	gene	48967	49500	.	-	.	ID=gene-TNS_ORF72;Name=TNS_ORF72;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF72
+KF483846.1	Genbank	CDS	48967	49500	.	-	0	ID=cds-AHC54790.1;Parent=gene-TNS_ORF72;Dbxref=NCBI_GP:AHC54790.1;Name=AHC54790.1;gbkey=CDS;locus_tag=TNS_ORF72;product=hypothetical protein;protein_id=AHC54790.1
+KF483846.1	Genbank	gene	49538	49993	.	-	.	ID=gene-TNS_ORF73;Name=TNS_ORF73;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF73
+KF483846.1	Genbank	CDS	49538	49993	.	-	0	ID=cds-AHC54791.1;Parent=gene-TNS_ORF73;Dbxref=NCBI_GP:AHC54791.1;Name=AHC54791.1;gbkey=CDS;locus_tag=TNS_ORF73;product=hypothetical protein;protein_id=AHC54791.1
+KF483846.1	Genbank	gene	50016	51512	.	-	.	ID=gene-TNS_ORF74;Name=TNS_ORF74;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF74
+KF483846.1	Genbank	CDS	50016	51512	.	-	0	ID=cds-AHC54792.1;Parent=gene-TNS_ORF74;Dbxref=NCBI_GP:AHC54792.1;Name=AHC54792.1;gbkey=CDS;locus_tag=TNS_ORF74;product=hypothetical protein;protein_id=AHC54792.1
+KF483846.1	Genbank	gene	51543	51908	.	+	.	ID=gene-TNS_ORF75;Name=TNS_ORF75;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF75
+KF483846.1	Genbank	CDS	51543	51908	.	+	0	ID=cds-AHC54793.1;Parent=gene-TNS_ORF75;Dbxref=NCBI_GP:AHC54793.1;Name=AHC54793.1;gbkey=CDS;locus_tag=TNS_ORF75;product=hypothetical protein;protein_id=AHC54793.1
+KF483846.1	Genbank	gene	51905	52417	.	+	.	ID=gene-TNS_ORF76;Name=TNS_ORF76;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF76
+KF483846.1	Genbank	CDS	51905	52417	.	+	0	ID=cds-AHC54794.1;Parent=gene-TNS_ORF76;Dbxref=NCBI_GP:AHC54794.1;Name=AHC54794.1;gbkey=CDS;locus_tag=TNS_ORF76;product=hypothetical protein;protein_id=AHC54794.1
+KF483846.1	Genbank	gene	52455	52820	.	+	.	ID=gene-TNS_ORF77;Name=TNS_ORF77;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF77
+KF483846.1	Genbank	CDS	52455	52820	.	+	0	ID=cds-AHC54795.1;Parent=gene-TNS_ORF77;Dbxref=NCBI_GP:AHC54795.1;Name=AHC54795.1;gbkey=CDS;locus_tag=TNS_ORF77;product=hypothetical protein;protein_id=AHC54795.1
+KF483846.1	Genbank	gene	52854	53339	.	-	.	ID=gene-TNS_ORF78;Name=TNS_ORF78;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF78
+KF483846.1	Genbank	CDS	52854	53339	.	-	0	ID=cds-AHC54796.1;Parent=gene-TNS_ORF78;Dbxref=NCBI_GP:AHC54796.1;Name=AHC54796.1;gbkey=CDS;locus_tag=TNS_ORF78;product=hypothetical protein;protein_id=AHC54796.1
+KF483846.1	Genbank	gene	53403	53702	.	-	.	ID=gene-TNS_ORF79;Name=TNS_ORF79;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF79
+KF483846.1	Genbank	CDS	53403	53702	.	-	0	ID=cds-AHC54797.1;Parent=gene-TNS_ORF79;Dbxref=NCBI_GP:AHC54797.1;Name=AHC54797.1;gbkey=CDS;locus_tag=TNS_ORF79;product=hypothetical protein;protein_id=AHC54797.1
+KF483846.1	Genbank	gene	53747	54145	.	-	.	ID=gene-TNS_ORF80;Name=TNS_ORF80;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF80
+KF483846.1	Genbank	CDS	53747	54145	.	-	0	ID=cds-AHC54798.1;Parent=gene-TNS_ORF80;Dbxref=NCBI_GP:AHC54798.1;Name=AHC54798.1;gbkey=CDS;locus_tag=TNS_ORF80;product=hypothetical protein;protein_id=AHC54798.1
+KF483846.1	Genbank	gene	54175	54621	.	-	.	ID=gene-TNS_ORF81;Name=TNS_ORF81;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF81
+KF483846.1	Genbank	CDS	54175	54621	.	-	0	ID=cds-AHC54799.1;Parent=gene-TNS_ORF81;Dbxref=NCBI_GP:AHC54799.1;Name=AHC54799.1;gbkey=CDS;locus_tag=TNS_ORF81;product=hypothetical protein;protein_id=AHC54799.1
+KF483846.1	Genbank	gene	54605	55009	.	-	.	ID=gene-TNS_ORF82;Name=TNS_ORF82;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF82
+KF483846.1	Genbank	CDS	54605	55009	.	-	0	ID=cds-AHC54800.1;Parent=gene-TNS_ORF82;Dbxref=NCBI_GP:AHC54800.1;Name=AHC54800.1;gbkey=CDS;locus_tag=TNS_ORF82;product=hypothetical protein;protein_id=AHC54800.1
+KF483846.1	Genbank	gene	55101	55736	.	+	.	ID=gene-TNS_ORF83;Name=TNS_ORF83;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF83
+KF483846.1	Genbank	CDS	55101	55736	.	+	0	ID=cds-AHC54801.1;Parent=gene-TNS_ORF83;Dbxref=NCBI_GP:AHC54801.1;Name=AHC54801.1;gbkey=CDS;locus_tag=TNS_ORF83;product=hypothetical protein;protein_id=AHC54801.1
+KF483846.1	Genbank	gene	55603	56028	.	-	.	ID=gene-TNS_ORF84;Name=TNS_ORF84;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF84
+KF483846.1	Genbank	CDS	55603	56028	.	-	0	ID=cds-AHC54802.1;Parent=gene-TNS_ORF84;Dbxref=NCBI_GP:AHC54802.1;Name=AHC54802.1;gbkey=CDS;locus_tag=TNS_ORF84;product=hypothetical protein;protein_id=AHC54802.1
+KF483846.1	Genbank	gene	55983	56456	.	-	.	ID=gene-TNS_ORF85;Name=TNS_ORF85;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF85
+KF483846.1	Genbank	CDS	55983	56456	.	-	0	ID=cds-AHC54803.1;Parent=gene-TNS_ORF85;Dbxref=NCBI_GP:AHC54803.1;Name=AHC54803.1;gbkey=CDS;locus_tag=TNS_ORF85;product=hypothetical protein;protein_id=AHC54803.1
+KF483846.1	Genbank	gene	56512	57192	.	+	.	ID=gene-TNS_ORF86;Name=TNS_ORF86;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF86
+KF483846.1	Genbank	CDS	56512	57192	.	+	0	ID=cds-AHC54804.1;Parent=gene-TNS_ORF86;Dbxref=NCBI_GP:AHC54804.1;Name=AHC54804.1;gbkey=CDS;locus_tag=TNS_ORF86;product=hypothetical protein;protein_id=AHC54804.1
+KF483846.1	Genbank	gene	57215	57703	.	+	.	ID=gene-TNS_ORF87;Name=TNS_ORF87;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF87
+KF483846.1	Genbank	CDS	57215	57703	.	+	0	ID=cds-AHC54805.1;Parent=gene-TNS_ORF87;Dbxref=NCBI_GP:AHC54805.1;Name=AHC54805.1;gbkey=CDS;locus_tag=TNS_ORF87;product=hypothetical protein;protein_id=AHC54805.1
+KF483846.1	Genbank	gene	57724	58176	.	-	.	ID=gene-TNS_ORF88;Name=TNS_ORF88;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF88
+KF483846.1	Genbank	CDS	57724	58176	.	-	0	ID=cds-AHC54806.1;Parent=gene-TNS_ORF88;Dbxref=NCBI_GP:AHC54806.1;Name=AHC54806.1;gbkey=CDS;locus_tag=TNS_ORF88;product=hypothetical protein;protein_id=AHC54806.1
+KF483846.1	Genbank	gene	58398	61709	.	-	.	ID=gene-TNS_ORF89;Name=TNS_ORF89;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF89
+KF483846.1	Genbank	CDS	58398	61709	.	-	0	ID=cds-AHC54807.1;Parent=gene-TNS_ORF89;Dbxref=NCBI_GP:AHC54807.1;Name=AHC54807.1;gbkey=CDS;locus_tag=TNS_ORF89;product=putative origin of replication binding protein;protein_id=AHC54807.1
+KF483846.1	Genbank	gene	61736	62095	.	+	.	ID=gene-TNS_ORF90;Name=TNS_ORF90;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF90
+KF483846.1	Genbank	CDS	61736	62095	.	+	0	ID=cds-AHC54808.1;Parent=gene-TNS_ORF90;Dbxref=NCBI_GP:AHC54808.1;Name=AHC54808.1;gbkey=CDS;locus_tag=TNS_ORF90;product=hypothetical protein;protein_id=AHC54808.1;transl_except=(pos:61736..61738%2Caa:Met)
+KF483846.1	Genbank	gene	62142	62444	.	-	.	ID=gene-TNS_ORF91;Name=TNS_ORF91;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF91
+KF483846.1	Genbank	CDS	62142	62444	.	-	0	ID=cds-AHC54809.1;Parent=gene-TNS_ORF91;Dbxref=NCBI_GP:AHC54809.1;Name=AHC54809.1;gbkey=CDS;locus_tag=TNS_ORF91;product=hypothetical protein;protein_id=AHC54809.1
+KF483846.1	Genbank	gene	62540	63229	.	+	.	ID=gene-TNS_ORF92;Name=TNS_ORF92;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF92
+KF483846.1	Genbank	CDS	62540	63229	.	+	0	ID=cds-AHC54810.1;Parent=gene-TNS_ORF92;Dbxref=NCBI_GP:AHC54810.1;Name=AHC54810.1;gbkey=CDS;locus_tag=TNS_ORF92;product=hypothetical protein;protein_id=AHC54810.1
+KF483846.1	Genbank	gene	63280	63927	.	+	.	ID=gene-TNS_ORF93;Name=TNS_ORF93;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF93
+KF483846.1	Genbank	CDS	63280	63927	.	+	0	ID=cds-AHC54811.1;Parent=gene-TNS_ORF93;Dbxref=NCBI_GP:AHC54811.1;Name=AHC54811.1;gbkey=CDS;locus_tag=TNS_ORF93;product=hypothetical protein;protein_id=AHC54811.1
+KF483846.1	Genbank	gene	63945	64589	.	+	.	ID=gene-TNS_ORF94;Name=TNS_ORF94;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF94
+KF483846.1	Genbank	CDS	63945	64589	.	+	0	ID=cds-AHC54812.1;Parent=gene-TNS_ORF94;Dbxref=NCBI_GP:AHC54812.1;Name=AHC54812.1;gbkey=CDS;locus_tag=TNS_ORF94;product=hypothetical protein;protein_id=AHC54812.1
+KF483846.1	Genbank	gene	64615	65238	.	+	.	ID=gene-TNS_ORF95;Name=TNS_ORF95;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF95
+KF483846.1	Genbank	CDS	64615	65238	.	+	0	ID=cds-AHC54813.1;Parent=gene-TNS_ORF95;Dbxref=NCBI_GP:AHC54813.1;Name=AHC54813.1;gbkey=CDS;locus_tag=TNS_ORF95;product=hypothetical protein;protein_id=AHC54813.1
+KF483846.1	Genbank	gene	65244	65615	.	-	.	ID=gene-TNS_ORF96;Name=TNS_ORF96;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF96
+KF483846.1	Genbank	CDS	65244	65615	.	-	0	ID=cds-AHC54814.1;Parent=gene-TNS_ORF96;Dbxref=NCBI_GP:AHC54814.1;Name=AHC54814.1;gbkey=CDS;locus_tag=TNS_ORF96;product=hypothetical protein;protein_id=AHC54814.1
+KF483846.1	Genbank	gene	65636	66514	.	-	.	ID=gene-TNS_ORF97;Name=TNS_ORF97;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF97
+KF483846.1	Genbank	CDS	65636	66514	.	-	0	ID=cds-AHC54815.1;Parent=gene-TNS_ORF97;Dbxref=NCBI_GP:AHC54815.1;Name=AHC54815.1;gbkey=CDS;locus_tag=TNS_ORF97;product=class 3 lipase;protein_id=AHC54815.1
+KF483846.1	Genbank	gene	66621	67955	.	-	.	ID=gene-TNS_ORF98;Name=TNS_ORF98;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF98
+KF483846.1	Genbank	CDS	66621	67955	.	-	0	ID=cds-AHC54816.1;Parent=gene-TNS_ORF98;Dbxref=NCBI_GP:AHC54816.1;Name=AHC54816.1;gbkey=CDS;locus_tag=TNS_ORF98;product=zinc finger protein;protein_id=AHC54816.1
+KF483846.1	Genbank	gene	68007	69095	.	-	.	ID=gene-TNS_ORF99;Name=TNS_ORF99;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF99
+KF483846.1	Genbank	CDS	68007	69095	.	-	0	ID=cds-AHC54817.1;Parent=gene-TNS_ORF99;Dbxref=NCBI_GP:AHC54817.1;Name=AHC54817.1;gbkey=CDS;locus_tag=TNS_ORF99;product=putative Flap endonuclease;protein_id=AHC54817.1
+KF483846.1	Genbank	gene	69144	69449	.	+	.	ID=gene-TNS_ORF100;Name=TNS_ORF100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF100
+KF483846.1	Genbank	CDS	69144	69449	.	+	0	ID=cds-AHC54818.1;Parent=gene-TNS_ORF100;Dbxref=NCBI_GP:AHC54818.1;Name=AHC54818.1;gbkey=CDS;locus_tag=TNS_ORF100;product=hypothetical protein;protein_id=AHC54818.1
+KF483846.1	Genbank	gene	69439	69954	.	-	.	ID=gene-TNS_ORF101;Name=TNS_ORF101;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF101
+KF483846.1	Genbank	CDS	69439	69954	.	-	0	ID=cds-AHC54819.1;Parent=gene-TNS_ORF101;Dbxref=NCBI_GP:AHC54819.1;Name=AHC54819.1;gbkey=CDS;locus_tag=TNS_ORF101;product=hypothetical protein;protein_id=AHC54819.1
+KF483846.1	Genbank	gene	69995	70246	.	+	.	ID=gene-TNS_ORF102;Name=TNS_ORF102;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF102
+KF483846.1	Genbank	CDS	69995	70246	.	+	0	ID=cds-AHC54820.1;Parent=gene-TNS_ORF102;Dbxref=NCBI_GP:AHC54820.1;Name=AHC54820.1;gbkey=CDS;locus_tag=TNS_ORF102;product=hypothetical protein;protein_id=AHC54820.1
+KF483846.1	Genbank	gene	70267	71808	.	-	.	ID=gene-TNS_ORF103;Name=TNS_ORF103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF103
+KF483846.1	Genbank	CDS	70267	71808	.	-	0	ID=cds-AHC54821.1;Parent=gene-TNS_ORF103;Dbxref=NCBI_GP:AHC54821.1;Name=AHC54821.1;gbkey=CDS;locus_tag=TNS_ORF103;product=hypothetical protein;protein_id=AHC54821.1
+KF483846.1	Genbank	gene	71777	74152	.	-	.	ID=gene-TNS_ORF104;Name=TNS_ORF104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF104
+KF483846.1	Genbank	CDS	71777	74152	.	-	0	ID=cds-AHC54822.1;Parent=gene-TNS_ORF104;Dbxref=NCBI_GP:AHC54822.1;Name=AHC54822.1;gbkey=CDS;locus_tag=TNS_ORF104;product=hypothetical protein;protein_id=AHC54822.1
+KF483846.1	Genbank	gene	74183	75046	.	-	.	ID=gene-TNS_ORF105;Name=TNS_ORF105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF105
+KF483846.1	Genbank	CDS	74183	75046	.	-	0	ID=cds-AHC54823.1;Parent=gene-TNS_ORF105;Dbxref=NCBI_GP:AHC54823.1;Name=AHC54823.1;gbkey=CDS;locus_tag=TNS_ORF105;product=serine/threonine protein kinase;protein_id=AHC54823.1
+KF483846.1	Genbank	gene	75067	75336	.	+	.	ID=gene-TNS_ORF106;Name=TNS_ORF106;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF106
+KF483846.1	Genbank	CDS	75067	75336	.	+	0	ID=cds-AHC54824.1;Parent=gene-TNS_ORF106;Dbxref=NCBI_GP:AHC54824.1;Name=AHC54824.1;gbkey=CDS;locus_tag=TNS_ORF106;product=hypothetical protein;protein_id=AHC54824.1
+KF483846.1	Genbank	gene	75362	76576	.	-	.	ID=gene-TNS_ORF107;Name=TNS_ORF107;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF107
+KF483846.1	Genbank	CDS	75362	76576	.	-	0	ID=cds-AHC54825.1;Parent=gene-TNS_ORF107;Dbxref=NCBI_GP:AHC54825.1;Name=AHC54825.1;gbkey=CDS;locus_tag=TNS_ORF107;product=hypothetical protein;protein_id=AHC54825.1
+KF483846.1	Genbank	gene	76616	77026	.	+	.	ID=gene-TNS_ORF108;Name=TNS_ORF108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF108
+KF483846.1	Genbank	CDS	76616	77026	.	+	0	ID=cds-AHC54826.1;Parent=gene-TNS_ORF108;Dbxref=NCBI_GP:AHC54826.1;Name=AHC54826.1;gbkey=CDS;locus_tag=TNS_ORF108;product=hypothetical protein;protein_id=AHC54826.1
+KF483846.1	Genbank	gene	77229	78302	.	+	.	ID=gene-TNS_ORF109;Name=TNS_ORF109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF109
+KF483846.1	Genbank	CDS	77229	78302	.	+	0	ID=cds-AHC54827.1;Parent=gene-TNS_ORF109;Dbxref=NCBI_GP:AHC54827.1;Name=AHC54827.1;gbkey=CDS;locus_tag=TNS_ORF109;product=serine/threonine protein kinase;protein_id=AHC54827.1
+KF483846.1	Genbank	gene	78324	79877	.	-	.	ID=gene-TNS_ORF110;Name=TNS_ORF110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF110
+KF483846.1	Genbank	CDS	78324	79877	.	-	0	ID=cds-AHC54828.1;Parent=gene-TNS_ORF110;Dbxref=NCBI_GP:AHC54828.1;Name=AHC54828.1;gbkey=CDS;locus_tag=TNS_ORF110;product=hypothetical protein;protein_id=AHC54828.1
+KF483846.1	Genbank	gene	79917	80306	.	+	.	ID=gene-TNS_ORF111;Name=TNS_ORF111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF111
+KF483846.1	Genbank	CDS	79917	80306	.	+	0	ID=cds-AHC54829.1;Parent=gene-TNS_ORF111;Dbxref=NCBI_GP:AHC54829.1;Name=AHC54829.1;gbkey=CDS;locus_tag=TNS_ORF111;product=hypothetical protein;protein_id=AHC54829.1
+KF483846.1	Genbank	gene	80303	80494	.	+	.	ID=gene-TNS_ORF112;Name=TNS_ORF112;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF112
+KF483846.1	Genbank	CDS	80303	80494	.	+	0	ID=cds-AHC54830.1;Parent=gene-TNS_ORF112;Dbxref=NCBI_GP:AHC54830.1;Name=AHC54830.1;gbkey=CDS;locus_tag=TNS_ORF112;product=hypothetical protein;protein_id=AHC54830.1
+KF483846.1	Genbank	gene	80451	80630	.	+	.	ID=gene-TNS_ORF113;Name=TNS_ORF113;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF113
+KF483846.1	Genbank	CDS	80451	80630	.	+	0	ID=cds-AHC54831.1;Parent=gene-TNS_ORF113;Dbxref=NCBI_GP:AHC54831.1;Name=AHC54831.1;gbkey=CDS;locus_tag=TNS_ORF113;product=hypothetical protein;protein_id=AHC54831.1
+KF483846.1	Genbank	gene	80653	81465	.	-	.	ID=gene-TNS_ORF114;Name=TNS_ORF114;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF114
+KF483846.1	Genbank	CDS	80653	81465	.	-	0	ID=cds-AHC54832.1;Parent=gene-TNS_ORF114;Dbxref=NCBI_GP:AHC54832.1;Name=AHC54832.1;gbkey=CDS;locus_tag=TNS_ORF114;product=putative transcription initiation factor TFIIB;protein_id=AHC54832.1
+KF483846.1	Genbank	gene	81518	82336	.	-	.	ID=gene-TNS_ORF115;Name=TNS_ORF115;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF115
+KF483846.1	Genbank	CDS	81518	82336	.	-	0	ID=cds-AHC54833.1;Parent=gene-TNS_ORF115;Dbxref=NCBI_GP:AHC54833.1;Name=AHC54833.1;gbkey=CDS;locus_tag=TNS_ORF115;product=proliferating cell nuclear antigen;protein_id=AHC54833.1
+KF483846.1	Genbank	gene	82455	84941	.	+	.	ID=gene-TNS_ORF116;Name=TNS_ORF116;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF116
+KF483846.1	Genbank	CDS	82455	84941	.	+	0	ID=cds-AHC54834.1;Parent=gene-TNS_ORF116;Dbxref=NCBI_GP:AHC54834.1;Name=AHC54834.1;gbkey=CDS;locus_tag=TNS_ORF116;product=ribonucleoside-diphosphate reductase large chain;protein_id=AHC54834.1
+KF483846.1	Genbank	gene	85508	86167	.	+	.	ID=gene-TNS_ORF117;Name=TNS_ORF117;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF117
+KF483846.1	Genbank	CDS	85508	86167	.	+	0	ID=cds-AHC54835.1;Parent=gene-TNS_ORF117;Dbxref=NCBI_GP:AHC54835.1;Name=AHC54835.1;gbkey=CDS;locus_tag=TNS_ORF117;product=putative DNA recombination-mediator protein A;protein_id=AHC54835.1
+KF483846.1	Genbank	gene	86174	86566	.	-	.	ID=gene-TNS_ORF118;Name=TNS_ORF118;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF118
+KF483846.1	Genbank	CDS	86174	86566	.	-	0	ID=cds-AHC54836.1;Parent=gene-TNS_ORF118;Dbxref=NCBI_GP:AHC54836.1;Name=AHC54836.1;gbkey=CDS;locus_tag=TNS_ORF118;product=putative secreted protein;protein_id=AHC54836.1
+KF483846.1	Genbank	gene	86612	86917	.	+	.	ID=gene-TNS_ORF119;Name=TNS_ORF119;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF119
+KF483846.1	Genbank	CDS	86612	86917	.	+	0	ID=cds-AHC54837.1;Parent=gene-TNS_ORF119;Dbxref=NCBI_GP:AHC54837.1;Name=AHC54837.1;gbkey=CDS;locus_tag=TNS_ORF119;product=hypothetical protein;protein_id=AHC54837.1
+KF483846.1	Genbank	gene	86938	87522	.	-	.	ID=gene-TNS_ORF120;Name=TNS_ORF120;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF120
+KF483846.1	Genbank	CDS	86938	87522	.	-	0	ID=cds-AHC54838.1;Parent=gene-TNS_ORF120;Dbxref=NCBI_GP:AHC54838.1;Name=AHC54838.1;gbkey=CDS;locus_tag=TNS_ORF120;product=hypothetical protein;protein_id=AHC54838.1
+KF483846.1	Genbank	gene	87478	87804	.	+	.	ID=gene-TNS_ORF121;Name=TNS_ORF121;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF121
+KF483846.1	Genbank	CDS	87478	87804	.	+	0	ID=cds-AHC54839.1;Parent=gene-TNS_ORF121;Dbxref=NCBI_GP:AHC54839.1;Name=AHC54839.1;gbkey=CDS;locus_tag=TNS_ORF121;product=hypothetical protein;protein_id=AHC54839.1
+KF483846.1	Genbank	gene	87956	88540	.	+	.	ID=gene-TNS_ORF122;Name=TNS_ORF122;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF122
+KF483846.1	Genbank	CDS	87956	88540	.	+	0	ID=cds-AHC54840.1;Parent=gene-TNS_ORF122;Dbxref=NCBI_GP:AHC54840.1;Name=AHC54840.1;gbkey=CDS;locus_tag=TNS_ORF122;product=hypothetical protein;protein_id=AHC54840.1
+KF483846.1	Genbank	gene	88563	88946	.	-	.	ID=gene-TNS_ORF123;Name=TNS_ORF123;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF123
+KF483846.1	Genbank	CDS	88563	88946	.	-	0	ID=cds-AHC54841.1;Parent=gene-TNS_ORF123;Dbxref=NCBI_GP:AHC54841.1;Name=AHC54841.1;gbkey=CDS;locus_tag=TNS_ORF123;product=hypothetical protein;protein_id=AHC54841.1
+KF483846.1	Genbank	gene	88975	91350	.	+	.	ID=gene-TNS_ORF124;Name=TNS_ORF124;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF124
+KF483846.1	Genbank	CDS	88975	91350	.	+	0	ID=cds-AHC54842.1;Parent=gene-TNS_ORF124;Dbxref=NCBI_GP:AHC54842.1;Name=AHC54842.1;gbkey=CDS;locus_tag=TNS_ORF124;product=D6/D11-like helicase;protein_id=AHC54842.1
+KF483846.1	Genbank	gene	91690	91914	.	-	.	ID=gene-TNS_ORF125;Name=TNS_ORF125;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF125
+KF483846.1	Genbank	CDS	91690	91914	.	-	0	ID=cds-AHC54843.1;Parent=gene-TNS_ORF125;Dbxref=NCBI_GP:AHC54843.1;Name=AHC54843.1;gbkey=CDS;locus_tag=TNS_ORF125;product=hypothetical protein;protein_id=AHC54843.1
+KF483846.1	Genbank	gene	91941	92342	.	-	.	ID=gene-TNS_ORF126;Name=TNS_ORF126;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF126
+KF483846.1	Genbank	CDS	91941	92342	.	-	0	ID=cds-AHC54844.1;Parent=gene-TNS_ORF126;Dbxref=NCBI_GP:AHC54844.1;Name=AHC54844.1;gbkey=CDS;locus_tag=TNS_ORF126;product=hypothetical protein;protein_id=AHC54844.1
+KF483846.1	Genbank	gene	92343	93080	.	-	.	ID=gene-TNS_ORF127;Name=TNS_ORF127;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF127
+KF483846.1	Genbank	CDS	92343	93080	.	-	0	ID=cds-AHC54845.1;Parent=gene-TNS_ORF127;Dbxref=NCBI_GP:AHC54845.1;Name=AHC54845.1;gbkey=CDS;locus_tag=TNS_ORF127;product=putative RuvC-like Holliday junction resolvase;protein_id=AHC54845.1
+KF483846.1	Genbank	gene	93136	93588	.	-	.	ID=gene-TNS_ORF128;Name=TNS_ORF128;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF128
+KF483846.1	Genbank	CDS	93136	93588	.	-	0	ID=cds-AHC54846.1;Parent=gene-TNS_ORF128;Dbxref=NCBI_GP:AHC54846.1;Name=AHC54846.1;gbkey=CDS;locus_tag=TNS_ORF128;product=putative deoxynucleoside monophosphate kinase;protein_id=AHC54846.1
+KF483846.1	Genbank	gene	93620	93937	.	+	.	ID=gene-TNS_ORF129;Name=TNS_ORF129;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF129
+KF483846.1	Genbank	CDS	93620	93937	.	+	0	ID=cds-AHC54847.1;Parent=gene-TNS_ORF129;Dbxref=NCBI_GP:AHC54847.1;Name=AHC54847.1;gbkey=CDS;locus_tag=TNS_ORF129;product=hypothetical protein;protein_id=AHC54847.1
+KF483846.1	Genbank	gene	93956	94612	.	-	.	ID=gene-TNS_ORF130;Name=TNS_ORF130;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF130
+KF483846.1	Genbank	CDS	93956	94612	.	-	0	ID=cds-AHC54848.1;Parent=gene-TNS_ORF130;Dbxref=NCBI_GP:AHC54848.1;Name=AHC54848.1;gbkey=CDS;locus_tag=TNS_ORF130;product=hypothetical protein;protein_id=AHC54848.1
+KF483846.1	Genbank	gene	94882	95538	.	+	.	ID=gene-TNS_ORF131;Name=TNS_ORF131;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF131
+KF483846.1	Genbank	CDS	94882	95538	.	+	0	ID=cds-AHC54849.1;Parent=gene-TNS_ORF131;Dbxref=NCBI_GP:AHC54849.1;Name=AHC54849.1;gbkey=CDS;locus_tag=TNS_ORF131;product=hypothetical protein;protein_id=AHC54849.1
+KF483846.1	Genbank	gene	95558	96022	.	-	.	ID=gene-TNS_ORF132;Name=TNS_ORF132;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF132
+KF483846.1	Genbank	CDS	95558	96022	.	-	0	ID=cds-AHC54850.1;Parent=gene-TNS_ORF132;Dbxref=NCBI_GP:AHC54850.1;Name=AHC54850.1;gbkey=CDS;locus_tag=TNS_ORF132;product=transcription factor S-II;protein_id=AHC54850.1
+KF483846.1	Genbank	gene	96071	97108	.	+	.	ID=gene-TNS_ORF133;Name=TNS_ORF133;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF133
+KF483846.1	Genbank	CDS	96071	97108	.	+	0	ID=cds-AHC54851.1;Parent=gene-TNS_ORF133;Dbxref=NCBI_GP:AHC54851.1;Name=AHC54851.1;gbkey=CDS;locus_tag=TNS_ORF133;product=putative class 3 lipase;protein_id=AHC54851.1
+KF483846.1	Genbank	gene	97181	97930	.	-	.	ID=gene-TNS_ORF134;Name=TNS_ORF134;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF134
+KF483846.1	Genbank	CDS	97181	97930	.	-	0	ID=cds-AHC54852.1;Parent=gene-TNS_ORF134;Dbxref=NCBI_GP:AHC54852.1;Name=AHC54852.1;gbkey=CDS;locus_tag=TNS_ORF134;product=hypothetical protein;protein_id=AHC54852.1
+KF483846.1	Genbank	gene	97970	98314	.	-	.	ID=gene-TNS_ORF135;Name=TNS_ORF135;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF135
+KF483846.1	Genbank	CDS	97970	98314	.	-	0	ID=cds-AHC54853.1;Parent=gene-TNS_ORF135;Dbxref=NCBI_GP:AHC54853.1;Name=AHC54853.1;gbkey=CDS;locus_tag=TNS_ORF135;product=hypothetical protein;protein_id=AHC54853.1
+KF483846.1	Genbank	gene	98324	100753	.	-	.	ID=gene-TNS_ORF136;Name=TNS_ORF136;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF136
+KF483846.1	Genbank	CDS	98324	100753	.	-	0	ID=cds-AHC54854.1;Parent=gene-TNS_ORF136;Dbxref=NCBI_GP:AHC54854.1;Name=AHC54854.1;gbkey=CDS;locus_tag=TNS_ORF136;product=hypothetical protein;protein_id=AHC54854.1
+KF483846.1	Genbank	gene	100795	101421	.	+	.	ID=gene-TNS_ORF137;Name=TNS_ORF137;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF137
+KF483846.1	Genbank	CDS	100795	101421	.	+	0	ID=cds-AHC54855.1;Parent=gene-TNS_ORF137;Dbxref=NCBI_GP:AHC54855.1;Name=AHC54855.1;gbkey=CDS;locus_tag=TNS_ORF137;product=putative RNA methyltransferase;protein_id=AHC54855.1
+KF483846.1	Genbank	gene	101447	102334	.	+	.	ID=gene-TNS_ORF138;Name=TNS_ORF138;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF138
+KF483846.1	Genbank	CDS	101447	102334	.	+	0	ID=cds-AHC54856.1;Parent=gene-TNS_ORF138;Dbxref=NCBI_GP:AHC54856.1;Name=AHC54856.1;gbkey=CDS;locus_tag=TNS_ORF138;product=putative patatin-like phospholipase;protein_id=AHC54856.1
+KF483846.1	Genbank	gene	102407	103165	.	+	.	ID=gene-TNS_ORF139;Name=TNS_ORF139;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF139
+KF483846.1	Genbank	CDS	102407	103165	.	+	0	ID=cds-AHC54857.1;Parent=gene-TNS_ORF139;Dbxref=NCBI_GP:AHC54857.1;Name=AHC54857.1;gbkey=CDS;locus_tag=TNS_ORF139;product=hypothetical protein;protein_id=AHC54857.1
+KF483846.1	Genbank	gene	103137	103559	.	+	.	ID=gene-TNS_ORF140;Name=TNS_ORF140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF140
+KF483846.1	Genbank	CDS	103137	103559	.	+	0	ID=cds-AHC54858.1;Parent=gene-TNS_ORF140;Dbxref=NCBI_GP:AHC54858.1;Name=AHC54858.1;gbkey=CDS;locus_tag=TNS_ORF140;product=hypothetical protein;protein_id=AHC54858.1
+KF483846.1	Genbank	gene	103581	104783	.	-	.	ID=gene-TNS_ORF141;Name=TNS_ORF141;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF141
+KF483846.1	Genbank	CDS	103581	104783	.	-	0	ID=cds-AHC54859.1;Parent=gene-TNS_ORF141;Dbxref=NCBI_GP:AHC54859.1;Name=AHC54859.1;gbkey=CDS;locus_tag=TNS_ORF141;product=hypothetical protein;protein_id=AHC54859.1
+KF483846.1	Genbank	gene	104831	105790	.	-	.	ID=gene-TNS_ORF142;Name=TNS_ORF142;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF142
+KF483846.1	Genbank	CDS	104831	105790	.	-	0	ID=cds-AHC54860.1;Parent=gene-TNS_ORF142;Dbxref=NCBI_GP:AHC54860.1;Name=AHC54860.1;gbkey=CDS;locus_tag=TNS_ORF142;product=hypothetical protein;protein_id=AHC54860.1;transl_except=(pos:complement(105788..105790)%2Caa:Met)
+KF483846.1	Genbank	gene	106040	106450	.	-	.	ID=gene-TNS_ORF143;Name=TNS_ORF143;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF143
+KF483846.1	Genbank	CDS	106040	106450	.	-	0	ID=cds-AHC54861.1;Parent=gene-TNS_ORF143;Dbxref=NCBI_GP:AHC54861.1;Name=AHC54861.1;gbkey=CDS;locus_tag=TNS_ORF143;product=thioredoxin;protein_id=AHC54861.1
+KF483846.1	Genbank	gene	106447	106887	.	-	.	ID=gene-TNS_ORF144;Name=TNS_ORF144;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF144
+KF483846.1	Genbank	CDS	106447	106887	.	-	0	ID=cds-AHC54862.1;Parent=gene-TNS_ORF144;Dbxref=NCBI_GP:AHC54862.1;Name=AHC54862.1;gbkey=CDS;locus_tag=TNS_ORF144;product=hypothetical protein;protein_id=AHC54862.1
+KF483846.1	Genbank	gene	106890	107837	.	-	.	ID=gene-TNS_ORF145;Name=TNS_ORF145;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF145
+KF483846.1	Genbank	CDS	106890	107837	.	-	0	ID=cds-AHC54863.1;Parent=gene-TNS_ORF145;Dbxref=NCBI_GP:AHC54863.1;Name=AHC54863.1;gbkey=CDS;locus_tag=TNS_ORF145;product=hypothetical protein;protein_id=AHC54863.1
+KF483846.1	Genbank	gene	107881	108135	.	-	.	ID=gene-TNS_ORF146;Name=TNS_ORF146;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF146
+KF483846.1	Genbank	CDS	107881	108135	.	-	0	ID=cds-AHC54864.1;Parent=gene-TNS_ORF146;Dbxref=NCBI_GP:AHC54864.1;Name=AHC54864.1;gbkey=CDS;locus_tag=TNS_ORF146;product=hypothetical protein;protein_id=AHC54864.1
+KF483846.1	Genbank	gene	108149	108508	.	-	.	ID=gene-TNS_ORF147;Name=TNS_ORF147;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF147
+KF483846.1	Genbank	CDS	108149	108508	.	-	0	ID=cds-AHC54865.1;Parent=gene-TNS_ORF147;Dbxref=NCBI_GP:AHC54865.1;Name=AHC54865.1;gbkey=CDS;locus_tag=TNS_ORF147;product=hypothetical protein;protein_id=AHC54865.1
+KF483846.1	Genbank	gene	108535	108858	.	+	.	ID=gene-TNS_ORF148;Name=TNS_ORF148;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF148
+KF483846.1	Genbank	CDS	108535	108858	.	+	0	ID=cds-AHC54866.1;Parent=gene-TNS_ORF148;Dbxref=NCBI_GP:AHC54866.1;Name=AHC54866.1;gbkey=CDS;locus_tag=TNS_ORF148;product=hypothetical protein;protein_id=AHC54866.1
+KF483846.1	Genbank	gene	108875	109435	.	-	.	ID=gene-TNS_ORF149;Name=TNS_ORF149;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF149
+KF483846.1	Genbank	CDS	108875	109435	.	-	0	ID=cds-AHC54867.1;Parent=gene-TNS_ORF149;Dbxref=NCBI_GP:AHC54867.1;Name=AHC54867.1;gbkey=CDS;locus_tag=TNS_ORF149;product=thymidine kinase;protein_id=AHC54867.1
+KF483846.1	Genbank	gene	109467	110039	.	+	.	ID=gene-TNS_ORF150;Name=TNS_ORF150;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF150
+KF483846.1	Genbank	CDS	109467	110039	.	+	0	ID=cds-AHC54868.1;Parent=gene-TNS_ORF150;Dbxref=NCBI_GP:AHC54868.1;Name=AHC54868.1;gbkey=CDS;locus_tag=TNS_ORF150;product=putative zinc finger DNA-binding protein;protein_id=AHC54868.1
+KF483846.1	Genbank	gene	110067	110561	.	+	.	ID=gene-TNS_ORF151;Name=TNS_ORF151;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF151
+KF483846.1	Genbank	CDS	110067	110561	.	+	0	ID=cds-AHC54869.1;Parent=gene-TNS_ORF151;Dbxref=NCBI_GP:AHC54869.1;Name=AHC54869.1;gbkey=CDS;locus_tag=TNS_ORF151;product=hypothetical protein;protein_id=AHC54869.1
+KF483846.1	Genbank	gene	110558	111391	.	-	.	ID=gene-TNS_ORF152;Name=TNS_ORF152;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF152
+KF483846.1	Genbank	CDS	110558	111391	.	-	0	ID=cds-AHC54870.1;Parent=gene-TNS_ORF152;Dbxref=NCBI_GP:AHC54870.1;Name=AHC54870.1;gbkey=CDS;locus_tag=TNS_ORF152;product=hypothetical protein;protein_id=AHC54870.1
+KF483846.1	Genbank	gene	111428	111979	.	+	.	ID=gene-TNS_ORF153;Name=TNS_ORF153;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF153
+KF483846.1	Genbank	CDS	111428	111979	.	+	0	ID=cds-AHC54871.1;Parent=gene-TNS_ORF153;Dbxref=NCBI_GP:AHC54871.1;Name=AHC54871.1;gbkey=CDS;locus_tag=TNS_ORF153;product=hypothetical protein;protein_id=AHC54871.1
+KF483846.1	Genbank	gene	112010	112573	.	+	.	ID=gene-TNS_ORF154;Name=TNS_ORF154;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF154
+KF483846.1	Genbank	CDS	112010	112573	.	+	0	ID=cds-AHC54872.1;Parent=gene-TNS_ORF154;Dbxref=NCBI_GP:AHC54872.1;Name=AHC54872.1;gbkey=CDS;locus_tag=TNS_ORF154;product=hypothetical protein;protein_id=AHC54872.1
+KF483846.1	Genbank	gene	113446	117180	.	-	.	ID=gene-TNS_ORF155;Name=TNS_ORF155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF155
+KF483846.1	Genbank	CDS	113446	117180	.	-	0	ID=cds-AHC54873.1;Parent=gene-TNS_ORF155;Dbxref=NCBI_GP:AHC54873.1;Name=AHC54873.1;gbkey=CDS;locus_tag=TNS_ORF155;product=putative D6/D11-like helicase;protein_id=AHC54873.1;transl_except=(pos:complement(117178..117180)%2Caa:Met)
+KF483846.1	Genbank	gene	117258	117788	.	-	.	ID=gene-TNS_ORF156;Name=TNS_ORF156;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF156
+KF483846.1	Genbank	CDS	117258	117788	.	-	0	ID=cds-AHC54874.1;Parent=gene-TNS_ORF156;Dbxref=NCBI_GP:AHC54874.1;Name=AHC54874.1;gbkey=CDS;locus_tag=TNS_ORF156;product=putative NUDIX hydrolase;protein_id=AHC54874.1
+KF483846.1	Genbank	gene	117839	118798	.	-	.	ID=gene-TNS_ORF157;Name=TNS_ORF157;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF157
+KF483846.1	Genbank	CDS	117839	118798	.	-	0	ID=cds-AHC54875.1;Parent=gene-TNS_ORF157;Dbxref=NCBI_GP:AHC54875.1;Name=AHC54875.1;gbkey=CDS;locus_tag=TNS_ORF157;product=putative ribonuclease III;protein_id=AHC54875.1
+KF483846.1	Genbank	gene	118848	119141	.	-	.	ID=gene-TNS_ORF158;Name=TNS_ORF158;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF158
+KF483846.1	Genbank	CDS	118848	119141	.	-	0	ID=cds-AHC54876.1;Parent=gene-TNS_ORF158;Dbxref=NCBI_GP:AHC54876.1;Name=AHC54876.1;gbkey=CDS;locus_tag=TNS_ORF158;product=hypothetical protein;protein_id=AHC54876.1
+KF483846.1	Genbank	gene	119213	120400	.	+	.	ID=gene-TNS_ORF159;Name=TNS_ORF159;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF159
+KF483846.1	Genbank	CDS	119213	120400	.	+	0	ID=cds-AHC54877.1;Parent=gene-TNS_ORF159;Dbxref=NCBI_GP:AHC54877.1;Name=AHC54877.1;gbkey=CDS;locus_tag=TNS_ORF159;product=putative prophage protein;protein_id=AHC54877.1
+KF483846.1	Genbank	gene	120431	120655	.	-	.	ID=gene-TNS_ORF160;Name=TNS_ORF160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF160
+KF483846.1	Genbank	CDS	120431	120655	.	-	0	ID=cds-AHC54878.1;Parent=gene-TNS_ORF160;Dbxref=NCBI_GP:AHC54878.1;Name=AHC54878.1;gbkey=CDS;locus_tag=TNS_ORF160;product=polyubiquitin;protein_id=AHC54878.1
+KF483846.1	Genbank	gene	121073	122611	.	+	.	ID=gene-TNS_ORF161;Name=TNS_ORF161;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF161
+KF483846.1	Genbank	CDS	121073	122611	.	+	0	ID=cds-AHC54879.1;Parent=gene-TNS_ORF161;Dbxref=NCBI_GP:AHC54879.1;Name=AHC54879.1;gbkey=CDS;locus_tag=TNS_ORF161;product=hypothetical protein;protein_id=AHC54879.1
+KF483846.1	Genbank	gene	122596	123273	.	+	.	ID=gene-TNS_ORF162;Name=TNS_ORF162;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF162
+KF483846.1	Genbank	CDS	122596	123273	.	+	0	ID=cds-AHC54880.1;Parent=gene-TNS_ORF162;Dbxref=NCBI_GP:AHC54880.1;Name=AHC54880.1;gbkey=CDS;locus_tag=TNS_ORF162;product=hypothetical protein;protein_id=AHC54880.1
+KF483846.1	Genbank	gene	123308	123994	.	+	.	ID=gene-TNS_ORF163;Name=TNS_ORF163;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF163
+KF483846.1	Genbank	CDS	123308	123994	.	+	0	ID=cds-AHC54881.1;Parent=gene-TNS_ORF163;Dbxref=NCBI_GP:AHC54881.1;Name=AHC54881.1;gbkey=CDS;locus_tag=TNS_ORF163;product=hypothetical protein;protein_id=AHC54881.1
+KF483846.1	Genbank	gene	123998	124690	.	+	.	ID=gene-TNS_ORF164;Name=TNS_ORF164;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF164
+KF483846.1	Genbank	CDS	123998	124690	.	+	0	ID=cds-AHC54882.1;Parent=gene-TNS_ORF164;Dbxref=NCBI_GP:AHC54882.1;Name=AHC54882.1;gbkey=CDS;locus_tag=TNS_ORF164;product=hypothetical protein;protein_id=AHC54882.1
+KF483846.1	Genbank	gene	124702	126132	.	+	.	ID=gene-TNS_ORF165;Name=TNS_ORF165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF165
+KF483846.1	Genbank	CDS	124702	126132	.	+	0	ID=cds-AHC54883.1;Parent=gene-TNS_ORF165;Dbxref=NCBI_GP:AHC54883.1;Name=AHC54883.1;gbkey=CDS;locus_tag=TNS_ORF165;product=hypothetical protein;protein_id=AHC54883.1
+KF483846.1	Genbank	gene	126161	126433	.	+	.	ID=gene-TNS_ORF166;Name=TNS_ORF166;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF166
+KF483846.1	Genbank	CDS	126161	126433	.	+	0	ID=cds-AHC54884.1;Parent=gene-TNS_ORF166;Dbxref=NCBI_GP:AHC54884.1;Name=AHC54884.1;gbkey=CDS;locus_tag=TNS_ORF166;product=hypothetical protein;protein_id=AHC54884.1
+KF483846.1	Genbank	gene	126449	126691	.	+	.	ID=gene-TNS_ORF167;Name=TNS_ORF167;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF167
+KF483846.1	Genbank	CDS	126449	126691	.	+	0	ID=cds-AHC54885.1;Parent=gene-TNS_ORF167;Dbxref=NCBI_GP:AHC54885.1;Name=AHC54885.1;gbkey=CDS;locus_tag=TNS_ORF167;product=hypothetical protein;protein_id=AHC54885.1
+KF483846.1	Genbank	gene	126684	129452	.	+	.	ID=gene-TNS_ORF168;Name=TNS_ORF168;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF168
+KF483846.1	Genbank	CDS	126684	129452	.	+	0	ID=cds-AHC54886.1;Parent=gene-TNS_ORF168;Dbxref=NCBI_GP:AHC54886.1;Name=AHC54886.1;gbkey=CDS;locus_tag=TNS_ORF168;product=putative serine/threonine protein kinase;protein_id=AHC54886.1
+KF483846.1	Genbank	gene	129482	130165	.	+	.	ID=gene-TNS_ORF169;Name=TNS_ORF169;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF169
+KF483846.1	Genbank	CDS	129482	130165	.	+	0	ID=cds-AHC54887.1;Parent=gene-TNS_ORF169;Dbxref=NCBI_GP:AHC54887.1;Name=AHC54887.1;gbkey=CDS;locus_tag=TNS_ORF169;product=hypothetical protein;protein_id=AHC54887.1
+KF483846.1	Genbank	gene	130153	130401	.	+	.	ID=gene-TNS_ORF170;Name=TNS_ORF170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF170
+KF483846.1	Genbank	CDS	130153	130401	.	+	0	ID=cds-AHC54888.1;Parent=gene-TNS_ORF170;Dbxref=NCBI_GP:AHC54888.1;Name=AHC54888.1;gbkey=CDS;locus_tag=TNS_ORF170;product=hypothetical protein;protein_id=AHC54888.1
+KF483846.1	Genbank	gene	130370	130597	.	-	.	ID=gene-TNS_ORF171;Name=TNS_ORF171;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF171
+KF483846.1	Genbank	CDS	130370	130597	.	-	0	ID=cds-AHC54889.1;Parent=gene-TNS_ORF171;Dbxref=NCBI_GP:AHC54889.1;Name=AHC54889.1;gbkey=CDS;locus_tag=TNS_ORF171;product=putative ubiquitin;protein_id=AHC54889.1
+KF483846.1	Genbank	gene	131180	131914	.	+	.	ID=gene-TNS_ORF172;Name=TNS_ORF172;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF172
+KF483846.1	Genbank	CDS	131180	131914	.	+	0	ID=cds-AHC54890.1;Parent=gene-TNS_ORF172;Dbxref=NCBI_GP:AHC54890.1;Name=AHC54890.1;gbkey=CDS;locus_tag=TNS_ORF172;product=hypothetical protein;protein_id=AHC54890.1;transl_except=(pos:131180..131182%2Caa:Met)
+KF483846.1	Genbank	gene	132463	133857	.	-	.	ID=gene-TNS_ORF173;Name=TNS_ORF173;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF173
+KF483846.1	Genbank	CDS	132463	133857	.	-	0	ID=cds-AHC54891.1;Parent=gene-TNS_ORF173;Dbxref=NCBI_GP:AHC54891.1;Name=AHC54891.1;gbkey=CDS;locus_tag=TNS_ORF173;product=putative MutH/Vsr/archaeal HJR-like endonuclease;protein_id=AHC54891.1
+KF483846.1	Genbank	gene	133935	134246	.	-	.	ID=gene-TNS_ORF174;Name=TNS_ORF174;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF174
+KF483846.1	Genbank	CDS	133935	134246	.	-	0	ID=cds-AHC54892.1;Parent=gene-TNS_ORF174;Dbxref=NCBI_GP:AHC54892.1;Name=AHC54892.1;gbkey=CDS;locus_tag=TNS_ORF174;product=hypothetical protein;protein_id=AHC54892.1
+KF483846.1	Genbank	gene	134276	135316	.	+	.	ID=gene-TNS_ORF175;Name=TNS_ORF175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF175
+KF483846.1	Genbank	CDS	134276	135316	.	+	0	ID=cds-AHC54893.1;Parent=gene-TNS_ORF175;Dbxref=NCBI_GP:AHC54893.1;Name=AHC54893.1;gbkey=CDS;locus_tag=TNS_ORF175;product=hypothetical protein;protein_id=AHC54893.1
+KF483846.1	Genbank	gene	135330	135962	.	-	.	ID=gene-TNS_ORF176;Name=TNS_ORF176;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF176
+KF483846.1	Genbank	CDS	135330	135962	.	-	0	ID=cds-AHC54894.1;Parent=gene-TNS_ORF176;Dbxref=NCBI_GP:AHC54894.1;Name=AHC54894.1;gbkey=CDS;locus_tag=TNS_ORF176;product=hypothetical protein;protein_id=AHC54894.1
+KF483846.1	Genbank	gene	135999	136295	.	-	.	ID=gene-TNS_ORF177;Name=TNS_ORF177;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF177
+KF483846.1	Genbank	CDS	135999	136295	.	-	0	ID=cds-AHC54895.1;Parent=gene-TNS_ORF177;Dbxref=NCBI_GP:AHC54895.1;Name=AHC54895.1;gbkey=CDS;locus_tag=TNS_ORF177;product=hypothetical protein;protein_id=AHC54895.1
+KF483846.1	Genbank	gene	136326	136568	.	-	.	ID=gene-TNS_ORF178;Name=TNS_ORF178;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF178
+KF483846.1	Genbank	CDS	136326	136568	.	-	0	ID=cds-AHC54896.1;Parent=gene-TNS_ORF178;Dbxref=NCBI_GP:AHC54896.1;Name=AHC54896.1;gbkey=CDS;locus_tag=TNS_ORF178;product=hypothetical protein;protein_id=AHC54896.1
+KF483846.1	Genbank	gene	136582	136770	.	-	.	ID=gene-TNS_ORF179;Name=TNS_ORF179;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF179
+KF483846.1	Genbank	CDS	136582	136770	.	-	0	ID=cds-AHC54897.1;Parent=gene-TNS_ORF179;Dbxref=NCBI_GP:AHC54897.1;Name=AHC54897.1;gbkey=CDS;locus_tag=TNS_ORF179;product=putative alkylated DNA repair protein;protein_id=AHC54897.1
+KF483846.1	Genbank	gene	136743	137177	.	-	.	ID=gene-TNS_ORF180;Name=TNS_ORF180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF180
+KF483846.1	Genbank	CDS	136743	137177	.	-	0	ID=cds-AHC54898.1;Parent=gene-TNS_ORF180;Dbxref=NCBI_GP:AHC54898.1;Name=AHC54898.1;gbkey=CDS;locus_tag=TNS_ORF180;product=putative alkylated DNA repair protein;protein_id=AHC54898.1
+KF483846.1	Genbank	gene	137183	137758	.	-	.	ID=gene-TNS_ORF181;Name=TNS_ORF181;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF181
+KF483846.1	Genbank	CDS	137183	137758	.	-	0	ID=cds-AHC54899.1;Parent=gene-TNS_ORF181;Dbxref=NCBI_GP:AHC54899.1;Name=AHC54899.1;gbkey=CDS;locus_tag=TNS_ORF181;product=hypothetical protein;protein_id=AHC54899.1
+KF483846.1	Genbank	gene	138029	138421	.	-	.	ID=gene-TNS_ORF182;Name=TNS_ORF182;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF182
+KF483846.1	Genbank	CDS	138029	138421	.	-	0	ID=cds-AHC54900.1;Parent=gene-TNS_ORF182;Dbxref=NCBI_GP:AHC54900.1;Name=AHC54900.1;gbkey=CDS;locus_tag=TNS_ORF182;product=hypothetical protein;protein_id=AHC54900.1
+KF483846.1	Genbank	gene	138457	139569	.	-	.	ID=gene-TNS_ORF183;Name=TNS_ORF183;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF183
+KF483846.1	Genbank	CDS	138457	139569	.	-	0	ID=cds-AHC54901.1;Parent=gene-TNS_ORF183;Dbxref=NCBI_GP:AHC54901.1;Name=AHC54901.1;gbkey=CDS;locus_tag=TNS_ORF183;product=serine/threonine protein kinase;protein_id=AHC54901.1
+KF483846.1	Genbank	gene	139600	139890	.	-	.	ID=gene-TNS_ORF184;Name=TNS_ORF184;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF184
+KF483846.1	Genbank	CDS	139600	139890	.	-	0	ID=cds-AHC54902.1;Parent=gene-TNS_ORF184;Dbxref=NCBI_GP:AHC54902.1;Name=AHC54902.1;gbkey=CDS;locus_tag=TNS_ORF184;product=hypothetical protein;protein_id=AHC54902.1
+KF483846.1	Genbank	gene	139965	140426	.	+	.	ID=gene-TNS_ORF185;Name=TNS_ORF185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF185
+KF483846.1	Genbank	CDS	139965	140426	.	+	0	ID=cds-AHC54903.1;Parent=gene-TNS_ORF185;Dbxref=NCBI_GP:AHC54903.1;Name=AHC54903.1;gbkey=CDS;locus_tag=TNS_ORF185;product=hypothetical protein;protein_id=AHC54903.1
+KF483846.1	Genbank	gene	140627	141364	.	-	.	ID=gene-TNS_ORF186;Name=TNS_ORF186;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF186
+KF483846.1	Genbank	CDS	140627	141364	.	-	0	ID=cds-AHC54904.1;Parent=gene-TNS_ORF186;Dbxref=NCBI_GP:AHC54904.1;Name=AHC54904.1;gbkey=CDS;locus_tag=TNS_ORF186;product=hypothetical protein;protein_id=AHC54904.1
+KF483846.1	Genbank	gene	141459	142418	.	+	.	ID=gene-TNS_ORF187;Name=TNS_ORF187;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF187
+KF483846.1	Genbank	CDS	141459	142418	.	+	0	ID=cds-AHC54905.1;Parent=gene-TNS_ORF187;Dbxref=NCBI_GP:AHC54905.1;Name=AHC54905.1;gbkey=CDS;locus_tag=TNS_ORF187;product=small chain ribonucleotide reductase;protein_id=AHC54905.1
+KF483846.1	Genbank	gene	142454	143269	.	-	.	ID=gene-TNS_ORF188;Name=TNS_ORF188;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF188
+KF483846.1	Genbank	CDS	142454	143269	.	-	0	ID=cds-AHC54906.1;Parent=gene-TNS_ORF188;Dbxref=NCBI_GP:AHC54906.1;Name=AHC54906.1;gbkey=CDS;locus_tag=TNS_ORF188;product=chaperone protein DnaJ;protein_id=AHC54906.1
+KF483846.1	Genbank	gene	143318	143563	.	-	.	ID=gene-TNS_ORF189;Name=TNS_ORF189;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF189
+KF483846.1	Genbank	CDS	143318	143563	.	-	0	ID=cds-AHC54907.1;Parent=gene-TNS_ORF189;Dbxref=NCBI_GP:AHC54907.1;Name=AHC54907.1;gbkey=CDS;locus_tag=TNS_ORF189;product=hypothetical protein;protein_id=AHC54907.1
+KF483846.1	Genbank	gene	143590	144918	.	+	.	ID=gene-TNS_ORF190;Name=TNS_ORF190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF190
+KF483846.1	Genbank	CDS	143590	144918	.	+	0	ID=cds-AHC54908.1;Parent=gene-TNS_ORF190;Dbxref=NCBI_GP:AHC54908.1;Name=AHC54908.1;gbkey=CDS;locus_tag=TNS_ORF190;product=putative superfamily II helicase;protein_id=AHC54908.1
+KF483846.1	Genbank	gene	144928	145752	.	-	.	ID=gene-TNS_ORF191;Name=TNS_ORF191;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF191
+KF483846.1	Genbank	CDS	144928	145752	.	-	0	ID=cds-AHC54909.1;Parent=gene-TNS_ORF191;Dbxref=NCBI_GP:AHC54909.1;Name=AHC54909.1;gbkey=CDS;locus_tag=TNS_ORF191;product=putative membrane protein;protein_id=AHC54909.1
+KF483846.1	Genbank	gene	145805	146158	.	-	.	ID=gene-TNS_ORF192;Name=TNS_ORF192;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF192
+KF483846.1	Genbank	CDS	145805	146158	.	-	0	ID=cds-AHC54910.1;Parent=gene-TNS_ORF192;Dbxref=NCBI_GP:AHC54910.1;Name=AHC54910.1;gbkey=CDS;locus_tag=TNS_ORF192;product=hypothetical protein;protein_id=AHC54910.1
+KF483846.1	Genbank	gene	146176	147420	.	+	.	ID=gene-TNS_ORF193;Name=TNS_ORF193;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF193
+KF483846.1	Genbank	CDS	146176	147420	.	+	0	ID=cds-AHC54911.1;Parent=gene-TNS_ORF193;Dbxref=NCBI_GP:AHC54911.1;Name=AHC54911.1;gbkey=CDS;locus_tag=TNS_ORF193;product=putative membrane protein;protein_id=AHC54911.1
+KF483846.1	Genbank	gene	147449	147934	.	-	.	ID=gene-TNS_ORF194;Name=TNS_ORF194;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF194
+KF483846.1	Genbank	CDS	147449	147934	.	-	0	ID=cds-AHC54912.1;Parent=gene-TNS_ORF194;Dbxref=NCBI_GP:AHC54912.1;Name=AHC54912.1;gbkey=CDS;locus_tag=TNS_ORF194;product=hypothetical protein;protein_id=AHC54912.1
+KF483846.1	Genbank	gene	147978	148439	.	-	.	ID=gene-TNS_ORF195;Name=TNS_ORF195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF195
+KF483846.1	Genbank	CDS	147978	148439	.	-	0	ID=cds-AHC54913.1;Parent=gene-TNS_ORF195;Dbxref=NCBI_GP:AHC54913.1;Name=AHC54913.1;gbkey=CDS;locus_tag=TNS_ORF195;product=putative nuclease;protein_id=AHC54913.1
+KF483846.1	Genbank	gene	148539	148991	.	-	.	ID=gene-TNS_ORF196;Name=TNS_ORF196;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF196
+KF483846.1	Genbank	CDS	148539	148991	.	-	0	ID=cds-AHC54914.1;Parent=gene-TNS_ORF196;Dbxref=NCBI_GP:AHC54914.1;Name=AHC54914.1;gbkey=CDS;locus_tag=TNS_ORF196;product=hypothetical protein;protein_id=AHC54914.1
+KF483846.1	Genbank	gene	149047	150969	.	+	.	ID=gene-TNS_ORF197;Name=TNS_ORF197;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF197
+KF483846.1	Genbank	CDS	149047	150969	.	+	0	ID=cds-AHC54915.1;Parent=gene-TNS_ORF197;Dbxref=NCBI_GP:AHC54915.1;Name=AHC54915.1;gbkey=CDS;locus_tag=TNS_ORF197;product=putative glycosyltransferase;protein_id=AHC54915.1
+KF483846.1	Genbank	gene	150995	151444	.	+	.	ID=gene-TNS_ORF198;Name=TNS_ORF198;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF198
+KF483846.1	Genbank	CDS	150995	151444	.	+	0	ID=cds-AHC54916.1;Parent=gene-TNS_ORF198;Dbxref=NCBI_GP:AHC54916.1;Name=AHC54916.1;gbkey=CDS;locus_tag=TNS_ORF198;product=hypothetical protein;protein_id=AHC54916.1
+KF483846.1	Genbank	gene	151462	151920	.	+	.	ID=gene-TNS_ORF199;Name=TNS_ORF199;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF199
+KF483846.1	Genbank	CDS	151462	151920	.	+	0	ID=cds-AHC54917.1;Parent=gene-TNS_ORF199;Dbxref=NCBI_GP:AHC54917.1;Name=AHC54917.1;gbkey=CDS;locus_tag=TNS_ORF199;product=putative membrane protein;protein_id=AHC54917.1
+KF483846.1	Genbank	gene	151917	152183	.	+	.	ID=gene-TNS_ORF200;Name=TNS_ORF200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF200
+KF483846.1	Genbank	CDS	151917	152183	.	+	0	ID=cds-AHC54918.1;Parent=gene-TNS_ORF200;Dbxref=NCBI_GP:AHC54918.1;Name=AHC54918.1;gbkey=CDS;locus_tag=TNS_ORF200;product=hypothetical protein;protein_id=AHC54918.1
+KF483846.1	Genbank	gene	152262	152858	.	-	.	ID=gene-TNS_ORF201;Name=TNS_ORF201;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF201
+KF483846.1	Genbank	CDS	152262	152858	.	-	0	ID=cds-AHC54919.1;Parent=gene-TNS_ORF201;Dbxref=NCBI_GP:AHC54919.1;Name=AHC54919.1;gbkey=CDS;locus_tag=TNS_ORF201;product=hypothetical protein;protein_id=AHC54919.1
+KF483846.1	Genbank	gene	152901	153332	.	-	.	ID=gene-TNS_ORF202;Name=TNS_ORF202;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF202
+KF483846.1	Genbank	CDS	152901	153332	.	-	0	ID=cds-AHC54920.1;Parent=gene-TNS_ORF202;Dbxref=NCBI_GP:AHC54920.1;Name=AHC54920.1;gbkey=CDS;locus_tag=TNS_ORF202;product=putative metallopeptidase WLM;protein_id=AHC54920.1
+KF483846.1	Genbank	gene	153366	154178	.	-	.	ID=gene-TNS_ORF203;Name=TNS_ORF203;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF203
+KF483846.1	Genbank	CDS	153366	154178	.	-	0	ID=cds-AHC54921.1;Parent=gene-TNS_ORF203;Dbxref=NCBI_GP:AHC54921.1;Name=AHC54921.1;gbkey=CDS;locus_tag=TNS_ORF203;product=NUDIX hydrolase;protein_id=AHC54921.1
+KF483846.1	Genbank	gene	154251	155837	.	+	.	ID=gene-TNS_ORF204;Name=TNS_ORF204;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF204
+KF483846.1	Genbank	CDS	154251	155837	.	+	0	ID=cds-AHC54922.1;Parent=gene-TNS_ORF204;Dbxref=NCBI_GP:AHC54922.1;Name=AHC54922.1;gbkey=CDS;locus_tag=TNS_ORF204;product=papain cysteine peptidase;protein_id=AHC54922.1
+KF483846.1	Genbank	gene	155898	157160	.	+	.	ID=gene-TNS_ORF205;Name=TNS_ORF205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF205
+KF483846.1	Genbank	CDS	155898	157160	.	+	0	ID=cds-AHC54923.1;Parent=gene-TNS_ORF205;Dbxref=NCBI_GP:AHC54923.1;Name=AHC54923.1;gbkey=CDS;locus_tag=TNS_ORF205;product=putative membrane protein;protein_id=AHC54923.1
+KF483846.1	Genbank	gene	157161	157355	.	+	.	ID=gene-TNS_ORF206;Name=TNS_ORF206;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF206
+KF483846.1	Genbank	CDS	157161	157355	.	+	0	ID=cds-AHC54924.1;Parent=gene-TNS_ORF206;Dbxref=NCBI_GP:AHC54924.1;Name=AHC54924.1;gbkey=CDS;locus_tag=TNS_ORF206;product=hypothetical protein;protein_id=AHC54924.1
+KF483846.1	Genbank	gene	157530	158039	.	+	.	ID=gene-TNS_ORF207;Name=TNS_ORF207;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF207
+KF483846.1	Genbank	CDS	157530	158039	.	+	0	ID=cds-AHC54925.1;Parent=gene-TNS_ORF207;Dbxref=NCBI_GP:AHC54925.1;Name=AHC54925.1;gbkey=CDS;locus_tag=TNS_ORF207;product=hypothetical protein;protein_id=AHC54925.1
+KF483846.1	Genbank	gene	158060	158653	.	-	.	ID=gene-TNS_ORF208;Name=TNS_ORF208;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF208
+KF483846.1	Genbank	CDS	158060	158653	.	-	0	ID=cds-AHC54926.1;Parent=gene-TNS_ORF208;Dbxref=NCBI_GP:AHC54926.1;Name=AHC54926.1;gbkey=CDS;locus_tag=TNS_ORF208;product=hypothetical protein;protein_id=AHC54926.1
+KF483846.1	Genbank	gene	158700	159185	.	+	.	ID=gene-TNS_ORF209;Name=TNS_ORF209;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF209
+KF483846.1	Genbank	CDS	158700	159185	.	+	0	ID=cds-AHC54927.1;Parent=gene-TNS_ORF209;Dbxref=NCBI_GP:AHC54927.1;Name=AHC54927.1;gbkey=CDS;locus_tag=TNS_ORF209;product=hypothetical protein;protein_id=AHC54927.1
+KF483846.1	Genbank	gene	159202	160536	.	+	.	ID=gene-TNS_ORF210;Name=TNS_ORF210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF210
+KF483846.1	Genbank	CDS	159202	160536	.	+	0	ID=cds-AHC54928.1;Parent=gene-TNS_ORF210;Dbxref=NCBI_GP:AHC54928.1;Name=AHC54928.1;gbkey=CDS;locus_tag=TNS_ORF210;product=papain cysteine peptidase;protein_id=AHC54928.1
+KF483846.1	Genbank	gene	161041	161961	.	-	.	ID=gene-TNS_ORF211;Name=TNS_ORF211;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF211
+KF483846.1	Genbank	CDS	161041	161961	.	-	0	ID=cds-AHC54929.1;Parent=gene-TNS_ORF211;Dbxref=NCBI_GP:AHC54929.1;Name=AHC54929.1;gbkey=CDS;locus_tag=TNS_ORF211;product=hypothetical protein;protein_id=AHC54929.1
+KF483846.1	Genbank	gene	162205	162876	.	-	.	ID=gene-TNS_ORF212;Name=TNS_ORF212;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF212
+KF483846.1	Genbank	CDS	162205	162876	.	-	0	ID=cds-AHC54930.1;Parent=gene-TNS_ORF212;Dbxref=NCBI_GP:AHC54930.1;Name=AHC54930.1;gbkey=CDS;locus_tag=TNS_ORF212;product=SWIB/MDM2 domain containing protein;protein_id=AHC54930.1
+KF483846.1	Genbank	gene	163008	163904	.	+	.	ID=gene-TNS_ORF213;Name=TNS_ORF213;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF213
+KF483846.1	Genbank	CDS	163008	163904	.	+	0	ID=cds-AHC54931.1;Parent=gene-TNS_ORF213;Dbxref=NCBI_GP:AHC54931.1;Name=AHC54931.1;gbkey=CDS;locus_tag=TNS_ORF213;product=hypothetical protein;protein_id=AHC54931.1
+KF483846.1	Genbank	gene	163949	164812	.	+	.	ID=gene-TNS_ORF214;Name=TNS_ORF214;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF214
+KF483846.1	Genbank	CDS	163949	164812	.	+	0	ID=cds-AHC54932.1;Parent=gene-TNS_ORF214;Dbxref=NCBI_GP:AHC54932.1;Name=AHC54932.1;gbkey=CDS;locus_tag=TNS_ORF214;product=putative endonuclease family 2;protein_id=AHC54932.1
+KF483846.1	Genbank	gene	164807	165427	.	-	.	ID=gene-TNS_ORF215;Name=TNS_ORF215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF215
+KF483846.1	Genbank	CDS	164807	165427	.	-	0	ID=cds-AHC54933.1;Parent=gene-TNS_ORF215;Dbxref=NCBI_GP:AHC54933.1;Name=AHC54933.1;gbkey=CDS;locus_tag=TNS_ORF215;product=hypothetical protein;protein_id=AHC54933.1
+KF483846.1	Genbank	gene	165777	166982	.	+	.	ID=gene-TNS_ORF216;Name=TNS_ORF216;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF216
+KF483846.1	Genbank	CDS	165777	166982	.	+	0	ID=cds-AHC54934.1;Parent=gene-TNS_ORF216;Dbxref=NCBI_GP:AHC54934.1;Name=AHC54934.1;gbkey=CDS;locus_tag=TNS_ORF216;product=hypothetical protein;protein_id=AHC54934.1
+KF483846.1	Genbank	gene	166973	167440	.	+	.	ID=gene-TNS_ORF217;Name=TNS_ORF217;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF217
+KF483846.1	Genbank	CDS	166973	167440	.	+	0	ID=cds-AHC54935.1;Parent=gene-TNS_ORF217;Dbxref=NCBI_GP:AHC54935.1;Name=AHC54935.1;gbkey=CDS;locus_tag=TNS_ORF217;product=hypothetical protein;protein_id=AHC54935.1
+KF483846.1	Genbank	gene	167480	169126	.	+	.	ID=gene-TNS_ORF218;Name=TNS_ORF218;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF218
+KF483846.1	Genbank	CDS	167480	169126	.	+	0	ID=cds-AHC54936.1;Parent=gene-TNS_ORF218;Dbxref=NCBI_GP:AHC54936.1;Name=AHC54936.1;gbkey=CDS;locus_tag=TNS_ORF218;product=putative Vsr/MutH/archaeal HJR family endonuclease;protein_id=AHC54936.1
+KF483846.1	Genbank	gene	169167	169823	.	-	.	ID=gene-TNS_ORF219;Name=TNS_ORF219;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF219
+KF483846.1	Genbank	CDS	169167	169823	.	-	0	ID=cds-AHC54937.1;Parent=gene-TNS_ORF219;Dbxref=NCBI_GP:AHC54937.1;Name=AHC54937.1;gbkey=CDS;locus_tag=TNS_ORF219;product=hypothetical protein;protein_id=AHC54937.1
+KF483846.1	Genbank	gene	169887	170198	.	-	.	ID=gene-TNS_ORF220;Name=TNS_ORF220;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF220
+KF483846.1	Genbank	CDS	169887	170198	.	-	0	ID=cds-AHC54938.1;Parent=gene-TNS_ORF220;Dbxref=NCBI_GP:AHC54938.1;Name=AHC54938.1;gbkey=CDS;locus_tag=TNS_ORF220;product=hypothetical protein;protein_id=AHC54938.1
+KF483846.1	Genbank	gene	170379	170720	.	+	.	ID=gene-TNS_ORF221;Name=TNS_ORF221;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF221
+KF483846.1	Genbank	CDS	170379	170720	.	+	0	ID=cds-AHC54939.1;Parent=gene-TNS_ORF221;Dbxref=NCBI_GP:AHC54939.1;Name=AHC54939.1;gbkey=CDS;locus_tag=TNS_ORF221;product=hypothetical protein;protein_id=AHC54939.1
+KF483846.1	Genbank	gene	171003	171632	.	+	.	ID=gene-TNS_ORF222;Name=TNS_ORF222;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF222
+KF483846.1	Genbank	CDS	171003	171632	.	+	0	ID=cds-AHC54940.1;Parent=gene-TNS_ORF222;Dbxref=NCBI_GP:AHC54940.1;Name=AHC54940.1;gbkey=CDS;locus_tag=TNS_ORF222;product=hypothetical protein;protein_id=AHC54940.1
+KF483846.1	Genbank	gene	171664	171930	.	-	.	ID=gene-TNS_ORF223;Name=TNS_ORF223;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF223
+KF483846.1	Genbank	CDS	171664	171930	.	-	0	ID=cds-AHC54941.1;Parent=gene-TNS_ORF223;Dbxref=NCBI_GP:AHC54941.1;Name=AHC54941.1;gbkey=CDS;locus_tag=TNS_ORF223;product=hypothetical protein;protein_id=AHC54941.1
+KF483846.1	Genbank	gene	171942	172388	.	+	.	ID=gene-TNS_ORF224;Name=TNS_ORF224;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF224
+KF483846.1	Genbank	CDS	171942	172388	.	+	0	ID=cds-AHC54942.1;Parent=gene-TNS_ORF224;Dbxref=NCBI_GP:AHC54942.1;Name=AHC54942.1;gbkey=CDS;locus_tag=TNS_ORF224;product=putative translation initiation factor;protein_id=AHC54942.1
+KF483846.1	Genbank	gene	172408	173103	.	-	.	ID=gene-TNS_ORF225;Name=TNS_ORF225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF225
+KF483846.1	Genbank	CDS	172408	173103	.	-	0	ID=cds-AHC54943.1;Parent=gene-TNS_ORF225;Dbxref=NCBI_GP:AHC54943.1;Name=AHC54943.1;gbkey=CDS;locus_tag=TNS_ORF225;product=hypothetical protein;protein_id=AHC54943.1
+KF483846.1	Genbank	gene	173090	173443	.	-	.	ID=gene-TNS_ORF226;Name=TNS_ORF226;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF226
+KF483846.1	Genbank	CDS	173090	173443	.	-	0	ID=cds-AHC54944.1;Parent=gene-TNS_ORF226;Dbxref=NCBI_GP:AHC54944.1;Name=AHC54944.1;gbkey=CDS;locus_tag=TNS_ORF226;product=hypothetical protein;protein_id=AHC54944.1
+KF483846.1	Genbank	gene	173500	173751	.	+	.	ID=gene-TNS_ORF227;Name=TNS_ORF227;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF227
+KF483846.1	Genbank	CDS	173500	173751	.	+	0	ID=cds-AHC54945.1;Parent=gene-TNS_ORF227;Dbxref=NCBI_GP:AHC54945.1;Name=AHC54945.1;gbkey=CDS;locus_tag=TNS_ORF227;product=hypothetical protein;protein_id=AHC54945.1
+KF483846.1	Genbank	gene	173777	174286	.	-	.	ID=gene-TNS_ORF228;Name=TNS_ORF228;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF228
+KF483846.1	Genbank	CDS	173777	174286	.	-	0	ID=cds-AHC54946.1;Parent=gene-TNS_ORF228;Dbxref=NCBI_GP:AHC54946.1;Name=AHC54946.1;gbkey=CDS;locus_tag=TNS_ORF228;product=hypothetical protein;protein_id=AHC54946.1
+KF483846.1	Genbank	gene	174359	177763	.	-	.	ID=gene-TNS_ORF229;Name=TNS_ORF229;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF229
+KF483846.1	Genbank	CDS	174359	177763	.	-	0	ID=cds-AHC54947.1;Parent=gene-TNS_ORF229;Dbxref=NCBI_GP:AHC54947.1;Name=AHC54947.1;gbkey=CDS;locus_tag=TNS_ORF229;product=putative early transcription factor large subunit;protein_id=AHC54947.1
+KF483846.1	Genbank	gene	177801	178466	.	+	.	ID=gene-TNS_ORF230;Name=TNS_ORF230;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF230
+KF483846.1	Genbank	CDS	177801	178466	.	+	0	ID=cds-AHC54948.1;Parent=gene-TNS_ORF230;Dbxref=NCBI_GP:AHC54948.1;Name=AHC54948.1;gbkey=CDS;locus_tag=TNS_ORF230;product=putative secreted protein;protein_id=AHC54948.1
+KF483846.1	Genbank	gene	178486	179160	.	-	.	ID=gene-TNS_ORF231;Name=TNS_ORF231;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF231
+KF483846.1	Genbank	CDS	178486	179160	.	-	0	ID=cds-AHC54949.1;Parent=gene-TNS_ORF231;Dbxref=NCBI_GP:AHC54949.1;Name=AHC54949.1;gbkey=CDS;locus_tag=TNS_ORF231;product=hypothetical protein;protein_id=AHC54949.1
+KF483846.1	Genbank	gene	179202	179423	.	-	.	ID=gene-TNS_ORF232;Name=TNS_ORF232;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF232
+KF483846.1	Genbank	CDS	179202	179423	.	-	0	ID=cds-AHC54950.1;Parent=gene-TNS_ORF232;Dbxref=NCBI_GP:AHC54950.1;Name=AHC54950.1;gbkey=CDS;locus_tag=TNS_ORF232;product=hypothetical protein;protein_id=AHC54950.1
+KF483846.1	Genbank	gene	179466	179864	.	+	.	ID=gene-TNS_ORF233;Name=TNS_ORF233;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF233
+KF483846.1	Genbank	CDS	179466	179864	.	+	0	ID=cds-AHC54951.1;Parent=gene-TNS_ORF233;Dbxref=NCBI_GP:AHC54951.1;Name=AHC54951.1;Note=Erv1/Alr family;gbkey=CDS;locus_tag=TNS_ORF233;product=disulfide (thiol) oxidoreductase;protein_id=AHC54951.1
+KF483846.1	Genbank	gene	179904	180281	.	+	.	ID=gene-TNS_ORF234;Name=TNS_ORF234;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF234
+KF483846.1	Genbank	CDS	179904	180281	.	+	0	ID=cds-AHC54952.1;Parent=gene-TNS_ORF234;Dbxref=NCBI_GP:AHC54952.1;Name=AHC54952.1;gbkey=CDS;locus_tag=TNS_ORF234;product=hypothetical protein;protein_id=AHC54952.1
+KF483846.1	Genbank	gene	180283	180435	.	+	.	ID=gene-TNS_ORF235;Name=TNS_ORF235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF235
+KF483846.1	Genbank	CDS	180283	180435	.	+	0	ID=cds-AHC54953.1;Parent=gene-TNS_ORF235;Dbxref=NCBI_GP:AHC54953.1;Name=AHC54953.1;gbkey=CDS;locus_tag=TNS_ORF235;product=hypothetical protein;protein_id=AHC54953.1
+KF483846.1	Genbank	gene	180480	181562	.	+	.	ID=gene-TNS_ORF236;Name=TNS_ORF236;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF236
+KF483846.1	Genbank	CDS	180480	181562	.	+	0	ID=cds-AHC54954.1;Parent=gene-TNS_ORF236;Dbxref=NCBI_GP:AHC54954.1;Name=AHC54954.1;gbkey=CDS;locus_tag=TNS_ORF236;product=hypothetical protein;protein_id=AHC54954.1
+KF483846.1	Genbank	gene	181848	182459	.	+	.	ID=gene-TNS_ORF237;Name=TNS_ORF237;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF237
+KF483846.1	Genbank	CDS	181848	182459	.	+	0	ID=cds-AHC54955.1;Parent=gene-TNS_ORF237;Dbxref=NCBI_GP:AHC54955.1;Name=AHC54955.1;gbkey=CDS;locus_tag=TNS_ORF237;product=putative thioredoxin;protein_id=AHC54955.1
+KF483846.1	Genbank	gene	182505	184904	.	+	.	ID=gene-TNS_ORF238;Name=TNS_ORF238;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF238
+KF483846.1	Genbank	CDS	182505	184904	.	+	0	ID=cds-AHC54956.1;Parent=gene-TNS_ORF238;Dbxref=NCBI_GP:AHC54956.1;Name=AHC54956.1;gbkey=CDS;locus_tag=TNS_ORF238;product=putative mRNA capping enzyme;protein_id=AHC54956.1
+KF483846.1	Genbank	gene	184929	185165	.	+	.	ID=gene-TNS_ORF239;Name=TNS_ORF239;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF239
+KF483846.1	Genbank	CDS	184929	185165	.	+	0	ID=cds-AHC54957.1;Parent=gene-TNS_ORF239;Dbxref=NCBI_GP:AHC54957.1;Name=AHC54957.1;gbkey=CDS;locus_tag=TNS_ORF239;product=hypothetical protein;protein_id=AHC54957.1
+KF483846.1	Genbank	gene	185211	186212	.	+	.	ID=gene-TNS_ORF240;Name=TNS_ORF240;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF240
+KF483846.1	Genbank	CDS	185211	186212	.	+	0	ID=cds-AHC54958.1;Parent=gene-TNS_ORF240;Dbxref=NCBI_GP:AHC54958.1;Name=AHC54958.1;gbkey=CDS;locus_tag=TNS_ORF240;product=putative DNA repair exonuclease;protein_id=AHC54958.1
+KF483846.1	Genbank	gene	186235	188361	.	+	.	ID=gene-TNS_ORF241;Name=TNS_ORF241;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF241
+KF483846.1	Genbank	CDS	186235	188361	.	+	0	ID=cds-AHC54959.1;Parent=gene-TNS_ORF241;Dbxref=NCBI_GP:AHC54959.1;Name=AHC54959.1;gbkey=CDS;locus_tag=TNS_ORF241;product=ankyrin repeat containing protein;protein_id=AHC54959.1
+KF483846.1	Genbank	gene	188416	188700	.	+	.	ID=gene-TNS_ORF242;Name=TNS_ORF242;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF242
+KF483846.1	Genbank	CDS	188416	188700	.	+	0	ID=cds-AHC54960.1;Parent=gene-TNS_ORF242;Dbxref=NCBI_GP:AHC54960.1;Name=AHC54960.1;gbkey=CDS;locus_tag=TNS_ORF242;product=hypothetical protein;protein_id=AHC54960.1
+KF483846.1	Genbank	gene	188767	190056	.	-	.	ID=gene-TNS_ORF243;Name=TNS_ORF243;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF243
+KF483846.1	Genbank	CDS	188767	190056	.	-	0	ID=cds-AHC54961.1;Parent=gene-TNS_ORF243;Dbxref=NCBI_GP:AHC54961.1;Name=AHC54961.1;gbkey=CDS;locus_tag=TNS_ORF243;product=putative restriction endonuclease;protein_id=AHC54961.1
+KF483846.1	Genbank	gene	190127	191644	.	+	.	ID=gene-TNS_ORF244;Name=TNS_ORF244;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF244
+KF483846.1	Genbank	CDS	190127	191644	.	+	0	ID=cds-AHC54962.1;Parent=gene-TNS_ORF244;Dbxref=NCBI_GP:AHC54962.1;Name=AHC54962.1;gbkey=CDS;locus_tag=TNS_ORF244;product=XRN 5'-3' exoribonuclease;protein_id=AHC54962.1
+KF483846.1	Genbank	gene	191672	192079	.	-	.	ID=gene-TNS_ORF245;Name=TNS_ORF245;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF245
+KF483846.1	Genbank	CDS	191672	192079	.	-	0	ID=cds-AHC54963.1;Parent=gene-TNS_ORF245;Dbxref=NCBI_GP:AHC54963.1;Name=AHC54963.1;gbkey=CDS;locus_tag=TNS_ORF245;product=hypothetical protein;protein_id=AHC54963.1
+KF483846.1	Genbank	gene	192049	193053	.	+	.	ID=gene-TNS_ORF246;Name=TNS_ORF246;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF246
+KF483846.1	Genbank	CDS	192049	193053	.	+	0	ID=cds-AHC54964.1;Parent=gene-TNS_ORF246;Dbxref=NCBI_GP:AHC54964.1;Name=AHC54964.1;gbkey=CDS;locus_tag=TNS_ORF246;product=putative glycosyltransferase;protein_id=AHC54964.1
+KF483846.1	Genbank	gene	193184	193834	.	-	.	ID=gene-TNS_ORF247;Name=TNS_ORF247;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF247
+KF483846.1	Genbank	CDS	193184	193834	.	-	0	ID=cds-AHC54965.1;Parent=gene-TNS_ORF247;Dbxref=NCBI_GP:AHC54965.1;Name=AHC54965.1;gbkey=CDS;locus_tag=TNS_ORF247;product=putative ankyrin repeat-containing protein;protein_id=AHC54965.1
+KF483846.1	Genbank	gene	193895	194320	.	+	.	ID=gene-TNS_ORF248;Name=TNS_ORF248;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF248
+KF483846.1	Genbank	CDS	193895	194320	.	+	0	ID=cds-AHC54966.1;Parent=gene-TNS_ORF248;Dbxref=NCBI_GP:AHC54966.1;Name=AHC54966.1;gbkey=CDS;locus_tag=TNS_ORF248;product=thioredoxin;protein_id=AHC54966.1
+KF483846.1	Genbank	gene	194350	194724	.	+	.	ID=gene-TNS_ORF249;Name=TNS_ORF249;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF249
+KF483846.1	Genbank	CDS	194350	194724	.	+	0	ID=cds-AHC54967.1;Parent=gene-TNS_ORF249;Dbxref=NCBI_GP:AHC54967.1;Name=AHC54967.1;gbkey=CDS;locus_tag=TNS_ORF249;product=hypothetical protein;protein_id=AHC54967.1
+KF483846.1	Genbank	gene	194760	195200	.	+	.	ID=gene-TNS_ORF250;Name=TNS_ORF250;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF250
+KF483846.1	Genbank	CDS	194760	195200	.	+	0	ID=cds-AHC54968.1;Parent=gene-TNS_ORF250;Dbxref=NCBI_GP:AHC54968.1;Name=AHC54968.1;gbkey=CDS;locus_tag=TNS_ORF250;product=thioredoxin;protein_id=AHC54968.1
+KF483846.1	Genbank	gene	195223	198558	.	-	.	ID=gene-TNS_ORF251;Name=TNS_ORF251;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF251
+KF483846.1	Genbank	CDS	195223	198558	.	-	0	ID=cds-AHC54969.1;Parent=gene-TNS_ORF251;Dbxref=NCBI_GP:AHC54969.1;Name=AHC54969.1;gbkey=CDS;locus_tag=TNS_ORF251;product=DNA polymerase family B;protein_id=AHC54969.1
+KF483846.1	Genbank	gene	198641	200107	.	+	.	ID=gene-TNS_ORF252;Name=TNS_ORF252;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF252
+KF483846.1	Genbank	CDS	198641	200107	.	+	0	ID=cds-AHC54970.1;Parent=gene-TNS_ORF252;Dbxref=NCBI_GP:AHC54970.1;Name=AHC54970.1;gbkey=CDS;locus_tag=TNS_ORF252;product=ankyrin repeat containing protein;protein_id=AHC54970.1
+KF483846.1	Genbank	gene	200114	200260	.	-	.	ID=gene-TNS_ORF253;Name=TNS_ORF253;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF253
+KF483846.1	Genbank	CDS	200114	200260	.	-	0	ID=cds-AHC54971.1;Parent=gene-TNS_ORF253;Dbxref=NCBI_GP:AHC54971.1;Name=AHC54971.1;gbkey=CDS;locus_tag=TNS_ORF253;product=hypothetical protein;protein_id=AHC54971.1
+KF483846.1	Genbank	gene	200578	201915	.	+	.	ID=gene-TNS_ORF254;Name=TNS_ORF254;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF254
+KF483846.1	Genbank	CDS	200578	201915	.	+	0	ID=cds-AHC54972.1;Parent=gene-TNS_ORF254;Dbxref=NCBI_GP:AHC54972.1;Name=AHC54972.1;gbkey=CDS;locus_tag=TNS_ORF254;product=zinc finger protein;protein_id=AHC54972.1
+KF483846.1	Genbank	gene	201960	202379	.	+	.	ID=gene-TNS_ORF255;Name=TNS_ORF255;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF255
+KF483846.1	Genbank	CDS	201960	202379	.	+	0	ID=cds-AHC54973.1;Parent=gene-TNS_ORF255;Dbxref=NCBI_GP:AHC54973.1;Name=AHC54973.1;gbkey=CDS;locus_tag=TNS_ORF255;product=hypothetical protein;protein_id=AHC54973.1
+KF483846.1	Genbank	gene	202415	202939	.	-	.	ID=gene-TNS_ORF256;Name=TNS_ORF256;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF256
+KF483846.1	Genbank	CDS	202415	202939	.	-	0	ID=cds-AHC54974.1;Parent=gene-TNS_ORF256;Dbxref=NCBI_GP:AHC54974.1;Name=AHC54974.1;gbkey=CDS;locus_tag=TNS_ORF256;product=hypothetical protein;protein_id=AHC54974.1
+KF483846.1	Genbank	gene	202983	203507	.	-	.	ID=gene-TNS_ORF257;Name=TNS_ORF257;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF257
+KF483846.1	Genbank	CDS	202983	203507	.	-	0	ID=cds-AHC54975.1;Parent=gene-TNS_ORF257;Dbxref=NCBI_GP:AHC54975.1;Name=AHC54975.1;gbkey=CDS;locus_tag=TNS_ORF257;product=hypothetical protein;protein_id=AHC54975.1
+KF483846.1	Genbank	gene	203678	204499	.	+	.	ID=gene-TNS_ORF258;Name=TNS_ORF258;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF258
+KF483846.1	Genbank	CDS	203678	204499	.	+	0	ID=cds-AHC54976.1;Parent=gene-TNS_ORF258;Dbxref=NCBI_GP:AHC54976.1;Name=AHC54976.1;gbkey=CDS;locus_tag=TNS_ORF258;product=putative membrane protein;protein_id=AHC54976.1
+KF483846.1	Genbank	gene	204862	205584	.	-	.	ID=gene-TNS_ORF259;Name=TNS_ORF259;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF259
+KF483846.1	Genbank	CDS	204862	205584	.	-	0	ID=cds-AHC54977.1;Parent=gene-TNS_ORF259;Dbxref=NCBI_GP:AHC54977.1;Name=AHC54977.1;gbkey=CDS;locus_tag=TNS_ORF259;product=hypothetical protein;protein_id=AHC54977.1
+KF483846.1	Genbank	gene	205637	206677	.	-	.	ID=gene-TNS_ORF260;Name=TNS_ORF260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF260
+KF483846.1	Genbank	CDS	205637	206677	.	-	0	ID=cds-AHC54978.1;Parent=gene-TNS_ORF260;Dbxref=NCBI_GP:AHC54978.1;Name=AHC54978.1;Note=similar to Poxvirus late transcription factor VLTF3;gbkey=CDS;locus_tag=TNS_ORF260;product=putative transcription factor A2-like protein;protein_id=AHC54978.1
+KF483846.1	Genbank	gene	206793	208217	.	+	.	ID=gene-TNS_ORF261;Name=TNS_ORF261;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF261
+KF483846.1	Genbank	CDS	206793	208217	.	+	0	ID=cds-AHC54979.1;Parent=gene-TNS_ORF261;Dbxref=NCBI_GP:AHC54979.1;Name=AHC54979.1;gbkey=CDS;locus_tag=TNS_ORF261;product=major capsid protein;protein_id=AHC54979.1
+KF483846.1	Genbank	gene	208306	208767	.	-	.	ID=gene-TNS_ORF262;Name=TNS_ORF262;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF262
+KF483846.1	Genbank	CDS	208306	208767	.	-	0	ID=cds-AHC54980.1;Parent=gene-TNS_ORF262;Dbxref=NCBI_GP:AHC54980.1;Name=AHC54980.1;gbkey=CDS;locus_tag=TNS_ORF262;product=hypothetical protein;protein_id=AHC54980.1;transl_except=(pos:complement(208765..208767)%2Caa:Met)
+KF483846.1	Genbank	gene	208926	210662	.	-	.	ID=gene-TNS_ORF263;Name=TNS_ORF263;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF263
+KF483846.1	Genbank	CDS	208926	210662	.	-	0	ID=cds-AHC54981.1;Parent=gene-TNS_ORF263;Dbxref=NCBI_GP:AHC54981.1;Name=AHC54981.1;gbkey=CDS;locus_tag=TNS_ORF263;product=zinc-ribbon-containing protein;protein_id=AHC54981.1
+KF483846.1	Genbank	gene	210702	210950	.	-	.	ID=gene-TNS_ORF264;Name=TNS_ORF264;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF264
+KF483846.1	Genbank	CDS	210702	210950	.	-	0	ID=cds-AHC54982.1;Parent=gene-TNS_ORF264;Dbxref=NCBI_GP:AHC54982.1;Name=AHC54982.1;gbkey=CDS;locus_tag=TNS_ORF264;product=hypothetical protein;protein_id=AHC54982.1
+KF483846.1	Genbank	gene	210972	211682	.	-	.	ID=gene-TNS_ORF265;Name=TNS_ORF265;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF265
+KF483846.1	Genbank	CDS	210972	211682	.	-	0	ID=cds-AHC54983.1;Parent=gene-TNS_ORF265;Dbxref=NCBI_GP:AHC54983.1;Name=AHC54983.1;gbkey=CDS;locus_tag=TNS_ORF265;product=restriction endonuclease;protein_id=AHC54983.1
+KF483846.1	Genbank	gene	211633	212268	.	-	.	ID=gene-TNS_ORF266;Name=TNS_ORF266;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF266
+KF483846.1	Genbank	CDS	211633	212268	.	-	0	ID=cds-AHC54984.1;Parent=gene-TNS_ORF266;Dbxref=NCBI_GP:AHC54984.1;Name=AHC54984.1;gbkey=CDS;locus_tag=TNS_ORF266;product=restriction endonuclease;protein_id=AHC54984.1
+KF483846.1	Genbank	gene	212337	212621	.	-	.	ID=gene-TNS_ORF267;Name=TNS_ORF267;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF267
+KF483846.1	Genbank	CDS	212337	212621	.	-	0	ID=cds-AHC54985.1;Parent=gene-TNS_ORF267;Dbxref=NCBI_GP:AHC54985.1;Name=AHC54985.1;gbkey=CDS;locus_tag=TNS_ORF267;product=hypothetical protein;protein_id=AHC54985.1
+KF483846.1	Genbank	gene	212730	213113	.	-	.	ID=gene-TNS_ORF268;Name=TNS_ORF268;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF268
+KF483846.1	Genbank	CDS	212730	213113	.	-	0	ID=cds-AHC54986.1;Parent=gene-TNS_ORF268;Dbxref=NCBI_GP:AHC54986.1;Name=AHC54986.1;gbkey=CDS;locus_tag=TNS_ORF268;product=hypothetical protein;protein_id=AHC54986.1
+KF483846.1	Genbank	gene	213416	214168	.	+	.	ID=gene-TNS_ORF269;Name=TNS_ORF269;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF269
+KF483846.1	Genbank	CDS	213416	214168	.	+	0	ID=cds-AHC54987.1;Parent=gene-TNS_ORF269;Dbxref=NCBI_GP:AHC54987.1;Name=AHC54987.1;gbkey=CDS;locus_tag=TNS_ORF269;product=hypothetical protein;protein_id=AHC54987.1
+KF483846.1	Genbank	gene	214283	214795	.	+	.	ID=gene-TNS_ORF270;Name=TNS_ORF270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF270
+KF483846.1	Genbank	CDS	214283	214795	.	+	0	ID=cds-AHC54988.1;Parent=gene-TNS_ORF270;Dbxref=NCBI_GP:AHC54988.1;Name=AHC54988.1;gbkey=CDS;locus_tag=TNS_ORF270;product=hypothetical protein;protein_id=AHC54988.1
+KF483846.1	Genbank	gene	214909	215355	.	+	.	ID=gene-TNS_ORF271;Name=TNS_ORF271;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF271
+KF483846.1	Genbank	CDS	214909	215355	.	+	0	ID=cds-AHC54989.1;Parent=gene-TNS_ORF271;Dbxref=NCBI_GP:AHC54989.1;Name=AHC54989.1;gbkey=CDS;locus_tag=TNS_ORF271;product=hypothetical protein;protein_id=AHC54989.1
+KF483846.1	Genbank	gene	215413	215799	.	+	.	ID=gene-TNS_ORF272;Name=TNS_ORF272;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF272
+KF483846.1	Genbank	CDS	215413	215799	.	+	0	ID=cds-AHC54990.1;Parent=gene-TNS_ORF272;Dbxref=NCBI_GP:AHC54990.1;Name=AHC54990.1;gbkey=CDS;locus_tag=TNS_ORF272;product=hypothetical protein;protein_id=AHC54990.1
+KF483846.1	Genbank	gene	215807	216319	.	-	.	ID=gene-TNS_ORF273;Name=TNS_ORF273;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF273
+KF483846.1	Genbank	CDS	215807	216319	.	-	0	ID=cds-AHC54991.1;Parent=gene-TNS_ORF273;Dbxref=NCBI_GP:AHC54991.1;Name=AHC54991.1;gbkey=CDS;locus_tag=TNS_ORF273;product=hypothetical protein;protein_id=AHC54991.1
+KF483846.1	Genbank	gene	216476	217189	.	+	.	ID=gene-TNS_ORF274;Name=TNS_ORF274;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF274
+KF483846.1	Genbank	CDS	216476	217189	.	+	0	ID=cds-AHC54992.1;Parent=gene-TNS_ORF274;Dbxref=NCBI_GP:AHC54992.1;Name=AHC54992.1;gbkey=CDS;locus_tag=TNS_ORF274;product=F-box containing protein;protein_id=AHC54992.1
+KF483846.1	Genbank	gene	217186	217539	.	-	.	ID=gene-TNS_ORF275;Name=TNS_ORF275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF275
+KF483846.1	Genbank	CDS	217186	217539	.	-	0	ID=cds-AHC54993.1;Parent=gene-TNS_ORF275;Dbxref=NCBI_GP:AHC54993.1;Name=AHC54993.1;gbkey=CDS;locus_tag=TNS_ORF275;product=hypothetical protein;protein_id=AHC54993.1
+KF483846.1	Genbank	gene	217624	218307	.	+	.	ID=gene-TNS_ORF276;Name=TNS_ORF276;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF276
+KF483846.1	Genbank	CDS	217624	218307	.	+	0	ID=cds-AHC54994.1;Parent=gene-TNS_ORF276;Dbxref=NCBI_GP:AHC54994.1;Name=AHC54994.1;gbkey=CDS;locus_tag=TNS_ORF276;product=F-box containing protein;protein_id=AHC54994.1
+KF483846.1	Genbank	gene	218724	219050	.	-	.	ID=gene-TNS_ORF277;Name=TNS_ORF277;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF277
+KF483846.1	Genbank	CDS	218724	219050	.	-	0	ID=cds-AHC54995.1;Parent=gene-TNS_ORF277;Dbxref=NCBI_GP:AHC54995.1;Name=AHC54995.1;gbkey=CDS;locus_tag=TNS_ORF277;product=hypothetical protein;protein_id=AHC54995.1
+KF483846.1	Genbank	gene	219060	219668	.	+	.	ID=gene-TNS_ORF278;Name=TNS_ORF278;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF278
+KF483846.1	Genbank	CDS	219060	219668	.	+	0	ID=cds-AHC54996.1;Parent=gene-TNS_ORF278;Dbxref=NCBI_GP:AHC54996.1;Name=AHC54996.1;gbkey=CDS;locus_tag=TNS_ORF278;product=hypothetical protein;protein_id=AHC54996.1;transl_except=(pos:219060..219062%2Caa:Met)
+KF483846.1	Genbank	gene	219739	220047	.	+	.	ID=gene-TNS_ORF279;Name=TNS_ORF279;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF279
+KF483846.1	Genbank	CDS	219739	220047	.	+	0	ID=cds-AHC54997.1;Parent=gene-TNS_ORF279;Dbxref=NCBI_GP:AHC54997.1;Name=AHC54997.1;gbkey=CDS;locus_tag=TNS_ORF279;product=hypothetical protein;protein_id=AHC54997.1
+KF483846.1	Genbank	gene	220129	220482	.	-	.	ID=gene-TNS_ORF280;Name=TNS_ORF280;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF280
+KF483846.1	Genbank	CDS	220129	220482	.	-	0	ID=cds-AHC54998.1;Parent=gene-TNS_ORF280;Dbxref=NCBI_GP:AHC54998.1;Name=AHC54998.1;gbkey=CDS;locus_tag=TNS_ORF280;product=hypothetical protein;protein_id=AHC54998.1
+KF483846.1	Genbank	gene	220343	220690	.	-	.	ID=gene-TNS_ORF281;Name=TNS_ORF281;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF281
+KF483846.1	Genbank	CDS	220343	220690	.	-	0	ID=cds-AHC54999.1;Parent=gene-TNS_ORF281;Dbxref=NCBI_GP:AHC54999.1;Name=AHC54999.1;gbkey=CDS;locus_tag=TNS_ORF281;product=hypothetical protein;protein_id=AHC54999.1
+KF483846.1	Genbank	gene	220970	221284	.	+	.	ID=gene-TNS_ORF282;Name=TNS_ORF282;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF282
+KF483846.1	Genbank	CDS	220970	221284	.	+	0	ID=cds-AHC55000.1;Parent=gene-TNS_ORF282;Dbxref=NCBI_GP:AHC55000.1;Name=AHC55000.1;gbkey=CDS;locus_tag=TNS_ORF282;product=hypothetical protein;protein_id=AHC55000.1
+KF483846.1	Genbank	gene	221304	221981	.	-	.	ID=gene-TNS_ORF283;Name=TNS_ORF283;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF283
+KF483846.1	Genbank	CDS	221304	221981	.	-	0	ID=cds-AHC55001.1;Parent=gene-TNS_ORF283;Dbxref=NCBI_GP:AHC55001.1;Name=AHC55001.1;gbkey=CDS;locus_tag=TNS_ORF283;product=hypothetical protein;protein_id=AHC55001.1
+KF483846.1	Genbank	gene	222030	222539	.	+	.	ID=gene-TNS_ORF284;Name=TNS_ORF284;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF284
+KF483846.1	Genbank	CDS	222030	222539	.	+	0	ID=cds-AHC55002.1;Parent=gene-TNS_ORF284;Dbxref=NCBI_GP:AHC55002.1;Name=AHC55002.1;gbkey=CDS;locus_tag=TNS_ORF284;product=MORN repeat containing protein;protein_id=AHC55002.1
+KF483846.1	Genbank	gene	222832	223431	.	+	.	ID=gene-TNS_ORF285;Name=TNS_ORF285;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF285
+KF483846.1	Genbank	CDS	222832	223431	.	+	0	ID=cds-AHC55003.1;Parent=gene-TNS_ORF285;Dbxref=NCBI_GP:AHC55003.1;Name=AHC55003.1;gbkey=CDS;locus_tag=TNS_ORF285;product=serine/threonine protein kinase;protein_id=AHC55003.1
+KF483846.1	Genbank	gene	223550	224158	.	+	.	ID=gene-TNS_ORF286;Name=TNS_ORF286;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF286
+KF483846.1	Genbank	CDS	223550	224158	.	+	0	ID=cds-AHC55004.1;Parent=gene-TNS_ORF286;Dbxref=NCBI_GP:AHC55004.1;Name=AHC55004.1;gbkey=CDS;locus_tag=TNS_ORF286;product=putative serine/threonine protein kinase;protein_id=AHC55004.1
+KF483846.1	Genbank	gene	224195	224632	.	+	.	ID=gene-TNS_ORF287;Name=TNS_ORF287;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF287
+KF483846.1	Genbank	CDS	224195	224632	.	+	0	ID=cds-AHC55005.1;Parent=gene-TNS_ORF287;Dbxref=NCBI_GP:AHC55005.1;Name=AHC55005.1;gbkey=CDS;locus_tag=TNS_ORF287;product=hypothetical protein;protein_id=AHC55005.1
+KF483846.1	Genbank	gene	224700	224990	.	+	.	ID=gene-TNS_ORF288;Name=TNS_ORF288;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF288
+KF483846.1	Genbank	CDS	224700	224990	.	+	0	ID=cds-AHC55006.1;Parent=gene-TNS_ORF288;Dbxref=NCBI_GP:AHC55006.1;Name=AHC55006.1;gbkey=CDS;locus_tag=TNS_ORF288;product=hypothetical protein;protein_id=AHC55006.1
+KF483846.1	Genbank	gene	225045	225776	.	+	.	ID=gene-TNS_ORF289;Name=TNS_ORF289;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF289
+KF483846.1	Genbank	CDS	225045	225776	.	+	0	ID=cds-AHC55007.1;Parent=gene-TNS_ORF289;Dbxref=NCBI_GP:AHC55007.1;Name=AHC55007.1;gbkey=CDS;locus_tag=TNS_ORF289;product=calcineurin-like phosphoesterase;protein_id=AHC55007.1
+KF483846.1	Genbank	gene	225861	226265	.	+	.	ID=gene-TNS_ORF290;Name=TNS_ORF290;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF290
+KF483846.1	Genbank	CDS	225861	226265	.	+	0	ID=cds-AHC55008.1;Parent=gene-TNS_ORF290;Dbxref=NCBI_GP:AHC55008.1;Name=AHC55008.1;gbkey=CDS;locus_tag=TNS_ORF290;product=MORN repeat containing protein;protein_id=AHC55008.1
+KF483846.1	Genbank	gene	226590	226961	.	+	.	ID=gene-TNS_ORF291;Name=TNS_ORF291;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF291
+KF483846.1	Genbank	CDS	226590	226961	.	+	0	ID=cds-AHC55009.1;Parent=gene-TNS_ORF291;Dbxref=NCBI_GP:AHC55009.1;Name=AHC55009.1;gbkey=CDS;locus_tag=TNS_ORF291;product=hypothetical protein;protein_id=AHC55009.1
+KF483846.1	Genbank	gene	226987	227685	.	-	.	ID=gene-TNS_ORF292;Name=TNS_ORF292;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF292
+KF483846.1	Genbank	CDS	226987	227685	.	-	0	ID=cds-AHC55010.1;Parent=gene-TNS_ORF292;Dbxref=NCBI_GP:AHC55010.1;Name=AHC55010.1;gbkey=CDS;locus_tag=TNS_ORF292;product=hypothetical protein;protein_id=AHC55010.1
+KF483846.1	Genbank	gene	227764	228684	.	-	.	ID=gene-TNS_ORF293;Name=TNS_ORF293;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF293
+KF483846.1	Genbank	CDS	227764	228684	.	-	0	ID=cds-AHC55011.1;Parent=gene-TNS_ORF293;Dbxref=NCBI_GP:AHC55011.1;Name=AHC55011.1;gbkey=CDS;locus_tag=TNS_ORF293;product=putative nuclease;protein_id=AHC55011.1
+KF483846.1	Genbank	gene	228732	230144	.	+	.	ID=gene-TNS_ORF294;Name=TNS_ORF294;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF294
+KF483846.1	Genbank	CDS	228732	230144	.	+	0	ID=cds-AHC55012.1;Parent=gene-TNS_ORF294;Dbxref=NCBI_GP:AHC55012.1;Name=AHC55012.1;gbkey=CDS;locus_tag=TNS_ORF294;product=hypothetical protein;protein_id=AHC55012.1
+KF483846.1	Genbank	gene	230160	230930	.	+	.	ID=gene-TNS_ORF295;Name=TNS_ORF295;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF295
+KF483846.1	Genbank	CDS	230160	230930	.	+	0	ID=cds-AHC55013.1;Parent=gene-TNS_ORF295;Dbxref=NCBI_GP:AHC55013.1;Name=AHC55013.1;gbkey=CDS;locus_tag=TNS_ORF295;product=hypothetical protein;protein_id=AHC55013.1
+KF483846.1	Genbank	gene	230963	231454	.	+	.	ID=gene-TNS_ORF296;Name=TNS_ORF296;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF296
+KF483846.1	Genbank	CDS	230963	231454	.	+	0	ID=cds-AHC55014.1;Parent=gene-TNS_ORF296;Dbxref=NCBI_GP:AHC55014.1;Name=AHC55014.1;gbkey=CDS;locus_tag=TNS_ORF296;product=hypothetical protein;protein_id=AHC55014.1
+KF483846.1	Genbank	gene	231476	232240	.	-	.	ID=gene-TNS_ORF297;Name=TNS_ORF297;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF297
+KF483846.1	Genbank	CDS	231476	232240	.	-	0	ID=cds-AHC55015.1;Parent=gene-TNS_ORF297;Dbxref=NCBI_GP:AHC55015.1;Name=AHC55015.1;gbkey=CDS;locus_tag=TNS_ORF297;product=putative serine/threonine protein kinase;protein_id=AHC55015.1
+KF483846.1	Genbank	gene	232210	232626	.	-	.	ID=gene-TNS_ORF298;Name=TNS_ORF298;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF298
+KF483846.1	Genbank	CDS	232210	232626	.	-	0	ID=cds-AHC55016.1;Parent=gene-TNS_ORF298;Dbxref=NCBI_GP:AHC55016.1;Name=AHC55016.1;gbkey=CDS;locus_tag=TNS_ORF298;product=putative Vsr/MutH/archaeal HJR family endonuclease;protein_id=AHC55016.1
+KF483846.1	Genbank	gene	232630	232809	.	-	.	ID=gene-TNS_ORF299;Name=TNS_ORF299;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF299
+KF483846.1	Genbank	CDS	232630	232809	.	-	0	ID=cds-AHC55017.1;Parent=gene-TNS_ORF299;Dbxref=NCBI_GP:AHC55017.1;Name=AHC55017.1;gbkey=CDS;locus_tag=TNS_ORF299;product=hypothetical protein;protein_id=AHC55017.1
+KF483846.1	Genbank	gene	232812	233441	.	-	.	ID=gene-TNS_ORF300;Name=TNS_ORF300;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF300
+KF483846.1	Genbank	CDS	232812	233441	.	-	0	ID=cds-AHC55018.1;Parent=gene-TNS_ORF300;Dbxref=NCBI_GP:AHC55018.1;Name=AHC55018.1;gbkey=CDS;locus_tag=TNS_ORF300;product=serine/threonine protein kinase;protein_id=AHC55018.1
+KF483846.1	Genbank	gene	233454	233813	.	-	.	ID=gene-TNS_ORF301;Name=TNS_ORF301;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF301
+KF483846.1	Genbank	CDS	233454	233813	.	-	0	ID=cds-AHC55019.1;Parent=gene-TNS_ORF301;Dbxref=NCBI_GP:AHC55019.1;Name=AHC55019.1;gbkey=CDS;locus_tag=TNS_ORF301;product=hypothetical protein;protein_id=AHC55019.1
+KF483846.1	Genbank	gene	234132	234635	.	+	.	ID=gene-TNS_ORF302;Name=TNS_ORF302;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF302
+KF483846.1	Genbank	CDS	234132	234635	.	+	0	ID=cds-AHC55020.1;Parent=gene-TNS_ORF302;Dbxref=NCBI_GP:AHC55020.1;Name=AHC55020.1;gbkey=CDS;locus_tag=TNS_ORF302;product=hypothetical protein;protein_id=AHC55020.1
+KF483846.1	Genbank	gene	234645	235310	.	-	.	ID=gene-TNS_ORF303;Name=TNS_ORF303;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF303
+KF483846.1	Genbank	CDS	234645	235310	.	-	0	ID=cds-AHC55021.1;Parent=gene-TNS_ORF303;Dbxref=NCBI_GP:AHC55021.1;Name=AHC55021.1;gbkey=CDS;locus_tag=TNS_ORF303;product=hypothetical protein;protein_id=AHC55021.1
+KF483846.1	Genbank	gene	235358	235744	.	+	.	ID=gene-TNS_ORF304;Name=TNS_ORF304;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF304
+KF483846.1	Genbank	CDS	235358	235744	.	+	0	ID=cds-AHC55022.1;Parent=gene-TNS_ORF304;Dbxref=NCBI_GP:AHC55022.1;Name=AHC55022.1;gbkey=CDS;locus_tag=TNS_ORF304;product=hypothetical protein;protein_id=AHC55022.1
+KF483846.1	Genbank	gene	235741	236007	.	+	.	ID=gene-TNS_ORF305;Name=TNS_ORF305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF305
+KF483846.1	Genbank	CDS	235741	236007	.	+	0	ID=cds-AHC55023.1;Parent=gene-TNS_ORF305;Dbxref=NCBI_GP:AHC55023.1;Name=AHC55023.1;gbkey=CDS;locus_tag=TNS_ORF305;product=hypothetical protein;protein_id=AHC55023.1
+KF483846.1	Genbank	gene	236010	236441	.	-	.	ID=gene-TNS_ORF306;Name=TNS_ORF306;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF306
+KF483846.1	Genbank	CDS	236010	236441	.	-	0	ID=cds-AHC55024.1;Parent=gene-TNS_ORF306;Dbxref=NCBI_GP:AHC55024.1;Name=AHC55024.1;gbkey=CDS;locus_tag=TNS_ORF306;product=hypothetical protein;protein_id=AHC55024.1
+KF483846.1	Genbank	gene	236399	236644	.	-	.	ID=gene-TNS_ORF307;Name=TNS_ORF307;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF307
+KF483846.1	Genbank	CDS	236399	236644	.	-	0	ID=cds-AHC55025.1;Parent=gene-TNS_ORF307;Dbxref=NCBI_GP:AHC55025.1;Name=AHC55025.1;gbkey=CDS;locus_tag=TNS_ORF307;product=hypothetical protein;protein_id=AHC55025.1
+KF483846.1	Genbank	gene	236679	237290	.	+	.	ID=gene-TNS_ORF308;Name=TNS_ORF308;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF308
+KF483846.1	Genbank	CDS	236679	237290	.	+	0	ID=cds-AHC55026.1;Parent=gene-TNS_ORF308;Dbxref=NCBI_GP:AHC55026.1;Name=AHC55026.1;gbkey=CDS;locus_tag=TNS_ORF308;product=hypothetical protein;protein_id=AHC55026.1
+KF483846.1	Genbank	gene	237253	237915	.	+	.	ID=gene-TNS_ORF309;Name=TNS_ORF309;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF309
+KF483846.1	Genbank	CDS	237253	237915	.	+	0	ID=cds-AHC55027.1;Parent=gene-TNS_ORF309;Dbxref=NCBI_GP:AHC55027.1;Name=AHC55027.1;gbkey=CDS;locus_tag=TNS_ORF309;product=hypothetical protein;protein_id=AHC55027.1
+KF483846.1	Genbank	gene	237915	238292	.	+	.	ID=gene-TNS_ORF310;Name=TNS_ORF310;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF310
+KF483846.1	Genbank	CDS	237915	238292	.	+	0	ID=cds-AHC55028.1;Parent=gene-TNS_ORF310;Dbxref=NCBI_GP:AHC55028.1;Name=AHC55028.1;gbkey=CDS;locus_tag=TNS_ORF310;product=hypothetical protein;protein_id=AHC55028.1
+KF483846.1	Genbank	gene	238317	239147	.	-	.	ID=gene-TNS_ORF311;Name=TNS_ORF311;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF311
+KF483846.1	Genbank	CDS	238317	239147	.	-	0	ID=cds-AHC55029.1;Parent=gene-TNS_ORF311;Dbxref=NCBI_GP:AHC55029.1;Name=AHC55029.1;gbkey=CDS;locus_tag=TNS_ORF311;product=histone H2B/H2A fusion protein;protein_id=AHC55029.1
+KF483846.1	Genbank	gene	239212	239901	.	+	.	ID=gene-TNS_ORF312;Name=TNS_ORF312;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF312
+KF483846.1	Genbank	CDS	239212	239901	.	+	0	ID=cds-AHC55030.1;Parent=gene-TNS_ORF312;Dbxref=NCBI_GP:AHC55030.1;Name=AHC55030.1;gbkey=CDS;locus_tag=TNS_ORF312;product=histone H3-like protein;protein_id=AHC55030.1
+KF483846.1	Genbank	gene	239944	240084	.	+	.	ID=gene-TNS_ORF313;Name=TNS_ORF313;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF313
+KF483846.1	Genbank	CDS	239944	240084	.	+	0	ID=cds-AHC55031.1;Parent=gene-TNS_ORF313;Dbxref=NCBI_GP:AHC55031.1;Name=AHC55031.1;gbkey=CDS;locus_tag=TNS_ORF313;product=hypothetical protein;protein_id=AHC55031.1
+KF483846.1	Genbank	gene	240089	240475	.	-	.	ID=gene-TNS_ORF314;Name=TNS_ORF314;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF314
+KF483846.1	Genbank	CDS	240089	240475	.	-	0	ID=cds-AHC55032.1;Parent=gene-TNS_ORF314;Dbxref=NCBI_GP:AHC55032.1;Name=AHC55032.1;gbkey=CDS;locus_tag=TNS_ORF314;product=hypothetical protein;protein_id=AHC55032.1
+KF483846.1	Genbank	gene	240548	241492	.	-	.	ID=gene-TNS_ORF315;Name=TNS_ORF315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF315
+KF483846.1	Genbank	CDS	240548	241492	.	-	0	ID=cds-AHC55033.1;Parent=gene-TNS_ORF315;Dbxref=NCBI_GP:AHC55033.1;Name=AHC55033.1;gbkey=CDS;locus_tag=TNS_ORF315;product=hypothetical protein;protein_id=AHC55033.1
+KF483846.1	Genbank	gene	241597	241992	.	-	.	ID=gene-TNS_ORF316;Name=TNS_ORF316;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF316
+KF483846.1	Genbank	CDS	241597	241992	.	-	0	ID=cds-AHC55034.1;Parent=gene-TNS_ORF316;Dbxref=NCBI_GP:AHC55034.1;Name=AHC55034.1;gbkey=CDS;locus_tag=TNS_ORF316;product=hypothetical protein;protein_id=AHC55034.1
+KF483846.1	Genbank	gene	241943	242761	.	-	.	ID=gene-TNS_ORF317;Name=TNS_ORF317;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF317
+KF483846.1	Genbank	CDS	241943	242761	.	-	0	ID=cds-AHC55035.1;Parent=gene-TNS_ORF317;Dbxref=NCBI_GP:AHC55035.1;Name=AHC55035.1;gbkey=CDS;locus_tag=TNS_ORF317;product=putative restriction endonuclease;protein_id=AHC55035.1
+KF483846.1	Genbank	gene	242800	243243	.	-	.	ID=gene-TNS_ORF318;Name=TNS_ORF318;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF318
+KF483846.1	Genbank	CDS	242800	243243	.	-	0	ID=cds-AHC55036.1;Parent=gene-TNS_ORF318;Dbxref=NCBI_GP:AHC55036.1;Name=AHC55036.1;gbkey=CDS;locus_tag=TNS_ORF318;product=hypothetical protein;protein_id=AHC55036.1
+KF483846.1	Genbank	gene	243542	244957	.	-	.	ID=gene-TNS_ORF319;Name=TNS_ORF319;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF319
+KF483846.1	Genbank	CDS	243542	244957	.	-	0	ID=cds-AHC55037.1;Parent=gene-TNS_ORF319;Dbxref=NCBI_GP:AHC55037.1;Name=AHC55037.1;gbkey=CDS;locus_tag=TNS_ORF319;product=AAA-type ATPase;protein_id=AHC55037.1
+KF483846.1	Genbank	gene	245010	245165	.	+	.	ID=gene-TNS_ORF320;Name=TNS_ORF320;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF320
+KF483846.1	Genbank	CDS	245010	245165	.	+	0	ID=cds-AHC55038.1;Parent=gene-TNS_ORF320;Dbxref=NCBI_GP:AHC55038.1;Name=AHC55038.1;gbkey=CDS;locus_tag=TNS_ORF320;product=hypothetical protein;protein_id=AHC55038.1
+KF483846.1	Genbank	gene	245188	245511	.	-	.	ID=gene-TNS_ORF321;Name=TNS_ORF321;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF321
+KF483846.1	Genbank	CDS	245188	245511	.	-	0	ID=cds-AHC55039.1;Parent=gene-TNS_ORF321;Dbxref=NCBI_GP:AHC55039.1;Name=AHC55039.1;gbkey=CDS;locus_tag=TNS_ORF321;product=ubiquitin-like protein;protein_id=AHC55039.1
+KF483846.1	Genbank	gene	245844	246134	.	-	.	ID=gene-TNS_ORF322;Name=TNS_ORF322;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF322
+KF483846.1	Genbank	CDS	245844	246134	.	-	0	ID=cds-AHC55040.1;Parent=gene-TNS_ORF322;Dbxref=NCBI_GP:AHC55040.1;Name=AHC55040.1;gbkey=CDS;locus_tag=TNS_ORF322;product=hypothetical protein;protein_id=AHC55040.1
+KF483846.1	Genbank	gene	246169	246606	.	-	.	ID=gene-TNS_ORF323;Name=TNS_ORF323;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF323
+KF483846.1	Genbank	CDS	246169	246606	.	-	0	ID=cds-AHC55041.1;Parent=gene-TNS_ORF323;Dbxref=NCBI_GP:AHC55041.1;Name=AHC55041.1;gbkey=CDS;locus_tag=TNS_ORF323;product=hypothetical protein;protein_id=AHC55041.1
+KF483846.1	Genbank	gene	246644	249277	.	-	.	ID=gene-TNS_ORF324;Name=TNS_ORF324;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF324
+KF483846.1	Genbank	CDS	246644	249277	.	-	0	ID=cds-AHC55042.1;Parent=gene-TNS_ORF324;Dbxref=NCBI_GP:AHC55042.1;Name=AHC55042.1;gbkey=CDS;locus_tag=TNS_ORF324;product=AAA-family ATPase;protein_id=AHC55042.1
+KF483846.1	Genbank	gene	249296	251056	.	-	.	ID=gene-TNS_ORF325;Name=TNS_ORF325;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF325
+KF483846.1	Genbank	CDS	249296	251056	.	-	0	ID=cds-AHC55043.1;Parent=gene-TNS_ORF325;Dbxref=NCBI_GP:AHC55043.1;Name=AHC55043.1;gbkey=CDS;locus_tag=TNS_ORF325;product=putative helicase;protein_id=AHC55043.1
+KF483846.1	Genbank	gene	250949	253666	.	+	.	ID=gene-TNS_ORF326;Name=TNS_ORF326;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF326
+KF483846.1	Genbank	CDS	250949	253666	.	+	0	ID=cds-AHC55044.1;Parent=gene-TNS_ORF326;Dbxref=NCBI_GP:AHC55044.1;Name=AHC55044.1;gbkey=CDS;locus_tag=TNS_ORF326;product=hypothetical protein;protein_id=AHC55044.1
+KF483846.1	Genbank	gene	253681	254049	.	-	.	ID=gene-TNS_ORF327;Name=TNS_ORF327;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF327
+KF483846.1	Genbank	CDS	253681	254049	.	-	0	ID=cds-AHC55045.1;Parent=gene-TNS_ORF327;Dbxref=NCBI_GP:AHC55045.1;Name=AHC55045.1;gbkey=CDS;locus_tag=TNS_ORF327;product=hypothetical protein;protein_id=AHC55045.1
+KF483846.1	Genbank	gene	254088	254891	.	-	.	ID=gene-TNS_ORF328;Name=TNS_ORF328;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF328
+KF483846.1	Genbank	CDS	254088	254891	.	-	0	ID=cds-AHC55046.1;Parent=gene-TNS_ORF328;Dbxref=NCBI_GP:AHC55046.1;Name=AHC55046.1;gbkey=CDS;locus_tag=TNS_ORF328;product=putative CDC123-like protein;protein_id=AHC55046.1
+KF483846.1	Genbank	gene	254913	256100	.	-	.	ID=gene-TNS_ORF329;Name=TNS_ORF329;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF329
+KF483846.1	Genbank	CDS	254913	256100	.	-	0	ID=cds-AHC55047.1;Parent=gene-TNS_ORF329;Dbxref=NCBI_GP:AHC55047.1;Name=AHC55047.1;gbkey=CDS;locus_tag=TNS_ORF329;product=uracil-DNA glycosylase;protein_id=AHC55047.1
+KF483846.1	Genbank	gene	256140	256553	.	-	.	ID=gene-TNS_ORF330;Name=TNS_ORF330;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF330
+KF483846.1	Genbank	CDS	256140	256553	.	-	0	ID=cds-AHC55048.1;Parent=gene-TNS_ORF330;Dbxref=NCBI_GP:AHC55048.1;Name=AHC55048.1;gbkey=CDS;locus_tag=TNS_ORF330;product=hypothetical protein;protein_id=AHC55048.1
+KF483846.1	Genbank	gene	256581	257261	.	-	.	ID=gene-TNS_ORF331;Name=TNS_ORF331;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF331
+KF483846.1	Genbank	CDS	256581	257261	.	-	0	ID=cds-AHC55049.1;Parent=gene-TNS_ORF331;Dbxref=NCBI_GP:AHC55049.1;Name=AHC55049.1;gbkey=CDS;locus_tag=TNS_ORF331;product=hypothetical protein;protein_id=AHC55049.1
+KF483846.1	Genbank	gene	257285	257878	.	+	.	ID=gene-TNS_ORF332;Name=TNS_ORF332;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF332
+KF483846.1	Genbank	CDS	257285	257878	.	+	0	ID=cds-AHC55050.1;Parent=gene-TNS_ORF332;Dbxref=NCBI_GP:AHC55050.1;Name=AHC55050.1;gbkey=CDS;locus_tag=TNS_ORF332;product=putative secreted protein;protein_id=AHC55050.1
+KF483846.1	Genbank	gene	257905	258321	.	-	.	ID=gene-TNS_ORF333;Name=TNS_ORF333;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF333
+KF483846.1	Genbank	CDS	257905	258321	.	-	0	ID=cds-AHC55051.1;Parent=gene-TNS_ORF333;Dbxref=NCBI_GP:AHC55051.1;Name=AHC55051.1;gbkey=CDS;locus_tag=TNS_ORF333;product=hypothetical protein;protein_id=AHC55051.1
+KF483846.1	Genbank	gene	258379	258792	.	+	.	ID=gene-TNS_ORF334;Name=TNS_ORF334;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF334
+KF483846.1	Genbank	CDS	258379	258792	.	+	0	ID=cds-AHC55052.1;Parent=gene-TNS_ORF334;Dbxref=NCBI_GP:AHC55052.1;Name=AHC55052.1;gbkey=CDS;locus_tag=TNS_ORF334;product=hypothetical protein;protein_id=AHC55052.1
+KF483846.1	Genbank	gene	258813	259244	.	-	.	ID=gene-TNS_ORF335;Name=TNS_ORF335;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF335
+KF483846.1	Genbank	CDS	258813	259244	.	-	0	ID=cds-AHC55053.1;Parent=gene-TNS_ORF335;Dbxref=NCBI_GP:AHC55053.1;Name=AHC55053.1;gbkey=CDS;locus_tag=TNS_ORF335;product=hypothetical protein;protein_id=AHC55053.1
+KF483846.1	Genbank	gene	259313	259894	.	+	.	ID=gene-TNS_ORF336;Name=TNS_ORF336;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF336
+KF483846.1	Genbank	CDS	259313	259894	.	+	0	ID=cds-AHC55054.1;Parent=gene-TNS_ORF336;Dbxref=NCBI_GP:AHC55054.1;Name=AHC55054.1;gbkey=CDS;locus_tag=TNS_ORF336;product=hypothetical protein;protein_id=AHC55054.1
+KF483846.1	Genbank	gene	259906	260304	.	-	.	ID=gene-TNS_ORF337;Name=TNS_ORF337;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF337
+KF483846.1	Genbank	CDS	259906	260304	.	-	0	ID=cds-AHC55055.1;Parent=gene-TNS_ORF337;Dbxref=NCBI_GP:AHC55055.1;Name=AHC55055.1;gbkey=CDS;locus_tag=TNS_ORF337;product=hypothetical protein;protein_id=AHC55055.1
+KF483846.1	Genbank	gene	260376	260882	.	-	.	ID=gene-TNS_ORF338;Name=TNS_ORF338;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF338
+KF483846.1	Genbank	CDS	260376	260882	.	-	0	ID=cds-AHC55056.1;Parent=gene-TNS_ORF338;Dbxref=NCBI_GP:AHC55056.1;Name=AHC55056.1;gbkey=CDS;locus_tag=TNS_ORF338;product=hypothetical protein;protein_id=AHC55056.1
+KF483846.1	Genbank	gene	260904	261371	.	-	.	ID=gene-TNS_ORF339;Name=TNS_ORF339;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF339
+KF483846.1	Genbank	CDS	260904	261371	.	-	0	ID=cds-AHC55057.1;Parent=gene-TNS_ORF339;Dbxref=NCBI_GP:AHC55057.1;Name=AHC55057.1;gbkey=CDS;locus_tag=TNS_ORF339;product=hypothetical protein;protein_id=AHC55057.1
+KF483846.1	Genbank	gene	261388	261738	.	+	.	ID=gene-TNS_ORF340;Name=TNS_ORF340;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF340
+KF483846.1	Genbank	CDS	261388	261738	.	+	0	ID=cds-AHC55058.1;Parent=gene-TNS_ORF340;Dbxref=NCBI_GP:AHC55058.1;Name=AHC55058.1;gbkey=CDS;locus_tag=TNS_ORF340;product=translation initiation factor SUI1;protein_id=AHC55058.1
+KF483846.1	Genbank	gene	261689	261979	.	+	.	ID=gene-TNS_ORF341;Name=TNS_ORF341;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF341
+KF483846.1	Genbank	CDS	261689	261979	.	+	0	ID=cds-AHC55059.1;Parent=gene-TNS_ORF341;Dbxref=NCBI_GP:AHC55059.1;Name=AHC55059.1;gbkey=CDS;locus_tag=TNS_ORF341;product=hypothetical protein;protein_id=AHC55059.1
+KF483846.1	Genbank	gene	262145	262393	.	+	.	ID=gene-TNS_ORF342;Name=TNS_ORF342;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF342
+KF483846.1	Genbank	CDS	262145	262393	.	+	0	ID=cds-AHC55060.1;Parent=gene-TNS_ORF342;Dbxref=NCBI_GP:AHC55060.1;Name=AHC55060.1;gbkey=CDS;locus_tag=TNS_ORF342;product=hypothetical protein;protein_id=AHC55060.1;transl_except=(pos:262145..262147%2Caa:Met)
+KF483846.1	Genbank	gene	262799	263392	.	+	.	ID=gene-TNS_ORF343;Name=TNS_ORF343;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF343
+KF483846.1	Genbank	CDS	262799	263392	.	+	0	ID=cds-AHC55061.1;Parent=gene-TNS_ORF343;Dbxref=NCBI_GP:AHC55061.1;Name=AHC55061.1;gbkey=CDS;locus_tag=TNS_ORF343;product=hypothetical protein;protein_id=AHC55061.1
+KF483846.1	Genbank	gene	263535	264146	.	+	.	ID=gene-TNS_ORF344;Name=TNS_ORF344;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF344
+KF483846.1	Genbank	CDS	263535	264146	.	+	0	ID=cds-AHC55062.1;Parent=gene-TNS_ORF344;Dbxref=NCBI_GP:AHC55062.1;Name=AHC55062.1;gbkey=CDS;locus_tag=TNS_ORF344;product=hypothetical protein;protein_id=AHC55062.1
+KF483846.1	Genbank	gene	264412	264849	.	-	.	ID=gene-TNS_ORF345;Name=TNS_ORF345;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF345
+KF483846.1	Genbank	CDS	264412	264849	.	-	0	ID=cds-AHC55063.1;Parent=gene-TNS_ORF345;Dbxref=NCBI_GP:AHC55063.1;Name=AHC55063.1;gbkey=CDS;locus_tag=TNS_ORF345;product=hypothetical protein;protein_id=AHC55063.1
+KF483846.1	Genbank	gene	265387	267027	.	+	.	ID=gene-TNS_ORF346;Name=TNS_ORF346;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF346
+KF483846.1	Genbank	CDS	265387	267027	.	+	0	ID=cds-AHC55064.1;Parent=gene-TNS_ORF346;Dbxref=NCBI_GP:AHC55064.1;Name=AHC55064.1;gbkey=CDS;locus_tag=TNS_ORF346;product=HNH homing endonuclease;protein_id=AHC55064.1
+KF483846.1	Genbank	gene	267049	267876	.	-	.	ID=gene-TNS_ORF347;Name=TNS_ORF347;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF347
+KF483846.1	Genbank	CDS	267049	267876	.	-	0	ID=cds-AHC55065.1;Parent=gene-TNS_ORF347;Dbxref=NCBI_GP:AHC55065.1;Name=AHC55065.1;gbkey=CDS;locus_tag=TNS_ORF347;product=hypothetical protein;protein_id=AHC55065.1
+KF483846.1	Genbank	gene	267931	268527	.	+	.	ID=gene-TNS_ORF348;Name=TNS_ORF348;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF348
+KF483846.1	Genbank	CDS	267931	268527	.	+	0	ID=cds-AHC55066.1;Parent=gene-TNS_ORF348;Dbxref=NCBI_GP:AHC55066.1;Name=AHC55066.1;gbkey=CDS;locus_tag=TNS_ORF348;product=DNA-directed RNA polymerase subunit RPB5;protein_id=AHC55066.1
+KF483846.1	Genbank	gene	268554	268811	.	+	.	ID=gene-TNS_ORF349;Name=TNS_ORF349;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF349
+KF483846.1	Genbank	CDS	268554	268811	.	+	0	ID=cds-AHC55067.1;Parent=gene-TNS_ORF349;Dbxref=NCBI_GP:AHC55067.1;Name=AHC55067.1;gbkey=CDS;locus_tag=TNS_ORF349;product=hypothetical protein;protein_id=AHC55067.1
+KF483846.1	Genbank	gene	268790	268999	.	-	.	ID=gene-TNS_ORF350;Name=TNS_ORF350;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF350
+KF483846.1	Genbank	CDS	268790	268999	.	-	0	ID=cds-AHC55068.1;Parent=gene-TNS_ORF350;Dbxref=NCBI_GP:AHC55068.1;Name=AHC55068.1;gbkey=CDS;locus_tag=TNS_ORF350;product=hypothetical protein;protein_id=AHC55068.1
+KF483846.1	Genbank	gene	269055	269627	.	+	.	ID=gene-TNS_ORF351;Name=TNS_ORF351;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF351
+KF483846.1	Genbank	CDS	269055	269627	.	+	0	ID=cds-AHC55069.1;Parent=gene-TNS_ORF351;Dbxref=NCBI_GP:AHC55069.1;Name=AHC55069.1;gbkey=CDS;locus_tag=TNS_ORF351;product=hypothetical protein;protein_id=AHC55069.1
+KF483846.1	Genbank	gene	270219	270545	.	-	.	ID=gene-TNS_ORF352;Name=TNS_ORF352;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF352
+KF483846.1	Genbank	CDS	270219	270545	.	-	0	ID=cds-AHC55070.1;Parent=gene-TNS_ORF352;Dbxref=NCBI_GP:AHC55070.1;Name=AHC55070.1;gbkey=CDS;locus_tag=TNS_ORF352;product=hypothetical protein;protein_id=AHC55070.1
+KF483846.1	Genbank	gene	270553	271290	.	-	.	ID=gene-TNS_ORF353;Name=TNS_ORF353;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF353
+KF483846.1	Genbank	CDS	270553	271290	.	-	0	ID=cds-AHC55071.1;Parent=gene-TNS_ORF353;Dbxref=NCBI_GP:AHC55071.1;Name=AHC55071.1;gbkey=CDS;locus_tag=TNS_ORF353;product=hypothetical protein;protein_id=AHC55071.1
+KF483846.1	Genbank	gene	271325	272650	.	-	.	ID=gene-TNS_ORF354;Name=TNS_ORF354;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF354
+KF483846.1	Genbank	CDS	271325	272650	.	-	0	ID=cds-AHC55072.1;Parent=gene-TNS_ORF354;Dbxref=NCBI_GP:AHC55072.1;Name=AHC55072.1;gbkey=CDS;locus_tag=TNS_ORF354;product=thymidylate synthase;protein_id=AHC55072.1
+KF483846.1	Genbank	gene	272710	273897	.	-	.	ID=gene-TNS_ORF355;Name=TNS_ORF355;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF355
+KF483846.1	Genbank	CDS	272710	273897	.	-	0	ID=cds-AHC55073.1;Parent=gene-TNS_ORF355;Dbxref=NCBI_GP:AHC55073.1;Name=AHC55073.1;gbkey=CDS;locus_tag=TNS_ORF355;product=hypothetical protein;protein_id=AHC55073.1
+KF483846.1	Genbank	gene	273920	275071	.	-	.	ID=gene-TNS_ORF356;Name=TNS_ORF356;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF356
+KF483846.1	Genbank	CDS	273920	275071	.	-	0	ID=cds-AHC55074.1;Parent=gene-TNS_ORF356;Dbxref=NCBI_GP:AHC55074.1;Name=AHC55074.1;gbkey=CDS;locus_tag=TNS_ORF356;product=hypothetical protein;protein_id=AHC55074.1
+KF483846.1	Genbank	gene	275104	275556	.	-	.	ID=gene-TNS_ORF357;Name=TNS_ORF357;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF357
+KF483846.1	Genbank	CDS	275104	275556	.	-	0	ID=cds-AHC55075.1;Parent=gene-TNS_ORF357;Dbxref=NCBI_GP:AHC55075.1;Name=AHC55075.1;gbkey=CDS;locus_tag=TNS_ORF357;product=hypothetical protein;protein_id=AHC55075.1
+KF483846.1	Genbank	gene	275808	277382	.	+	.	ID=gene-TNS_ORF358;Name=TNS_ORF358;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF358
+KF483846.1	Genbank	CDS	275808	277382	.	+	0	ID=cds-AHC55076.1;Parent=gene-TNS_ORF358;Dbxref=NCBI_GP:AHC55076.1;Name=AHC55076.1;gbkey=CDS;locus_tag=TNS_ORF358;product=chromosome segregation protein (SMC);protein_id=AHC55076.1
+KF483846.1	Genbank	gene	277400	278014	.	-	.	ID=gene-TNS_ORF359;Name=TNS_ORF359;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF359
+KF483846.1	Genbank	CDS	277400	278014	.	-	0	ID=cds-AHC55077.1;Parent=gene-TNS_ORF359;Dbxref=NCBI_GP:AHC55077.1;Name=AHC55077.1;gbkey=CDS;locus_tag=TNS_ORF359;product=hypothetical protein;protein_id=AHC55077.1
+KF483846.1	Genbank	gene	278037	278579	.	+	.	ID=gene-TNS_ORF360;Name=TNS_ORF360;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF360
+KF483846.1	Genbank	CDS	278037	278579	.	+	0	ID=cds-AHC55078.1;Parent=gene-TNS_ORF360;Dbxref=NCBI_GP:AHC55078.1;Name=AHC55078.1;gbkey=CDS;locus_tag=TNS_ORF360;product=hypothetical protein;protein_id=AHC55078.1
+KF483846.1	Genbank	gene	278597	278908	.	-	.	ID=gene-TNS_ORF361;Name=TNS_ORF361;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF361
+KF483846.1	Genbank	CDS	278597	278908	.	-	0	ID=cds-AHC55079.1;Parent=gene-TNS_ORF361;Dbxref=NCBI_GP:AHC55079.1;Name=AHC55079.1;gbkey=CDS;locus_tag=TNS_ORF361;product=hypothetical protein;protein_id=AHC55079.1
+KF483846.1	Genbank	gene	278995	281412	.	+	.	ID=gene-TNS_ORF362;Name=TNS_ORF362;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF362
+KF483846.1	Genbank	CDS	278995	281412	.	+	0	ID=cds-AHC55080.1;Parent=gene-TNS_ORF362;Dbxref=NCBI_GP:AHC55080.1;Name=AHC55080.1;gbkey=CDS;locus_tag=TNS_ORF362;product=highly derived D5-like helicase-primase;protein_id=AHC55080.1
+KF483846.1	Genbank	gene	281386	281958	.	-	.	ID=gene-TNS_ORF363;Name=TNS_ORF363;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF363
+KF483846.1	Genbank	CDS	281386	281958	.	-	0	ID=cds-AHC55081.1;Parent=gene-TNS_ORF363;Dbxref=NCBI_GP:AHC55081.1;Name=AHC55081.1;gbkey=CDS;locus_tag=TNS_ORF363;product=hypothetical protein;protein_id=AHC55081.1
+KF483846.1	Genbank	gene	282586	284184	.	+	.	ID=gene-TNS_ORF364;Name=TNS_ORF364;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF364
+KF483846.1	Genbank	CDS	282586	284184	.	+	0	ID=cds-AHC55082.1;Parent=gene-TNS_ORF364;Dbxref=NCBI_GP:AHC55082.1;Name=AHC55082.1;gbkey=CDS;locus_tag=TNS_ORF364;product=hypothetical protein;protein_id=AHC55082.1
+KF483846.1	Genbank	gene	284250	284564	.	-	.	ID=gene-TNS_ORF365;Name=TNS_ORF365;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF365
+KF483846.1	Genbank	CDS	284250	284564	.	-	0	ID=cds-AHC55083.1;Parent=gene-TNS_ORF365;Dbxref=NCBI_GP:AHC55083.1;Name=AHC55083.1;gbkey=CDS;locus_tag=TNS_ORF365;product=hypothetical protein;protein_id=AHC55083.1
+KF483846.1	Genbank	gene	284651	285064	.	+	.	ID=gene-TNS_ORF366;Name=TNS_ORF366;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF366
+KF483846.1	Genbank	CDS	284651	285064	.	+	0	ID=cds-AHC55084.1;Parent=gene-TNS_ORF366;Dbxref=NCBI_GP:AHC55084.1;Name=AHC55084.1;gbkey=CDS;locus_tag=TNS_ORF366;product=hypothetical protein;protein_id=AHC55084.1
+KF483846.1	Genbank	gene	285171	285572	.	+	.	ID=gene-TNS_ORF367;Name=TNS_ORF367;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF367
+KF483846.1	Genbank	CDS	285171	285572	.	+	0	ID=cds-AHC55085.1;Parent=gene-TNS_ORF367;Dbxref=NCBI_GP:AHC55085.1;Name=AHC55085.1;gbkey=CDS;locus_tag=TNS_ORF367;product=hypothetical protein;protein_id=AHC55085.1
+KF483846.1	Genbank	gene	285757	286218	.	+	.	ID=gene-TNS_ORF368;Name=TNS_ORF368;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF368
+KF483846.1	Genbank	CDS	285757	286218	.	+	0	ID=cds-AHC55086.1;Parent=gene-TNS_ORF368;Dbxref=NCBI_GP:AHC55086.1;Name=AHC55086.1;gbkey=CDS;locus_tag=TNS_ORF368;product=hypothetical protein;protein_id=AHC55086.1
+KF483846.1	Genbank	gene	286256	286759	.	-	.	ID=gene-TNS_ORF369;Name=TNS_ORF369;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF369
+KF483846.1	Genbank	CDS	286256	286759	.	-	0	ID=cds-AHC55087.1;Parent=gene-TNS_ORF369;Dbxref=NCBI_GP:AHC55087.1;Name=AHC55087.1;gbkey=CDS;locus_tag=TNS_ORF369;product=hypothetical protein;protein_id=AHC55087.1
+KF483846.1	Genbank	gene	286761	287678	.	-	.	ID=gene-TNS_ORF370;Name=TNS_ORF370;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF370
+KF483846.1	Genbank	CDS	286761	287678	.	-	0	ID=cds-AHC55088.1;Parent=gene-TNS_ORF370;Dbxref=NCBI_GP:AHC55088.1;Name=AHC55088.1;gbkey=CDS;locus_tag=TNS_ORF370;product=hypothetical protein;protein_id=AHC55088.1
+KF483846.1	Genbank	gene	287692	288285	.	-	.	ID=gene-TNS_ORF371;Name=TNS_ORF371;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF371
+KF483846.1	Genbank	CDS	287692	288285	.	-	0	ID=cds-AHC55089.1;Parent=gene-TNS_ORF371;Dbxref=NCBI_GP:AHC55089.1;Name=AHC55089.1;gbkey=CDS;locus_tag=TNS_ORF371;product=hypothetical protein;protein_id=AHC55089.1
+KF483846.1	Genbank	gene	288316	288792	.	+	.	ID=gene-TNS_ORF372;Name=TNS_ORF372;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF372
+KF483846.1	Genbank	CDS	288316	288792	.	+	0	ID=cds-AHC55090.1;Parent=gene-TNS_ORF372;Dbxref=NCBI_GP:AHC55090.1;Name=AHC55090.1;gbkey=CDS;locus_tag=TNS_ORF372;product=hypothetical protein;protein_id=AHC55090.1
+KF483846.1	Genbank	gene	288889	289170	.	+	.	ID=gene-TNS_ORF373;Name=TNS_ORF373;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF373
+KF483846.1	Genbank	CDS	288889	289170	.	+	0	ID=cds-AHC55091.1;Parent=gene-TNS_ORF373;Dbxref=NCBI_GP:AHC55091.1;Name=AHC55091.1;gbkey=CDS;locus_tag=TNS_ORF373;product=hypothetical protein;protein_id=AHC55091.1
+KF483846.1	Genbank	gene	289245	289892	.	+	.	ID=gene-TNS_ORF374;Name=TNS_ORF374;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF374
+KF483846.1	Genbank	CDS	289245	289892	.	+	0	ID=cds-AHC55092.1;Parent=gene-TNS_ORF374;Dbxref=NCBI_GP:AHC55092.1;Name=AHC55092.1;gbkey=CDS;locus_tag=TNS_ORF374;product=hypothetical protein;protein_id=AHC55092.1
+KF483846.1	Genbank	gene	290193	290477	.	+	.	ID=gene-TNS_ORF375;Name=TNS_ORF375;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF375
+KF483846.1	Genbank	CDS	290193	290477	.	+	0	ID=cds-AHC55093.1;Parent=gene-TNS_ORF375;Dbxref=NCBI_GP:AHC55093.1;Name=AHC55093.1;gbkey=CDS;locus_tag=TNS_ORF375;product=hypothetical protein;protein_id=AHC55093.1
+KF483846.1	Genbank	gene	291527	291886	.	+	.	ID=gene-TNS_ORF376;Name=TNS_ORF376;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF376
+KF483846.1	Genbank	CDS	291527	291886	.	+	0	ID=cds-AHC55094.1;Parent=gene-TNS_ORF376;Dbxref=NCBI_GP:AHC55094.1;Name=AHC55094.1;gbkey=CDS;locus_tag=TNS_ORF376;product=hypothetical protein;protein_id=AHC55094.1
+KF483846.1	Genbank	gene	293343	293543	.	+	.	ID=gene-TNS_ORF377;Name=TNS_ORF377;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF377
+KF483846.1	Genbank	CDS	293343	293543	.	+	0	ID=cds-AHC55095.1;Parent=gene-TNS_ORF377;Dbxref=NCBI_GP:AHC55095.1;Name=AHC55095.1;gbkey=CDS;locus_tag=TNS_ORF377;product=hypothetical protein;protein_id=AHC55095.1
+KF483846.1	Genbank	gene	293565	293969	.	+	.	ID=gene-TNS_ORF378;Name=TNS_ORF378;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF378
+KF483846.1	Genbank	CDS	293565	293969	.	+	0	ID=cds-AHC55096.1;Parent=gene-TNS_ORF378;Dbxref=NCBI_GP:AHC55096.1;Name=AHC55096.1;gbkey=CDS;locus_tag=TNS_ORF378;product=hypothetical protein;protein_id=AHC55096.1
+KF483846.1	Genbank	gene	293975	294310	.	+	.	ID=gene-TNS_ORF379;Name=TNS_ORF379;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF379
+KF483846.1	Genbank	CDS	293975	294310	.	+	0	ID=cds-AHC55097.1;Parent=gene-TNS_ORF379;Dbxref=NCBI_GP:AHC55097.1;Name=AHC55097.1;gbkey=CDS;locus_tag=TNS_ORF379;product=hypothetical protein;protein_id=AHC55097.1
+KF483846.1	Genbank	gene	294316	294669	.	-	.	ID=gene-TNS_ORF380;Name=TNS_ORF380;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF380
+KF483846.1	Genbank	CDS	294316	294669	.	-	0	ID=cds-AHC55098.1;Parent=gene-TNS_ORF380;Dbxref=NCBI_GP:AHC55098.1;Name=AHC55098.1;gbkey=CDS;locus_tag=TNS_ORF380;product=hypothetical protein;protein_id=AHC55098.1
+KF483846.1	Genbank	gene	294703	295041	.	+	.	ID=gene-TNS_ORF381;Name=TNS_ORF381;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF381
+KF483846.1	Genbank	CDS	294703	295041	.	+	0	ID=cds-AHC55099.1;Parent=gene-TNS_ORF381;Dbxref=NCBI_GP:AHC55099.1;Name=AHC55099.1;gbkey=CDS;locus_tag=TNS_ORF381;product=hypothetical protein;protein_id=AHC55099.1
+KF483846.1	Genbank	gene	295072	295404	.	+	.	ID=gene-TNS_ORF382;Name=TNS_ORF382;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF382
+KF483846.1	Genbank	CDS	295072	295404	.	+	0	ID=cds-AHC55100.1;Parent=gene-TNS_ORF382;Dbxref=NCBI_GP:AHC55100.1;Name=AHC55100.1;gbkey=CDS;locus_tag=TNS_ORF382;product=hypothetical protein;protein_id=AHC55100.1
+KF483846.1	Genbank	gene	295432	295704	.	-	.	ID=gene-TNS_ORF383;Name=TNS_ORF383;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF383
+KF483846.1	Genbank	CDS	295432	295704	.	-	0	ID=cds-AHC55101.1;Parent=gene-TNS_ORF383;Dbxref=NCBI_GP:AHC55101.1;Name=AHC55101.1;gbkey=CDS;locus_tag=TNS_ORF383;product=hypothetical protein;protein_id=AHC55101.1
+KF483846.1	Genbank	gene	295760	296347	.	-	.	ID=gene-TNS_ORF384;Name=TNS_ORF384;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF384
+KF483846.1	Genbank	CDS	295760	296347	.	-	0	ID=cds-AHC55102.1;Parent=gene-TNS_ORF384;Dbxref=NCBI_GP:AHC55102.1;Name=AHC55102.1;gbkey=CDS;locus_tag=TNS_ORF384;product=hypothetical protein;protein_id=AHC55102.1
+KF483846.1	Genbank	gene	296438	297130	.	+	.	ID=gene-TNS_ORF385;Name=TNS_ORF385;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF385
+KF483846.1	Genbank	CDS	296438	297130	.	+	0	ID=cds-AHC55103.1;Parent=gene-TNS_ORF385;Dbxref=NCBI_GP:AHC55103.1;Name=AHC55103.1;gbkey=CDS;locus_tag=TNS_ORF385;product=F-box containing protein;protein_id=AHC55103.1
+KF483846.1	Genbank	gene	297235	297576	.	+	.	ID=gene-TNS_ORF386;Name=TNS_ORF386;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF386
+KF483846.1	Genbank	CDS	297235	297576	.	+	0	ID=cds-AHC55104.1;Parent=gene-TNS_ORF386;Dbxref=NCBI_GP:AHC55104.1;Name=AHC55104.1;gbkey=CDS;locus_tag=TNS_ORF386;product=hypothetical protein;protein_id=AHC55104.1
+KF483846.1	Genbank	gene	297773	298927	.	+	.	ID=gene-TNS_ORF387;Name=TNS_ORF387;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF387
+KF483846.1	Genbank	CDS	297773	298927	.	+	0	ID=cds-AHC55105.1;Parent=gene-TNS_ORF387;Dbxref=NCBI_GP:AHC55105.1;Name=AHC55105.1;gbkey=CDS;locus_tag=TNS_ORF387;product=putative chaperone of endosialidase;protein_id=AHC55105.1
+KF483846.1	Genbank	gene	298946	300112	.	+	.	ID=gene-TNS_ORF388;Name=TNS_ORF388;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF388
+KF483846.1	Genbank	CDS	298946	300112	.	+	0	ID=cds-AHC55106.1;Parent=gene-TNS_ORF388;Dbxref=NCBI_GP:AHC55106.1;Name=AHC55106.1;gbkey=CDS;locus_tag=TNS_ORF388;product=hypothetical protein;protein_id=AHC55106.1
+KF483846.1	Genbank	gene	300152	300793	.	+	.	ID=gene-TNS_ORF389;Name=TNS_ORF389;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF389
+KF483846.1	Genbank	CDS	300152	300793	.	+	0	ID=cds-AHC55107.1;Parent=gene-TNS_ORF389;Dbxref=NCBI_GP:AHC55107.1;Name=AHC55107.1;gbkey=CDS;locus_tag=TNS_ORF389;product=F-box containing protein;protein_id=AHC55107.1
+KF483846.1	Genbank	gene	300806	301204	.	+	.	ID=gene-TNS_ORF390;Name=TNS_ORF390;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF390
+KF483846.1	Genbank	CDS	300806	301204	.	+	0	ID=cds-AHC55108.1;Parent=gene-TNS_ORF390;Dbxref=NCBI_GP:AHC55108.1;Name=AHC55108.1;gbkey=CDS;locus_tag=TNS_ORF390;product=hypothetical protein;protein_id=AHC55108.1
+KF483846.1	Genbank	gene	301223	301729	.	+	.	ID=gene-TNS_ORF391;Name=TNS_ORF391;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF391
+KF483846.1	Genbank	CDS	301223	301729	.	+	0	ID=cds-AHC55109.1;Parent=gene-TNS_ORF391;Dbxref=NCBI_GP:AHC55109.1;Name=AHC55109.1;gbkey=CDS;locus_tag=TNS_ORF391;product=F-box containing protein;protein_id=AHC55109.1
+KF483846.1	Genbank	gene	301785	302465	.	+	.	ID=gene-TNS_ORF392;Name=TNS_ORF392;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF392
+KF483846.1	Genbank	CDS	301785	302465	.	+	0	ID=cds-AHC55110.1;Parent=gene-TNS_ORF392;Dbxref=NCBI_GP:AHC55110.1;Name=AHC55110.1;gbkey=CDS;locus_tag=TNS_ORF392;product=hypothetical protein;protein_id=AHC55110.1
+KF483846.1	Genbank	gene	302497	302784	.	-	.	ID=gene-TNS_ORF393;Name=TNS_ORF393;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF393
+KF483846.1	Genbank	CDS	302497	302784	.	-	0	ID=cds-AHC55111.1;Parent=gene-TNS_ORF393;Dbxref=NCBI_GP:AHC55111.1;Name=AHC55111.1;gbkey=CDS;locus_tag=TNS_ORF393;product=hypothetical protein;protein_id=AHC55111.1
+KF483846.1	Genbank	gene	302827	305832	.	-	.	ID=gene-TNS_ORF394;Name=TNS_ORF394;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF394
+KF483846.1	Genbank	CDS	302827	305832	.	-	0	ID=cds-AHC55112.1;Parent=gene-TNS_ORF394;Dbxref=NCBI_GP:AHC55112.1;Name=AHC55112.1;gbkey=CDS;locus_tag=TNS_ORF394;product=putative DNA-directed RNA polymerase subunit Rpb1;protein_id=AHC55112.1
+KF483846.1	Genbank	gene	305873	306376	.	+	.	ID=gene-TNS_ORF395;Name=TNS_ORF395;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF395
+KF483846.1	Genbank	CDS	305873	306376	.	+	0	ID=cds-AHC55113.1;Parent=gene-TNS_ORF395;Dbxref=NCBI_GP:AHC55113.1;Name=AHC55113.1;gbkey=CDS;locus_tag=TNS_ORF395;product=hypothetical protein;protein_id=AHC55113.1
+KF483846.1	Genbank	gene	306743	308197	.	-	.	ID=gene-TNS_ORF396;Name=TNS_ORF396;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF396
+KF483846.1	Genbank	CDS	306743	308197	.	-	0	ID=cds-AHC55114.1;Parent=gene-TNS_ORF396;Dbxref=NCBI_GP:AHC55114.1;Name=AHC55114.1;gbkey=CDS;locus_tag=TNS_ORF396;product=DNA-directed RNA polymerase subunit alpha;protein_id=AHC55114.1
+KF483846.1	Genbank	gene	308273	309292	.	-	.	ID=gene-TNS_ORF397;Name=TNS_ORF397;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF397
+KF483846.1	Genbank	CDS	308273	309292	.	-	0	ID=cds-AHC55115.1;Parent=gene-TNS_ORF397;Dbxref=NCBI_GP:AHC55115.1;Name=AHC55115.1;gbkey=CDS;locus_tag=TNS_ORF397;product=WD-repeat containing protein;protein_id=AHC55115.1
+KF483846.1	Genbank	gene	309379	309654	.	-	.	ID=gene-TNS_ORF398;Name=TNS_ORF398;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF398
+KF483846.1	Genbank	CDS	309379	309654	.	-	0	ID=cds-AHC55116.1;Parent=gene-TNS_ORF398;Dbxref=NCBI_GP:AHC55116.1;Name=AHC55116.1;gbkey=CDS;locus_tag=TNS_ORF398;product=hypothetical protein;protein_id=AHC55116.1
+KF483846.1	Genbank	gene	309702	310157	.	-	.	ID=gene-TNS_ORF399;Name=TNS_ORF399;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF399
+KF483846.1	Genbank	CDS	309702	310157	.	-	0	ID=cds-AHC55117.1;Parent=gene-TNS_ORF399;Dbxref=NCBI_GP:AHC55117.1;Name=AHC55117.1;gbkey=CDS;locus_tag=TNS_ORF399;product=hypothetical protein;protein_id=AHC55117.1
+KF483846.1	Genbank	gene	310824	311813	.	+	.	ID=gene-TNS_ORF400;Name=TNS_ORF400;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF400
+KF483846.1	Genbank	CDS	310824	311813	.	+	0	ID=cds-AHC55118.1;Parent=gene-TNS_ORF400;Dbxref=NCBI_GP:AHC55118.1;Name=AHC55118.1;gbkey=CDS;locus_tag=TNS_ORF400;product=hypothetical protein;protein_id=AHC55118.1
+KF483846.1	Genbank	gene	312079	312669	.	+	.	ID=gene-TNS_ORF401;Name=TNS_ORF401;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF401
+KF483846.1	Genbank	CDS	312079	312669	.	+	0	ID=cds-AHC55119.1;Parent=gene-TNS_ORF401;Dbxref=NCBI_GP:AHC55119.1;Name=AHC55119.1;gbkey=CDS;locus_tag=TNS_ORF401;product=hypothetical protein;protein_id=AHC55119.1
+KF483846.1	Genbank	gene	312650	312979	.	-	.	ID=gene-TNS_ORF402;Name=TNS_ORF402;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF402
+KF483846.1	Genbank	CDS	312650	312979	.	-	0	ID=cds-AHC55120.1;Parent=gene-TNS_ORF402;Dbxref=NCBI_GP:AHC55120.1;Name=AHC55120.1;gbkey=CDS;locus_tag=TNS_ORF402;product=hypothetical protein;protein_id=AHC55120.1
+KF483846.1	Genbank	gene	313003	313416	.	-	.	ID=gene-TNS_ORF403;Name=TNS_ORF403;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF403
+KF483846.1	Genbank	CDS	313003	313416	.	-	0	ID=cds-AHC55121.1;Parent=gene-TNS_ORF403;Dbxref=NCBI_GP:AHC55121.1;Name=AHC55121.1;gbkey=CDS;locus_tag=TNS_ORF403;product=hypothetical protein;protein_id=AHC55121.1
+KF483846.1	Genbank	gene	313659	317378	.	+	.	ID=gene-TNS_ORF404;Name=TNS_ORF404;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF404
+KF483846.1	Genbank	CDS	313659	317378	.	+	0	ID=cds-AHC55122.1;Parent=gene-TNS_ORF404;Dbxref=NCBI_GP:AHC55122.1;Name=AHC55122.1;gbkey=CDS;locus_tag=TNS_ORF404;product=DNA-directed RNA polymerase subunit 2;protein_id=AHC55122.1
+KF483846.1	Genbank	gene	317539	319416	.	+	.	ID=gene-TNS_ORF405;Name=TNS_ORF405;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF405
+KF483846.1	Genbank	CDS	317539	319416	.	+	0	ID=cds-AHC55123.1;Parent=gene-TNS_ORF405;Dbxref=NCBI_GP:AHC55123.1;Name=AHC55123.1;gbkey=CDS;locus_tag=TNS_ORF405;product=hypothetical protein;protein_id=AHC55123.1
+KF483846.1	Genbank	gene	319478	320119	.	+	.	ID=gene-TNS_ORF406;Name=TNS_ORF406;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF406
+KF483846.1	Genbank	CDS	319478	320119	.	+	0	ID=cds-AHC55124.1;Parent=gene-TNS_ORF406;Dbxref=NCBI_GP:AHC55124.1;Name=AHC55124.1;gbkey=CDS;locus_tag=TNS_ORF406;product=hypothetical protein;protein_id=AHC55124.1
+KF483846.1	Genbank	gene	319956	320288	.	-	.	ID=gene-TNS_ORF407;Name=TNS_ORF407;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF407
+KF483846.1	Genbank	CDS	319956	320288	.	-	0	ID=cds-AHC55125.1;Parent=gene-TNS_ORF407;Dbxref=NCBI_GP:AHC55125.1;Name=AHC55125.1;gbkey=CDS;locus_tag=TNS_ORF407;product=hypothetical protein;protein_id=AHC55125.1;transl_except=(pos:complement(320286..320288)%2Caa:Met)
+KF483846.1	Genbank	gene	320336	320899	.	-	.	ID=gene-TNS_ORF408;Name=TNS_ORF408;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF408
+KF483846.1	Genbank	CDS	320336	320899	.	-	0	ID=cds-AHC55126.1;Parent=gene-TNS_ORF408;Dbxref=NCBI_GP:AHC55126.1;Name=AHC55126.1;gbkey=CDS;locus_tag=TNS_ORF408;product=hypothetical protein;protein_id=AHC55126.1
+KF483846.1	Genbank	gene	320932	321474	.	-	.	ID=gene-TNS_ORF409;Name=TNS_ORF409;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF409
+KF483846.1	Genbank	CDS	320932	321474	.	-	0	ID=cds-AHC55127.1;Parent=gene-TNS_ORF409;Dbxref=NCBI_GP:AHC55127.1;Name=AHC55127.1;gbkey=CDS;locus_tag=TNS_ORF409;product=hypothetical protein;protein_id=AHC55127.1
+KF483846.1	Genbank	gene	321583	322071	.	-	.	ID=gene-TNS_ORF410;Name=TNS_ORF410;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF410
+KF483846.1	Genbank	CDS	321583	322071	.	-	0	ID=cds-AHC55128.1;Parent=gene-TNS_ORF410;Dbxref=NCBI_GP:AHC55128.1;Name=AHC55128.1;gbkey=CDS;locus_tag=TNS_ORF410;product=hypothetical protein;protein_id=AHC55128.1
+KF483846.1	Genbank	gene	322103	322363	.	-	.	ID=gene-TNS_ORF411;Name=TNS_ORF411;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF411
+KF483846.1	Genbank	CDS	322103	322363	.	-	0	ID=cds-AHC55129.1;Parent=gene-TNS_ORF411;Dbxref=NCBI_GP:AHC55129.1;Name=AHC55129.1;gbkey=CDS;locus_tag=TNS_ORF411;product=hypothetical protein;protein_id=AHC55129.1
+KF483846.1	Genbank	gene	323027	326284	.	-	.	ID=gene-TNS_ORF412;Name=TNS_ORF412;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF412
+KF483846.1	Genbank	CDS	323027	326284	.	-	0	ID=cds-AHC55130.1;Parent=gene-TNS_ORF412;Dbxref=NCBI_GP:AHC55130.1;Name=AHC55130.1;gbkey=CDS;locus_tag=TNS_ORF412;product=putative replication origin-binding protein;protein_id=AHC55130.1
+KF483846.1	Genbank	gene	326355	326618	.	+	.	ID=gene-TNS_ORF413;Name=TNS_ORF413;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF413
+KF483846.1	Genbank	CDS	326355	326618	.	+	0	ID=cds-AHC55131.1;Parent=gene-TNS_ORF413;Dbxref=NCBI_GP:AHC55131.1;Name=AHC55131.1;gbkey=CDS;locus_tag=TNS_ORF413;product=hypothetical protein;protein_id=AHC55131.1
+KF483846.1	Genbank	gene	326685	327200	.	+	.	ID=gene-TNS_ORF414;Name=TNS_ORF414;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF414
+KF483846.1	Genbank	CDS	326685	327200	.	+	0	ID=cds-AHC55132.1;Parent=gene-TNS_ORF414;Dbxref=NCBI_GP:AHC55132.1;Name=AHC55132.1;gbkey=CDS;locus_tag=TNS_ORF414;product=hypothetical protein;protein_id=AHC55132.1
+KF483846.1	Genbank	gene	327795	328490	.	-	.	ID=gene-TNS_ORF415;Name=TNS_ORF415;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF415
+KF483846.1	Genbank	CDS	327795	328490	.	-	0	ID=cds-AHC55133.1;Parent=gene-TNS_ORF415;Dbxref=NCBI_GP:AHC55133.1;Name=AHC55133.1;gbkey=CDS;locus_tag=TNS_ORF415;product=hypothetical protein;protein_id=AHC55133.1
+KF483846.1	Genbank	gene	328541	328969	.	+	.	ID=gene-TNS_ORF416;Name=TNS_ORF416;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF416
+KF483846.1	Genbank	CDS	328541	328969	.	+	0	ID=cds-AHC55134.1;Parent=gene-TNS_ORF416;Dbxref=NCBI_GP:AHC55134.1;Name=AHC55134.1;gbkey=CDS;locus_tag=TNS_ORF416;product=hypothetical protein;protein_id=AHC55134.1
+KF483846.1	Genbank	gene	329006	329905	.	+	.	ID=gene-TNS_ORF417;Name=TNS_ORF417;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF417
+KF483846.1	Genbank	CDS	329006	329905	.	+	0	ID=cds-AHC55135.1;Parent=gene-TNS_ORF417;Dbxref=NCBI_GP:AHC55135.1;Name=AHC55135.1;gbkey=CDS;locus_tag=TNS_ORF417;product=hypothetical protein;protein_id=AHC55135.1
+KF483846.1	Genbank	gene	329947	330369	.	+	.	ID=gene-TNS_ORF418;Name=TNS_ORF418;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF418
+KF483846.1	Genbank	CDS	329947	330369	.	+	0	ID=cds-AHC55136.1;Parent=gene-TNS_ORF418;Dbxref=NCBI_GP:AHC55136.1;Name=AHC55136.1;gbkey=CDS;locus_tag=TNS_ORF418;product=hypothetical protein;protein_id=AHC55136.1
+KF483846.1	Genbank	gene	330419	330994	.	-	.	ID=gene-TNS_ORF419;Name=TNS_ORF419;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF419
+KF483846.1	Genbank	CDS	330419	330994	.	-	0	ID=cds-AHC55137.1;Parent=gene-TNS_ORF419;Dbxref=NCBI_GP:AHC55137.1;Name=AHC55137.1;gbkey=CDS;locus_tag=TNS_ORF419;product=hypothetical protein;protein_id=AHC55137.1
+KF483846.1	Genbank	gene	331215	331793	.	-	.	ID=gene-TNS_ORF420;Name=TNS_ORF420;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF420
+KF483846.1	Genbank	CDS	331215	331793	.	-	0	ID=cds-AHC55138.1;Parent=gene-TNS_ORF420;Dbxref=NCBI_GP:AHC55138.1;Name=AHC55138.1;gbkey=CDS;locus_tag=TNS_ORF420;product=hypothetical protein;protein_id=AHC55138.1
+KF483846.1	Genbank	gene	331849	332169	.	-	.	ID=gene-TNS_ORF421;Name=TNS_ORF421;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF421
+KF483846.1	Genbank	CDS	331849	332169	.	-	0	ID=cds-AHC55139.1;Parent=gene-TNS_ORF421;Dbxref=NCBI_GP:AHC55139.1;Name=AHC55139.1;gbkey=CDS;locus_tag=TNS_ORF421;product=hypothetical protein;protein_id=AHC55139.1
+KF483846.1	Genbank	gene	332184	332858	.	+	.	ID=gene-TNS_ORF422;Name=TNS_ORF422;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF422
+KF483846.1	Genbank	CDS	332184	332858	.	+	0	ID=cds-AHC55140.1;Parent=gene-TNS_ORF422;Dbxref=NCBI_GP:AHC55140.1;Name=AHC55140.1;gbkey=CDS;locus_tag=TNS_ORF422;product=hypothetical protein;protein_id=AHC55140.1
+KF483846.1	Genbank	gene	332890	334002	.	+	.	ID=gene-TNS_ORF423;Name=TNS_ORF423;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF423
+KF483846.1	Genbank	CDS	332890	334002	.	+	0	ID=cds-AHC55141.1;Parent=gene-TNS_ORF423;Dbxref=NCBI_GP:AHC55141.1;Name=AHC55141.1;gbkey=CDS;locus_tag=TNS_ORF423;product=putative ATPase;protein_id=AHC55141.1
+KF483846.1	Genbank	gene	333983	335215	.	+	.	ID=gene-TNS_ORF424;Name=TNS_ORF424;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF424
+KF483846.1	Genbank	CDS	333983	335215	.	+	0	ID=cds-AHC55142.1;Parent=gene-TNS_ORF424;Dbxref=NCBI_GP:AHC55142.1;Name=AHC55142.1;gbkey=CDS;locus_tag=TNS_ORF424;product=putative ATPase;protein_id=AHC55142.1
+KF483846.1	Genbank	gene	335242	335760	.	+	.	ID=gene-TNS_ORF425;Name=TNS_ORF425;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF425
+KF483846.1	Genbank	CDS	335242	335760	.	+	0	ID=cds-AHC55143.1;Parent=gene-TNS_ORF425;Dbxref=NCBI_GP:AHC55143.1;Name=AHC55143.1;gbkey=CDS;locus_tag=TNS_ORF425;product=hypothetical protein;protein_id=AHC55143.1
+KF483846.1	Genbank	gene	335901	336686	.	+	.	ID=gene-TNS_ORF426;Name=TNS_ORF426;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF426
+KF483846.1	Genbank	CDS	335901	336686	.	+	0	ID=cds-AHC55144.1;Parent=gene-TNS_ORF426;Dbxref=NCBI_GP:AHC55144.1;Name=AHC55144.1;gbkey=CDS;locus_tag=TNS_ORF426;product=hypothetical protein;protein_id=AHC55144.1
+KF483846.1	Genbank	gene	336701	337897	.	-	.	ID=gene-TNS_ORF427;Name=TNS_ORF427;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF427
+KF483846.1	Genbank	CDS	336701	337897	.	-	0	ID=cds-AHC55145.1;Parent=gene-TNS_ORF427;Dbxref=NCBI_GP:AHC55145.1;Name=AHC55145.1;gbkey=CDS;locus_tag=TNS_ORF427;product=hypothetical protein;protein_id=AHC55145.1
+KF483846.1	Genbank	gene	337959	338405	.	-	.	ID=gene-TNS_ORF428;Name=TNS_ORF428;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF428
+KF483846.1	Genbank	CDS	337959	338405	.	-	0	ID=cds-AHC55146.1;Parent=gene-TNS_ORF428;Dbxref=NCBI_GP:AHC55146.1;Name=AHC55146.1;gbkey=CDS;locus_tag=TNS_ORF428;product=hypothetical protein;protein_id=AHC55146.1
+KF483846.1	Genbank	gene	338418	339785	.	-	.	ID=gene-TNS_ORF429;Name=TNS_ORF429;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF429
+KF483846.1	Genbank	CDS	338418	339785	.	-	0	ID=cds-AHC55147.1;Parent=gene-TNS_ORF429;Dbxref=NCBI_GP:AHC55147.1;Name=AHC55147.1;gbkey=CDS;locus_tag=TNS_ORF429;product=putative amine oxidase;protein_id=AHC55147.1
+KF483846.1	Genbank	gene	339804	340811	.	-	.	ID=gene-TNS_ORF430;Name=TNS_ORF430;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF430
+KF483846.1	Genbank	CDS	339804	340811	.	-	0	ID=cds-AHC55148.1;Parent=gene-TNS_ORF430;Dbxref=NCBI_GP:AHC55148.1;Name=AHC55148.1;gbkey=CDS;locus_tag=TNS_ORF430;product=serine/threonine protein kinase;protein_id=AHC55148.1
+KF483846.1	Genbank	gene	340872	341303	.	-	.	ID=gene-TNS_ORF431;Name=TNS_ORF431;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF431
+KF483846.1	Genbank	CDS	340872	341303	.	-	0	ID=cds-AHC55149.1;Parent=gene-TNS_ORF431;Dbxref=NCBI_GP:AHC55149.1;Name=AHC55149.1;gbkey=CDS;locus_tag=TNS_ORF431;product=hypothetical protein;protein_id=AHC55149.1
+KF483846.1	Genbank	gene	341309	341587	.	+	.	ID=gene-TNS_ORF432;Name=TNS_ORF432;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF432
+KF483846.1	Genbank	CDS	341309	341587	.	+	0	ID=cds-AHC55150.1;Parent=gene-TNS_ORF432;Dbxref=NCBI_GP:AHC55150.1;Name=AHC55150.1;gbkey=CDS;locus_tag=TNS_ORF432;product=hypothetical protein;protein_id=AHC55150.1
+KF483846.1	Genbank	gene	341584	341799	.	+	.	ID=gene-TNS_ORF433;Name=TNS_ORF433;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF433
+KF483846.1	Genbank	CDS	341584	341799	.	+	0	ID=cds-AHC55151.1;Parent=gene-TNS_ORF433;Dbxref=NCBI_GP:AHC55151.1;Name=AHC55151.1;gbkey=CDS;locus_tag=TNS_ORF433;product=hypothetical protein;protein_id=AHC55151.1
+KF483846.1	Genbank	gene	341807	342097	.	-	.	ID=gene-TNS_ORF434;Name=TNS_ORF434;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF434
+KF483846.1	Genbank	CDS	341807	342097	.	-	0	ID=cds-AHC55152.1;Parent=gene-TNS_ORF434;Dbxref=NCBI_GP:AHC55152.1;Name=AHC55152.1;gbkey=CDS;locus_tag=TNS_ORF434;product=hypothetical protein;protein_id=AHC55152.1
+KF483846.1	Genbank	gene	342128	342652	.	-	.	ID=gene-TNS_ORF435;Name=TNS_ORF435;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF435
+KF483846.1	Genbank	CDS	342128	342652	.	-	0	ID=cds-AHC55153.1;Parent=gene-TNS_ORF435;Dbxref=NCBI_GP:AHC55153.1;Name=AHC55153.1;gbkey=CDS;locus_tag=TNS_ORF435;product=hypothetical protein;protein_id=AHC55153.1
+KF483846.1	Genbank	gene	342705	342950	.	+	.	ID=gene-TNS_ORF436;Name=TNS_ORF436;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF436
+KF483846.1	Genbank	CDS	342705	342950	.	+	0	ID=cds-AHC55154.1;Parent=gene-TNS_ORF436;Dbxref=NCBI_GP:AHC55154.1;Name=AHC55154.1;gbkey=CDS;locus_tag=TNS_ORF436;product=putative nucleoside deaminase;protein_id=AHC55154.1
+KF483846.1	Genbank	gene	343115	343564	.	-	.	ID=gene-TNS_ORF437;Name=TNS_ORF437;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF437
+KF483846.1	Genbank	CDS	343115	343564	.	-	0	ID=cds-AHC55155.1;Parent=gene-TNS_ORF437;Dbxref=NCBI_GP:AHC55155.1;Name=AHC55155.1;gbkey=CDS;locus_tag=TNS_ORF437;product=hypothetical protein;protein_id=AHC55155.1
+KF483846.1	Genbank	gene	343587	344111	.	-	.	ID=gene-TNS_ORF438;Name=TNS_ORF438;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF438
+KF483846.1	Genbank	CDS	343587	344111	.	-	0	ID=cds-AHC55156.1;Parent=gene-TNS_ORF438;Dbxref=NCBI_GP:AHC55156.1;Name=AHC55156.1;gbkey=CDS;locus_tag=TNS_ORF438;product=hypothetical protein;protein_id=AHC55156.1
+KF483846.1	Genbank	gene	344819	345331	.	+	.	ID=gene-TNS_ORF439;Name=TNS_ORF439;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF439
+KF483846.1	Genbank	CDS	344819	345331	.	+	0	ID=cds-AHC55157.1;Parent=gene-TNS_ORF439;Dbxref=NCBI_GP:AHC55157.1;Name=AHC55157.1;gbkey=CDS;locus_tag=TNS_ORF439;product=hypothetical protein;protein_id=AHC55157.1
+KF483846.1	Genbank	gene	345309	345872	.	-	.	ID=gene-TNS_ORF440;Name=TNS_ORF440;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF440
+KF483846.1	Genbank	CDS	345309	345872	.	-	0	ID=cds-AHC55158.1;Parent=gene-TNS_ORF440;Dbxref=NCBI_GP:AHC55158.1;Name=AHC55158.1;gbkey=CDS;locus_tag=TNS_ORF440;product=hypothetical protein;protein_id=AHC55158.1
+KF483846.1	Genbank	gene	345885	346427	.	-	.	ID=gene-TNS_ORF441;Name=TNS_ORF441;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF441
+KF483846.1	Genbank	CDS	345885	346427	.	-	0	ID=cds-AHC55159.1;Parent=gene-TNS_ORF441;Dbxref=NCBI_GP:AHC55159.1;Name=AHC55159.1;gbkey=CDS;locus_tag=TNS_ORF441;product=putative membrane protein;protein_id=AHC55159.1
+KF483846.1	Genbank	gene	346538	347725	.	+	.	ID=gene-TNS_ORF442;Name=TNS_ORF442;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF442
+KF483846.1	Genbank	CDS	346538	347725	.	+	0	ID=cds-AHC55160.1;Parent=gene-TNS_ORF442;Dbxref=NCBI_GP:AHC55160.1;Name=AHC55160.1;gbkey=CDS;locus_tag=TNS_ORF442;product=putative autotransporter adhesin;protein_id=AHC55160.1
+KF483846.1	Genbank	gene	347756	348643	.	+	.	ID=gene-TNS_ORF443;Name=TNS_ORF443;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF443
+KF483846.1	Genbank	CDS	347756	348643	.	+	0	ID=cds-AHC55161.1;Parent=gene-TNS_ORF443;Dbxref=NCBI_GP:AHC55161.1;Name=AHC55161.1;gbkey=CDS;locus_tag=TNS_ORF443;product=hypothetical protein;protein_id=AHC55161.1
+KF483846.1	Genbank	gene	348648	348887	.	+	.	ID=gene-TNS_ORF444;Name=TNS_ORF444;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF444
+KF483846.1	Genbank	CDS	348648	348887	.	+	0	ID=cds-AHC55162.1;Parent=gene-TNS_ORF444;Dbxref=NCBI_GP:AHC55162.1;Name=AHC55162.1;gbkey=CDS;locus_tag=TNS_ORF444;product=hypothetical protein;protein_id=AHC55162.1
+KF483846.1	Genbank	gene	348915	349358	.	+	.	ID=gene-TNS_ORF445;Name=TNS_ORF445;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF445
+KF483846.1	Genbank	CDS	348915	349358	.	+	0	ID=cds-AHC55163.1;Parent=gene-TNS_ORF445;Dbxref=NCBI_GP:AHC55163.1;Name=AHC55163.1;gbkey=CDS;locus_tag=TNS_ORF445;product=hypothetical protein;protein_id=AHC55163.1
+KF483846.1	Genbank	gene	349355	350638	.	+	.	ID=gene-TNS_ORF446;Name=TNS_ORF446;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF446
+KF483846.1	Genbank	CDS	349355	350638	.	+	0	ID=cds-AHC55164.1;Parent=gene-TNS_ORF446;Dbxref=NCBI_GP:AHC55164.1;Name=AHC55164.1;gbkey=CDS;locus_tag=TNS_ORF446;product=ATP-dependent DNA ligase;protein_id=AHC55164.1
+KF483846.1	Genbank	gene	350929	351489	.	+	.	ID=gene-TNS_ORF447;Name=TNS_ORF447;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF447
+KF483846.1	Genbank	CDS	350929	351489	.	+	0	ID=cds-AHC55165.1;Parent=gene-TNS_ORF447;Dbxref=NCBI_GP:AHC55165.1;Name=AHC55165.1;gbkey=CDS;locus_tag=TNS_ORF447;product=ankyrin repeat containing protein;protein_id=AHC55165.1
+KF483846.1	Genbank	gene	351516	351959	.	+	.	ID=gene-TNS_ORF448;Name=TNS_ORF448;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF448
+KF483846.1	Genbank	CDS	351516	351959	.	+	0	ID=cds-AHC55166.1;Parent=gene-TNS_ORF448;Dbxref=NCBI_GP:AHC55166.1;Name=AHC55166.1;gbkey=CDS;locus_tag=TNS_ORF448;product=hypothetical protein;protein_id=AHC55166.1
+KF483846.1	Genbank	gene	351969	352322	.	-	.	ID=gene-TNS_ORF449;Name=TNS_ORF449;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF449
+KF483846.1	Genbank	CDS	351969	352322	.	-	0	ID=cds-AHC55167.1;Parent=gene-TNS_ORF449;Dbxref=NCBI_GP:AHC55167.1;Name=AHC55167.1;gbkey=CDS;locus_tag=TNS_ORF449;product=putative secreted protein;protein_id=AHC55167.1
+KF483846.1	Genbank	gene	352331	352801	.	+	.	ID=gene-TNS_ORF450;Name=TNS_ORF450;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF450
+KF483846.1	Genbank	CDS	352331	352801	.	+	0	ID=cds-AHC55168.1;Parent=gene-TNS_ORF450;Dbxref=NCBI_GP:AHC55168.1;Name=AHC55168.1;gbkey=CDS;locus_tag=TNS_ORF450;product=hypothetical protein;protein_id=AHC55168.1
+KF483846.1	Genbank	gene	352838	353845	.	+	.	ID=gene-TNS_ORF451;Name=TNS_ORF451;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF451
+KF483846.1	Genbank	CDS	352838	353845	.	+	0	ID=cds-AHC55169.1;Parent=gene-TNS_ORF451;Dbxref=NCBI_GP:AHC55169.1;Name=AHC55169.1;gbkey=CDS;locus_tag=TNS_ORF451;product=putative glycosyltransferase;protein_id=AHC55169.1
+KF483846.1	Genbank	gene	354095	354568	.	-	.	ID=gene-TNS_ORF452;Name=TNS_ORF452;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF452
+KF483846.1	Genbank	CDS	354095	354568	.	-	0	ID=cds-AHC55170.1;Parent=gene-TNS_ORF452;Dbxref=NCBI_GP:AHC55170.1;Name=AHC55170.1;gbkey=CDS;locus_tag=TNS_ORF452;product=hypothetical protein;protein_id=AHC55170.1
+KF483846.1	Genbank	gene	354602	355114	.	-	.	ID=gene-TNS_ORF453;Name=TNS_ORF453;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF453
+KF483846.1	Genbank	CDS	354602	355114	.	-	0	ID=cds-AHC55171.1;Parent=gene-TNS_ORF453;Dbxref=NCBI_GP:AHC55171.1;Name=AHC55171.1;gbkey=CDS;locus_tag=TNS_ORF453;product=hypothetical protein;protein_id=AHC55171.1
+KF483846.1	Genbank	gene	355140	355808	.	+	.	ID=gene-TNS_ORF454;Name=TNS_ORF454;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF454
+KF483846.1	Genbank	CDS	355140	355808	.	+	0	ID=cds-AHC55172.1;Parent=gene-TNS_ORF454;Dbxref=NCBI_GP:AHC55172.1;Name=AHC55172.1;gbkey=CDS;locus_tag=TNS_ORF454;product=MORN repeat containing protein;protein_id=AHC55172.1
+KF483846.1	Genbank	gene	355810	356097	.	+	.	ID=gene-TNS_ORF455;Name=TNS_ORF455;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF455
+KF483846.1	Genbank	CDS	355810	356097	.	+	0	ID=cds-AHC55173.1;Parent=gene-TNS_ORF455;Dbxref=NCBI_GP:AHC55173.1;Name=AHC55173.1;gbkey=CDS;locus_tag=TNS_ORF455;product=hypothetical protein;protein_id=AHC55173.1
+KF483846.1	Genbank	gene	356365	356886	.	+	.	ID=gene-TNS_ORF456;Name=TNS_ORF456;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF456
+KF483846.1	Genbank	CDS	356365	356886	.	+	0	ID=cds-AHC55174.1;Parent=gene-TNS_ORF456;Dbxref=NCBI_GP:AHC55174.1;Name=AHC55174.1;gbkey=CDS;locus_tag=TNS_ORF456;product=hypothetical protein;protein_id=AHC55174.1
+KF483846.1	Genbank	gene	356937	357299	.	+	.	ID=gene-TNS_ORF457;Name=TNS_ORF457;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF457
+KF483846.1	Genbank	CDS	356937	357299	.	+	0	ID=cds-AHC55175.1;Parent=gene-TNS_ORF457;Dbxref=NCBI_GP:AHC55175.1;Name=AHC55175.1;gbkey=CDS;locus_tag=TNS_ORF457;product=hypothetical protein;protein_id=AHC55175.1
+KF483846.1	Genbank	gene	357319	357864	.	-	.	ID=gene-TNS_ORF458;Name=TNS_ORF458;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF458
+KF483846.1	Genbank	CDS	357319	357864	.	-	0	ID=cds-AHC55176.1;Parent=gene-TNS_ORF458;Dbxref=NCBI_GP:AHC55176.1;Name=AHC55176.1;gbkey=CDS;locus_tag=TNS_ORF458;product=deoxyuridine 5'-triphosphate nucleotidohydrolase;protein_id=AHC55176.1
+KF483846.1	Genbank	gene	357918	358184	.	+	.	ID=gene-TNS_ORF459;Name=TNS_ORF459;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF459
+KF483846.1	Genbank	CDS	357918	358184	.	+	0	ID=cds-AHC55177.1;Parent=gene-TNS_ORF459;Dbxref=NCBI_GP:AHC55177.1;Name=AHC55177.1;gbkey=CDS;locus_tag=TNS_ORF459;product=hypothetical protein;protein_id=AHC55177.1
+KF483846.1	Genbank	gene	358808	359212	.	-	.	ID=gene-TNS_ORF460;Name=TNS_ORF460;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF460
+KF483846.1	Genbank	CDS	358808	359212	.	-	0	ID=cds-AHC55178.1;Parent=gene-TNS_ORF460;Dbxref=NCBI_GP:AHC55178.1;Name=AHC55178.1;gbkey=CDS;locus_tag=TNS_ORF460;product=hypothetical protein;protein_id=AHC55178.1
+KF483846.1	Genbank	gene	359243	360565	.	-	.	ID=gene-TNS_ORF461;Name=TNS_ORF461;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF461
+KF483846.1	Genbank	CDS	359243	360565	.	-	0	ID=cds-AHC55179.1;Parent=gene-TNS_ORF461;Dbxref=NCBI_GP:AHC55179.1;Name=AHC55179.1;gbkey=CDS;locus_tag=TNS_ORF461;product=zinc finger protein;protein_id=AHC55179.1
+KF483846.1	Genbank	gene	360613	360933	.	+	.	ID=gene-TNS_ORF462;Name=TNS_ORF462;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF462
+KF483846.1	Genbank	CDS	360613	360933	.	+	0	ID=cds-AHC55180.1;Parent=gene-TNS_ORF462;Dbxref=NCBI_GP:AHC55180.1;Name=AHC55180.1;gbkey=CDS;locus_tag=TNS_ORF462;product=hypothetical protein;protein_id=AHC55180.1
+KF483846.1	Genbank	gene	360901	361338	.	-	.	ID=gene-TNS_ORF463;Name=TNS_ORF463;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF463
+KF483846.1	Genbank	CDS	360901	361338	.	-	0	ID=cds-AHC55181.1;Parent=gene-TNS_ORF463;Dbxref=NCBI_GP:AHC55181.1;Name=AHC55181.1;gbkey=CDS;locus_tag=TNS_ORF463;product=hypothetical protein;protein_id=AHC55181.1
+KF483846.1	Genbank	gene	361292	362149	.	-	.	ID=gene-TNS_ORF464;Name=TNS_ORF464;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF464
+KF483846.1	Genbank	CDS	361292	362149	.	-	0	ID=cds-AHC55182.1;Parent=gene-TNS_ORF464;Dbxref=NCBI_GP:AHC55182.1;Name=AHC55182.1;gbkey=CDS;locus_tag=TNS_ORF464;product=hypothetical protein;protein_id=AHC55182.1
+KF483846.1	Genbank	gene	362235	362909	.	+	.	ID=gene-TNS_ORF465;Name=TNS_ORF465;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF465
+KF483846.1	Genbank	CDS	362235	362909	.	+	0	ID=cds-AHC55183.1;Parent=gene-TNS_ORF465;Dbxref=NCBI_GP:AHC55183.1;Name=AHC55183.1;gbkey=CDS;locus_tag=TNS_ORF465;product=hypothetical protein;protein_id=AHC55183.1
+KF483846.1	Genbank	gene	362928	363542	.	-	.	ID=gene-TNS_ORF466;Name=TNS_ORF466;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF466
+KF483846.1	Genbank	CDS	362928	363542	.	-	0	ID=cds-AHC55184.1;Parent=gene-TNS_ORF466;Dbxref=NCBI_GP:AHC55184.1;Name=AHC55184.1;gbkey=CDS;locus_tag=TNS_ORF466;product=metal-dependent phosphohydrolase;protein_id=AHC55184.1
+KF483846.1	Genbank	gene	363591	368546	.	-	.	ID=gene-TNS_ORF467;Name=TNS_ORF467;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF467
+KF483846.1	Genbank	CDS	363591	368546	.	-	0	ID=cds-AHC55185.1;Parent=gene-TNS_ORF467;Dbxref=NCBI_GP:AHC55185.1;Name=AHC55185.1;gbkey=CDS;locus_tag=TNS_ORF467;product=putative protein tyrosin kinase;protein_id=AHC55185.1
+KF483846.1	Genbank	gene	368533	369279	.	+	.	ID=gene-TNS_ORF468;Name=TNS_ORF468;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF468
+KF483846.1	Genbank	CDS	368533	369279	.	+	0	ID=cds-AHC55186.1;Parent=gene-TNS_ORF468;Dbxref=NCBI_GP:AHC55186.1;Name=AHC55186.1;gbkey=CDS;locus_tag=TNS_ORF468;product=hypothetical protein;protein_id=AHC55186.1
+KF483846.1	Genbank	gene	369302	369721	.	-	.	ID=gene-TNS_ORF469;Name=TNS_ORF469;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF469
+KF483846.1	Genbank	CDS	369302	369721	.	-	0	ID=cds-AHC55187.1;Parent=gene-TNS_ORF469;Dbxref=NCBI_GP:AHC55187.1;Name=AHC55187.1;gbkey=CDS;locus_tag=TNS_ORF469;product=hypothetical protein;protein_id=AHC55187.1
+KF483846.1	Genbank	gene	370170	370547	.	+	.	ID=gene-TNS_ORF470;Name=TNS_ORF470;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF470
+KF483846.1	Genbank	CDS	370170	370547	.	+	0	ID=cds-AHC55188.1;Parent=gene-TNS_ORF470;Dbxref=NCBI_GP:AHC55188.1;Name=AHC55188.1;gbkey=CDS;locus_tag=TNS_ORF470;product=hypothetical protein;protein_id=AHC55188.1
+KF483846.1	Genbank	gene	370561	371007	.	+	.	ID=gene-TNS_ORF471;Name=TNS_ORF471;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF471
+KF483846.1	Genbank	CDS	370561	371007	.	+	0	ID=cds-AHC55189.1;Parent=gene-TNS_ORF471;Dbxref=NCBI_GP:AHC55189.1;Name=AHC55189.1;gbkey=CDS;locus_tag=TNS_ORF471;product=hypothetical protein;protein_id=AHC55189.1
+KF483846.1	Genbank	gene	371068	371514	.	+	.	ID=gene-TNS_ORF472;Name=TNS_ORF472;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF472
+KF483846.1	Genbank	CDS	371068	371514	.	+	0	ID=cds-AHC55190.1;Parent=gene-TNS_ORF472;Dbxref=NCBI_GP:AHC55190.1;Name=AHC55190.1;gbkey=CDS;locus_tag=TNS_ORF472;product=hypothetical protein;protein_id=AHC55190.1
+KF483846.1	Genbank	gene	371582	372073	.	+	.	ID=gene-TNS_ORF473;Name=TNS_ORF473;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF473
+KF483846.1	Genbank	CDS	371582	372073	.	+	0	ID=cds-AHC55191.1;Parent=gene-TNS_ORF473;Dbxref=NCBI_GP:AHC55191.1;Name=AHC55191.1;gbkey=CDS;locus_tag=TNS_ORF473;product=hypothetical protein;protein_id=AHC55191.1
+KF483846.1	Genbank	gene	372024	372560	.	+	.	ID=gene-TNS_ORF474;Name=TNS_ORF474;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF474
+KF483846.1	Genbank	CDS	372024	372560	.	+	0	ID=cds-AHC55192.1;Parent=gene-TNS_ORF474;Dbxref=NCBI_GP:AHC55192.1;Name=AHC55192.1;gbkey=CDS;locus_tag=TNS_ORF474;product=hypothetical protein;protein_id=AHC55192.1
+KF483846.1	Genbank	gene	372576	373397	.	+	.	ID=gene-TNS_ORF475;Name=TNS_ORF475;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF475
+KF483846.1	Genbank	CDS	372576	373397	.	+	0	ID=cds-AHC55193.1;Parent=gene-TNS_ORF475;Dbxref=NCBI_GP:AHC55193.1;Name=AHC55193.1;gbkey=CDS;locus_tag=TNS_ORF475;product=hypothetical protein;protein_id=AHC55193.1
+KF483846.1	Genbank	gene	373379	373756	.	-	.	ID=gene-TNS_ORF476;Name=TNS_ORF476;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF476
+KF483846.1	Genbank	CDS	373379	373756	.	-	0	ID=cds-AHC55194.1;Parent=gene-TNS_ORF476;Dbxref=NCBI_GP:AHC55194.1;Name=AHC55194.1;gbkey=CDS;locus_tag=TNS_ORF476;product=hypothetical protein;protein_id=AHC55194.1
+KF483846.1	Genbank	gene	373808	374272	.	+	.	ID=gene-TNS_ORF477;Name=TNS_ORF477;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF477
+KF483846.1	Genbank	CDS	373808	374272	.	+	0	ID=cds-AHC55195.1;Parent=gene-TNS_ORF477;Dbxref=NCBI_GP:AHC55195.1;Name=AHC55195.1;gbkey=CDS;locus_tag=TNS_ORF477;product=hypothetical protein;protein_id=AHC55195.1
+KF483846.1	Genbank	gene	374361	375512	.	+	.	ID=gene-TNS_ORF478;Name=TNS_ORF478;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF478
+KF483846.1	Genbank	CDS	374361	375512	.	+	0	ID=cds-AHC55196.1;Parent=gene-TNS_ORF478;Dbxref=NCBI_GP:AHC55196.1;Name=AHC55196.1;gbkey=CDS;locus_tag=TNS_ORF478;product=hypothetical protein;protein_id=AHC55196.1
+KF483846.1	Genbank	gene	375546	376691	.	+	.	ID=gene-TNS_ORF479;Name=TNS_ORF479;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF479
+KF483846.1	Genbank	CDS	375546	376691	.	+	0	ID=cds-AHC55197.1;Parent=gene-TNS_ORF479;Dbxref=NCBI_GP:AHC55197.1;Name=AHC55197.1;gbkey=CDS;locus_tag=TNS_ORF479;product=hypothetical protein;protein_id=AHC55197.1
+KF483846.1	Genbank	gene	376814	377212	.	+	.	ID=gene-TNS_ORF480;Name=TNS_ORF480;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF480
+KF483846.1	Genbank	CDS	376814	377212	.	+	0	ID=cds-AHC55198.1;Parent=gene-TNS_ORF480;Dbxref=NCBI_GP:AHC55198.1;Name=AHC55198.1;gbkey=CDS;locus_tag=TNS_ORF480;product=hypothetical protein;protein_id=AHC55198.1
+KF483846.1	Genbank	gene	377264	377950	.	+	.	ID=gene-TNS_ORF481;Name=TNS_ORF481;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF481
+KF483846.1	Genbank	CDS	377264	377950	.	+	0	ID=cds-AHC55199.1;Parent=gene-TNS_ORF481;Dbxref=NCBI_GP:AHC55199.1;Name=AHC55199.1;gbkey=CDS;locus_tag=TNS_ORF481;product=hypothetical protein;protein_id=AHC55199.1
+KF483846.1	Genbank	gene	377967	378611	.	+	.	ID=gene-TNS_ORF482;Name=TNS_ORF482;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF482
+KF483846.1	Genbank	CDS	377967	378611	.	+	0	ID=cds-AHC55200.1;Parent=gene-TNS_ORF482;Dbxref=NCBI_GP:AHC55200.1;Name=AHC55200.1;gbkey=CDS;locus_tag=TNS_ORF482;product=hypothetical protein;protein_id=AHC55200.1
+KF483846.1	Genbank	gene	378734	379180	.	+	.	ID=gene-TNS_ORF483;Name=TNS_ORF483;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF483
+KF483846.1	Genbank	CDS	378734	379180	.	+	0	ID=cds-AHC55201.1;Parent=gene-TNS_ORF483;Dbxref=NCBI_GP:AHC55201.1;Name=AHC55201.1;gbkey=CDS;locus_tag=TNS_ORF483;product=hypothetical protein;protein_id=AHC55201.1
+KF483846.1	Genbank	gene	379260	380012	.	+	.	ID=gene-TNS_ORF484;Name=TNS_ORF484;gbkey=Gene;gene_biotype=protein_coding;locus_tag=TNS_ORF484
+KF483846.1	Genbank	CDS	379260	380012	.	+	0	ID=cds-AHC55202.1;Parent=gene-TNS_ORF484;Dbxref=NCBI_GP:AHC55202.1;Name=AHC55202.1;gbkey=CDS;locus_tag=TNS_ORF484;product=hypothetical protein;protein_id=AHC55202.1
+

@@ -1,0 +1,7 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region HG428764.1 1 382785
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1399854
+HG428764.1	EMBL	region	1	382785	.	+	.	ID=HG428764.1:1..382785;Dbxref=taxon:1399854;country=Tunisia;gbkey=Src;isolation-source=internal organs of Eristalis tenax larvae;mol_type=genomic DNA;note=scaffold00001;strain=V478
+
