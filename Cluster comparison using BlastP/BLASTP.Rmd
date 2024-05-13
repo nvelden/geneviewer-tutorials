@@ -12,6 +12,8 @@ library(knitr)
 library(geneviewer)
 library(parallel)
 library(dplyr)
+library(Biostrings)
+library(pwalign)
 
 knitr::opts_chunk$set(
   collapse = TRUE,
@@ -25,16 +27,18 @@ This tutorial describes how we can use `geneviewer` to identify and visualize ho
 
 ### Materials
 
-The .gbk files and the additional gene info can be downloaded from the [geneviewer-tutorials](https://github.com/nvelden/geneviewer-tutorials/tree/main/Cluster%20comparison%20using%20BlastP) repository. Besides the `geneviewer` package for the visualization you will need the `Biostrings` package to run the BlastP sequence alignment and optionally the `parallel` package to speed up the processing.
+The .gbk files and the additional gene info can be downloaded from the [geneviewer-tutorials](https://github.com/nvelden/geneviewer-tutorials/tree/main/Cluster%20comparison%20using%20BlastP) repository. For visualization, the `geneviewer` package is required. Sequence alignment is performed using the `Biostrings` and `pwalign` packages that can be downloaded from Bioconductor. Optionally, the `parallel` package can be utilized to increase processing times.
 
 ```{r eval=FALSE, results='hide'}
-install.packages("devtools")
-install.packages("parallel") # Optional but recommended for speeding up processing
-
 devtools::install_github("nvelden/geneviewer")
 BiocManager::install("Biostrings")
+BiocManager::install("pwalign")
+# Optional but recommended for speeding up processing
+install.packages("parallel") 
 
 library(geneviewer)
+library(Biostrings)
+library(pwalign)
 library(parallel) 
 ```
 
@@ -63,7 +67,7 @@ kable(head(genbank_df))
 
 ### Run BlastP
 
-In this tutorial, we will directly input the folder path into `the protein_blast()` function to load our data. We'll select BGC0000055 as our query cluster and conduct a BlastP analysis to find the homologous in the other clusters. We use 30 as the minimum identity threshold. Performing the BlastP analysis can take several minutes so we set parallel processing to TRUE.
+In this tutorial, we will directly input the folder path into `the protein_blast()` function to load our data. We'll select BGC0000055 as our query cluster and conduct a BlastP analysis to find the homologous in the other clusters. We use 30 as the minimum identity threshold. Performing the BlastP analysis with this dataset can take several minutes so we set parallel processing to TRUE. For smaller datasets or if the `parallel` package is not installed, set parallel processing to `FALSE`.
 
 ```{r echo=TRUE, results='hide'}
 BlastP_results <- geneviewer::protein_blast(
@@ -135,12 +139,12 @@ GC_chart(
   height = "600px"
 ) %>%
 GC_labels(label = "Gene", cluster = 1) %>% 
-GC_links(group = "BlastP",  identity = TRUE) %>%  
+GC_links(group = "BlastP",  measure = "identity") %>%  
 GC_clusterLabel() %>%
 GC_legend(TRUE)
 ```
 
-Alternatively, we could only highlight links between specific genes using the value1 and value2 options in the `GC_links()` function. See the `GC_links()` documentation for more styling and coloring options.
+Alternatively, the GC_links() function allows for highlighting connections between specific genes by utilizing the value1 and value2 parameters. To gain insights into the cluster sizes, we can adjust the axis_type to range. For additional styling and coloring options, refer to the GC_links() and `GC_scale` documentation.
 
 ```{r echo = TRUE, results='asis'}
 GC_chart(
@@ -151,8 +155,8 @@ GC_chart(
   height = "600px"
 ) %>%
 GC_labels(label = "Gene", cluster = 1) %>% 
+GC_scale(axis_type = "range") %>%
 GC_links(group = "Gene",  
-         identity = TRUE, 
          value1 = c("eryAI", "eryAII", "eryAIII"), 
          value2 = c("eryAI", "eryAII", "eryAIII"), 
          use_group_colors = TRUE
